@@ -59,7 +59,7 @@ def get_activation(act_str):
 Class Definition for MLP
 '''
 class MLP(object):
-    def __init__(self, num_layers, layer_dims, activation, drop_rate):
+    def __init__(self, model, num_layers, layer_dims, activation, drop_rate):
         '''
         num_layers: number of layers in the network (including the output layer)
         layer_dims: List of layer dimension tuples [(i1,h1), (h1,h2), (h2,h3)...]
@@ -70,12 +70,12 @@ class MLP(object):
         self.layer_dims = layer_dims
         self.activation = activation
         self.drop_rate = drop_rate
-        self.model = dy.Model()
         self.layers = create_layers(num_layers, layer_dims)
-        self.params = create_params(self.model, self.layers)
+        self.params = create_params(model, self.layers)
 
     def forward(self, input_expr):
         h_cur = input_expr
+
         # Feed forward through all but the last layer
         L = self.num_layers
         for l in range(L-1):
@@ -89,15 +89,4 @@ class MLP(object):
         # Return logistic sigmoid for binary classification for the last layer
         w_last = dy.parameter(self.params[L-1][0])
         b_last = dy.parameter(self.params[L-1][1])
-        y_pred = dy.logistic((w_last * h_cur) + b_last)
-        return y_pred
-
-
-
-
-
-
-
-
-
-
+        return (w_last * h_cur) + b_last

@@ -14,6 +14,7 @@ class BiLSTMTagger(object):
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
         self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
         self.word_lstm = dy.BiRNNBuilder(1, char_hidden_size, word_hidden_size, self.model, dy.LSTMBuilder)
+        self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,16),(16,len(self.tag_vocab))], 'sigmoid', 0.0)
 
     def read(self, filename):
         train_sents = []
@@ -35,7 +36,11 @@ class BiLSTMTagger(object):
         for sent in sents:
             word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
             contexts = self.word_lstm.transduce(word_reps)
-        pass
+            probs = dy.concatenate_to_batch([self.feedforward.forward(context) for context in contexts])     
+            cur_losses = dy.pickneglogsoftmax_batch(probs, [tag for word,tag in sent])
+            losses.append(dy.sum_batches(cur_losses)/len(sent))      
+
+        return dy.esum(losses)
 
     def train(self, epochs):
         trainer = dy.AdamTrainer(self.model)
@@ -45,12 +50,12 @@ class BiLSTMTagger(object):
             ep_loss = 0
             for i in range(0, len(self.training_data), BATCH_SIZE):
                 cur_size = min(BATCH_SIZE, len(self.training_data)-i)
-                loss = self.calculate_loss(self.training_data[i:i+cur_size])
+                loss = self.calculate_loss(self.training_data[i:i+cur_size])                
                 ep_loss += loss.scalar_value()
                 loss.backward()
                 trainer.update()
             print(ep_loss/len(self.training_data))
 
 if __name__ == '__main__':
-    b = BiLSTMTagger(2,2,2,'test.txt')
-    b.train(1)
+    b = BiLSTMTagger(16,16,16,'test.txt')
+    b.train(1000)
