@@ -14,8 +14,6 @@ class Layer(object):
 		'''
 		input_dim: Input dimension of the layer
 		output_dim: Output dimension of the layer
-		activation: Activation function used for the layer (tanh, rectify, logistic)
-		drop_rate: dropout rate if any
 		'''
 		self.input_dim = input_dim
 		self.output_dim = output_dim
@@ -39,10 +37,23 @@ Return: the updated model and the list of parameter objects
 def create_params(model, layers):
 	param_list = []
 	for l in range(len(layers)):
-		Parameter W = model.add_parameters((layer.input_dim, layer.output_dim))
-		Parameter b = model.add_parameters((layer.output_dim))
+		W = model.add_parameters((layers[l].output_dim, layers[l].input_dim))
+		b = model.add_parameters((layers[l].output_dim))
 		param_list.append((W, b))
-	return model, param_list
+	return param_list
+
+def get_activation(act_str):
+	if act_str == "tanh":
+		return dy.tanh
+	elif act_str == "rectify" or act_str == "relu":
+		return dy.rectify
+	elif act_str == "sigmoid" or act_str == "logistic":
+		return dy.logistic
+	elif act_str == "softmax":
+		return dy.softmax
+	else:
+		return dy.tanh
+
 
 '''
 Class Definition for MLP
@@ -50,7 +61,7 @@ Class Definition for MLP
 class MLP(object):
 	def __init__(self, num_layers, layer_dims, activation, drop_rate):
 		'''
-		num_layers: number of layers in the network
+		num_layers: number of layers in the network (including the output layer)
 		layer_dims: List of layer dimension tuples [(i1,h1), (h1,h2), (h2,h3)...]
 		activation: Activation function used for the layer (tanh, rectify, logistic)
 		drop_rate: dropout rate if any
@@ -61,19 +72,18 @@ class MLP(object):
 		self.drop_rate = drop_rate
 		self.model = dy.Model()
 		self.layers = create_layers(num_layers, layer_dims)
-		self.model, self.params = create_params(model, layers)
+		self.params = create_params(self.model, self.layers)
 
-	def forward(input_expr):
-		cg = dy.renew_cg()
+	def forward(self, input_expr):
 		h_cur = input_expr
-
 		# Feed forward through all but the last layer
 		L = self.num_layers
 		for l in range(L-1):
+			#dy.renew_cg()
 			w_cur = dy.parameter(self.params[l][0])
 			b_cur = dy.parameter(self.params[l][1])
-			act = self.activation
-			h_new = act((w_cur * h_cur) + b_cur)
+			f_act = get_activation(self.activation)
+			h_new = f_act((w_cur * h_cur) + b_cur)
 			h_cur = h_new
 
 		# Return logistic sigmoid for binary classification for the last layer
