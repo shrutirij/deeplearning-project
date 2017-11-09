@@ -55,10 +55,10 @@ class BiLSTMTagger(object):
         return self.tag_lookup[tag_id]
 
     def get_output(self, sents):
-        dy.renew_cg()
         tagged_sents = []
 
         for sent in sents:
+            dy.renew_cg()
             cur_tags = []
             word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
             contexts = self.word_lstm.transduce(word_reps)
