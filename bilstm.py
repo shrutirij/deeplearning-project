@@ -98,11 +98,11 @@ class BiLSTMTagger(object):
                 trainer.update()
                 num_batches += 1
 
-                if num_batches % 30 == 0:
+                if num_batches % 50 == 0:
                     print('Validation loss: %f' % self.get_loss(self.dev_data))
                     print('Validation accuracy: %f' % self.get_accuracy(self.dev_data))
                     print('Test accuracy: %f' % self.get_accuracy(self.test_data))
-            print('Training loss: %f' % self.get_loss(self.training_data))
+            print('Training loss: %f' % ep_loss)
             print('\n')
 
     def get_loss(self, sents):
