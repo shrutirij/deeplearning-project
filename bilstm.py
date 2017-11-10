@@ -19,7 +19,7 @@ class BiLSTMTagger(object):
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
         self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
         self.word_lstm = dy.BiRNNBuilder(1, char_hidden_size, word_hidden_size, self.model, dy.LSTMBuilder)
-        self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,256),(256,len(self.tag_vocab))], 'sigmoid', 0.0)
+        self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,128),(128,len(self.tag_vocab))], 'sigmoid', 0.0)
 
     def read(self, filename):
         train_sents = []
@@ -124,6 +124,6 @@ class BiLSTMTagger(object):
 
 
 if __name__ == '__main__':
-    tagger_model = BiLSTMTagger(512, 512, 512, './data/train_data_pruned.txt','./data/dev_data.txt','./data/test_data.txt')
+    tagger_model = BiLSTMTagger(128, 128, 256, './data/train_data_pruned.txt','./data/dev_data.txt','./data/test_data.txt')
     tagger_model.train(1000)
     
