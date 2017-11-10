@@ -7,4 +7,4 @@
 source ~/.bashrc
 
 # Training
-python fixed_neurons.py --dynet-gpu --dynet-mem 10000 --dynet-autobatch 1
+python "$1" --dynet-gpu --dynet-mem 10000 --dynet-autobatch 1
