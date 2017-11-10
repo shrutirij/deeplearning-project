@@ -115,7 +115,7 @@ class BiLSTMTagger(object):
         outputs = self.get_output(sents)
         corr_tags = 0.0
         total_tags = 0
-        for sent, output in zip(self.test_data, outputs):
+        for sent, output in zip(sents, outputs):
             for (chars, tag), pred_tag in zip(sent, output):
                 if tag == pred_tag:
                     corr_tags += 1

@@ -6,33 +6,35 @@ import mlp
 import random
 
 BATCH_SIZE = 32
-UNK = '$unk'
+UNK = '$unk'    # Do we still need UNK for char lstm?
 
 class BiLSTMTagger(object):
-    def __init__(self, embed_size, word_hidden_size, mlp_layer_size, training_file, dev_file, test_file):
-        self.training_data, self.word_vocab, self.tag_vocab = self.read(training_file)
+    def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_file, dev_file, test_file):
+        self.training_data, self.char_vocab, self.tag_vocab = self.read(training_file)
         self.tag_lookup = dict((v,k) for k,v in self.tag_vocab.iteritems())
         self.dev_data = self.read_unk(dev_file)
         self.test_data = self.read_unk(test_file)
 
         self.model = dy.Model()
 
-        self.word_embeds = self.model.add_lookup_parameters((len(self.word_vocab), embed_size))
+        self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
+        self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
         self.word_lstm = dy.BiRNNBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
         self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
 
     def read(self, filename):
         train_sents = []
-        word_vocab = defaultdict(lambda: len(word_vocab))
+        char_vocab = defaultdict(lambda: len(char_vocab))
         tags = defaultdict(lambda: len(tags))
 
         with codecs.open(filename, 'r', 'utf8') as fh:
             for line in fh:
                 line = line.strip().split()
                 sent = [tuple(x.rsplit("/",1)) for x in line]
-                sent = [(word_vocab[word], tags[tag]) for word, tag in sent]
+                #sent = [(word_vocab[word], tags[tag]) for word, tag in sent]
+                sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag in sent]
                 train_sents.append(sent)
-        return train_sents, word_vocab, tags
+        return train_sents, char_vocab, tags
 
     def read_unk(self, filename):
         sents = []
@@ -41,15 +43,16 @@ class BiLSTMTagger(object):
             for line in f:
                 line = line.strip().split()
                 sent = [tuple(x.rsplit("/",1)) for x in line]
-                sent = [(self.word_to_int(word), self.tag_vocab[tag]) for word, tag in sent]
+                #sent = [(self.word_to_int(word), self.tag_vocab[tag]) for word, tag in sent]
+                sent = [([self.char_to_int(c) for c in word], self.tag_vocab[tag]) for word, tag in sent]
                 sents.append(sent)
         return sents
 
-    def word_to_int(self, word):
-        if word in self.word_vocab:
-            return self.word_vocab[word]
+    def char_to_int(self, char):
+        if char in self.char_vocab:
+            return self.char_vocab[char]
         else:
-            return self.word_vocab[UNK]
+            return self.char_vocab[UNK]
 
     def lookup_tag(self, tag_id):
         return self.tag_lookup[tag_id]
@@ -60,7 +63,9 @@ class BiLSTMTagger(object):
         for sent in sents:
             dy.renew_cg()
             cur_tags = []
-            contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
+            #contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
+            word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
+            contexts = self.word_lstm.transduce(word_reps)
             for context in contexts:
                 probs = dy.softmax(self.feedforward.forward(context)).vec_value()
                 pred_tag = probs.index(max(probs))
@@ -74,7 +79,9 @@ class BiLSTMTagger(object):
         words = 0
 
         for sent in sents:
-            contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
+            #contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
+            word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
+            contexts = self.word_lstm.transduce(word_reps)
             probs = dy.concatenate_to_batch([self.feedforward.forward(context) for context in contexts])     
             cur_losses = dy.pickneglogsoftmax_batch(probs, [tag for word,tag in sent])
             losses.append(dy.sum_batches(cur_losses)) 
@@ -82,7 +89,7 @@ class BiLSTMTagger(object):
         return dy.esum(losses)
 
     def train(self, epochs):
-        trainer = dy.AdamTrainer(self.model)
+        trainer = dy.SimpleSGDTrainer(self.model)
 
         for ep in range(epochs):
             print('Epoch: %d' % ep)
@@ -102,6 +109,7 @@ class BiLSTMTagger(object):
                     print('Validation accuracy: %f' % self.get_accuracy(self.dev_data))
                     print('Test accuracy: %f' % self.get_accuracy(self.test_data))
             print('Training loss: %f' % ep_loss)
+            print('Training accuracy: %f' % self.get_accuracy(self.training_data))
             print('\n')
 
     def get_loss(self, sents):
@@ -123,8 +131,8 @@ class BiLSTMTagger(object):
 
 
 if __name__ == '__main__':
-    tagger_model = BiLSTMTagger(256, 2, 128, './data/train_data_pruned.txt','./data/dev_data.txt','./data/test_data.txt')
+    tagger_model = BiLSTMTagger(256, 256, 256, 128, './data/train_data_pruned.txt','./data/dev_data.txt','./data/test_data.txt')
     tagger_model.train(1000)
-    # tagger_model = BiLSTMTagger(16, 16, 8, './data/small_data.txt','./data/small_data.txt','./data/small_data.txt')
+    # tagger_model = BiLSTMTagger(16, 16, 16, 8, './data/small_data.txt','./data/small_data.txt','./data/small_data.txt')
     # tagger_model.train(100)
     
