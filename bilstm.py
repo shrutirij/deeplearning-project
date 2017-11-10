@@ -3,6 +3,7 @@ import dynet as dy
 import codecs
 from collections import defaultdict
 import mlp
+import random
 
 BATCH_SIZE = 32
 UNK = '$unk'
