@@ -8,7 +8,7 @@ other = {}
 
 count = 0
 
-with codecs.open('train_data.txt', 'r', 'utf8') as f:
+with codecs.open('test_data.txt', 'r', 'utf8') as f:
     for line in f:
         if '/en' in line and '/es' in line:
             cs[line.strip()] = True
@@ -22,7 +22,7 @@ with codecs.open('train_data.txt', 'r', 'utf8') as f:
 
     print count
 
-dev_count = 1020
+dev_count = 500
 
 with codecs.open('dev_data.txt', 'w', 'utf8') as out:
     for cur_lang in [en, es, cs, other]:
@@ -35,7 +35,7 @@ with codecs.open('dev_data.txt', 'w', 'utf8') as out:
                 cur_lang[to_write] = False
                 cur_count -= 1
 
-with codecs.open('train_data_pruned.txt', 'w', 'utf8') as out:
+with codecs.open('test_data_pruned.txt', 'w', 'utf8') as out:
     for cur_lang in [en, es, cs, other]:
         for k, v in cur_lang.iteritems():
             if v:

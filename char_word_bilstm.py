@@ -6,6 +6,7 @@ import mlp
 import random
 
 BATCH_SIZE = 32
+DROPOUT = 0.5
 UNK = '$unk'    # Do we still need UNK for char lstm?
 
 class BiLSTMTagger(object):
@@ -21,6 +22,10 @@ class BiLSTMTagger(object):
         self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
         self.word_lstm = dy.BiRNNBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
         self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
+        
+        if DROPOUT > 0.:
+            self.char_lstm.set_dropout(DROPOUT)
+            self.word_lstm.set_dropout(DROPOUT)
 
     def read(self, filename):
         train_sents = []
@@ -82,7 +87,11 @@ class BiLSTMTagger(object):
             #contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
             word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
             contexts = self.word_lstm.transduce(word_reps)
-            probs = dy.concatenate_to_batch([self.feedforward.forward(context) for context in contexts])     
+            probs = dy.concatenate_to_batch([self.feedforward.forward(context) for context in contexts])
+
+            if DROPOUT > 0.:
+                probs = dy.dropout_batch(probs, DROPOUT)
+
             cur_losses = dy.pickneglogsoftmax_batch(probs, [tag for word,tag in sent])
             losses.append(dy.sum_batches(cur_losses)) 
 
@@ -131,7 +140,7 @@ class BiLSTMTagger(object):
 
 
 if __name__ == '__main__':
-    tagger_model = BiLSTMTagger(256, 256, 256, 128, './data/train_data_pruned.txt','./data/dev_data.txt','./data/test_data.txt')
+    tagger_model = BiLSTMTagger(256, 256, 256, 128, './data/train_data_pruned.txt','./data/dev_data.txt','./data/test_data_pruned.txt')
     tagger_model.train(1000)
     # tagger_model = BiLSTMTagger(16, 16, 16, 8, './data/small_data.txt','./data/small_data.txt','./data/small_data.txt')
     # tagger_model.train(100)
