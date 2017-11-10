@@ -3,6 +3,7 @@ import dynet as dy
 import codecs
 from collections import defaultdict
 import mlp
+import random
 
 BATCH_SIZE = 32
 FIXED = 2
@@ -90,6 +91,7 @@ class BiLSTMTagger(object):
             print('Epoch: %d' % ep)
             ep_loss = 0
             num_batches = 0
+            random.shuffle(self.training_data)
             for i in range(0, len(self.training_data), BATCH_SIZE):
                 cur_size = min(BATCH_SIZE, len(self.training_data)-i)
                 loss = self.calculate_loss(self.training_data[i:i+cur_size])            
