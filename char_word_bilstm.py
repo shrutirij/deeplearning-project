@@ -92,7 +92,7 @@ class BiLSTMTagger(object):
             #contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
             word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
             contexts = self.word_lstm.transduce(word_reps)
-            dy.concatenate_to_batch([self.feedforward.forward(dy.concatenate([context[UPPER], context[LOWER]])) for context in contexts])
+            probs = dy.concatenate_to_batch([self.feedforward.forward(dy.concatenate([context[UPPER], context[LOWER]])) for context in contexts])
 
             if DROPOUT > 0.:
                 probs = dy.dropout_batch(probs, DROPOUT)
