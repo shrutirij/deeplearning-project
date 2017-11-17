@@ -12,7 +12,7 @@ UPPER = 0
 LOWER = -1
 UNK = '$unk'    # Do we still need UNK for char lstm?
 
-f_out = open('char_word_full.log', 'w', 0)
+f_out = open('char_word_fixedneuron.log', 'w', 0)
 
 class BiLSTMTagger(object):
     def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_file, dev_file, test_file):
@@ -26,7 +26,7 @@ class BiLSTMTagger(object):
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
         self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
         self.word_lstm = dy.BiRNNBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
-        self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
+        self.feedforward = mlp.MLP(self.model, 2, [(FIXED,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
         
         if DROPOUT > 0.:
             self.char_lstm.set_dropout(DROPOUT)
@@ -77,7 +77,7 @@ class BiLSTMTagger(object):
             word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
             contexts = self.word_lstm.transduce(word_reps)
             for context in contexts:
-                probs = dy.softmax(self.feedforward.forward(context)).vec_value()
+                probs = dy.softmax(self.feedforward.forward(dy.concatenate([context[UPPER], context[LOWER]]))).vec_value()
                 pred_tag = probs.index(max(probs))
                 cur_tags.append(pred_tag)
             tagged_sents.append(cur_tags)
@@ -92,7 +92,7 @@ class BiLSTMTagger(object):
             #contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
             word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
             contexts = self.word_lstm.transduce(word_reps)
-            probs = dy.concatenate_to_batch([self.feedforward.forward(context) for context in contexts])
+            probs = dy.concatenate_to_batch([self.feedforward.forward(dy.concatenate([context[UPPER], context[LOWER]])) for context in contexts])
 
             if DROPOUT > 0.:
                 probs = dy.dropout_batch(probs, DROPOUT)
