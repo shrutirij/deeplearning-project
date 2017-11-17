@@ -92,17 +92,16 @@ class BiLSTMTagger(object):
             num_batches = 0
             random.shuffle(self.training_data)
             for i in range(0, len(self.training_data), BATCH_SIZE):
+                if num_batches % 50 == 0:
+                    f_out.write('Validation loss: %f\n' % self.get_loss(self.dev_data))
+                    f_out.write('Validation accuracy: %f\n' % self.get_accuracy(self.dev_data))
+                    f_out.write('Test accuracy: %f\n' % self.get_accuracy(self.test_data))
                 cur_size = min(BATCH_SIZE, len(self.training_data)-i)
                 loss = self.calculate_loss(self.training_data[i:i+cur_size])            
                 ep_loss += loss.scalar_value()
                 loss.backward()
                 trainer.update()
                 num_batches += 1
-
-                if num_batches % 50 == 0:
-                    f_out.write('Validation loss: %f\n' % self.get_loss(self.dev_data))
-                    f_out.write('Validation accuracy: %f\n' % self.get_accuracy(self.dev_data))
-                    f_out.write('Test accuracy: %f\n' % self.get_accuracy(self.test_data))
             f_out.write('Training loss: %f\n' % ep_loss)
             f_out.write('\n')
 
