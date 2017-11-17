@@ -9,7 +9,7 @@ BATCH_SIZE = 32
 DROPOUT = 0.5
 UNK = '$unk'    # Do we still need UNK for char lstm?
 
-f_out = open('char_word_full.log', 'w', 0)
+f_out = open('char_word_2baseline.log', 'w', 0)
 
 class BiLSTMTagger(object):
     def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_file, dev_file, test_file):
@@ -142,7 +142,7 @@ class BiLSTMTagger(object):
 
 
 if __name__ == '__main__':
-    tagger_model = BiLSTMTagger(256, 256, 512, 256, './data/3-way/train_data.txt','./data/3-way/dev_data.txt','./data/3-way/test_data.txt')
+    tagger_model = BiLSTMTagger(256, 256, 2, 256, './data/3-way/train_data.txt','./data/3-way/dev_data.txt','./data/3-way/test_data.txt')
     tagger_model.train(1000)
     # tagger_model = BiLSTMTagger(16, 16, 16, 8, './data/small_data.txt','./data/small_data.txt','./data/small_data.txt')
     # tagger_model.train(100)
