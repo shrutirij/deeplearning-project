@@ -25,7 +25,7 @@ class BiLSTMTagger(object):
 
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
         self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
-        self.word_lstm = dy.BiRNNBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
+        self.word_lstm = dy.LSTMBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
         self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
         
         if DROPOUT > 0.:
