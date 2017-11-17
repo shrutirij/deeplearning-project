@@ -9,6 +9,8 @@ BATCH_SIZE = 32
 DROPOUT = 0.5
 UNK = '$unk'    # Do we still need UNK for char lstm?
 
+f_out = open('char_word_full.log', 'w', 0)
+
 class BiLSTMTagger(object):
     def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_file, dev_file, test_file):
         self.training_data, self.char_vocab, self.tag_vocab = self.read(training_file)
@@ -38,10 +40,9 @@ class BiLSTMTagger(object):
                 sent = [tuple(x.rsplit("/",1)) for x in line]
                 #sent = [(word_vocab[word], tags[tag]) for word, tag in sent]
                 sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag in sent]
-                train_sents.append(sent)
-        print (tags)
+                train_sents.append(sent)        
         return train_sents, char_vocab, tags
-
+    
     def read_unk(self, filename):
         sents = []
 
@@ -102,7 +103,7 @@ class BiLSTMTagger(object):
         trainer = dy.SimpleSGDTrainer(self.model)
 
         for ep in range(epochs):
-            print('Epoch: %d' % ep)
+            f_out.write('Epoch: %d\n' % ep)
             ep_loss = 0
             num_batches = 0
             random.shuffle(self.training_data)
@@ -115,12 +116,12 @@ class BiLSTMTagger(object):
                 num_batches += 1
 
                 if num_batches % 50 == 0:
-                    print('Validation loss: %f' % self.get_loss(self.dev_data))
-                    print('Validation accuracy: %f' % self.get_accuracy(self.dev_data))
-                    print('Test accuracy: %f' % self.get_accuracy(self.test_data))
-            print('Training loss: %f' % ep_loss)
-            print('Training accuracy: %f' % self.get_accuracy(self.training_data))
-            print('\n')
+                    f_out.write('Validation loss: %f\n' % self.get_loss(self.dev_data))
+                    f_out.write('Validation accuracy: %f\n' % self.get_accuracy(self.dev_data))
+                    f_out.write('Test accuracy: %f\n' % self.get_accuracy(self.test_data))
+            f_out.write('Training loss: %f\n' % ep_loss)
+            f_out.write('Training accuracy: %f\n' % self.get_accuracy(self.training_data))
+            f_out.write('\n')
 
     def get_loss(self, sents):
         val_loss = 0
