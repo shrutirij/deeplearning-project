@@ -8,6 +8,8 @@ import random
 BATCH_SIZE = 32
 UNK = '$unk'
 
+f_out = open('word_small.log', 'w', 0)
+
 class BiLSTMTagger(object):
     def __init__(self, embed_size, word_hidden_size, mlp_layer_size, training_file, dev_file, test_file):
         self.training_data, self.word_vocab, self.tag_vocab = self.read(training_file)
@@ -85,7 +87,7 @@ class BiLSTMTagger(object):
         trainer = dy.AdamTrainer(self.model)
 
         for ep in range(epochs):
-            print('Epoch: %d' % ep)
+            f_out.write('Epoch: %d\n' % ep)
             ep_loss = 0
             num_batches = 0
             random.shuffle(self.training_data)
@@ -98,11 +100,11 @@ class BiLSTMTagger(object):
                 num_batches += 1
 
                 if num_batches % 50 == 0:
-                    print('Validation loss: %f' % self.get_loss(self.dev_data))
-                    print('Validation accuracy: %f' % self.get_accuracy(self.dev_data))
-                    print('Test accuracy: %f' % self.get_accuracy(self.test_data))
-            print('Training loss: %f' % ep_loss)
-            print('\n')
+                    f_out.write('Validation loss: %f\n' % self.get_loss(self.dev_data))
+                    f_out.write('Validation accuracy: %f\n' % self.get_accuracy(self.dev_data))
+                    f_out.write('Test accuracy: %f\n' % self.get_accuracy(self.test_data))
+            f_out.write('Training loss: %f\n' % ep_loss)
+            f_out.write('\n')
 
     def get_loss(self, sents):
         val_loss = 0
@@ -123,7 +125,7 @@ class BiLSTMTagger(object):
 
 
 if __name__ == '__main__':
-    tagger_model = BiLSTMTagger(256, 2, 128, './data/train_data_pruned.txt','./data/dev_data.txt','./data/test_data.txt')
+    tagger_model = BiLSTMTagger(512, 2, 512, './data/3-way/train_data.txt','./data/3-way/dev_data.txt','./data/3-way/test_data.txt')
     tagger_model.train(1000)
     # tagger_model = BiLSTMTagger(16, 16, 8, './data/small_data.txt','./data/small_data.txt','./data/small_data.txt')
     # tagger_model.train(100)
