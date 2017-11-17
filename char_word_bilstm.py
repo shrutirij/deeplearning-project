@@ -43,7 +43,7 @@ class BiLSTMTagger(object):
                 sent = [tuple(x.rsplit("/",1)) for x in line]
                 #sent = [(word_vocab[word], tags[tag]) for word, tag in sent]
                 sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag in sent]
-                train_sents.append(sent)        
+                train_sents.append(sent)     
         return train_sents, char_vocab, tags
     
     def read_unk(self, filename):
@@ -144,7 +144,7 @@ class BiLSTMTagger(object):
 
 
 if __name__ == '__main__':
-    tagger_model = BiLSTMTagger(256, 256, 512, 256, './data/3-way/train_data.txt','./data/3-way/dev_data.txt','./data/3-way/test_data.txt')
+    tagger_model = BiLSTMTagger(256, 256, 512, 256, './data/3-way/train_all_classes_data.txt','./data/3-way/dev_all_classes_data.txt','./data/3-way/test_all_classes_data.txt')
     tagger_model.train(1000)
     # tagger_model = BiLSTMTagger(16, 16, 16, 8, './data/small_data.txt','./data/small_data.txt','./data/small_data.txt')
     # tagger_model.train(100)
