@@ -1,0 +1,23 @@
+agencies/NNS '/POS third-quarter/NN earnings/NNS are/VBP expected/VBN to/TO be/VB up/IN modestly/RB from/IN a/DT year/NN ago/IN ,/, securities/NNS analysts/NNS ./.
+Andrew/NNP Wallach/NNP ,/, an/DT analyst/NN at/IN Drexel/NNP Burnham/NNP Lambert/NNP ,/, is/VBZ estimating/VBG Interpublic/NNP Group/NNP ,/, for/IN example/NN ,/, at/IN 21/CD cents/NNS  a/DT share/NN ,/, up/IN from/IN 18/CD cents/NNS  a/DT share/NN  a/DT year/NN ./.
+Greg/NNP Ostroff/NNP ,/, an/DT analyst/NN at/IN Goldman/NNP Sachs/NNP ,/, is/VBZ pegging/VBG Omnicom/NNP Group/NNP at/IN 17/CD cents/NNS  a/DT share/NN ,/, up/IN from/IN 15/CD cents/NNS  a/DT share/NN ,/, and/CC Foote/NNP ,/, Cone/NNP &/CC Belding/NNP Communications/NNPS Inc./NNP at/IN 55/CD cents/NNS  a/DT share/NN ,/, up/IN from/IN 46/CD cents/NNS ./.
+Analysts/NNS note/VBP ,/, however/RB ,/, that/IN the/DT third/JJ period/NN is/VBZ a/DT minor/JJ quarter/NN in/IN terms/NNS of/IN absolute/JJ profits/NNS ./.
+Those/DT  who/WP watch/VBP Madison/NNP Avenue/NNP say/VBP this/DT period/NN ,/, along/IN with/IN the/DT first/JJ quarter/NN ./.
+The/DT fourth/JJ quarter/NN is/VBZ where/WRB the/DT real/JJ impact/NN ./.
+We/PRP tend/VBP not/RB  to/TO read/VB much/RB into/IN third-quarter/NN earnings/NNS ,/, ''/'' Mr./NNP Ostroff/NNP ./.
+notable/JJ is/VBZ the/DT fact/NN that/IN Saatchi/NNP &/CC Saatchi/NNP Co./NNP and/CC WPP/NNP Group/NNP PLC/NNP ,/, two/CD British/JJ giants/NNS  that/WDT are/VBP principal/JJ players/NNS in/IN the/DT advertising/NN business/NN ,/, do/VBP n't/RB report/VB quarterly/JJ earnings/NNS ./.
+the/DT industry/NN overall/NN ,/, ``/`` profits/NNS will/MD increase/VB unless/IN revenues/NNS are/VBP disastrously/RB lower/JJR ,/, ''/'' said/VBD Alan/NNP Gottesman/NNP ,/, an/DT analyst/NN at/IN PaineWebber/NNP Inc./NNP ,/, New/NNP York/NNP ./.
+There/EX are/VBP no/RB external/JJ indications/NNS ''/'' to/TO indicate/VB that/DT will/MD be/VB the/DT case/NN ,/, he/PRP ./.
+Mr./NNP Gottesman/NNP noted/VBD that/IN the/DT employee/NN count/NN for/IN the/DT industry/NN is/VBZ down/IN and/CC that/IN most/JJS agencies/NNS are/VBP watching/VBG staffing/VBG levels/NNS in/IN a/DT bid/NN to/TO closely/RB monitor/VB costs/NNS ./.
+Others/NNS are/VBP cautiously/RB watching/VBG the/DT value/NN of/IN the/DT dollar/NN ./.
+I/PRP sit/VBP ,/, the/DT biggest/JJS issue/NN for/IN the/DT U.S./NNP agencies/NNS is/VBZ the/DT dollar/NN ,/, ''/'' said/VBD Emma/NNP Hill/NNP ,/, an/DT analyst/NN at/IN Wertheim/NNP Schroder/NNP &/CC Co./NNP ,/, New/NNP York/NNP ./.
+the/DT U.S./NNP companies/NNS ,/, the/DT risk/NN is/VBZ one/CD of/IN disappointment/NN versus/CC better-than-expected/NN because/IN of/IN the/DT dollar/NN ./.
+Ad/NN agencies/NNS rely/VBP heavily/RB on/IN business/NN overseas/NN for/IN their/PRP$ bottom/NN line/NN ./.
+The/DT strength/NN of/IN the/DT dollar/NN will/MD hurt/VB the/DT reporting/NN of/IN foreign/JJ earnings/NNS ,/, many/JJ analysts/NNS ./.
+Some/DT agencies/NNS ,/, including/VBG Interpublic/NNP Group/NNP 's/POS Lintas/NNP and/CC Saatchi/NNP &/CC Saatchi/NNP 's/POS Backer/NNP Spielvogel/NNP Bates/NNP ,/, have/VBP said/VBN that/IN their/PRP$ clients/NNS are/VBP spending/VBG less/RBR than/IN they/PRP ./.
+Few/JJ agencies/NNS are/VBP reporting/VBG that/IN their/PRP$ clients/NNS '/POS ad/NN budgets/NNS ./.
+All/DT eyes/NNS ,/, however/RB ,/, are/VBP on/IN the/DT fourth/JJ quarter/NN and/CC to/TO reporting/VBG by/IN the/DT giant/JJ British/JJ companies/NNS ./.
+Saatchi/NNP &/CC Saatchi/NNP is/VBZ having/VBG a/DT very/RB tough/JJ year/NN ,/, ''/'' Drexel/NNP Burnham/NNP 's/POS Mr./NNP Wallach/NNP ./.
+It/PRP 's/VBZ real/JJ guesswork/NN figuring/VBG out/IN what/WP  they/PRP ./.
+That/DT agency/NN ,/, rumored/VBD as/IN a/DT takeover/NN candidate/NN ,/, earlier/RBR this/DT year/NN said/VBD pretax/NN profit/NN for/IN 1989/CD would/MD trail/VB 1988/CD 's/POS already/RB disappointing/JJ level/NN ./.
+WPP/NNP Group/NNP ,/, on/IN the/DT other/JJ hand/NN ,/, most/JJS analysts/NNS are/VBP looking/VBG for/IN margin/NN improvement/NN and/CC good/JJ results/NNS considering/VBG its/PRP$ acquisition/NN earlier/RBR this/DT year/NN of/IN Ogilvy/NNP Group/NNP ./.

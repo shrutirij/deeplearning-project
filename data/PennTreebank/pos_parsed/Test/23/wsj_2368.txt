@@ -1,0 +1,7 @@
+The/DT only/JJ thing/NN Robert/NNP Goldberg/NNP could/MD praise/VB about/IN CBS/NNP 's/POS new/JJ show/NN ``/`` Island/NNP Son/NNP ''/'' (/( Leisure/NNP &/CC Arts/NNP ,/, Sept./NNP 25/CD )/) was/VBD the/DT local/JJ color/NN ;/: unfortunately/RB neither/CC  he/PRP nor/CC the/DT producers/NNS of/IN the/DT show/NN have/VBP done/VBN their/PRP$ homework/NN ./.
+instance/NN :/: ``/`` Haole/FW ''/'' (/( white/JJ )/) is/VBZ not/RB the/DT ultimate/JJ insult/NN ;/: ``/`` Mainland/JJ haole/FW ./.
+Richard/NNP Chamberlain/NNP dresses/VBZ as/IN a/DT ``/`` Mainland/JJ haole/FW ,/, ''/'' tucking/VBG in/RP a/DT Hawaiian/JJ shirt/NN and/CC rolling/VBG up/RP its/PRP$ long/JJ sleeves/NNS ./.
+the/DT local/JJ expression/NN for/IN brother/NN is/VBZ ``/`` brah/FW ,/, ''/'' not/RB ``/`` bruddah/FW ./.
+a/DT nurse/NN would/MD wear/VB flowers/NNS in/IN her/PRP$ hair/NN while/NN on/IN duty/NN ,/, if/IN she/PRP were/VBD engaged/JJ she/PRP would/MD know/VB to/TO wear/VB them/PRP behind/IN her/PRP left/JJ ,/, not/RB right/JJ ,/, ear/NN ./.
+Sorry/JJ ,/, the/DT show/NN does/VBZ not/RB even/RB have/VB the/DT one/CD redeeming/JJ quality/NN of/IN genuine/JJ local/JJ color/NN ./.
+Anita/NNP Davis/NNP ====================================== Austin/NNP ,/, Texas/NNP ======================================./.

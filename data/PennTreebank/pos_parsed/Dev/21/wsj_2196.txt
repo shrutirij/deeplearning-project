@@ -1,0 +1,3 @@
+James/NNP T./NNP Boone/NNP was/VBD named/VBN to/TO the/DT new/JJ position/NN of/IN chief/JJ administrative/JJ officer/NN ,/, becoming/VBG second/JJ in/IN command/NN at/IN this/DT bank/NN holding/VBG company/NN ./.
+Mr./NNP Boone/NNP had/VBD been/VBN president/NN and/CC chief/JJ executive/NN officer/NN of/IN Sunburst/NNP Bank/NNP ,/, Louisiana/NNP ,/, one/CD of/IN the/DT company/NN 's/POS two/CD banks/NNS ./.
+R.E./NNP Kennington/NNP II/NNP continues/VBZ as/IN chairman/NN and/CC chief/JJ executive/NN officer/NN ./.
