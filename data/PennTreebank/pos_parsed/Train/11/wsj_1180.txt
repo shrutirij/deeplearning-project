@@ -3,5 +3,5 @@ The/DT distribution/NN represents/VBZ available/JJ cash/NN flow/NN from/IN the/D
 It/PRP is/VBZ payable/JJ Nov./NNP 30/CD to/TO units/NNS of/IN record/NN Oct./NNP 31/CD ./.
 The/DT money/NN manager/NN is/VBZ controlled/VBN 67.7/CD %/NN by/IN its/PRP$ top/JJ officers/NNS and/CC top/JJ officers/NNS of/IN Oppenheimer/NNP &/CC Co./NNP ,/, a/DT securities/NNS firm/NN ./.
 Both/DT  firms/NNS are/VBP in/IN New/NNP York/NNP ./.
-Oppenheimer/NNP Capital/NNP has/VBZ about/RB 7.9/CD million/CD limited/JJ partnership/NN units/NNS ./.
+Oppenheimer/NNP Capital/NNP has/VBZ about/RB 7.9/CD million/CD limited/JJ partnership/NN units/NNS outstanding/JJ ./.
 New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ,/, the/DT units/NNS closed/VBD at/IN $/$ 15.125/CD ,/, up/RB 12.5/CD cents/NNS ./.

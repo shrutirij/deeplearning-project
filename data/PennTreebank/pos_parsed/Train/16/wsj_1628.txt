@@ -1,15 +1,15 @@
 Senate/NNP Democrats/NNS favoring/VBG a/DT cut/NN in/IN the/DT capital-gains/NNS tax/NN have/VBP decided/VBN ,/, under/IN pressure/NN from/IN their/PRP$ leaders/NNS ,/, not/RB to/TO offer/VB their/PRP$ own/JJ proposal/NN ,/, placing/VBG another/DT obstacle/NN in/IN the/DT path/NN of/IN President/NNP Bush/NNP 's/POS legislative/JJ priority/NN ./.
 A/DT core/NN group/NN of/IN six/CD or/CC so/RB Democratic/JJ senators/NNS has/VBZ been/VBN working/VBG behind/IN the/DT scenes/NNS to/TO develop/VB a/DT proposal/NN to/TO reduce/VB the/DT tax/NN on/IN the/DT gain/NN from/IN the/DT sale/NN of/IN assets/NNS ./.
-The/DT plan/NN was/VBD complete/JJ except/IN for/IN finishing/VBG touches/NNS ,/, and/CC there/EX was/VBD talk/NN that/IN it/PRP ./.
-Senate/NNP Majority/NNP Leader/NNP George/NNP Mitchell/NNP (/( D./NNP ,/, Maine/NNP )/) ,/, a/DT vigorous/JJ opponent/NN of/IN the/DT capital-gains/NNS tax/NN cut/NN ,/, called/VBD the/DT group/NN to/TO meet/VB with/IN him/PRP  Wednesday/NNP night/NN ./.
-Sen./NNP Mitchell/NNP urged/VBD them/PRP ./.
-leaders/NNS of/IN the/DT dissident/JJ Democrats/NNS relented/VBD ,/, and/CC said/VBD they/PRP would/MD n't/RB offer/VB their/PRP$ own/JJ proposal/NN as/IN they/PRP ./.
+The/DT plan/NN was/VBD complete/JJ except/IN for/IN finishing/VBG touches/NNS ,/, and/CC there/EX was/VBD talk/NN that/IN it/PRP would/MD be/VB unveiled/VBN as/RB early/RB as/IN yesterday/NN ./.
+Senate/NNP Majority/NNP Leader/NNP George/NNP Mitchell/NNP (/( D./NNP ,/, Maine/NNP )/) ,/, a/DT vigorous/JJ opponent/NN of/IN the/DT capital-gains/NNS tax/NN cut/NN ,/, called/VBD the/DT group/NN to/TO meet/VB with/IN him/PRP  Wednesday/NNP night/NN and/CC again/RB yesterday/NN ./.
+Sen./NNP Mitchell/NNP urged/VBD them/PRP to/TO desist/VB ./.
+leaders/NNS of/IN the/DT dissident/JJ Democrats/NNS relented/VBD ,/, and/CC said/VBD they/PRP would/MD n't/RB offer/VB their/PRP$ own/JJ proposal/NN as/IN they/PRP had/VBD planned/VBN ./.
 The/DT decision/NN is/VBZ a/DT setback/NN for/IN President/NNP Bush/NNP ,/, who/WP needs/VBZ the/DT support/NN of/IN Democrats/NNS to/TO pass/VB the/DT tax/NN cut/NN through/IN the/DT Democratic-controlled/JJ Senate/NNP ./.
 Having/VBG  a/DT proposal/NN sponsored/VBN by/IN Democrats/NNS would/MD have/VB given/VBN the/DT president/NN  an/DT advantage/NN ./.
-Having/VBG only/RB a/DT Republican/JJ measure/NN makes/VBZ the/DT task/NN ./.
+Having/VBG only/RB a/DT Republican/JJ measure/NN makes/VBZ the/DT task/NN harder/RBR ./.
 Sen./NNP Bob/NNP Packwood/NNP (/( R./NNP ,/, Ore./NNP )/) ,/, the/DT lead/JJ sponsor/NN of/IN the/DT Republican/JJ capital-gains/NNS amendment/NN ,/, predicted/VBD that/IN the/DT tax/NN cut/NN would/MD be/VB enacted/VBN this/DT year/NN ./.
-He/PRP said/VBD a/DT clear/JJ majority/NN of/IN senators/NNS back/VBP the/DT tax/NN reduction/NN and/CC that/IN ultimately/RB there/EX would/MD be/VB enough/JJ senators/NNS to/TO overcome/VB any/DT procedural/JJ hurdle/NN  the/DT Democratic/JJ leadership/NN ./.
-Sen./NNP Mitchell/NNP ,/, buoyed/VBN by/IN his/PRP$ victory/NN among/IN fellow/JJ Democrats/NNS ./.
+He/PRP said/VBD a/DT clear/JJ majority/NN of/IN senators/NNS back/VBP the/DT tax/NN reduction/NN and/CC that/IN ultimately/RB there/EX would/MD be/VB enough/JJ senators/NNS to/TO overcome/VB any/DT procedural/JJ hurdle/NN  the/DT Democratic/JJ leadership/NN might/MD erect/VB ./.
+Sen./NNP Mitchell/NNP ,/, buoyed/VBN by/IN his/PRP$ victory/NN among/IN fellow/JJ Democrats/NNS ,/, strongly/RB disagreed/VBD ./.
 Mr./NNP Mitchell/NNP has/VBZ been/VBN predicting/VBG that/IN the/DT president/NN 's/POS initiative/NN would/MD fail/VB this/DT year/NN ./.
 an/DT interview/NN ,/, he/PRP added/VBD that/IN the/DT Democrats/NNS '/POS decision/NN ``/`` increases/VBZ the/DT likelihood/NN that/IN a/DT capital-gains/NNS tax/NN cut/NN will/MD not/RB pass/VB this/DT year/NN ./.
 Mr./NNP Mitchell/NNP 's/POS first/JJ victory/NN came/VBD last/JJ week/NN ,/, when/WRB the/DT Senate/NNP passed/VBD a/DT deficit-reduction/JJ bill/NN  that/WDT did/VBD n't/RB contain/VB a/DT capital-gains/NNS provision/NN ./.

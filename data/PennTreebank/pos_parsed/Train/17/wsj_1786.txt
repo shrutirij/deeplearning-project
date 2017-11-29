@@ -11,7 +11,7 @@ Your/PRP$ narrow/JJ focus/NN appears/VBZ to/TO be/VB a/DT contrived/JJ attempt/N
 You/PRP had/VBD to/TO have/VB been/VBN blind/JJ not/RB to/TO see/VB the/DT scenario/NN there/RB for/IN what/WP  it/PRP was/VBD and/CC is/VBZ and/CC will/MD continue/VB to/TO be/VB for/IN months/NNS and/CC even/JJ years/NNS --/: a/DT part/NN of/IN South/NNP Carolina/NNP  that/WDT has/VBZ sustained/VBN a/DT blow/NN that/IN the/DT Red/NNP Cross/NNP expects/VBZ will/MD cost/VB that/DT organization/NN alone/RB some/DT $/$ 38/CD million/CD ./.
 William/NNP C./NNP Barksdale/NNP Jr/NNP ./.
 Columbia/NNP ,/, S.C/NNP ./.
-Charleston/NNP is/VBZ historic/JJ and/CC aristocratic/JJ ,/, as/RB your/PRP$ reporter/NN said/VBD ,/, but/CC not/RB haughty/JJ ,/, as/IN he/PRP ./.
+Charleston/NNP is/VBZ historic/JJ and/CC aristocratic/JJ ,/, as/RB your/PRP$ reporter/NN said/VBD ,/, but/CC not/RB haughty/JJ ,/, as/IN he/PRP suggested/VBD ./.
 Charlestonians/NNS are/VBP instead/RB indomitable/JJ and/CC have/VBP contributed/VBN mightily/RB to/TO the/DT culture/NN and/CC history/NN of/IN our/PRP$ country/NN for/IN more/RBR than/IN 300/CD years/NNS ./.
 I/PRP suggest/VBP your/PRP$ reporter/NN see/VB Charleston/NNP next/JJ spring/NN in/IN its/PRP$ full/JJ glory/NN ./.
 William/NNP C./NNP Stuart/NNP III/NNP ====================================== Silver/NNP Spring/NNP ,/, Md/NNP ./.

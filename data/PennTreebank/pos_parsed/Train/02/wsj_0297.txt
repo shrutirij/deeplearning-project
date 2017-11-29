@@ -1,8 +1,8 @@
 Everything/NN looked/VBD good/JJ as/IN neurosurgeon/NN Walter/NNP Levy/NNP and/CC colleagues/NNS carefully/RB cut/VB away/RB a/DT woman/NN 's/POS spinal/JJ tumor/NN at/IN the/DT Cleveland/NNP Clinic/NNP in/IN 1978/CD ./.
 small/JJ electrical/JJ shocks/NNS applied/VBN to/TO her/PRP$ feet/NNS ,/, they/PRP were/VBD able/JJ to/TO monitor/VB sensory/JJ nerves/NNS ./.
 The/DT shocks/NNS generated/VBD nerve/NN impulses/NNS  that/WDT traveled/VBD via/IN spine/NN to/TO brain/NN and/CC showed/VBD up/RB clearly/RB on/IN a/DT brain-wave/JJ monitor/NN ,/, indicating/VBG no/DT damage/NN to/TO the/DT delicate/JJ spinal/JJ tissue/NN ./.
-Dr./NNP Levy/NNP ,/, ``/`` she/PRP ./.
-The/DT damage/NN was/VBD to/TO her/PRP$ motor/NN nerves/NNS ,/, which/WDT could/MD n't/RB be/VB monitored/VBN along/IN with/IN the/DT sensory/JJ nerves/NNS ,/, he/PRP ./.
+Dr./NNP Levy/NNP ,/, ``/`` she/PRP woke/VBD up/RB paralyzed/JJ ./.
+The/DT damage/NN was/VBD to/TO her/PRP$ motor/NN nerves/NNS ,/, which/WDT could/MD n't/RB be/VB monitored/VBN along/IN with/IN the/DT sensory/JJ nerves/NNS ,/, he/PRP explains/VBZ ./.
 The/DT tragedy/NN ,/, he/PRP adds/VBZ ,/, ``/`` galvanized/VBD me/PRP ''/'' to/TO look/VB for/IN a/DT way/NN to/TO prevent/VB similar/JJ cases/NNS ./.
 Dr./NNP Levy/NNP 's/POS answer/NN may/MD come/VB with/IN a/DT new/JJ kind/NN of/IN magnetic/JJ brain/NN probe/NN ,/, a/DT device/NN that/IN he/PRP and/CC dozens/NNS of/IN U.S./NNP researchers/NNS are/VBP studying/VBG with/IN great/JJ hope/NN ./.
 the/DT promise/NN of/IN safer/JJR spinal/NN surgery/NN ,/, the/DT probe/NN could/MD improve/VB the/DT diagnosis/NN of/IN brain/NN and/CC nerve/NN disorders/NNS such/JJ as/IN strokes/NNS and/CC multiple/JJ sclerosis/NN ./.
@@ -17,14 +17,14 @@ Magnetic/JJ brain/NN tweaking/NN started/VBD in/IN the/DT early/JJ 1900s/NNS ,/,
 the/DT 1960s/NNS ,/, Mayo/NNP Clinic/NNP researchers/NNS developed/VBD magnetic/JJ devices/NNS to/TO stimulate/VB motor/NN nerves/NNS in/IN the/DT hand/NN and/CC other/JJ limbs/NNS ./.
 brain/NN tests/NNS ,/, the/DT unwieldy/JJ machines/NNS ``/`` would/MD have/VB required/VBN patients/NNS to/TO stand/VB on/IN their/PRP$ heads/NNS ,/, ''/'' says/VBZ Reginald/NNP Bickford/NNP ,/, a/DT researcher/NN at/IN the/DT University/NNP of/IN California/NNP at/IN San/NNP Diego/NNP ./.
 The/DT field/NN took/VBD off/RB in/IN 1985/CD after/IN scientists/NNS at/IN Britain/NNP 's/POS Sheffield/NNP University/NNP developed/VBD a/DT handy/JJ ,/, compact/JJ magnet/NN for/IN brain/NN stimulation/NN ./.
-least/JJS two/CD commercial/JJ versions/NNS have/VBP been/VBN put/VBN on/IN the/DT U.S./NNP market/NN ,/, and/CC an/DT estimated/VBN 500/CD ./.
+least/JJS two/CD commercial/JJ versions/NNS have/VBP been/VBN put/VBN on/IN the/DT U.S./NNP market/NN ,/, and/CC an/DT estimated/VBN 500/CD have/VBP been/VBN sold/VBN ./.
 August/NNP ,/, a/DT Chicago/NNP conference/NN on/IN such/JJ devices/NNS attracted/VBD more/JJR than/IN 100/CD researchers/NNS ,/, who/WP reported/VBD studies/NNS on/IN everything/NN from/IN brain/NN mapping/NN to/TO physical/JJ therapy/NN ./.
 We/PRP do/VBP n't/RB feel/VB we/PRP can/MD use/VB {/( the/DT devices/NNS }/) routinely/RB in/IN surgery/NN yet/RB ,/, but/CC we/PRP 're/VBP getting/VBG close/JJ ,/, ''/'' says/VBZ Dr./NNP Levy/NNP ,/, who/WP is/VBZ now/RB with/IN the/DT University/NNP of/IN Pittsburgh/NNP ./.
 A/DT problem/NN ,/, he/PRP adds/VBZ ,/, is/VBZ that/IN anesthetized/JJ brains/NNS are/VBP more/RBR resistant/JJ to/TO magnetic/JJ stimulation/NN than/IN awake/JJ ones/NNS ./.
 The/DT devices/NNS could/MD help/VB indicate/VB when/WRB surgery/NN would/MD help/VB ,/, says/VBZ Charles/NNP Tator/NNP ,/, a/DT University/NNP of/IN Toronto/NNP neurosurgeon/NN ./.
 example/NN ,/, paralyzed/JJ car-crash/JJ victims/NNS occasionally/RB have/VBP some/DT intact/JJ spinal/JJ tissues/NNS that/WDT ,/, if/IN preserved/VBN by/IN emergency/NN surgery/NN ,/, enable/VBP partial/JJ recovery/NN ./.
-such/JJ operations/NNS typically/RB are/VBP n't/RB performed/VBN because/IN there/EX is/VBZ no/DT sign/NN right/RB after/IN an/DT injury/NN  that/DT surgery/NN ./.
-The/DT cost/NN {/( of/IN magnetic/JJ stimulators/NNS }/) would/MD seem/VB like/IN peanuts/NNS if/IN we/PRP could/MD retrieve/VB limb/NN function/NN ''/'' in/IN such/JJ people/NNS ,/, Dr./NNP Tator/NNP ./.
+such/JJ operations/NNS typically/RB are/VBP n't/RB performed/VBN because/IN there/EX is/VBZ no/DT sign/NN right/RB after/IN an/DT injury/NN  that/DT surgery/NN would/MD be/VB beneficial/JJ ./.
+The/DT cost/NN {/( of/IN magnetic/JJ stimulators/NNS }/) would/MD seem/VB like/IN peanuts/NNS if/IN we/PRP could/MD retrieve/VB limb/NN function/NN ''/'' in/IN such/JJ people/NNS ,/, Dr./NNP Tator/NNP says/VBZ ./.
 Scientists/NNS caution/VBP there/EX is/VBZ a/DT chance/NN  the/DT magnet/NN technique/NN might/MD spark/VB seizures/NNS in/IN epileptics/NNS ./.
 no/DT significant/JJ problems/NNS have/VBP been/VBN reported/VBN among/IN hundreds/NNS of/IN people/NNS tested/VBN with/IN the/DT devices/NNS ./.
 The/DT main/JJ sensation/NN ,/, besides/IN feeling/NN like/IN a/DT puppet/NN jerked/VBN with/IN invisible/JJ strings/NNS ,/, is/VBZ ``/`` like/IN a/DT rap/NN on/IN the/DT head/NN ,/, ''/'' says/VBZ Sam/NNP Bridgers/NNP ,/, a/DT neurologist/NN  who/WP has/VBZ studied/VBN the/DT brain/NN stimulators/NNS at/IN Yale/NNP University/NNP ./.
@@ -47,4 +47,4 @@ first/JJ stimulus/NN go/VB ?/. ''/'' exclaims/VBZ SUNY/NNP neurologist/NN Paul/N
 that/DT is/VBZ suggesting/VBG all/DT kinds/NNS of/IN theories/NNS ,/, ''/'' such/JJ as/IN precisely/RB where/WRB and/CC how/WRB the/DT brain/NN processes/VBZ incoming/JJ signals/NNS from/IN the/DT eyes/NNS ./.
 He/PRP and/CC others/NNS say/VBP that/IN the/DT machines/NNS are/VBP weak/JJ enough/RB that/IN they/PRP do/VBP n't/RB jeopardize/VB the/DT memory/NN ./.
 Both/DT  the/DT SUNY/NNP team/NN and/CC researchers/NNS at/IN the/DT National/NNP Magnet/NNP Laboratory/NNP in/IN Cambridge/NNP ,/, Mass./NNP ,/, are/VBP working/VBG with/IN more/RBR potent/JJ magnetic/JJ brain/NN stimulators/NNS ./.
-other/JJ things/NNS ,/, the/DT stronger/JJR devices/NNS may/MD be/VB able/JJ to/TO summon/VB forth/RB half-forgotten/JJ memories/NNS and/CC induce/VB mood/NN changes/NNS ,/, neurologists/NNS ./.
+other/JJ things/NNS ,/, the/DT stronger/JJR devices/NNS may/MD be/VB able/JJ to/TO summon/VB forth/RB half-forgotten/JJ memories/NNS and/CC induce/VB mood/NN changes/NNS ,/, neurologists/NNS say/VBP ./.

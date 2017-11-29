@@ -1,4 +1,4 @@
-Quantum/NNP Chemical/NNP Corp./NNP suspended/VBD its/PRP$ cash/NN dividend/NN until/IN at/IN least/JJS April/NNP ,/, saying/VBG it/PRP would/MD pay/VB stock/NN dividends/NNS ./.
+Quantum/NNP Chemical/NNP Corp./NNP suspended/VBD its/PRP$ cash/NN dividend/NN until/IN at/IN least/JJS April/NNP ,/, saying/VBG it/PRP would/MD pay/VB stock/NN dividends/NNS instead/RB ./.
 The/DT move/NN came/VBD as/IN the/DT company/NN ,/, hurt/VBN by/IN falling/VBG plastics/NNS prices/NNS and/CC two/CD fires/NNS at/IN an/DT important/JJ plant/NN ,/, reported/VBD a/DT third-quarter/JJ loss/NN of/IN $/$ 21.4/CD million/CD ,/, or/CC 86/CD cents/NNS  a/DT share/NN ./.
 the/DT year-earlier/JJ quarter/NN ,/, the/DT New/NNP York-based/JJ maker/NN of/IN commodity/NN plastics/NNS reported/VBD earnings/NNS from/IN continuing/JJ operations/NNS of/IN $/$ 94.7/CD million/CD ,/, or/CC $/$ 3.72/CD  a/DT share/NN ./.
 Profits/NNS from/IN discontinued/JJ operations/NNS made/VBN year-ago/JJ net/JJ $/$ 99.8/CD million/CD ,/, or/CC $/$ 3.92/CD  a/DT share/NN ./.
@@ -18,7 +18,7 @@ A/DT further/JJ hit/NN came/VBD from/IN expenses/NNS connected/VBN with/IN Quant
 charges/NNS from/IN the/DT bridge/NN loan/NN and/CC other/JJ purchase/NN expenses/NNS cost/VBP the/DT company/NN $/$ 17.9/CD million/CD ,/, or/CC 79/CD cents/NNS  a/DT share/NN ,/, for/IN the/DT quarter/NN ./.
 Quantum/NNP is/VBZ still/RB in/IN the/DT midst/NN of/IN a/DT three-year/JJ plant/NN expansion/NN program/NN valued/VBN at/IN about/RB $/$ 1.3/CD billion/CD that/WDT will/MD continue/VB to/TO put/VB pressure/NN on/IN its/PRP$ cash/NN flow/NN and/CC earnings/NNS ./.
 the/DT hammering/NN ,/, Quantum/NNP said/VBD it/PRP may/MD restore/VB the/DT cash/NN dividend/NN at/IN its/PRP$ April/NNP 26/CD board/NN meeting/NN ./.
-the/DT company/NN says/VBZ it/PRP will/MD pay/VB 2/CD %/NN stock/NN dividends/NNS on/IN a/DT semiannual/JJ basis/NN until/IN its/PRP$ cash/NN situation/NN ./.
+the/DT company/NN says/VBZ it/PRP will/MD pay/VB 2/CD %/NN stock/NN dividends/NNS on/IN a/DT semiannual/JJ basis/NN until/IN its/PRP$ cash/NN situation/NN improves/VBZ ./.
 Investors/NNS seemed/VBD ambivalent/JJ about/IN Quantum/NNP 's/POS prospects/NNS ./.
 Several/JJ brokerage/NN firms/NNS issued/VBD buy/VB|NN recommendations/NNS on/IN the/DT stock/NN yesterday/NN ./.
 active/JJ trading/NN on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ,/, Quantum/NNP 's/POS shares/NNS closed/VBD at/IN $/$ 33.25/CD ,/, down/RB $/$ 1.50/CD ./.

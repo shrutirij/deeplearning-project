@@ -2,9 +2,9 @@ HomeFed/NNP Corp./NNP said/VBD third-quarter/JJ net/JJ income/NN slid/VBD 14/CD 
 The/DT decline/NN surprised/VBD analysts/NNS and/CC jolted/VBD HomeFed/NNP 's/POS stock/NN ,/, which/WDT lost/VBD 8.6/CD %/NN of/IN its/PRP$ value/NN ,/, closing/VBG at/IN $/$ 38.50/CD on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ,/, down/RB $/$ 3.625/CD ./.
 one/CD of/IN the/DT handful/NN of/IN large/JJ West/NNP Coast/NNP thrifts/NNS that/IN in/IN recent/JJ quarters/NNS had/VBD counteracted/VBN interest-rate/JJ problems/NNS dogging/VBG the/DT industry/NN by/IN keeping/VBG a/DT lid/NN on/IN problem/NN assets/NNS and/CC lending/VBG heavily/RB into/IN the/DT furious/JJ California/NNP housing/NN market/NN ./.
 Analysts/NNS had/VBD been/VBN projecting/VBG fully/RB diluted/VBN earnings/NNS in/IN the/DT third/JJ quarter/NN in/IN the/DT range/NN of/IN about/RB $/$ 1.30/CD  a/DT share/NN ./.
-HomeFed/NNP 's/POS loan/NN originations/NNS and/CC purchases/NNS plunged/VBD 26/CD %/NN in/IN the/DT quarter/NN ,/, to/TO $/$ 1.4/CD billion/CD from/IN $/$ 1.9/CD billion/CD  a/DT year/NN ./.
+HomeFed/NNP 's/POS loan/NN originations/NNS and/CC purchases/NNS plunged/VBD 26/CD %/NN in/IN the/DT quarter/NN ,/, to/TO $/$ 1.4/CD billion/CD from/IN $/$ 1.9/CD billion/CD  a/DT year/NN earlier/RBR ./.
 non-performing/JJ assets/NNS rose/VBD to/TO $/$ 593/CD million/CD from/IN $/$ 518.7/CD million/CD ./.
-Some/DT $/$ 380/CD million/CD of/IN the/DT troubled/JJ assets/NNS is/VBZ repossessed/JJ real/JJ estate/NN ,/, a/DT 55.6/CD %/NN surge/NN from/IN the/DT $/$ 244.2/CD million/CD of/IN repossesed/JJ property/NN HomeFed/NNP held/VBD a/DT year/NN ./.
+Some/DT $/$ 380/CD million/CD of/IN the/DT troubled/JJ assets/NNS is/VBZ repossessed/JJ real/JJ estate/NN ,/, a/DT 55.6/CD %/NN surge/NN from/IN the/DT $/$ 244.2/CD million/CD of/IN repossesed/JJ property/NN HomeFed/NNP held/VBD a/DT year/NN ago/RB ./.
 HomeFed/NNP has/VBZ $/$ 17.9/CD billion/CD of/IN assets/NNS ./.
 the/DT troubled/VBN assets/NNS are/VBP apartment/NN complexes/NNS ,/, shopping/NN malls/NNS and/CC other/JJ commercial/JJ real/JJ estate/NN ./.
 It/PRP said/VBD about/RB half/NN are/VBP in/IN California/NNP ,/, with/IN the/DT rest/NN scattered/VBN across/IN the/DT country/NN ./.

@@ -1,4 +1,4 @@
-Stamford/NNP ,/, Conn./NNP ,/, High/NNP School/NNP did/VBD nothing/NN when/WRB its/PRP$ valuable/JJ 1930s/NNS mural/NN was/VBD thrown/VBN in/IN the/DT trash/NN does/VBZ n't/RB mean/VB the/DT city/NN no/RB longer/RBR owns/VBZ the/DT work/NN of/IN art/NN ,/, a/DT federal/JJ judge/NN ./.
+Stamford/NNP ,/, Conn./NNP ,/, High/NNP School/NNP did/VBD nothing/NN when/WRB its/PRP$ valuable/JJ 1930s/NNS mural/NN was/VBD thrown/VBN in/IN the/DT trash/NN does/VBZ n't/RB mean/VB the/DT city/NN no/RB longer/RBR owns/VBZ the/DT work/NN of/IN art/NN ,/, a/DT federal/JJ judge/NN ruled/VBD ./.
 The/DT mural/NN ,/, now/RB valued/VBN at/IN $/$ 1.3/CD million/CD according/VBG to/TO appraisers/NNS ,/, was/VBD tossed/VBN in/IN a/DT trash/NN heap/NN in/IN 1971/CD by/IN workers/NNS  who/WP were/VBD renovating/VBG the/DT building/NN ./.
 The/DT 100-foot-long/JJ mural/NN ,/, painted/VBN by/IN James/NNP Daugherty/NNP in/IN 1934/CD ,/, was/VBD commissioned/VBN by/IN the/DT federal/JJ Works/NNP Project/NNP Administration/NNP ./.
 the/DT discarded/VBN mural/NN was/VBD found/VBN outside/IN the/DT school/NN by/IN a/DT concerned/JJ Stamford/NNP graduate/NN ,/, it/PRP eventually/RB was/VBD turned/VBN over/RP to/TO Hiram/NNP Hoelzer/NNP ,/, a/DT professional/JJ art/NN restorer/NN ./.
@@ -11,4 +11,4 @@ The/DT judge/NN also/RB ruled/VBD that/IN the/DT painting/NN was/VBD n't/RB aban
 Mr./NNP Hoelzer/NNP did/VBD n't/RB return/VB phone/NN calls/NNS seeking/VBG comment/NN on/IN the/DT judge/NN 's/POS decision/NN ./.
 The/DT judge/NN ordered/VBD that/IN a/DT hearing/NN be/VB held/VBN Nov./NNP 17/CD to/TO determine/VB how/WRB much/JJ the/DT city/NN should/MD pay/VB Mr./NNP Hoelzer/NNP for/IN his/PRP$ services/NNS ./.
 Mary/NNP E./NNP Sommer/NNP ,/, corporate/JJ counsel/NN for/IN Stamford/NNP ,/, said/VBD the/DT city/NN has/VBZ discussed/VBN several/JJ possible/JJ plans/NNS for/IN displaying/VBG the/DT mural/NN ,/, which/WDT portrays/VBZ various/JJ scenes/NNS from/IN the/DT Great/NNP Depression/NNP ./.
-She/PRP said/VBD the/DT mural/NN ``/`` preserves/VBZ an/DT era/NN in/IN Stamford/NNP and/CC in/IN our/PRP$ country/NN when/WRB this/DT type/NN of/IN work/NN ./.
+She/PRP said/VBD the/DT mural/NN ``/`` preserves/VBZ an/DT era/NN in/IN Stamford/NNP and/CC in/IN our/PRP$ country/NN when/WRB this/DT type/NN of/IN work/NN was/VBD being/VBG done/VBN ./.

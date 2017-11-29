@@ -1,3 +1,3 @@
 BULL/NNP HN/NNP INFORMATION/NNP SYSTEMS/NNP Inc./NNP is/VBZ a/DT U.S./NNP majority-owned/JJ unit/NN of/IN Cie./NNP des/NNP Machines/NNP Bull/NNP ./.
-Friday/NNP 's/POS edition/NN ,/, the/DT name/NN of/IN the/DT unit/NN ./.
-Bull/NNP 's/POS Chairman/NN to/TO Use/VB U.S./NNP Acquisitions/NNS to/TO Lift/VB Computer/NN Maker/NN 's/POS World/NN Stature/NN  ''/'' --/: WSJ/NNP Oct./NNP 13/CD ,/, 1989/CD )/)======================================./.
+Friday/NNP 's/POS edition/NN ,/, the/DT name/NN of/IN the/DT unit/NN was/VBD misstated/VBN ./.
+Bull/NNP 's/POS Chairman/NN to/TO Use/VB U.S./NNP Acquisitions/NNS to/TO Lift/VB Computer/NN Maker/NN 's/POS World/NN Stature/NN  ''/'' --/: WSJ/NNP Oct./NNP 13/CD ,/, 1989/CD )/)======================================

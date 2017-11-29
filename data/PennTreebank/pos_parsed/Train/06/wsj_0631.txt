@@ -4,4 +4,4 @@ The/DT pact/NN also/RB calls/VBZ for/IN coordination/NN between/IN Finnair/NNP a
 Finnair/NNP and/CC SAS/NNP said/VBD they/PRP plan/VBP to/TO swap/VB stakes/NNS in/IN each/DT other/JJ ./.
 Neither/DT disclosed/VBD details/NNS pending/VBG board/NN meetings/NNS next/IN month/NN ./.
 Officials/NNS hinted/VBD ,/, however/RB ,/, that/IN SAS/NNP would/MD take/VB a/DT stake/NN of/IN at/IN least/JJS 6/CD %/NN in/IN Finnair/NNP ,/, valued/VBN at/IN about/RB $/$ 40/CD million/CD at/IN current/JJ market/NN prices/NNS ./.
-Finnair/NNP would/MD receive/VB SAS/NNP shares/NNS valued/VBN at/IN the/DT same/JJ amount/NN ,/, officials/NNS ./.
+Finnair/NNP would/MD receive/VB SAS/NNP shares/NNS valued/VBN at/IN the/DT same/JJ amount/NN ,/, officials/NNS said/VBD ./.

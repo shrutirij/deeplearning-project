@@ -2,7 +2,7 @@ APARTHEID/NNP FOES/NNS STAGED/VBD  a/DT massive/JJ anti-government/JJ rally/NN i
 70,000/CD people/NNS filled/VBD a/DT soccer/NN stadium/NN on/IN the/DT outskirts/NNS of/IN the/DT black/JJ township/NN of/IN Soweto/NNP and/CC welcomed/VBD freed/VBN leaders/NNS of/IN the/DT outlawed/VBN African/NNP National/NNP Congress/NNP ./.
 It/PRP was/VBD considered/VBN South/NNP Africa/NNP 's/POS largest/JJS opposition/NN rally/NN ./.
 Walter/NNP Sisulu/NNP ,/, the/DT ANC/NNP 's/POS former/JJ secretary/NN general/NN  who/WP served/VBD 26/CD years/NNS in/IN prison/NN before/IN being/VBG released/VBN two/CD weeks/NNS ago/IN ,/, urged/VBD peace/NN ,/, negotiation/NN and/CC discipline/NN ./.
-President/NNP de/NNP Klerk/NNP 's/POS government/NN permitted/VBD the/DT rally/NN ,/, and/CC security/NN forces/NNS ./.
+President/NNP de/NNP Klerk/NNP 's/POS government/NN permitted/VBD the/DT rally/NN ,/, and/CC security/NN forces/NNS did/VBD n't/RB interfere/VB ./.
 Pretoria/NNP 's/POS approval/NN of/IN the/DT demonstration/NN and/CC the/DT ANC/NNP 's/POS conciliatory/JJ tone/NN appeared/VBD aimed/VBN at/IN setting/VBG up/IN negotiations/NNS to/TO give/VB blacks/NNS political/JJ rights/NNS ./.
 CONGRESSIONAL/JJ LEADERS/NNS BACKED/VBD Bush/NNP 's/POS criticism/NN of/IN Nicaragua/NNP 's/POS Ortega/NNP ./.
 lawmakers/NNS have/VBP n't/RB raised/VBN the/DT possibility/NN of/IN renewing/VBG military/JJ aid/NN to/TO the/DT Contras/NNPS following/VBG Ortega/NNP 's/POS weekend/NN threat/NN to/TO end/VB a/DT truce/NN ,/, Senate/NNP Majority/NNP Leader/NNP Mitchell/NNP said/VBD on/IN NBC-TV/NNP that/IN Ortega/NNP had/VBD made/VBN ``/`` a/DT very/RB unwise/JJ move/NN ./.
@@ -11,7 +11,7 @@ Ortega/NNP cited/VBD renewed/VBN attacks/NNS by/IN the/DT U.S.backed/JJ rebels/N
 Lawmakers/NNS must/MD decide/VB next/JJ month/NN whether/IN the/DT Contras/NNPS will/MD get/VB so-called/JJ humanitarian/JJ aid/NN under/IN a/DT bipartisan/JJ agreement/NN reached/VBN in/IN March/NNP ./.
 Spain/NNP 's/POS Socialist/NNP Party/NNP claimed/VBD victory/NN in/IN nationwide/JJ elections/NNS ,/, saying/VBG it/PRP had/VBD retained/VBN its/PRP$ parliamentary/JJ majority/NN by/IN one/CD seat/NN ./.
 all/PDT the/DT votes/NNS counted/VBN ,/, a/DT government/NN spokesman/NN said/VBD Prime/NNP Minister/NNP Gonzalez/NNP 's/POS party/NN won/VBD 176/CD seats/NNS in/IN the/DT 350-seat/JJ Cortes/NNP ,/, or/CC lower/JJR house/NN of/IN parliament/NN ./.
-The/DT Socialists/NNPS held/VBD 184/CD seats/NNS going/VBG into/IN the/DT ./.
+The/DT Socialists/NNPS held/VBD 184/CD seats/NNS going/VBG into/IN the/DT balloting/NN ./.
 Thousands/NNS of/IN East/NNP Germans/NNPS attended/VBD public/JJ rallies/NNS organized/VBN by/IN the/DT Communist/NNP leadership/NN and/CC demanded/VBD free/JJ speech/NN ,/, controls/NNS on/IN the/DT security/NN forces/NNS and/CC an/DT end/NN to/TO official/JJ privileges/NNS ./.
 The/DT gatherings/NNS in/IN East/NNP Berlin/NNP and/CC elsewhere/RB were/VBD viewed/VBN as/IN part/NN of/IN a/DT government/NN effort/NN to/TO stop/VB activists/NNS from/IN staging/VBG protests/NNS to/TO press/VB their/PRP$ demands/NNS ./.
 Dissidents/NNS in/IN Czechoslovakia/NNP said/VBD the/DT nation/NN 's/POS pro-democracy/JJ movement/NN was/VBD growing/VBG despite/IN the/DT government/NN 's/POS move/NN to/TO crush/VB a/DT protest/NN Saturday/NNP in/IN Prague/NNP 's/POS Wenceslas/NNP Square/NNP ./.

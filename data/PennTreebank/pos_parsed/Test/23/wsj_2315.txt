@@ -8,5 +8,5 @@ The/DT broadcast/NN group/NN had/VBD been/VBN based/VBN in/IN New/NNP York/NNP u
 One/CD employee/NN with/IN the/DT group/NN said/VBD RJR/NNP moved/VBD 11/CD employees/NNS of/IN the/DT group/NN back/RB to/TO New/NNP York/NNP in/IN September/NNP because/IN ``/`` there/EX was/VBD supposed/VBN to/TO be/VB a/DT future/NN ./.
 He/PRP said/VBD the/DT company/NN hired/VBD three/CD more/JJR buyers/NNS for/IN the/DT unit/NN within/IN the/DT past/JJ two/CD weeks/NNS ,/, wooing/VBG them/PRP from/IN jobs/NNS with/IN advertising/NN agencies/NNS ./.
 The/DT RJR/NNP spokesman/NN said/VBD the/DT company/NN moved/VBD the/DT 11/CD employees/NNS to/TO New/NNP York/NNP last/JJ month/NN because/IN the/DT group/NN had/VBD then/RB been/VBN in/IN the/DT midst/NN of/IN purchasing/VBG ad/NN time/NN for/IN the/DT networks/NNS '/POS upcoming/JJ season/NN ./.
-The/DT studies/NNS {/( on/IN closing/VBG the/DT unit/NN }/) could/MD n't/RB be/VB completed/VBN until/IN now/RB ,/, ''/'' he/PRP ./.
-The/DT group/NN 's/POS president/NN ,/, Peter/NNP Chrisanthopoulos/NNP ,/, was/VBD n't/RB in/IN his/PRP$ office/NN Friday/NNP afternoon/NN ./.
+The/DT studies/NNS {/( on/IN closing/VBG the/DT unit/NN }/) could/MD n't/RB be/VB completed/VBN until/IN now/RB ,/, ''/'' he/PRP said/VBD ./.
+The/DT group/NN 's/POS president/NN ,/, Peter/NNP Chrisanthopoulos/NNP ,/, was/VBD n't/RB in/IN his/PRP$ office/NN Friday/NNP afternoon/NN to/TO comment/VB ./.

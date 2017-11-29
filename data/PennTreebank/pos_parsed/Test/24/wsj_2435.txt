@@ -6,6 +6,6 @@ H/NN ./.
 It/PRP will/MD have/VB its/PRP$ headquarters/NNS in/IN Munich/NNP ./.
 Matsushita/NNP 's/POS share/NN in/IN the/DT venture/NN will/MD rise/VB to/TO 35/CD %/NN Oct./NNP 1/CD ,/, 1990/CD ,/, and/CC to/TO 50/CD %/NN  the/DT following/VBG Oct./NNP 1/CD ./.
 Siemens/NNP will/MD retain/VB majority/NN voting/VBG rights/NNS ./.
-The/DT parent/NN companies/NNS forecast/VBP sales/NNS for/IN the/DT venture/NN of/IN around/IN 750/CD million/CD marks/NNS for/IN its/PRP$ first/JJ fiscal/JJ year/NN ,/, Matsushita/NNP ./.
+The/DT parent/NN companies/NNS forecast/VBP sales/NNS for/IN the/DT venture/NN of/IN around/IN 750/CD million/CD marks/NNS for/IN its/PRP$ first/JJ fiscal/JJ year/NN ,/, Matsushita/NNP said/VBD ./.
 Sales/NNS are/VBP expected/VBN to/TO rise/VB to/TO one/CD billion/CD marks/NNS after/IN four/CD years/NNS ./.
 The/DT company/NN will/MD have/VB production/NN facilities/NNS in/IN West/NNP Germany/NNP ,/, Austria/NNP ,/, France/NNP and/CC Spain/NNP ./.

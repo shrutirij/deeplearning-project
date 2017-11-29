@@ -1,5 +1,5 @@
 The/DT head/JJ trader/NN of/IN Chemical/NNP Banking/NNP Corp./NNP 's/POS interest-rate/NN options/NNS group/NN has/VBZ left/VBN the/DT company/NN ,/, following/VBG valuation/NN errors/NNS  that/WDT resulted/VBD in/IN a/DT $/$ 33/CD million/CD charge/NN against/IN its/PRP$ third-quarter/JJ results/NNS ./.
-Chemical/NNP said/VBD Steven/NNP Edelson/NNP resigned/VBD recently/RB ,/, but/CC one/CD individual/NN close/RB to/TO the/DT situation/NN said/VBD the/DT resignation/NN ./.
+Chemical/NNP said/VBD Steven/NNP Edelson/NNP resigned/VBD recently/RB ,/, but/CC one/CD individual/NN close/RB to/TO the/DT situation/NN said/VBD the/DT resignation/NN was/VBD forced/VBN ./.
 Mr./NNP Edelson/NNP could/MD n't/RB be/VB reached/VBN for/IN comment/NN ./.
 A/DT separate/JJ inquiry/NN by/IN Chemical/NNP cleared/VBD Mr./NNP Edelson/NNP of/IN allegations/NNS that/IN he/PRP had/VBD been/VBN lavishly/RB entertained/VBN by/IN a/DT New/NNP York/NNP money/NN broker/NN ./.
 That/DT inquiry/NN has/VBZ n't/RB resolved/VBD similar/JJ allegations/NNS involving/VBG another/DT Chemical/NNP options/NNS trader/NN ./.
@@ -20,6 +20,6 @@ three/CD years/NNS ago/RB ,/, Chemical/NNP 's/POS interest-rate/NN options/NNS g
 the/DT volume/NN of/IN options/NNS written/VBN exceeded/VBD those/DT purchased/VBN by/IN almost/RB 2-to-1/JJ ./.
 such/PDT a/DT lopsided/JJ book/NN of/IN options/NNS ,/, traders/NNS say/VBP ,/, Chemical/NNP was/VBD more/RBR vulnerable/JJ to/TO erroneous/JJ valuation/NN assumptions/NNS ./.
 The/DT Chemical/NNP spokeswoman/NN said/VBD the/DT bank/NN has/VBZ examined/VBN its/PRP$ methodologies/NNS and/CC internal/JJ controls/NNS ./.
-We/PRP consider/VBP our/PRP$ internal/JJ controls/NNS to/TO have/VB worked/VBN well/RB ,/, ''/'' she/PRP said/VBD ,/, adding/VBG that/IN some/DT procedures/NNS ./.
+We/PRP consider/VBP our/PRP$ internal/JJ controls/NNS to/TO have/VB worked/VBN well/RB ,/, ''/'' she/PRP said/VBD ,/, adding/VBG that/IN some/DT procedures/NNS have/VBP been/VBN strengthened/VBN ./.
 Its/PRP$ valuation/NN methodologies/NNS ,/, she/PRP said/VBD ,/, ``/`` are/VBP recognized/VBN as/IN some/DT of/IN the/DT best/JJS on/IN the/DT Street/NNP ./.
-a/DT lot/NN ./.
+a/DT lot/NN was/VBD needed/VBN to/TO be/VB done/VBN ./.

@@ -5,11 +5,11 @@ Ogilvy/NNP ,/, he/PRP succeeds/VBZ Norman/NNP Berry/NNP ,/, who/WP left/VBD the/
 Chiat\/Day/NN said/VBD Lee/NNP Clow/NNP ,/, the/DT agency/NN 's/POS president/NN and/CC chief/JJ creative/JJ director/NN ,/, will/MD fill/VB in/RP as/IN acting/VBG New/NNP York/NNP creative/JJ director/NN until/IN the/DT naming/NN of/IN Mr./NNP Hamilton/NNP 's/POS successor/NN --/: or/CC possibly/RB successors/NNS --/: within/IN the/DT next/JJ few/JJ weeks/NNS ./.
 Mr./NNP Hamilton/NNP faces/VBZ a/DT daunting/JJ task/NN in/IN reviving/VBG Ogilvy/NN 's/POS stagnant/JJ New/NNP York/NNP office/NN ./.
 a/DT few/JJ months/NNS ago/RB ,/, Maxwell/NNP House/NNP yanked/VBD its/PRP$ $/$ 50/CD million/CD account/NN from/IN the/DT office/NN ,/, following/VBG the/DT loss/NN last/JJ year/NN of/IN the/DT $/$ 40/CD million/CD Hallmark/NNP account/NN ./.
-The/DT office/NN has/VBZ won/VBN just/RB a/DT single/JJ piece/NN of/IN new/JJ business/NN --/: and/CC a/DT tiny/JJ one/NN ,/, at/IN that/DT --/: this/DT year/NN ,/, and/CC new/JJ business/NN wins/NNS were/VBD n't/RB substantial/JJ last/JJ year/NN ./.
+The/DT office/NN has/VBZ won/VBN just/RB a/DT single/JJ piece/NN of/IN new/JJ business/NN --/: and/CC a/DT tiny/JJ one/NN ,/, at/IN that/DT --/: this/DT year/NN ,/, and/CC new/JJ business/NN wins/NNS were/VBD n't/RB substantial/JJ last/JJ year/NN ,/, either/RB ./.
 The/DT office/NN is/VBZ suffering/VBG from/IN ``/`` a/DT dead/JJ battery/NN ,/, ''/'' as/IN Alan/NNP Gottesman/NNP ,/, an/DT analyst/NN with/IN PaineWebber/NNP ,/, puts/VBZ it/PRP ./.
 it/PRP can/MD be/VB turned/VBN around/RP ,/, he/PRP says/VBZ ,/, ``/`` It/PRP ai/VBP n't/RB easy/JJ ,/, and/CC it/PRP 's/VBZ been/VBN parked/VBN underneath/IN a/DT snowdrift/NN for/IN a/DT very/RB long/JJ time/NN ./.
-The/DT New/NNP York/NNP office/NN is/VBZ just/RB one/CD of/IN many/JJ Ogilvy/NNP outposts/NNS ,/, plenty/NN of/IN which/WDT ./.
-it/PRP is/VBZ the/DT largest/JJS ./.
+The/DT New/NNP York/NNP office/NN is/VBZ just/RB one/CD of/IN many/JJ Ogilvy/NNP outposts/NNS ,/, plenty/NN of/IN which/WDT are/VBP performing/VBG well/RB ./.
+it/PRP is/VBZ the/DT largest/JJS and/CC most/RBS visible/JJ ./.
 $/$ 800/CD million/CD in/IN billings/NNS ,/, it/PRP 's/VBZ bigger/JJR than/IN most/JJS entire/JJ agencies/NNS ./.
 it/PRP has/VBZ won/VBN praise/NN for/IN some/DT of/IN its/PRP$ creative/JJ work/NN ,/, especially/RB for/IN American/NNP Express/NNP ,/, it/PRP has/VBZ n't/RB been/VBN able/JJ to/TO attract/VB substantial/JJ new/JJ business/NN ./.
 Ogilvy/NNP last/JJ spring/NN hired/VBD Michael/NNP Lesser/NNP ,/, 47/CD ,/, from/IN Lowe/NNP Marschalk/NNP to/TO head/VB up/RP the/DT New/NNP York/NNP operations/NNS ,/, but/CC Mr./NNP Lesser/NNP has/VBZ n't/RB had/VBN a/DT strong/JJ creative/JJ leader/NN to/TO work/VB with/IN him/PRP ./.
@@ -26,11 +26,11 @@ Chiat\/Day/NNP is/VBZ one/CD of/IN the/DT few/JJ American/JJ agencies/NNS to/TO 
 account/NN planning/NN ,/, an/DT executive/NN with/IN a/DT research/NN background/NN represents/VBZ the/DT consumer/NN ,/, working/VBG closely/RB with/IN creative/JJ and/CC account/NN executives/NNS ./.
 Mr./NNP Hamilton/NNP also/RB said/VBD he/PRP might/MD also/RB bring/VB over/RP some/DT Chiat\/Day/NNP veterans/NNS ,/, though/IN from/IN non-New/JJ York/NNP offices/NNS ./.
 Mr./NNP Hamilton/NNP accepted/VBD the/DT job/NN after/IN repeated/JJ discussions/NNS not/RB just/RB with/IN Mr./NNP Lesser/NNP ,/, but/CC with/IN WPP/NNP Group/NNP 's/POS chief/JJ executive/JJ officer/NN ,/, Martin/NNP Sorrell/NNP ,/, who/WP has/VBZ taken/VBN a/DT hands-on/JJ approach/NN with/IN his/PRP$ acquisition/NN ./.
-I/PRP probably/RB would/MD n't/RB have/VB accepted/VBN the/DT job/NN had/VBD it/PRP not/RB been/VBN the/DT combination/NN of/IN Mike/NNP {/( Lesser/NNP }/) and/CC Martin/NNP ,/, ''/'' he/PRP ./.
-I/PRP 've/VBP always/RB been/VBN intrigued/VBN by/IN those/DT things/NNS people/NNS ./.
-the/DT wags/NNS and/CC the/DT pundits/NNS of/IN the/DT world/NN will/MD say/VB it/PRP 's/VBZ pretty/RB tough/JJ stuff/NN to/TO turn/VB around/RP an/DT agency/NN  that/WDT 's/VBZ been/VBN going/VBG in/IN one/CD direction/NN for/IN a/DT long/JJ time/NN ,/, ''/'' he/PRP ./.
-I/PRP do/VBP n't/RB think/VB it/PRP {/( the/DT issue/NN }/) is/VBZ turning/VBG it/PRP around/RP --/: I/PRP think/VBP it/PRP 's/VBZ getting/VBG back/RB to/TO where/WRB it/PRP was/VBD 10/CD or/CC 15/CD years/NNS ./.
-There/EX are/VBP pockets/NNS of/IN brilliance/NN ./.
+I/PRP probably/RB would/MD n't/RB have/VB accepted/VBN the/DT job/NN had/VBD it/PRP not/RB been/VBN the/DT combination/NN of/IN Mike/NNP {/( Lesser/NNP }/) and/CC Martin/NNP ,/, ''/'' he/PRP said/VBD ./.
+I/PRP 've/VBP always/RB been/VBN intrigued/VBN by/IN those/DT things/NNS people/NNS say/VBP ca/MD n't/RB be/VB done/VBN ./.
+the/DT wags/NNS and/CC the/DT pundits/NNS of/IN the/DT world/NN will/MD say/VB it/PRP 's/VBZ pretty/RB tough/JJ stuff/NN to/TO turn/VB around/RP an/DT agency/NN  that/WDT 's/VBZ been/VBN going/VBG in/IN one/CD direction/NN for/IN a/DT long/JJ time/NN ,/, ''/'' he/PRP said/VBD ./.
+I/PRP do/VBP n't/RB think/VB it/PRP {/( the/DT issue/NN }/) is/VBZ turning/VBG it/PRP around/RP --/: I/PRP think/VBP it/PRP 's/VBZ getting/VBG back/RB to/TO where/WRB it/PRP was/VBD 10/CD or/CC 15/CD years/NNS ago/RB ./.
+There/EX are/VBP pockets/NNS of/IN brilliance/NN there/RB now/RB ./.
 Kraft/NNP Taps/VBZ Margeotes/NNP ====================================== Kraft/NNP General/NNP Foods/NNP Group/NNP has/VBZ asked/VBN Margeotes/NNP Fertitta/NNP &/CC Weiss/NNP ,/, a/DT small/JJ New/NNP York/NNP agency/NN ,/, to/TO try/VB its/PRP$ hand/NN at/IN some/DT creative/JJ work/NN on/IN a/DT new/JJ product/NN ./.
 A/DT Kraft/NNP General/NNP Foods/NNP spokesman/NN said/VBD Margeotes/NNS has/VBZ been/VBN given/VBN an/DT assignment/NN to/TO do/VB ``/`` some/DT development/NN work/NN on/IN a/DT venture/NN project/NN ./.
 Executives/NNS close/RB to/TO the/DT Glenview/NNP ,/, Ill.-based/JJ food/NN giant/NN said/VBD the/DT work/NN is/VBZ for/IN a/DT new/JJ coffee/NN beverage/NN product/NN currently/RB in/IN development/NN ./.
@@ -39,6 +39,6 @@ It/PRP recently/RB picked/VBD up/RP the/DT ad/NN accounts/NNS for/IN Haagen-Dazs
 Separately/NNP ,/, the/DT Kraft/NNP General/NNP Foods/NNP spokesman/NN said/VBD it/PRP selected/VBD D'Arcy/NNP Masius/NNP Benton/NNP &/CC Bowles/NNP ,/, New/NNP York/NNP ,/, to/TO handle/VB its/PRP$ Sealtest/NNP Free/NNP non-fat/JJ ice/NN cream/NN account/NN ./.
 Executives/NNS estimated/VBD that/DT account/NN is/VBZ worth/JJ about/RB $/$ 6/CD million/CD ./.
 The/DT account/NN had/VBD been/VBN handled/VBN by/IN McCann-Erickson/NNP ./.
-Ad/NN Notes/NNS ./.
+Ad/NN Notes/NNS .../: ./.
 LINTAS/NNP LAYOFFS/NNS :/: About/RB 20/CD people/NNS were/VBD laid/VBN off/RP at/IN Lintas/NNP 's/POS Ceco/NNP Communications/NNP subsidiary/NN in/IN Warren/NNP ,/, Mich./NNP ,/, on/IN Tuesday/NNP ./.
-Dick/NNP O'Connor/NNP ,/, chairman/NN and/CC chief/JJ executive/NN of/IN Lintas:Campbell-Ewald/NNP ,/, said/VBD the/DT office/NN ./.
+Dick/NNP O'Connor/NNP ,/, chairman/NN and/CC chief/JJ executive/NN of/IN Lintas:Campbell-Ewald/NNP ,/, said/VBD the/DT office/NN is/VBZ n't/RB growing/VBG as/IN expected/VBN ./.

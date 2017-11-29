@@ -6,7 +6,7 @@ Mrs./NNP Cresson/NNP said/VBD she/PRP hopes/VBZ the/DT talks/NNS will/MD show/VB
 Swiss/NNP President/NNP Jean-Pascal/NNP Delamuraz/NNP said/VBD the/DT insurance/NN pact/NN could/MD ``/`` pioneer/VB ''/'' a/DT broader/JJR agreement/NN between/IN the/DT Community/NN and/CC the/DT association/NN ./.
 The/DT treaty/NN allows/VBZ Swiss/NNP insurance/NN companies/NNS to/TO open/JJ branches/NNS in/IN the/DT EC/NNP ,/, and/CC vice/RB versa/RB ,/, without/IN restriction/NN ./.
 it/PRP does/VBZ n't/RB permit/VB selling/VBG insurance/NN across/IN borders/NNS without/IN establishing/VBG branches/NNS ./.
-The/DT treaty/NN needs/VBZ to/TO be/VB approved/VBN by/IN the/DT European/NNP Parliament/NNP ,/, which/WDT is/VBZ expected/VBN to/TO endorse/VB the/DT measure/NN ,/, EC/NNP officials/NNS ./.
+The/DT treaty/NN needs/VBZ to/TO be/VB approved/VBN by/IN the/DT European/NNP Parliament/NNP ,/, which/WDT is/VBZ expected/VBN to/TO endorse/VB the/DT measure/NN ,/, EC/NNP officials/NNS said/VBD ./.
 The/DT agreement/NN ,/, which/WDT had/VBD been/VBN 16/CD years/NNS in/IN the/DT making/NN ,/, covers/VBZ general-insurance/NN services/NNS and/CC excludes/VBZ life/NN insurance/NN and/CC reinsurance/NN ./.
 Swiss/NNP and/CC EC/NNP insurers/NNS are/VBP widely/RB present/JJ on/IN each/DT other/JJ  's/POS markets/NNS ,/, the/DT accord/NN is/VBZ n't/RB expected/VBN to/TO substantially/RB increase/VB near-term/JJ competition/NN ./.
 An/DT important/JJ element/NN in/IN the/DT accord/NN ,/, EC/NNP officials/NNS said/VBD ,/, is/VBZ a/DT clause/NN  that/WDT provides/VBZ for/IN bilateral/JJ consultations/NNS when/WRB one/CD party/NN decides/VBZ to/TO modify/VB its/PRP$ internal/JJ insurance/NN legislation/NN ./.

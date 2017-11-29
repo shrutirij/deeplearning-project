@@ -13,10 +13,10 @@ all/PDT the/DT money/NN come/VBN from/IN ?/. The/DT young/JJ John/NNP Gutfreund/
 your/PRP$ .../: ,/, '/'' he/PRP would/MD bellow/VB ,/, ''/'' say/VBP the/DT authors/NNS ./.
 the/DT firm/NN ,/, he/PRP became/VBD powerful/JJ and/CC bland/JJ ,/, though/IN his/PRP$ new/JJ wife/NN ,/, Susan/NNP ,/, made/VBD him/PRP shine/VB in/IN the/DT gossip/NN columns/NNS with/IN her/PRP$ profligate/JJ spending/NN habits/NNS and/CC flamboyant/JJ frocks/NNS ./.
 he/PRP had/VBD been/VBN head/NN of/IN the/DT company/NN for/IN 3/CD 1\/2/CD years/NNS ,/, he/PRP and/CC his/PRP$ partners/NNS sold/VBD it/PRP to/TO Phibro/NNP ,/, a/DT powerful/JJ commodity/NN trading/NN outfit/NN ,/, for/IN $/$ 550/CD million/CD in/IN Phibro/NNP stock/NN ./.
-partner/NN Billy/NNP Salomon/NNP ,/, whose/WP$ family/NN name/NN had/VBD been/VBN on/IN the/DT firm/NN 's/POS door/NN for/IN 70/CD years/NNS and/CC who/WP had/VBD hoped/VBN it/PRP ./.
+partner/NN Billy/NNP Salomon/NNP ,/, whose/WP$ family/NN name/NN had/VBD been/VBN on/IN the/DT firm/NN 's/POS door/NN for/IN 70/CD years/NNS and/CC who/WP had/VBD hoped/VBN it/PRP would/MD be/VB there/RB forever/RB ,/, was/VBD not/RB consulted/VBN ./.
 Mr./NNP Gutfreund/NNP collected/VBD $/$ 32/CD million/CD ,/, while/IN Billy/NNP Salomon/NNP got/VBD $/$ 10/CD million/CD ,/, much/RB less/JJR than/IN if/IN he/PRP had/VBD conducted/VBN the/DT sale/NN ./.
-I/PRP felt/VBD betrayed/VBN ,/, ''/'' he/PRP ./.
-Worse/RBR|JJR ,/, Salomon/NNP 's/POS timing/NN ./.
+I/PRP felt/VBD betrayed/VBN ,/, ''/'' he/PRP later/RB said/VBD ./.
+Worse/RBR|JJR ,/, Salomon/NNP 's/POS timing/NN had/VBD been/VBN off/RB ./.
 Its/PRP$ profits/NNS ,/, unlike/IN Phibro/NNP 's/POS ,/, soared/VBD over/IN the/DT next/JJ two/CD years/NNS ,/, and/CC had/VBD it/PRP held/VBN out/RP ,/, Salomon/NNP could/MD have/VB gotten/VBN an/DT even/RB bigger/JJR bundle/NN ./.
 The/DT book/NN also/RB recounts/VBZ the/DT not/RB dissimilar/JJ maneuvers/NNS surrounding/VBG the/DT changing/NN of/IN the/DT guard/NN at/IN Lehman/NNP Bros./NNP and/CC other/JJ grand/JJ old/JJ firms/NNS ./.
 the/DT genteel/JJ ,/, conservative/JJ ,/, long-term-oriented/JJ investment/NN bankers/NNS were/VBD displaced/VBN by/IN crude/JJ traders/NNS :/: ``/`` When/WRB angered/VBN ,/, he/PRP cursed/VBD so/RB forcefully/RB that/IN his/PRP$ face/NN reddened/VB and/CC his/PRP$ pale-blue/JJ eyes/NNS narrowed/VBD into/IN tiny/JJ slits/NNS ,/, ''/'' the/DT authors/NNS say/VBP of/IN Lehman/NNP 's/POS Lewis/NNP Glucksman/NNP ./.
@@ -25,21 +25,21 @@ They/PRP were/VBD old-fashioned/JJ elegant/JJ gentlemen/NNS ,/, who/WP happened/
 the/DT harsh/JJ world/NN of/IN today/NN 's/POS Wall/NNP Street/NNP they/PRP have/VBP lost/VBN out/RP to/TO more/RBR aggressive/JJ and/CC sometimes/RB less/RBR scrupulous/JJ successors/NNS ./.
 The/DT cuckoo/NN prefers/VBZ the/DT nests/NNS of/IN other/JJ birds/NNS and/CC heaves/VBD out/RP their/PRP$ eggs/NNS ./.
 the/DT old/JJ guard/NN hired/VBD the/DT New/NNP Crowd/NNP people/NNS :/: It/PRP brought/VBD in/IN its/PRP$ own/JJ cuckoos/NNS ./.
-the/DT Old/NNP Crowd/NNP toppled/VBD from/IN the/DT branch/NN ,/, it/PRP ./.
+the/DT Old/NNP Crowd/NNP toppled/VBD from/IN the/DT branch/NN ,/, it/PRP should/MD n't/RB have/VB been/VBN too/RB surprised/JJ ./.
 The/DT old/JJ guard/NN had/VBD every/DT right/NN ,/, however/RB ,/, to/TO disdain/VB the/DT newcomers/NNS '/POS new/JJ ways/NNS of/IN making/VBG money/NN ,/, such/JJ as/IN greenmail/NN ./.
 A/DT Fortune/NNP article/NN on/IN Saul/NNP Steinberg/NNP was/VBD entitled/VBN ,/, ``/`` Fear/NN and/CC Loathing/NN in/IN the/DT Corporate/JJ Boardrooms/NNS ./.
 Their/PRP$ other/JJ staple/NN has/VBZ been/VBN corporate/JJ takeovers/NNS ,/, often/RB hostile/JJ and/CC financed/VBN by/IN junk/NN bonds/NNS ./.
 Hostile/JJ takeovers/NNS are/VBP quite/PDT a/DT new/JJ phenomenon/NN ./.
-they/PRP ./.
+they/PRP are/VBP constructive/JJ ,/, but/CC often/RB not/RB ./.
 making/VBG management/NN focus/NN on/IN short-term/JJ results/NNS ,/, they/PRP inhibit/VBP building/VBG for/IN the/DT future/NN --/: just/RB the/DT opposite/JJ of/IN Japan/NNP ./.
-Second/RB ,/, a/DT long-term/JJ shareholder/NN of/IN a/DT good/JJ company/NN need/MD n't/RB worry/VB too/RB much/RB when/WRB the/DT stock/NN price/NN drops/VBZ temporarily/RB :/: It/PRP ./.
+Second/RB ,/, a/DT long-term/JJ shareholder/NN of/IN a/DT good/JJ company/NN need/MD n't/RB worry/VB too/RB much/RB when/WRB the/DT stock/NN price/NN drops/VBZ temporarily/RB :/: It/PRP will/MD bounce/VB back/RP ./.
 a/DT raider/NN takes/VBZ over/RP when/WRB the/DT stock/NN is/VBZ weak/JJ ,/, the/DT shareholder/NN never/RB gets/VBZ his/PRP$ recovery/NN ./.
 The/DT raiders/NNS ,/, meanwhile/RB ,/, have/VBP evolved/VBN their/PRP$ own/JJ pattern/NN for/IN spending/VBG their/PRP$ new/JJ millions/NNS ./.
 The/DT New/JJ Crowd/NN ,/, ''/'' they/PRP take/VBP on/RP ambitious/JJ new/JJ wives/NNS ,/, move/VBP to/TO Greenwich/NNP ,/, Conn./NNP ,/, or/CC Bedford/NNP ,/, N.Y./NNP ,/, buy/VBP OK/JJ pictures/NNS ,/, and/CC let/VBP their/PRP$ wives/NNS share/VB the/DT wealth/NN with/IN decorators/NNS ./.
 museums/NNS ,/, they/PRP demand/VBP a/DT place/NN on/IN their/PRP$ boards/NNS ./.
 The/DT book/NN is/VBZ patronizing/JJ about/IN this/DT nouveau/JJ riche/JJ struggle/NN for/IN respectability/NN ,/, which/WDT has/VBZ its/PRP$ tawdry/JJ aspects/NNS ./.
 balance/NN ,/, the/DT charity/NN game/NN helps/VBZ America/NNP ./.
-those/DT  who/WP have/VBP the/DT money/NN do/VBP n't/RB get/VB involved/JJ with/IN the/DT museums/NNS and/CC the/DT charities/NNS ,/, then/RB City/NNP Hall/NNP will/MD do/VB it/PRP ./.
+those/DT  who/WP have/VBP the/DT money/NN do/VBP n't/RB get/VB involved/JJ with/IN the/DT museums/NNS and/CC the/DT charities/NNS ,/, then/RB City/NNP Hall/NNP will/MD do/VB it/PRP ,/, badly/RB ./.
 It/PRP has/VBZ been/VBN rightly/RB observed/VBN that/IN the/DT main/JJ thing/NN wrong/JJ with/IN tainted/JJ money/NN is/VBZ ,/, t'/PRP ai/VBZ nt/RB  enough/NN of/IN it/PRP ./.
 A/DT handful/NN of/IN the/DT New/NNP Crowd/NNP operators/NNS have/VBP crossed/VBN the/DT line/NN from/IN the/DT immoral/JJ to/TO the/DT illegal/JJ ,/, and/CC have/VBP ended/VBN up/RP in/IN the/DT slammer/NN or/CC paying/VBG huge/JJ fines/NNS :/: Ivan/NNP Boesky/NNP ,/, Dennis/NNP Levine/NNP ,/, Martin/NNP Siegel/NNP ,/, Victor/NNP and/CC Steven/NNP Posner/NNP ,/, and/CC now/RB Michael/NNP Milken/NNP and/CC perhaps/RB Leona/NNP Helmsley/NNP ./.
 The/DT glitzy/JJ office/NN that/WDT Ivan/NNP Boesky/NNP vacated/VBD for/IN a/DT prison/NN cell/NN had/VBD previously/RB contained/VBN commodity/NN operators/NNS Marc/NNP Rich/NNP and/CC ``/`` Pinky/NNP ''/'' Green/NNP ,/, today/NN fugitives/NNS from/IN a/DT potential/JJ century/NN apiece/RB of/IN jail/NN sentences/NNS ./.

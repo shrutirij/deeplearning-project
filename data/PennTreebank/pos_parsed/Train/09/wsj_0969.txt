@@ -3,4 +3,4 @@ W.J./NNP Usery/NNP Jr./NNP ,/, labor/NN secretary/NN during/IN the/DT Ford/NNP a
 Previous/JJ talks/NNS between/IN Pittston/NNP ,/, of/IN Greenwich/NNP ,/, Conn./NNP ,/, and/CC the/DT union/NN have/VBP been/VBN sporadic/JJ and/CC unsuccessful/JJ ./.
 The/DT union/NN called/VBD the/DT strike/NN in/IN April/NNP after/IN Pittston/NNP refused/VBD to/TO sign/VB the/DT UMW/NNP 's/POS national/JJ labor/NN pact/NN ./.
 Pittston/NNP seeks/VBZ changes/NNS in/IN health/NN and/CC pension/NN benefits/NNS ,/, among/IN other/JJ things/NNS ./.
-No/DT schedule/NN for/IN formal/JJ talks/NNS was/VBD set/VBN ,/, but/CC meetings/NNS ./.
+No/DT schedule/NN for/IN formal/JJ talks/NNS was/VBD set/VBN ,/, but/CC meetings/NNS are/VBP expected/VBN to/TO begin/VB soon/RB ./.

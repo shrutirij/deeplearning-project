@@ -1,6 +1,6 @@
 the/DT Sept./NNP 30-Oct/NNP ./.
 4/CD issue/NN of/IN The/NNP Economist/NNP :/:====================================== What/WP defeated/VBD General/NNP Aoun/NNP was/VBD not/RB only/RB the/DT weight/NN of/IN the/DT Syrian/JJ army/NN ./.
-The/DT weight/NN of/IN Lebanon/NNP 's/POS history/NN was/VBD also/RB against/IN him/PRP ;/: and/CC it/PRP is/VBZ a/DT history/NN Israel/NNP is/VBZ in/IN danger/NN ./.
+The/DT weight/NN of/IN Lebanon/NNP 's/POS history/NN was/VBD also/RB against/IN him/PRP ;/: and/CC it/PRP is/VBZ a/DT history/NN Israel/NNP is/VBZ in/IN danger/NN of/IN repeating/VBG ./.
 Lebanon/NNP ,/, and/CC however/RB unfairly/RB ,/, Israel/NNP is/VBZ regarded/VBN by/IN the/DT Arab/JJ world/NN as/IN a/DT colonial/JJ aberration/NN ./.
 Its/PRP$ best/JJS hope/NN of/IN acceptance/NN by/IN its/PRP$ neighbours/NNS lies/VBZ in/IN reaching/VBG a/DT settlement/NN with/IN the/DT Palestinians/NNPS ./.
 Lebanon/NNP ,/, Israel/NNP is/VBZ being/VBG remade/VB by/IN demography/NN ./.

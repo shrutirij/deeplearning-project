@@ -1,7 +1,7 @@
 Friday/NNP ,/, October/NNP 20/CD ,/, 1989/CD ====================================== The/DT key/JJ U.S./NNP and/CC foreign/JJ annual/JJ interest/NN rates/NNS below/RB are/VBP a/DT guide/NN to/TO general/JJ levels/NNS but/CC do/VBP n't/RB always/RB represent/VB actual/JJ transactions/NNS ./.
 PRIME/JJ RATE/NN :/: 10/CD 1\/2/CD %/NN ./.
 The/DT base/NN rate/NN on/IN corporate/JJ loans/NNS at/IN large/JJ U.S./NNP money/NN center/NN commercial/JJ banks/NNS ./.
-FEDERAL/JJ FUNDS/NNS :/: 8/CD 3\/4/CD %/NN high/JJ ,/, 8/CD 5\/8/CD %/NN low/JJ ,/, 8/CD 11\/16/CD %/NN near/IN closing/NN bid/NN ,/, 8/CD 3\/4/CD %/NN ./.
+FEDERAL/JJ FUNDS/NNS :/: 8/CD 3\/4/CD %/NN high/JJ ,/, 8/CD 5\/8/CD %/NN low/JJ ,/, 8/CD 11\/16/CD %/NN near/IN closing/NN bid/NN ,/, 8/CD 3\/4/CD %/NN offered/VBN ./.
 Reserves/NNS traded/VBD among/IN commercial/JJ banks/NNS for/IN overnight/JJ use/NN in/IN amounts/NNS of/IN $/$ 1/CD million/CD or/CC more/JJR ./.
 Source/NN :/: Fulton/NNP Prebon/NNP (/( U.S.A/NN ./.
 Inc/NNP ./.

@@ -2,7 +2,7 @@ Commonwealth/NNP Edison/NNP Co./NNP was/VBD ordered/VBN to/TO refund/VB about/IN
 The/DT refund/NN was/VBD about/IN $/$ 55/CD million/CD more/JJR than/IN previously/RB ordered/VBN by/IN the/DT Illinois/NNP Commerce/NNP Commission/NNP and/CC trade/NN groups/NNS said/VBD it/PRP may/MD be/VB the/DT largest/JJS ever/RB required/VBN of/IN a/DT state/NN or/CC local/JJ utility/NN ./.
 State/NN court/NN Judge/NNP Richard/NNP Curry/NNP ordered/VBD Edison/NNP to/TO make/VB average/JJ refunds/NNS of/IN about/IN $/$ 45/CD to/TO $/$ 50/CD each/DT to/TO Edison/NNP customers/NNS  who/WP have/VBP received/VBN electric/JJ service/NN since/IN April/NNP 1986/CD ,/, including/VBG about/IN two/CD million/CD customers/NNS  who/WP have/VBP moved/VBN during/IN that/DT period/NN ./.
 Judge/NNP Curry/NNP ordered/VBD the/DT refunds/NNS to/TO begin/VB Feb./NNP 1/CD and/CC said/VBD that/IN he/PRP would/MD n't/RB entertain/VB any/DT appeals/NNS or/CC other/JJ attempts/NNS to/TO block/VB his/PRP$ order/NN by/IN Commonwealth/NNP Edison/NNP ./.
-The/DT refund/NN pool/NN .../: may/MD not/RB be/VB held/VBN hostage/NN through/IN another/DT round/NN of/IN appeals/NNS ,/, ''/'' Judge/NNP Curry/NNP ./.
+The/DT refund/NN pool/NN .../: may/MD not/RB be/VB held/VBN hostage/NN through/IN another/DT round/NN of/IN appeals/NNS ,/, ''/'' Judge/NNP Curry/NNP said/VBD ./.
 Commonwealth/NNP Edison/NNP said/VBD it/PRP is/VBZ already/RB appealing/VBG the/DT underlying/VBG commission/NN order/NN and/CC is/VBZ considering/VBG appealing/VBG Judge/NNP Curry/NNP 's/POS order/NN ./.
 The/DT exact/JJ amount/NN of/IN the/DT refund/NN will/MD be/VB determined/VBN next/JJ year/NN based/VBN on/IN actual/JJ collections/NNS made/VBN until/IN Dec./NNP 31/CD of/IN this/DT year/NN ./.
 Commonwealth/NNP Edison/NNP said/VBD the/DT ruling/NN could/MD force/VB it/PRP to/TO slash/VB its/PRP$ 1989/CD earnings/NNS by/IN $/$ 1.55/CD  a/DT share/NN ./.
@@ -11,7 +11,7 @@ A/DT Commonwealth/NNP Edison/NNP spokesman/NN said/VBD that/IN tracking/VBG down
 New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ,/, Commonwealth/NNP Edison/NNP closed/VBD at/IN $/$ 38.375/CD ,/, down/RB 12.5/CD cents/NNS ./.
 The/DT $/$ 2.5/CD billion/CD Byron/NNP 1/CD plant/NN near/IN Rockford/NNP ,/, Ill./NNP ,/, was/VBD completed/VBN in/IN 1985/CD ./.
 a/DT disputed/VBN 1985/CD ruling/NN ,/, the/DT Commerce/NNP Commission/NNP said/VBD Commonwealth/NNP Edison/NNP could/MD raise/VB its/PRP$ electricity/NN rates/NNS by/IN $/$ 49/CD million/CD to/TO pay/VB for/IN the/DT plant/NN ./.
-state/NN courts/NNS upheld/VBD a/DT challenge/NN by/IN consumer/NN groups/NNS to/TO the/DT commission/NN 's/POS rate/NN increase/NN and/CC found/VBD the/DT rates/NNS ./.
+state/NN courts/NNS upheld/VBD a/DT challenge/NN by/IN consumer/NN groups/NNS to/TO the/DT commission/NN 's/POS rate/NN increase/NN and/CC found/VBD the/DT rates/NNS illegal/JJ ./.
 The/DT Illinois/NNP Supreme/NNP Court/NNP ordered/VBD the/DT commission/NN to/TO audit/VB Commonwealth/NNP Edison/NNP 's/POS construction/NN expenses/NNS and/CC refund/VB any/DT unreasonable/JJ expenses/NNS ./.
 The/DT utility/NN has/VBZ been/VBN collecting/VBG for/IN the/DT plant/NN 's/POS construction/NN cost/NN from/IN its/PRP$ 3.1/CD million/CD customers/NNS subject/JJ to/TO a/DT refund/NN since/IN 1986/CD ./.
 August/NNP ,/, the/DT commission/NN ruled/VBD that/IN between/IN $/$ 190/CD million/CD and/CC $/$ 195/CD million/CD of/IN the/DT plant/NN 's/POS construction/NN cost/NN was/VBD unreasonable/JJ and/CC should/MD be/VB refunded/VBN ,/, plus/CC interest/NN ./.

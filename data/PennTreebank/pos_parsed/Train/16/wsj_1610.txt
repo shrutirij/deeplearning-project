@@ -1,7 +1,7 @@
 Textron/NNP Inc./NNP ,/, hampered/VBN by/IN a/DT slowdown/NN in/IN its/PRP$ defense/NN sales/NNS ,/, reported/VBD an/DT 8/CD %/NN decline/NN in/IN per-share/JJ earnings/NNS on/IN nearly/RB flat/JJ revenue/NN for/IN its/PRP$ third/JJ quarter/NN ./.
 The/DT aerospace/NN and/CC financial/JJ services/NNS concern/NN said/VBD net/JJ income/NN fell/VBD 5/CD %/NN to/TO $/$ 59.5/CD million/CD from/IN $/$ 62.8/CD million/CD ./.
 Revenue/NN of/IN $/$ 1.73/CD billion/CD was/VBD almost/RB unchanged/JJ from/IN last/JJ year/NN 's/POS $/$ 1.72/CD billion/CD ./.
-Per-share/JJ net/NN of/IN 66/CD cents/NNS ,/, down/RB from/IN 72/CD cents/NNS ,/, fell/VBD by/IN more/JJR than/IN overall/JJ net/NN because/IN of/IN more/JJR shares/NNS ./.
+Per-share/JJ net/NN of/IN 66/CD cents/NNS ,/, down/RB from/IN 72/CD cents/NNS ,/, fell/VBD by/IN more/JJR than/IN overall/JJ net/NN because/IN of/IN more/JJR shares/NNS outstanding/JJ ./.
 The/DT company/NN said/VBD that/IN improved/VBN results/NNS in/IN its/PRP$ financial-services/JJ sector/NN were/VBD negated/VBN by/IN increased/VBN costs/NNS in/IN its/PRP$ government/NN contract/NN business/NN ,/, lower/JJR operating/NN earnings/NNS in/IN its/PRP$ commercial-products/JJ sector/NN and/CC soft/JJ automotive/JJ markets/NNS ./.
 Net/JJ was/VBD aided/VBN by/IN a/DT lower/JJR income/NN tax/NN rate/NN ./.
 Profit/NN before/IN taxes/NNS fell/VBD 17/CD %/NN to/TO $/$ 84.4/CD million/CD from/IN $/$ 101.4/CD million/CD ./.

@@ -4,5 +4,5 @@ Mr./NNP Ackerman/NNP already/RB is/VBZ seeking/VBG to/TO oust/VB Mr./NNP Edelman
 The/DT action/NN followed/VBN by/IN one/CD day/NN  an/DT Intelogic/NNP announcement/NN that/IN it/PRP will/MD retain/VB an/DT investment/NN banker/NN to/TO explore/VB alternatives/NNS ``/`` to/TO maximize/VB shareholder/NN value/NN ,/, ''/'' including/VBG the/DT possible/JJ sale/NN of/IN the/DT company/NN ./.
 New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ,/, Intelogic/NNP shares/NNS rose/VBD 37.5/CD cents/NNS to/TO close/VB at/IN $/$ 2.75/CD ./.
 Mr./NNP Edelman/NNP declined/VBD to/TO specify/VB what/WP prompted/VBD the/DT recent/JJ moves/NNS ,/, saying/VBG they/PRP are/VBP meant/VBN only/RB to/TO benefit/VB shareholders/NNS when/WRB ``/`` the/DT company/NN is/VBZ on/IN a/DT roll/NN ./.
-He/PRP added/VBD ,/, ``/`` This/DT has/VBZ nothing/NN to/TO do/VB with/IN Marty/NNP Ackerman/NNP and/CC it/PRP is/VBZ not/RB designed/VBN ,/, particularly/RB ,/, to/TO take/VB the/DT company/NN ./.
-Mr./NNP Ackerman/NNP said/VBD the/DT buy-back/NN ,/, and/CC the/DT above-market/JJ price/NN paid/VBN ,/, prove/VBP that/IN Mr./NNP Edelman/NNP ./.
+He/PRP added/VBD ,/, ``/`` This/DT has/VBZ nothing/NN to/TO do/VB with/IN Marty/NNP Ackerman/NNP and/CC it/PRP is/VBZ not/RB designed/VBN ,/, particularly/RB ,/, to/TO take/VB the/DT company/NN private/JJ ./.
+Mr./NNP Ackerman/NNP said/VBD the/DT buy-back/NN ,/, and/CC the/DT above-market/JJ price/NN paid/VBN ,/, prove/VBP that/IN Mr./NNP Edelman/NNP is/VBZ running/VBG scared/JJ ./.

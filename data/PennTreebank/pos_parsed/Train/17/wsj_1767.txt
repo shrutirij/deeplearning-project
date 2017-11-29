@@ -18,13 +18,13 @@ The/DT first/JJ Merkur/NNP ,/, the/DT XR4Ti/NNP ,/, went/VBD on/IN sale/NN in/IN
 The/DT sporty/JJ coupe/NN foundered/VBD in/IN part/NN because/IN American/JJ buyers/NNS did/VBD n't/RB go/VB for/IN the/DT car/NN 's/POS unusual/JJ double-wing/JJ rear/JJ spoiler/NN ./.
 May/NNP 1987/CD ,/, Ford/NNP began/VBD importing/VBG the/DT Scorpio/NNP sedan/NN from/IN West/NNP Germany/NNP to/TO sell/VB next/JJ to/TO a/DT redesigned/VBN XR4Ti/NNP in/IN showrooms/NNS ./.
 Ford/NNP officials/NNS said/VBD they/PRP expected/VBD the/DT two/CD Merkurs/NNPS would/MD sell/VB about/IN 15,000/CD cars/NNS  a/DT year/NN ,/, and/CC in/IN 1988/CD  they/PRP reached/VBD that/DT goal/NN ,/, as/IN sales/NNS hit/VBD 15,261/CD cars/NNS ./.
-It/PRP was/VBD downhill/RB from/IN there/EX ./.
+It/PRP was/VBD downhill/RB from/IN there/EX ,/, however/RB ./.
 One/CD major/JJ factor/NN was/VBD the/DT decline/NN of/IN the/DT dollar/NN against/IN the/DT mark/NN ,/, which/WDT began/VBD less/JJR than/IN a/DT year/NN after/IN Merkur/NNP 's/POS 1985/CD launch/NN ./.
 the/DT West/NNP German/NNP currency/NN rose/VBD ,/, so/RB did/VBD Merkur/NNP prices/NNS ./.
-The/DT Merkur/NNP cars/NNS also/RB suffered/VBD from/IN spotty/JJ quality/NN ,/, some/DT dealers/NNS ./.
+The/DT Merkur/NNP cars/NNS also/RB suffered/VBD from/IN spotty/JJ quality/NN ,/, some/DT dealers/NNS say/VBP ./.
 It/PRP was/VBD like/IN a/DT comedy/NN of/IN errors/NNS ,/, ''/'' says/VBZ Martin/NNP J./NNP ``/`` Hoot/NNP ''/'' McInerney/NNP ,/, a/DT big/JJ dealer/NN  whose/WP$  Star/NNP Lincoln-Mercury-Merkur/NNP operation/NN in/IN Southfield/NNP ,/, Mich./NNP ,/, sold/VBD more/JJR XR4Ti/NNP 's/VBZ  than/IN any/DT other/JJ dealership/NN ./.
-the/DT third/JJ quarter/NN of/IN 1988/CD ,/, Scorpios/NNPS had/VBD a/DT high/JJ satisfaction/NN rating/NN in/IN internal/JJ Ford/NNP studies/NNS ,/, a/DT spokesman/NN ./.
-the/DT improvement/NN ./.
+the/DT third/JJ quarter/NN of/IN 1988/CD ,/, Scorpios/NNPS had/VBD a/DT high/JJ satisfaction/NN rating/NN in/IN internal/JJ Ford/NNP studies/NNS ,/, a/DT spokesman/NN said/VBD ./.
+the/DT improvement/NN came/VBD too/RB late/JJ ./.
 Last/JJ fall/NN ,/, Ford/NNP announced/VBD it/PRP would/MD discontinue/VB the/DT XR4Ti/NNP in/IN the/DT U.S./NNP at/IN the/DT end/NN of/IN the/DT 1989/CD model/NN year/NN ./.
 Ford/NNP said/VBD then/RB it/PRP would/MD keep/VB the/DT Scorpio/NNP ./.
 This/DT year/NN ,/, Scorpio/NNP sales/NNS plummeted/VBD ,/, and/CC at/IN the/DT current/JJ sales/NNS pace/NN it/PRP would/MD take/VB Ford/NNP 242/CD days/NNS to/TO sell/VB off/IN the/DT current/JJ Scorpio/NNP inventory/NN of/IN about/IN 4,600/CD cars/NNS ./.

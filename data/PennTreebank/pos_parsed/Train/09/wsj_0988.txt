@@ -1,7 +1,7 @@
 a/DT rare/JJ package/NN sale/NN of/IN its/PRP$ real/JJ estate/NN ,/, K/NNP mart/NNP Corp./NNP ,/, Troy/NNP ,/, Mich./NNP ,/, has/VBZ sold/VBN 17/CD of/IN its/PRP$ strip/NN shopping/NN centers/NNS to/TO a/DT limited/VBN partnership/NN led/VBN by/IN New/NNP York/NNP developer/NN Philip/NNP Pilevsky/NNP ,/, according/VBG to/TO sources/NNS familiar/JJ with/IN the/DT transaction/NN ./.
 They/PRP estimate/VBP the/DT value/NN of/IN the/DT transaction/NN at/IN close/NN to/TO $/$ 100/CD million/CD ./.
 K/NNP mart/NNP officials/NNS and/CC Mr./NNP Pilevsky/NNP would/MD n't/RB comment/VB on/IN the/DT sale/NN ./.
-K/NNP mart/NNP previously/RB had/VBD announced/VBN it/PRP would/MD report/VB its/PRP$ third/JJ consecutive/JJ decline/NN in/IN quarterly/JJ earnings/NNS for/IN the/DT period/NN ended/VBD yesterday/NN ,/, the/DT same/JJ day/NN  the/DT real/JJ estate/NN deal/NN ./.
+K/NNP mart/NNP previously/RB had/VBD announced/VBN it/PRP would/MD report/VB its/PRP$ third/JJ consecutive/JJ decline/NN in/IN quarterly/JJ earnings/NNS for/IN the/DT period/NN ended/VBD yesterday/NN ,/, the/DT same/JJ day/NN  the/DT real/JJ estate/NN deal/NN was/VBD completed/VBN ./.
 Analysts/NNS are/VBP estimating/VBG third-quarter/JJ earnings/NNS will/MD drop/VB between/IN 13/CD %/NN and/CC 20/CD %/NN to/TO about/IN 50/CD to/TO 55/CD cents/NNS per/IN share/NN ,/, compared/VBN with/IN 63/CD cents/NNS per/IN share/NN in/IN the/DT year-ago/JJ quarter/NN ./.
 It/PRP is/VBZ unclear/JJ what/WDT effect/NN  the/DT sale/NN of/IN the/DT shopping/NN centers/NNS will/MD have/VB on/IN earnings/NNS ./.
 K/NNP mart/NNP developed/VBD the/DT centers/NNS ,/, which/WDT range/VBP in/IN size/NN from/IN about/IN 150,000/CD square/JJ feet/NNS to/TO just/RB over/IN 250,000/CD square/JJ feet/NNS ./.

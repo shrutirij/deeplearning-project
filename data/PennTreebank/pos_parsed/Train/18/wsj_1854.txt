@@ -18,7 +18,7 @@ Other/JJ gainers/NNS were/VBD companies/NNS with/IN one/CD or/CC more/JJR undama
 Tosco/NNP Corp./NNP jumped/VBD $/$ 1.125/CD to/TO $/$ 20.125/CD and/CC Chevron/NNP Corp./NNP ,/, despite/IN a/DT temporary/JJ pipeline/NN shutdown/NN ,/, rose/VBD $/$ 1/CD to/TO $/$ 65/CD ./.
 shares/NNS of/IN some/DT big/JJ housing/NN lenders/NNS got/VBD hit/VBN ,/, on/IN the/DT likelihood/NN that/IN the/DT lenders/NNS '/POS collateral/NN --/: people/NNS 's/POS homes/NNS --/: suffered/VBN physical/JJ damage/NN and/CC perhaps/RB a/DT loss/NN in/IN value/NN ./.
 Wells/NNP Fargo/NNP &/CC Co./NNP fell/VBD 50/CD cents/NNS to/TO $/$ 81.50/CD ,/, and/CC BankAmerica/NNP Corp./NNP fell/VBD 50/CD cents/NNS to/TO $/$ 31.875/CD ./.
-Some/DT California/NNP thrift/NN stocks/NNS also/RB fell/VBD ,/, including/VBG Golden/NNP West/NNP Financial/NNP Corp./NNP and/CC H.F./NNP Ahmanson/NNP &/CC Co./NNP ,/, which/WDT reported/VBD lower/JJR earnings/NNS ./.
+Some/DT California/NNP thrift/NN stocks/NNS also/RB fell/VBD ,/, including/VBG Golden/NNP West/NNP Financial/NNP Corp./NNP and/CC H.F./NNP Ahmanson/NNP &/CC Co./NNP ,/, which/WDT reported/VBD lower/JJR earnings/NNS yesterday/NN ./.
 Property/NN values/NNS did/VBD n't/RB go/VB up/RB in/IN California/NNP yesterday/NN ,/, ''/'' says/VBZ one/CD money/NN manager/NN ./.
 Pacific/NNP Gas/NNP &/CC Electric/NNP Co./NNP fell/VBD 37.5/CD cents/NNS to/TO $/$ 19.625/CD ./.
 One/CD of/IN its/PRP$ power/NN generators/NNS was/VBD damaged/VBN ,/, though/IN the/DT company/NN said/VBD there/EX wo/MD n't/RB be/VB any/DT financial/JJ impact/NN ./.

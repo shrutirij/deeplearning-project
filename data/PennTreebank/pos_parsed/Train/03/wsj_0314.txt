@@ -14,7 +14,7 @@ response/NN ,/, a/DT bipartisan/JJ group/NN of/IN senators/NNS from/IN the/DT fi
 It/PRP will/MD feature/VB a/DT cost-containment/JJ provision/NN designed/VBN to/TO keep/VB expanded/JJ benefits/NNS from/IN fueling/VBG higher/JJR care/NN prices/NNS ./.
 11.1/CD %/NN of/IN gross/JJ national/JJ product/NN ,/, U.S./NNP health/NN costs/NNS already/RB are/VBP the/DT highest/JJS in/IN the/DT world/NN ./.
 contrast/NN ,/, Japan/NNP 's/POS equal/VBP 6.7/CD %/NN of/IN GNP/NN ,/, a/DT nation/NN 's/POS total/JJ output/NN of/IN goods/NNS and/CC services/NNS ./.
-Management/NN and/CC labor/NN worry/VBP that/IN the/DT gap/NN makes/VBZ U.S./NNP companies/NNS ./.
+Management/NN and/CC labor/NN worry/VBP that/IN the/DT gap/NN makes/VBZ U.S./NNP companies/NNS less/RBR competitive/JJ ./.
 Chrysler/NNP Corp./NNP estimates/VBZ that/IN health/NN costs/NNS add/VBP $/$ 700/CD to/TO the/DT price/NN of/IN each/DT of/IN its/PRP$ cars/NNS ,/, about/RB $/$ 300/CD to/TO $/$ 500/CD more/JJR per/IN car/NN than/IN foreign/JJ competitors/NNS pay/VBP for/IN health/NN ./.
 The/DT cost/NN of/IN health/NN care/NN is/VBZ eroding/VBG standards/NNS of/IN living/NN and/CC sapping/VBG industrial/JJ strength/NN ,/, ''/'' complains/VBZ Walter/NNP Maher/NNP ,/, a/DT Chrysler/NNP health-and-benefits/JJ specialist/NN ./.
 Labor/NN is/VBZ upset/JJ because/IN many/JJ companies/NNS are/VBP using/VBG higher/JJR employee/NN insurance/NN premiums/NNS ,/, deductibles/NNS and/CC co-payments/NNS to/TO deflect/VB surging/JJ medical/JJ costs/NNS to/TO workers/NNS ./.
@@ -22,7 +22,7 @@ Health/NNP benefits/NNS are/VBP contentious/JJ issues/NNS in/IN the/DT strikes/N
 their/PRP$ new/JJ contract/NN  this/DT year/NN ,/, American/NNP Telephone/NNP &/CC Telegraph/NNP Co./NNP and/CC the/DT Communications/NNP Workers/NNP of/IN America/NNP agreed/VBD to/TO look/VB for/IN ``/`` prompt/JJ and/CC lasting/JJ national/JJ solutions/NNS ''/'' to/TO rising/VBG health-care/NN costs/NNS ./.
 Some/DT analysts/NNS are/VBP cynical/JJ about/IN the/DT new/JJ corporate/JJ interest/NN in/IN health-care/NN overhaul/NN ./.
 Carl/NNP Schramm/NNP ,/, president/NN of/IN the/DT Health/NNP Insurance/NNP Association/NNP of/IN America/NNP ,/, scoffs/VBZ at/IN ``/`` capitalists/NNS  who/WP want/VBP to/TO socialize/VB the/DT entire/JJ financing/NN system/NN ''/'' for/IN health/NN ./.
-They/PRP hope/VBP they/PRP can/MD buy/VB some/DT government/NN cost/NN discipline/NN ,/, ''/'' but/CC this/DT is/VBZ a/DT false/JJ hope/NN ,/, Mr./NNP Schramm/NNP ./.
+They/PRP hope/VBP they/PRP can/MD buy/VB some/DT government/NN cost/NN discipline/NN ,/, ''/'' but/CC this/DT is/VBZ a/DT false/JJ hope/NN ,/, Mr./NNP Schramm/NNP says/VBZ ./.
 He/PRP asserts/VBZ that/DT government/NN has/VBZ done/VBN an/DT even/RB worse/JJR job/NN of/IN controlling/VBG its/PRP$ health/NN bill/NN than/IN business/NN ./.
 the/DT Bush/NNP administration/NN nor/CC Congress/NNP is/VBZ prepared/VBN to/TO lead/VB the/DT way/NN toward/IN revamping/VBG health/NN care/NN ./.
 The/DT administration/NN lacks/VBZ a/DT comprehensive/JJ health-care/NN policy/NN ./.

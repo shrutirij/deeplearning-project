@@ -5,12 +5,12 @@ The/DT grand/JJ jury/NN has/VBZ also/RB been/VBN investigating/VBG whether/IN Gu
 The/DT individuals/NNS said/VBD Gulf/NNP Power/NNP and/CC federal/JJ prosecutors/NNS are/VBP considering/VBG a/DT settlement/NN under/IN which/WDT  the/DT company/NN would/MD plead/VB guilty/JJ to/TO two/CD felony/NN charges/NNS and/CC pay/VB fines/NNS totaling/VBG between/IN $/$ 500,000/CD and/CC $/$ 1.5/CD million/CD ./.
 one/CD count/NN ,/, Gulf/NNP Power/NNP would/MD plead/VB guilty/JJ to/TO conspiring/VBG to/TO violate/VB the/DT Utility/NNP Holding/NNP Company/NNP Act/NNP ./.
 the/DT second/JJ count/NN ,/, the/DT company/NN would/MD plead/VB guilty/JJ to/TO conspiring/VBG to/TO evade/VB taxes/NNS ./.
-The/DT guilty/JJ pleas/NNS would/MD be/VB made/VBN solely/RB by/IN Gulf/NNP Power/NNP ,/, the/DT individuals/NNS ./.
-No/DT employee/NN or/CC vendor/NN ./.
+The/DT guilty/JJ pleas/NNS would/MD be/VB made/VBN solely/RB by/IN Gulf/NNP Power/NNP ,/, the/DT individuals/NNS said/VBD ./.
+No/DT employee/NN or/CC vendor/NN would/MD be/VB involved/VBN ./.
 A/DT spokesman/NN for/IN Southern/NNP Co./NNP would/MD say/VB only/RB that/IN discussions/NNS are/VBP continuing/VBG between/IN Gulf/NNP Power/NNP and/CC federal/JJ prosecutors/NNS ./.
-We/PRP have/VB no/DT further/JJ developments/NNS to/TO report/VB ,/, ''/'' he/PRP ./.
+We/PRP have/VB no/DT further/JJ developments/NNS to/TO report/VB ,/, ''/'' he/PRP said/VBD ./.
 Officials/NNS at/IN Gulf/NNP Power/NNP could/MD n't/RB be/VB reached/VBN for/IN comment/NN ./.
-prosecutors/NNS ./.
+prosecutors/NNS declined/VBD to/TO comment/VB ./.
 Southern/NNP Co./NNP has/VBZ been/VBN reluctant/JJ to/TO discuss/VB the/DT grand/JJ jury/NN investigations/NNS ,/, Edward/NNP L./NNP Addison/NNP ,/, chief/JJ executive/JJ officer/NN ,/, has/VBZ said/VBD the/DT company/NN is/VBZ prepared/VBN to/TO defend/VB its/PRP$ tax/NN and/CC acccounting/NN practices/NNS if/IN any/DT charges/NNS are/VBP brought/VBN against/IN it/PRP ./.
 Morever/RB ,/, Mr./NNP Addison/NNP has/VBZ said/VBD Southern/NNP Co./NNP and/CC its/PRP$ units/NNS do/VBP n't/RB condone/VB illegal/JJ political/JJ contributions/NNS ./.
 Mr./NNP Addison/NNP nor/CC any/DT other/JJ Southern/NNP Co./NNP official/NN has/VBZ been/VBN charged/VBN with/IN any/DT wrongdoing/NN in/IN connection/NN with/IN the/DT current/JJ inquiries/NNS ./.
@@ -20,4 +20,4 @@ Mr./NNP Horton/NNP oversaw/VBD Gulf/NNP Power/NNP 's/POS governmental-affairs/NN
 the/DT morning/NN of/IN the/DT crash/NN ,/, he/PRP had/VBD been/VBN put/VBN on/IN notice/NN that/IN an/DT audit/NN committee/NN was/VBD recommending/VBG his/PRP$ dismissal/NN because/IN of/IN invoicing/NN irregularities/NNS in/IN a/DT company/NN audit/NN ./.
 Investigators/NNS have/VBP been/VBN trying/VBG to/TO determine/VB whether/IN the/DT crash/NN was/VBD an/DT accident/NN ,/, sabotage/NN or/CC suicide/NN ./.
 Gulf/NNP Power/NNP said/VBD in/IN May/NNP that/IN an/DT internal/JJ audit/NN had/VBD disclosed/VBN that/IN at/IN least/JJS one/CD vendor/NN had/VBD used/VBN false/JJ invoices/NNS to/TO fund/VB political/JJ causes/NNS ./.
-the/DT company/NN said/VBD the/DT political/JJ contributions/NNS had/VBD been/VBN made/VBN more/RBR than/IN five/CD years/NNS ./.
+the/DT company/NN said/VBD the/DT political/JJ contributions/NNS had/VBD been/VBN made/VBN more/RBR than/IN five/CD years/NNS ago/RB ./.

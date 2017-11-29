@@ -2,7 +2,7 @@ IMA/NNP Holdings/NNPS Corp./NNP completed/VBD its/PRP$ $/$ 3/CD billion/CD acqui
 The/DT price/NN also/RB includes/VBZ assumption/NN of/IN about/IN $/$ 1.4/CD billion/CD in/IN debt/NN ./.
 IMA/NNP is/VBZ a/DT group/NN  that/WDT includes/VBZ First/NNP Boston/NNP Corp./NNP and/CC the/DT Pritzker/NNP family/NN of/IN Chicago/NNP through/IN the/DT leveraged/JJ buy-out/NN fund/NN Harry/NNP Gray/NNP Melvyn/NNP Klein/NNP &/CC Partners/NNPS ./.
 Harry/NNP J./NNP Gray/NNP and/CC Melvyn/NNP N./NNP Klein/NNP ,/, along/IN with/IN five/CD other/JJ IMA/NNP designees/NNS ,/, were/VBD named/VBN to/TO join/VB American/NNP Medical/NNP 's/POS 10-member/JJ board/NN ./.
-The/DT completion/NN of/IN the/DT merger/NN agreement/NN follows/VBZ months/NNS of/IN twists/NNS ./.
+The/DT completion/NN of/IN the/DT merger/NN agreement/NN follows/VBZ months/NNS of/IN twists/NNS and/CC turns/NNS ./.
 January/NNP ,/, American/NNP Medical/NNP brought/VBD in/IN a/DT new/JJ chief/JJ executive/NN officer/NN ,/, Richard/NNP A./NN Gilleland/NNP ,/, 45/CD ,/, who/WP will/MD remain/VB as/IN chairman/NN ,/, president/NN and/CC chief/JJ executive/NN ./.
 A/DT few/JJ days/NNS later/RB ,/, American/NNP Medical/NNP announced/VBD sharply/RB lower/JJR earnings/NNS ,/, taking/VBG charges/NNS of/IN $/$ 24/CD million/CD for/IN insurance/NN reserves/NNS and/CC canceled/VBN|JJ real/JJ estate/NN leases/NNS ./.
 March/NNP ,/, American/NNP Medical/NNP received/VBD a/DT $/$ 24-a-share/JJ offer/NN to/TO take/VB the/DT company/NN private/RB from/IN an/DT investor/NN group/NN including/VBG large/JJ holder/NN M./NNP Lee/NNP Pearce/NNP ./.

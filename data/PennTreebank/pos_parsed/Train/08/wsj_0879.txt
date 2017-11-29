@@ -3,9 +3,9 @@ The/DT cosmetics/NNS ,/, jewelry/NN and/CC gift/NN products/NNS concern/NN had/V
 A/DT year/NN earlier/RBR ,/, it/PRP reported/VBD a/DT loss/NN of/IN $/$ 405.9/CD million/CD ,/, or/CC $/$ 7.78/CD  a/DT share/NN ,/, due/JJ to/TO a/DT one-time/JJ $/$ 425/CD million/CD charge/NN for/IN discontinued/VBN operations/NNS ./.
 Sales/NNS rose/VBD 8/CD %/NN to/TO $/$ 785.1/CD million/CD from/IN $/$ 725.6/CD million/CD ./.
 Avon/NNP said/VBD sales/NNS in/IN the/DT direct-selling/JJ division/NN dropped/VBD 2/CD %/NN as/IN sales/NNS of/IN new/JJ products/NNS ,/, especially/RB gift/NN and/CC jewelry/NN lines/NNS ,/, were/VBD below/IN expectations/NNS ./.
-The/DT weak/JJ sales/NNS are/VBP expected/VBN to/TO continue/VB into/IN the/DT fourth/JJ quarter/NN ,/, Avon/NNP ./.
+The/DT weak/JJ sales/NNS are/VBP expected/VBN to/TO continue/VB into/IN the/DT fourth/JJ quarter/NN ,/, Avon/NNP added/VBD ./.
 Third-quarter/JJ net/NN was/VBD on/IN target/NN with/IN expectations/NNS ,/, ''/'' said/VBD Andrew/NNP Shore/NNP ,/, an/DT analyst/NN at/IN Shearson/NNP Lehman/NNP Hutton/NNP Inc/NNP ./.
-the/DT third/JJ quarter/NN is/VBZ n't/RB the/DT problem/NN ,/, Mr./NNP Shore/NNP ./.
+the/DT third/JJ quarter/NN is/VBZ n't/RB the/DT problem/NN ,/, Mr./NNP Shore/NNP added/VBD ./.
 It/PRP 's/VBZ the/DT fourth/JJ quarter/NN and/CC what/WP might/MD linger/VB beyond/IN that/DT ./.
 Last/JJ month/NN ,/, Avon/NN executives/NNS indicated/VBD that/IN the/DT company/NN would/MD experience/VB a/DT $/$ 75/CD million/CD to/TO $/$ 90/CD million/CD revenue/NN shortage/NN due/JJ to/TO weakness/NN in/IN its/PRP$ gift/NN and/CC decorative/JJ lines/NNS ./.
 New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ,/, Avon/NNP closed/VBD at/IN $/$ 26.875/CD ,/, down/RB 87.5/CD cents/NNS ./.

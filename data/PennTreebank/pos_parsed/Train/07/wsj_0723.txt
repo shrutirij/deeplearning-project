@@ -4,7 +4,7 @@ Unice/NNP --/: an/DT acronym/NN for/IN the/DT Union/NNP of/IN Industrial/NNP and
 Workers/NNS and/CC management/NN ,/, Mr./NNP Tyszkiewicz/NNP said/VBD ,/, would/MD lose/VB the/DT ``/`` flexibility/NN and/CC diversity/NN ''/'' that/WDT has/VBZ so/RB far/RB allowed/VBN them/PRP to/TO adapt/VB to/TO local/JJ conditions/NNS and/CC traditions/NNS ./.
 The/DT British/JJ government/NN also/RB strongly/RB opposes/VBZ the/DT charter/NN in/IN its/PRP$ current/JJ form/NN ./.
 It/PRP argues/VBZ ,/, as/RB does/VBZ Unice/NNP ,/, that/IN labor/NN relations/NNS are/VBP best/RB left/VBN to/TO be/VB regulated/VBN at/IN the/DT national/JJ level/NN ./.
-France/NNP will/MD propose/VB a/DT slightly/RB watered-down/JJ version/NN of/IN the/DT charter/NN to/TO be/VB discussed/VBN by/IN EC/NNP social-affairs/NNS ministers/NNS on/IN Monday/NNP ,/, officials/NNS ./.
+France/NNP will/MD propose/VB a/DT slightly/RB watered-down/JJ version/NN of/IN the/DT charter/NN to/TO be/VB discussed/VBN by/IN EC/NNP social-affairs/NNS ministers/NNS on/IN Monday/NNP ,/, officials/NNS said/VBD ./.
 the/DT cosmetic/JJ changes/NNS are/VBP n't/RB expected/VBN to/TO win/VB over/RP Britain/NNP ./.
 We/PRP still/RB have/VBP serious/JJ differences/NNS with/IN the/DT text/NN ,/, ''/'' a/DT British/JJ official/NN said/VBD ,/, because/IN it/PRP provides/VBZ for/IN a/DT ``/`` regulation/NN of/IN the/DT labor/NN market/NN ./.
 Mr./NNP Tyszkiewicz/NNP said/VBD the/DT charter/NN would/MD put/VB poorer/JJR EC/NNP countries/NNS such/JJ as/IN Spain/NNP ,/, Greece/NNP and/CC Portugal/NNP at/IN a/DT disadvantage/NN ./.

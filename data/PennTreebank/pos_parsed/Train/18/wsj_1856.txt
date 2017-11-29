@@ -5,17 +5,17 @@ that/DT her/PRP$ husband/NN prefers/VBZ Crest/NNP ./.
 Some/DT weeks/NNS when/WRB her/PRP$ supermarket/NN runs/VBZ a/DT double-coupon/NN promotion/NN ,/, she/PRP boasts/VBZ that/IN she/PRP shaves/VBZ $/$ 22/CD off/IN her/PRP$ bill/NN ./.
 Money/NN is/VBZ n't/RB the/DT only/JJ thing/NN  that/WDT makes/VBZ her/PRP dump/VB once/RB favorite/JJ brands/NNS ./.
 she/PRP heard/VBD about/IN the/DT artery-clogging/NN hazards/NNS of/IN tropical/JJ oils/NNS in/IN many/JJ cookies/NNS ,/, she/PRP dropped/VBD Pepperidge/NNP Farm/NNP and/CC started/VBD buying/VBG brands/NNS free/JJ of/IN such/JJ oils/NNS ./.
-I/PRP always/RB thought/VBD Pepperidge/NNP Farm/NNP was/VBD tasty/JJ and/CC high/JJ quality/NN ,/, ''/'' Mrs./NNP Lombardi/NNP ./.
+I/PRP always/RB thought/VBD Pepperidge/NNP Farm/NNP was/VBD tasty/JJ and/CC high/JJ quality/NN ,/, ''/'' Mrs./NNP Lombardi/NNP says/VBZ ./.
 I/PRP do/VBP n't/RB want/VB any/DT of/IN that/DT oil/NN for/IN my/PRP$ grandkids/NNS ./.
 Pepperidge/NNP Farm/NNP says/VBZ it/PRP ca/MD n't/RB tell/VB exactly/RB how/WRB many/JJ customers/NNS  it/PRP has/VBZ lost/VBN ,/, but/CC it/PRP hopes/VBZ to/TO remove/VB the/DT objectionable/JJ tropical/JJ oil/NN from/IN all/DT its/PRP$ products/NNS by/IN year/NN end/NN ./.
-people/NNS like/IN Mrs./NNP Lombardi/NNP are/VBP giving/VBG marketers/NNS ./.
+people/NNS like/IN Mrs./NNP Lombardi/NNP are/VBP giving/VBG marketers/NNS fits/NNS ./.
 She/PRP represents/VBZ a/DT new/JJ breed/NN of/IN savvy/JJ consumer/NN  who/WP puts/VBZ bargain/NN prices/NNS ,/, nutritional/JJ and/CC environmental/JJ concerns/NNS ,/, and/CC other/JJ priorities/NNS ahead/RB of/IN old-fashioned/JJ brand/NN loyalty/NN ./.
 brand/NN loyalty/NN is/VBZ far/RB from/IN dead/JJ ,/, marketing/NN experts/NNS say/VBP it/PRP has/VBZ eroded/VBN during/IN the/DT 1980s/NNS ./.
 Marketers/NNS themselves/PRP are/VBP partly/RB to/TO blame/VB :/: They/PRP 've/VBP increased/VBN spending/VBG for/IN coupons/NNS and/CC other/JJ short-term/JJ promotions/NNS at/IN the/DT expense/NN of/IN image-building/JJ advertising/NN ./.
 What/WP 's/VBZ more/JJR ,/, a/DT flood/NN of/IN new/JJ products/NNS has/VBZ given/VBN consumers/NNS  a/DT dizzying/JJ choice/NN of/IN brands/NNS ,/, many/JJ of/IN which/WDT are/VBP virtually/RB carbon/NN copies/NNS of/IN one/CD other/JJ ./.
 Marketers/NNS have/VBP brought/VBN this/DT on/IN themselves/PRP with/IN their/PRP$ heavy/JJ use/NN ''/'' of/IN promotions/NNS ,/, contends/VBZ Joe/NNP Plummer/NNP ,/, an/DT executive/NN vice/NN president/NN at/IN the/DT D'Arcy/NNP Masius/NNP Benton/NNP &/CC Bowles/NNP ad/NN agency/NN ./.
-some/DT real/JJ product/NN improvements/NNS ,/, it/PRP 's/VBZ going/VBG to/TO be/VB difficult/JJ to/TO win/VB that/DT loyalty/NN ./.
-The/DT Wall/NNP Street/NNP Journal/NNP 's/POS ``/`` American/JJ Way/NN of/IN Buying/NN ''/'' survey/NN  this/DT year/NN found/VBD that/IN most/JJS consumers/NNS switch/VBP brands/NNS for/IN many/JJ of/IN the/DT products/NNS they/PRP ./.
+some/DT real/JJ product/NN improvements/NNS ,/, it/PRP 's/VBZ going/VBG to/TO be/VB difficult/JJ to/TO win/VB that/DT loyalty/NN back/RB ./.
+The/DT Wall/NNP Street/NNP Journal/NNP 's/POS ``/`` American/JJ Way/NN of/IN Buying/NN ''/'' survey/NN  this/DT year/NN found/VBD that/IN most/JJS consumers/NNS switch/VBP brands/NNS for/IN many/JJ of/IN the/DT products/NNS they/PRP use/VBP ./.
 the/DT survey/NN ,/, Peter/NNP D./NNP Hart/NNP Research/NNP Associates/NNPS asked/VBD some/DT 2,000/CD consumers/NNS ,/, including/VBG Mrs./NNP Lombardi/NNP ,/, whether/IN they/PRP usually/RB buy/VBP one/CD brand/NN of/IN a/DT certain/JJ type/NN of/IN product/NN or/CC have/VB no/DT brand/NN loyalty/NN ./.
 half/PDT the/DT users/NNS of/IN 17/CD of/IN the/DT 25/CD products/NNS included/VBN in/IN the/DT survey/NN said/VBD they/PRP 're/VBP brand/NN switchers/NNS ./.
 12/CD %/NN of/IN consumers/NNS are/VBP n't/RB brand/NN loyal/JJ for/IN any/DT of/IN the/DT 25/CD product/NN categories/NNS ./.
@@ -25,7 +25,7 @@ such/JJ products/NNS as/IN canned/JJ vegetables/NNS and/CC athletic/JJ shoes/NNS
 cigarettes/NNS ,/, mayonnaise/NN and/CC toothpaste/NN did/VBD more/JJR than/IN 60/CD %/NN of/IN users/NNS say/VB they/PRP typically/RB stick/VBP with/IN the/DT same/JJ brand/NN ./.
 People/NNS tend/VBP to/TO be/VB most/RBS loyal/JJ to/TO brands/NNS  that/WDT have/VBP distinctive/JJ flavors/NNS ,/, such/JJ as/IN cigarettes/NNS and/CC ketchup/NN ./.
 Kathie/NNP Huff/NNP ,/, a/DT respondent/NN in/IN the/DT Journal/NNP survey/NN from/IN Spokane/NNP ,/, Wash./NNP ,/, says/VBZ her/PRP$ husband/NN is/VBZ adamant/JJ about/IN eating/VBG only/JJ Hunt/NNP 's/POS ketchup/NN ./.
-He/PRP simply/RB ca/MD n't/RB stomach/VB the/DT taste/NN of/IN Heinz/NNP ,/, she/PRP ./.
+He/PRP simply/RB ca/MD n't/RB stomach/VB the/DT taste/NN of/IN Heinz/NNP ,/, she/PRP says/VBZ ./.
 The/DT 31-year-old/JJ homemaker/NN adds/VBZ ,/, ``/`` The/DT only/RB other/JJ thing/NN  I/PRP 'm/VBP really/RB loyal/JJ to/TO is/VBZ my/PRP$ Virginia/NNP Slims/NNP cigarettes/NNS ./.
 Coke/NNP and/CC Pepsi/NNP are/VBP all/PDT the/DT same/JJ to/TO me/PRP ,/, and/CC I/PRP usually/RB buy/VBP whichever/WDT brand/NN of/IN coffee/NN happens/VBZ to/TO be/VB on/IN sale/NN ./.
 Brand/NN imagery/NN plays/VBZ a/DT significant/JJ role/NN in/IN loyalty/NN to/TO such/JJ products/NNS as/IN cigarettes/NNS ,/, perfume/NN and/CC beer/NN ./.
@@ -39,22 +39,22 @@ He/PRP believes/VBZ there/EX 's/VBZ opportunity/NN for/IN a/DT smart/JJ gasoline
 What/WP loyalty/NN  there/EX is/VBZ to/TO gas/NN brands/NNS ,/, he/PRP believes/VBZ ,/, is/VBZ a/DT matter/NN of/IN stopping/VBG at/IN the/DT most/RBS conveniently/RB located/JJ service/NN stations/NNS ./.
 Brand/NN loyalty/NN was/VBD stronger/JJR among/IN older/JJR consumers/NNS in/IN the/DT Journal/NNP survey/NN ./.
 participants/NNS age/NN 60/CD and/CC older/JJR claim/VBP brand/NN loyalty/NN for/IN more/JJR than/IN 10/CD of/IN the/DT 25/CD products/NNS in/IN the/DT survey/NN ;/: only/RB 9/CD %/NN of/IN those/DT age/NN 18/CD to/TO 29/CD have/VBP such/JJ strong/JJ allegiance/NN ./.
-Higher-income/JJR people/NNS also/RB tend/VB to/TO be/VB more/RBR brand/NN loyal/JJ these/DT days/NNS ,/, the/DT Journal/NNP survey/NN and/CC other/JJ research/NN studies/NNS ./.
+Higher-income/JJR people/NNS also/RB tend/VB to/TO be/VB more/RBR brand/NN loyal/JJ these/DT days/NNS ,/, the/DT Journal/NNP survey/NN and/CC other/JJ research/NN studies/NNS indicate/VBP ./.
 Marketers/NNS speculate/VBP that/IN more/JJR affluent/JJ people/NNS tend/VBP to/TO lead/VB more/RBR pressured/JJ lives/NNS and/CC do/VBP n't/RB have/VB time/NN to/TO research/VB the/DT products/NNS they/PRP buy/VBP for/IN the/DT highest/JJS quality/NN and/CC most/RBS reasonable/JJ price/NN ./.
 An/DT established/JJ brand/NN name/NN is/VBZ insurance/NN that/IN at/IN least/JJS the/DT product/NN will/MD be/VB of/IN acceptable/JJ quality/NN ,/, if/IN not/RB always/RB the/DT best/JJS value/NN for/IN the/DT money/NN ./.
 It/PRP  's/VBZ sort/NN of/IN loyalty/NN by/IN default/NN ./.
 the/DT bottom/JJ end/NN of/IN the/DT market/NN is/VBZ becoming/VBG less/RBR loyal/JJ ,/, ''/'' says/VBZ Laurel/NNP Cutler/NNP ,/, vice/NN chairman/NN of/IN the/DT ad/NN agency/NN FCB\/Leber/NNP Katz/NNP Partners/NNPS ./.
-They/PRP 're/VBP buying/VBG whatever/WDT ./.
+They/PRP 're/VBP buying/VBG whatever/WDT 's/VBZ cheaper/JJR ./.
 The/DT biggest/JJS wild/JJ card/NN in/IN the/DT brand/NN loyalty/NN game/NN :/: How/WRB those/DT hotly/RB pursued/JJ but/CC highly/RB unpredictable/JJ baby/NN boomers/NNS will/MD behave/VB as/IN they/PRP move/VBP into/IN middle/JJ age/NN ./.
-They/PRP grew/VBD up/RB with/IN more/JJR brand/NN choices/NNS than/IN any/DT generation/NN and/CC have/VBP shown/VBN less/JJR allegiance/NN ./.
-they/PRP 're/VBP settling/VBG down/RB and/CC raising/VBG families/NNS ,/, might/MD they/PRP also/RB show/VB more/JJR stability/NN in/IN their/PRP$ brand/NN choices/NNS ?/.====================================== Mr./NNP Kim/NNP of/IN J./NNP Walter/NNP Thompson/NNP ./.
+They/PRP grew/VBD up/RB with/IN more/JJR brand/NN choices/NNS than/IN any/DT generation/NN and/CC have/VBP shown/VBN less/JJR allegiance/NN so/RB far/RB ./.
+they/PRP 're/VBP settling/VBG down/RB and/CC raising/VBG families/NNS ,/, might/MD they/PRP also/RB show/VB more/JJR stability/NN in/IN their/PRP$ brand/NN choices/NNS ?/.====================================== Mr./NNP Kim/NNP of/IN J./NNP Walter/NNP Thompson/NNP does/VBZ n't/RB think/VB so/RB ./.
 He/PRP believes/VBZ baby/NN boomers/NNS will/MD continue/VB to/TO be/VB selective/JJ in/IN their/PRP$ brand/NN loyalties/NNS ./.
 Earlier/JJR generations/NNS were/VBD brand/NN loyal/JJ across/IN categories/NNS ,/, ''/'' he/PRP says/VBZ ,/, ``/`` but/CC boomers/NNS tend/VBP to/TO be/VB brand/NN loyal/JJ in/IN categories/NNS like/IN running/NN shoes/NNS and/CC bottled/JJ water/NN ,/, but/CC less/RBR so/RB in/IN others/NNS like/IN toilet/NN paper/NN and/CC appliances/NNS ./.
-the/DT past/NN ,/, consumers/NNS today/NN do/VBP n't/RB buy/VB products/NNS ./.
+the/DT past/NN ,/, consumers/NNS today/NN do/VBP n't/RB buy/VB products/NNS capriciously/RB ,/, either/RB ./.
 they/PRP tend/VBP to/TO have/VB a/DT set/NN of/IN two/CD or/CC three/CD favorites/NNS ./.
 they/PRP 'll/MD choose/VB Ragu/NNP spaghetti/NNS sauce/NN ;/: other/JJ times/NNS ,/, it/PRP will/MD be/VB Prego/NNP ./.
 Advertisers/NNS attribute/VBP this/DT shared/JJ loyalty/NN to/TO the/DT striking/JJ similarity/NN among/IN brands/NNS ./.
-a/DT more/RBR absorbent/JJ Pampers/NNPS hits/VBZ the/DT market/NN ,/, you/PRP can/MD be/VB sure/JJ a/DT new/JJ and/CC improved/JJ Huggies/NNPS ./.
+a/DT more/RBR absorbent/JJ Pampers/NNPS hits/VBZ the/DT market/NN ,/, you/PRP can/MD be/VB sure/JJ a/DT new/JJ and/CC improved/JJ Huggies/NNPS wo/MD n't/RB be/VB far/RB behind/RB ./.
 The/DT BBDO/NNP Worldwide/NNP ad/NN agency/NN studied/VBD ``/`` brand/NN parity/NN ''/'' and/CC found/VBD that/IN consumers/NNS believe/VBP all/DT brands/NNS are/VBP about/IN the/DT same/JJ in/IN a/DT number/NN of/IN categories/NNS ,/, particularly/RB credit/NN cards/NNS ,/, paper/NN towels/NNS ,/, dry/JJ soups/NNS and/CC snack/NN chips/NNS ./.
 there/EX 's/VBZ a/DT clutter/NN of/IN brands/NNS ,/, consumers/NNS simplify/VBP the/DT complexity/NN by/IN telling/VBG themselves/PRP ,/, `/`` All/DT brands/NNS are/VBP the/DT same/JJ so/CC what/WDT difference/NN does/VBZ it/PRP make/VB which/WDT  I/PRP buy/VBP ,/, '/'' ''/'' says/VBZ Karen/NNP Olshan/NNP ,/, a/DT senior/JJ vice/NN president/NN at/IN BBDO/NNP ./.
 imagery/NN has/VBZ n't/RB done/VBN a/DT good/JJ job/NN of/IN forging/VBG a/DT special/JJ emotional/JJ bond/NN between/IN a/DT brand/NN and/CC the/DT consumer/NN ./.
@@ -77,4 +77,4 @@ Our/PRP$ heavy/JJ users/NNS consume/VBP two/CD to/TO three/CD cans/NNS of/IN sou
 Campbell/NNP is/VBZ talking/VBG to/TO its/PRP$ ``/`` brand/NN enthusiasts/NNS ,/, ''/'' probing/VBG their/PRP$ psychological/JJ attachment/NN to/TO its/PRP$ soup/NN ./.
 one/CD consumer/NN focus/NN group/NN ,/, a/DT fan/NN declared/VBD that/IN ,/, ``/`` Campbell/NNP 's/POS soup/NN is/VBZ like/IN getting/VBG a/DT hug/NN from/IN a/DT friend/NN ./.
 That/DT helped/VBD persuade/VB the/DT company/NN to/TO introduce/VB a/DT new/JJ advertising/NN slogan/NN :/: ``/`` A/DT warm/JJ hug/NN from/IN Campbell/NNP 's/POS ./.
-brand/NN ======================================./.
+brand/NN ======================================

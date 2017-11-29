@@ -12,7 +12,7 @@ The/DT Red/NNP and/CC White/NNP Fleet/NNP ,/, which/WDT operates/VBZ regular/JJ 
 That/DT tariff/NN is/VBZ too/RB stiff/JJ for/IN some/DT Financial/NNP District/NNP wage/NN earners/NNS ./.
 I/PRP 'll/MD stay/VB with/IN BART/NNP ,/, ''/'' said/VBD one/CD secretary/NN ,/, swallowing/VBG her/PRP$ fears/NNS about/IN using/VBG the/DT transbay/JJ tube/NN ./.
 Officials/NNS expect/VBP the/DT Golden/NNP Gate/NNP Bridge/NNP to/TO be/VB swamped/VBN with/IN an/DT extra/JJ load/NN of/IN commuters/NNS ,/, including/VBG East/NNP Bay/NNP residents/NNS making/VBG a/DT long/JJ detour/NN ./.
-We/PRP 're/VBP anticipating/VBG quite/RB a/DT traffic/NN crunch/NN ,/, ''/'' said/VBD one/CD ./.
+We/PRP 're/VBP anticipating/VBG quite/RB a/DT traffic/NN crunch/NN ,/, ''/'' said/VBD one/CD official/NN ./.
 23,000/CD people/NNS typically/RB travel/VBP over/IN the/DT Golden/NNP Gate/NNP Bridge/NNP during/IN commute/NN hours/NNS ./.
 130,000/CD vehicles/NNS cross/VBP during/IN a/DT 24-hour/JJ period/NN ./.
 Meetings/NNS canceled/VBN by/IN Apple/NNP Computer/NNP Inc./NNP 's/POS European/JJ sales/NNS force/NN and/CC by/IN other/JJ groups/NNS raised/VBD the/DT specter/NN of/IN empty/JJ hotel/NN rooms/NNS and/CC restaurants/NNS ./.
@@ -30,7 +30,7 @@ The/DT preliminary/JJ conclusion/NN from/IN a/DT survey/NN of/IN 200/CD downtown
 many/JJ of/IN these/DT buildings/NNS sustained/VBD heavy/JJ damage/NN ,/, little/JJ of/IN that/DT involved/VBN major/JJ structural/JJ damage/NN ./.
 City/NN building/NN codes/NNS require/VBP construction/NN  that/WDT can/MD resist/VB temblors/NNS ./.
 England/NNP ,/, Martin/NNP Leach/NNP ,/, a/DT spokesman/NN for/IN Lloyd/NN 's/POS of/IN London/NNP ,/, said/VBD the/DT insurance/NN market/NN has/VBZ n't/RB yet/RB been/VBN able/JJ to/TO estimate/VB the/DT total/JJ potential/JJ claims/NNS from/IN the/DT disaster/NN ./.
-The/DT extent/NN of/IN the/DT claims/NNS wo/MD n't/RB be/VB known/VBN for/IN some/DT time/NN ,/, ''/'' Mr./NNP Leach/NNP ./.
+The/DT extent/NN of/IN the/DT claims/NNS wo/MD n't/RB be/VB known/VBN for/IN some/DT time/NN ,/, ''/'' Mr./NNP Leach/NNP said/VBD ./.
 Friday/NNP ,/, during/IN a/DT visit/NN to/TO California/NNP to/TO survey/VB quake/NN damage/NN ,/, President/NNP Bush/NNP promised/VBD to/TO ``/`` meet/VB the/DT federal/JJ government/NN 's/POS obligation/NN ''/'' to/TO assist/VB relief/NN efforts/NNS ./.
 California/NNP officials/NNS plan/VBP to/TO  ask/VB Congress/NNP for/IN $/$ 3/CD billion/CD or/CC more/JJR of/IN federal/JJ aid/NN ,/, in/IN the/DT form/NN of/IN grants/NNS and/CC low-interest/JJ loans/NNS ./.
 The/DT state/NN has/VBZ a/DT $/$ 1/CD billion/CD reserve/NN ,/, and/CC is/VBZ expected/VBN to/TO add/VB $/$ 1/CD billion/CD to/TO that/DT fund/NN in/IN the/DT next/JJ year/NN ./.

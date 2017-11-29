@@ -8,6 +8,6 @@ Exabyte/NNP Corp./NNP ,/, a/DT Boulder/NNP ,/, Colo./NNP ,/, maker/NN of/IN high
 Rally/NNP 's/POS Inc./NN ,/, a/DT Louisville/NNP ,/, Ky./NNP ,/, restaurant/NN franchisor/NN ,/, started/VBD trading/VBG under/IN RLLY/NNP ./.
 Sierra/NNP Tucson/NNP Cos./NNP ,/, Tucson/NNP ,/, Ariz./NNP ,/, started/VBD trading/VBG under/IN STSN/NNP ./.
 It/PRP operates/VBZ various/JJ types/NNS of/IN addiction-treatment/JJ facilities/NNS ./.
-the/DT Pacific/NNP Stock/NNP Exchange/NNP ,/, put/JJ and/CC call/JJ options/NNS on/IN the/DT common/JJ stock/NN of/IN Aldus/NNP Corp./NNP ./.
+the/DT Pacific/NNP Stock/NNP Exchange/NNP ,/, put/JJ and/CC call/JJ options/NNS on/IN the/DT common/JJ stock/NN of/IN Aldus/NNP Corp./NNP started/VBD trading/VBG ./.
 Aldus/NNP ,/, Seattle/NNP ,/, makes/VBZ computer/NN software/NN products/NNS ./.
 Options/NNS give/VBP a/DT holder/NN  the/DT right/NN ,/, but/CC not/RB the/DT obligation/NN ,/, to/TO buy/VB or/CC sell/VB a/DT security/NN at/IN a/DT set/VBN price/NN within/IN a/DT set/VBN period/NN of/IN time/NN ./.

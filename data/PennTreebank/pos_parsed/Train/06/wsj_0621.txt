@@ -4,5 +4,5 @@ the/DT agreement/NN ,/, First/NNP Tennesse/NNP would/MD continue/VB to/TO develo
 personal/JJ computers/NNS will/MD soon/RB be/VB on/IN the/DT desks/NNS of/IN all/DT of/IN our/PRP$ tellers/NNS ,/, and/CC customer/NN service/NN and/CC loan/NN representatives/NNS ,/, information/NN will/MD be/VB instantly/RB available/JJ to/TO help/VB customers/NNS with/IN product/NN decisions/NNS and/CC provide/VB them/PRP with/IN information/NN about/IN their/PRP$ accounts/NNS ,/, ''/'' according/VBG to/TO John/NNP Kelley/NNP ,/, executive/JJ vice/NN president/NN and/CC corporate/JJ services/NNS group/NN manager/NN at/IN First/NNP Tennessee/NNP ./.
 120/CD employees/NNS will/MD be/VB affected/VBN by/IN the/DT agreement/NN ./.
 Tennessee/NNP ,/, assisted/VBN by/IN IBM/NNP ,/, said/VBD it/PRP will/MD attempt/VB to/TO place/VB the/DT employees/NNS within/IN the/DT company/NN ,/, IBM/NNP or/CC other/JJ companies/NNS in/IN Memphis/NNP ./.
-The/DT process/NN will/MD take/VB as/RB many/JJ as/IN six/CD months/NNS to/TO complete/VB ,/, the/DT company/NN ./.
+The/DT process/NN will/MD take/VB as/RB many/JJ as/IN six/CD months/NNS to/TO complete/VB ,/, the/DT company/NN said/VBD ./.
 The/DT agreement/NN is/VBZ subject/JJ to/TO the/DT banking/NN company/NN 's/POS board/NN approval/NN ,/, which/WDT is/VBZ expected/VBN next/JJ month/NN ./.

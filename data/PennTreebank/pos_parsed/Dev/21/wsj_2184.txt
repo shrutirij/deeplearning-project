@@ -13,13 +13,13 @@ Car/NN and/CC truck/NN sales/NNS are/VBP expected/VBN to/TO soften/VB during/IN 
 None/NN of/IN it/PRP is/VBZ a/DT surprise/NN ,/, ''/'' said/VBD Edward/NNP Sullivan/NNP ,/, vice/NN president/NN of/IN automotive/JJ consulting/NN at/IN the/DT WEFA/NNP Group/NNP ,/, a/DT market/NN analysis/NN firm/NN in/IN Bala/NNP Cynwyd/NNP ,/, Pa/NNP ./.
 Strong/JJ third-quarter/JJ sales/NNS stole/VBD from/IN fourth-quarter/JJ sales/NNS ./.
 He/PRP said/VBD schedules/NNS at/IN GM/NNP ,/, in/IN particular/JJ ,/, are/VBP still/RB too/RB high/RB given/VBN market/NN expectations/NNS ,/, which/WDT will/MD likely/RB mean/VB some/DT trimming/NN ./.
-the/DT cuts/NNS are/VBP going/VBG to/TO come/VB ,/, they/PRP 'll/MD have/VB to/TO come/VB pretty/RB soon/RB ,/, ''/'' he/PRP ./.
+the/DT cuts/NNS are/VBP going/VBG to/TO come/VB ,/, they/PRP 'll/MD have/VB to/TO come/VB pretty/RB soon/RB ,/, ''/'' he/PRP added/VBD ./.
 you/PRP get/VBP into/IN November/NNP there/EX 's/VBZ not/RB a/DT whole/JJ lot/NN of/IN flexibility/NN ./.
 The/DT recent/JJ gyrations/NNS in/IN the/DT stock/NN market/NN did/VBD n't/RB have/VB any/DT immediate/JJ impact/NN on/IN the/DT auto/NN makers/NNS '/POS schedules/NNS ./.
 the/DT minimal/JJ impact/NN that/IN the/DT 1987/CD event/NN had/VBN on/IN car/NN sales/NNS ,/, this/DT little/JJ hiccup/NN is/VBZ unlikely/JJ to/TO have/VB any/DT influence/NN ,/, ''/'' said/VBD a/DT Ford/NNP spokesman/NN ./.
 industry/NN forecasts/NNS for/IN the/DT fourth/JJ quarter/NN :/:======================================Much/JJ of/IN the/DT difference/NN in/IN Chrysler/NNP 's/POS car/NN output/NN compared/VBN with/IN a/DT year/NN ago/RB comes/VBZ from/IN having/VBG two/CD fewer/JJR plants/NNS ;/: Chrysler/NNP 's/POS now-shuttered/JJ facilities/NNS in/IN Kenosha/NNP ,/, Wis./NNP ,/, turned/VBD out/RP 51,000/CD subcompacts/NNS and/CC mid-size/JJ cars/NNS in/IN the/DT 1988/CD fourth-quarter/NN before/IN it/PRP closed/VBD in/IN December/NNP ./.
 half/PDT the/DT decline/NN in/IN Ford/NNP 's/POS expected/JJ car/NN output/NN comes/VBZ from/IN closing/VBG its/PRP$ Escort/NNP plant/NN in/IN Wayne/NNP ,/, Mich./NNP ,/, as/IN of/IN Nov./NNP 22/CD to/TO prepare/VB for/IN production/NN of/IN the/DT next/JJ generation/NN of/IN the/DT popular/JJ subcompact/NN ./.
-The/DT plant/NN wo/MD n't/RB reopen/VB until/IN late/JJ February/NNP or/CC early/JJ March/NNP ,/, the/DT company/NN spokesman/NN ./.
+The/DT plant/NN wo/MD n't/RB reopen/VB until/IN late/JJ February/NNP or/CC early/JJ March/NNP ,/, the/DT company/NN spokesman/NN said/VBD ./.
 The/DT lower/JJR output/NN will/MD likely/RB mean/VB the/DT subcompacts/NNS will/MD lose/VB for/IN the/DT first/JJ time/NN since/IN the/DT 1985/CD model/NN year/NN their/PRP$ distinction/NN as/IN the/DT best-selling/JJS car/NN in/IN the/DT U.S/NNP ./.
 Honda/NNP 's/POS Accord/NNP ,/, made/VBN in/IN the/DT U.S./NNP and/CC Japan/NNP ,/, was/VBD a/DT close/JJ second/NN to/TO Escort/NNP in/IN the/DT just-ended/JJ 1989/CD model/NN year/NN ./.
 Accord/NNP were/VBD to/TO top/VB the/DT list/NN in/IN 1990/CD ,/, it/PRP would/MD be/VB the/DT first/JJ vehicle/NN from/IN a/DT foreign/JJ auto/NN maker/NN ever/RB to/TO hold/VB that/DT spot/NN ./.

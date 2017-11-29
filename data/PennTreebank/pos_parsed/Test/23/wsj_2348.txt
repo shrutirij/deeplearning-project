@@ -1,11 +1,11 @@
 The/DT government/NN sold/VBD the/DT deposits/NNS of/IN four/CD savings-and-loan/JJ institutions/NNS ,/, in/IN its/PRP$ first/JJ wave/NN of/IN sales/NNS of/IN big/JJ ,/, sick/JJ thrifts/NNS ,/, but/CC low/JJ bids/NNS prevented/VBD the/DT sale/NN of/IN a/DT fifth/JJ ./.
-The/DT four/CD S&Ls/NNS were/VBD sold/VBN to/TO large/JJ banks/NNS ,/, as/IN was/VBD the/DT case/NN with/IN most/JJS of/IN the/DT 28/CD previous/JJ transactions/NNS initiated/VBN by/IN the/DT Resolution/NNP Trust/NNP Corp./NNP since/IN it/PRP was/VBD created/VBN in/IN the/DT S&L/NN bailout/NN legislation/NN two/CD months/NNS ./.
+The/DT four/CD S&Ls/NNS were/VBD sold/VBN to/TO large/JJ banks/NNS ,/, as/IN was/VBD the/DT case/NN with/IN most/JJS of/IN the/DT 28/CD previous/JJ transactions/NNS initiated/VBN by/IN the/DT Resolution/NNP Trust/NNP Corp./NNP since/IN it/PRP was/VBD created/VBN in/IN the/DT S&L/NN bailout/NN legislation/NN two/CD months/NNS ago/RB ./.
 Two/CD of/IN the/DT four/CD big/JJ thrifts/NNS were/VBD sold/VBN to/TO NCNB/NNP Corp./NNP ,/, Charlotte/NNP ,/, N.C./NNP ,/, which/WDT has/VBZ aggressively/RB expanded/VBN its/PRP$ markets/NNS ,/, particularly/RB in/IN Texas/NNP and/CC Florida/NNP ./.
 A/DT Canadian/JJ bank/NN bought/VBD another/DT thrift/NN ,/, in/IN the/DT first/JJ RTC/NNP transaction/NN with/IN a/DT foreign/JJ bank/NN ./.
 these/DT deals/NNS ,/, the/DT RTC/NNP sells/VBZ just/RB the/DT deposits/NNS and/CC the/DT healthy/JJ assets/NNS ./.
-These/DT ``/`` clean-bank/JJ ''/'' transactions/NNS leave/VBP the/DT bulk/NN of/IN bad/JJ assets/NNS ,/, mostly/RB real/JJ estate/NN ,/, with/IN the/DT government/NN ./.
+These/DT ``/`` clean-bank/JJ ''/'' transactions/NNS leave/VBP the/DT bulk/NN of/IN bad/JJ assets/NNS ,/, mostly/RB real/JJ estate/NN ,/, with/IN the/DT government/NN ,/, to/TO be/VB sold/VBN later/RB ./.
 these/DT four/CD ,/, for/IN instance/NN ,/, the/DT RTC/NNP is/VBZ stuck/VBN with/IN $/$ 4.51/CD billion/CD in/IN bad/JJ assets/NNS ./.
-Acquirers/NNS paid/VBD premiums/NNS ranging/VBG from/IN 1.5/CD %/NN to/TO 3.7/CD %/NN for/IN the/DT deposits/NNS and/CC branch/NN systems/NNS ,/, roughly/RB in/IN line/NN with/IN what/WP analysts/NNS ./.
+Acquirers/NNS paid/VBD premiums/NNS ranging/VBG from/IN 1.5/CD %/NN to/TO 3.7/CD %/NN for/IN the/DT deposits/NNS and/CC branch/NN systems/NNS ,/, roughly/RB in/IN line/NN with/IN what/WP analysts/NNS were/VBD expecting/VBG ./.
 The/DT buyers/NNS will/MD also/RB be/VB locked/VBN into/IN deposit/NN rates/NNS for/IN just/RB two/CD weeks/NNS ,/, as/IN has/VBZ been/VBN the/DT case/NN with/IN previous/JJ deals/NNS ./.
 that/DT ,/, the/DT buyers/NNS may/MD repudiate/VB the/DT rates/NNS paid/VBN by/IN the/DT former/JJ thrifts/NNS ./.
 it/PRP 's/VBZ uncertain/JJ whether/IN these/DT institutions/NNS will/MD take/VB those/DT steps/NNS ./.

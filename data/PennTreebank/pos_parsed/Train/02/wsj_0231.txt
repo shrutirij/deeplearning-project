@@ -3,9 +3,9 @@ London/NNP shares/NNS also/RB rose/VBD ,/, while/IN trading/NN in/IN Frankfurt/N
 Tokyo/NNP ,/, the/DT Nikkei/NNP index/NN of/IN 225/CD selected/VBN issues/NNS was/VBD up/RB 132.00/CD points/NNS to/TO 35549.44/CD ./.
 The/DT index/NN fell/VBD 109.85/CD Monday/NNP ./.
 Volume/NN on/IN the/DT First/JJ Section/NN was/VBD estimated/VBN at/IN 900/CD million/CD shares/NNS ,/, up/RB from/IN 582/CD million/CD shares/NNS Monday/NNP ./.
-issues/NNS outnumbered/VBD decliners/NNS 542/CD to/TO 362/CD ,/, while/IN 208/CD issues/NNS ./.
+issues/NNS outnumbered/VBD decliners/NNS 542/CD to/TO 362/CD ,/, while/IN 208/CD issues/NNS were/VBD unchanged/JJ ./.
 Small-lot/JJ buying/NN targeted/VBN at/IN incentive-backed/JJ issues/NNS pushed/VBN up/RP the/DT Nikkei/NNP ./.
-other/JJ sectors/NNS failed/VBD to/TO attract/VB investor/NN interest/NN and/CC remained/VBD sluggish/JJ ,/, making/VBG overall/JJ ./.
+other/JJ sectors/NNS failed/VBD to/TO attract/VB investor/NN interest/NN and/CC remained/VBD sluggish/JJ ,/, making/VBG overall/JJ trading/NN appear/VB mixed/JJ ./.
 Individuals/NNS and/CC corporations/NNS ,/, as/RB well/RB as/IN dealers/NNS trading/VBG for/IN their/PRP$ own/JJ account/NN ,/, actively/RB bought/VBD Tuesday/NNP ./.
 An/DT official/NN at/IN Wako/NNP Securities/NNPS said/VBD these/DT investors/NNS feel/VBP the/DT need/NN to/TO make/VB quick/JJ profits/NNS ,/, despite/IN destabilizing/JJ external/JJ factors/NNS ,/, such/JJ as/IN political/JJ uncertainty/NN tied/VBN to/TO the/DT ruling/VBG party/NN 's/POS fate/NN at/IN next/JJ year/NN 's/POS Lower/NNP House/NNP elections/NNS -/: an/DT  event/NN  which/WDT could/MD directly/RB affect/VB the/DT stock/NN market/NN ./.
 The/DT Tokyo/NNP Stock/NNP Price/NNP Index/NNP of/IN all/DT issues/NNS listed/VBN in/IN the/DT First/JJ Section/NN ,/, which/WDT declined/VBD 5.16/CD on/IN Monday/NNP ,/, was/VBD up/RB 16.05/CD ,/, or/CC 0.60/CD %/NN ,/, at/IN 2692.65/CD on/IN Tuesday/NNP ./.
@@ -15,15 +15,15 @@ Institutional/JJ investors/NNS mostly/RB remained/VBD on/IN the/DT sidelines/NNS
 A/DT fund/NN manager/NN at/IN a/DT life-insurance/NN company/NN said/VBD three/CD factors/NNS make/VBP it/PRP difficult/JJ to/TO read/VB market/NN direction/NN ./.
 he/PRP said/VBD ,/, domestic/JJ interest/NN rates/NNS are/VBP likely/JJ to/TO stay/VB at/IN higher/JJR levels/NNS as/IN increased/JJ anticipation/NN of/IN inflation/NN followed/VBD rising/VBG consumer/NN prices/NNS reported/VBN last/JJ week/NN ./.
 Second/LS ,/, the/DT dollar/NN is/VBZ showing/VBG persistent/JJ strength/NN despite/IN a/DT slowdown/NN in/IN the/DT U.S./NNP economy/NN shown/VBN by/IN economic/JJ indicators/NNS ./.
-Third/LS ,/, oil/NN prices/NNS have/VBP n't/RB declined/VBN although/IN supply/NN ./.
+Third/LS ,/, oil/NN prices/NNS have/VBP n't/RB declined/VBN although/IN supply/NN has/VBZ been/VBN increasing/VBG ./.
 The/DT topic/NN  that/WDT attracted/VBD participants/NNS '/POS attention/NN was/VBD Mitsubishi/NNP Estate/NNP 's/POS purchase/NN of/IN 51/CD %/NN of/IN Rockefeller/NNP Center/NNP Properties/NNPS ,/, announced/VBD late/JJ Monday/NNP in/IN New/NNP York/NNP ./.
 Mitsubishi/NNP Estate/NNP ended/VBD the/DT day/NN at/IN 2680/CD ,/, up/RB 150/CD ./.
-The/DT gains/NNS also/RB sparked/VBD buying/NN interest/NN in/IN other/JJ real-estate/NN companies/NNS ,/, traders/NNS ./.
+The/DT gains/NNS also/RB sparked/VBD buying/NN interest/NN in/IN other/JJ real-estate/NN companies/NNS ,/, traders/NNS said/VBD ./.
 Sumitomo/NNP Realty/NNP &/CC Development/NNP rose/VBD 40/CD to/TO 2170/CD ./.
 Heiwa/NNP Real/NNP Estate/NNP gained/VBD 40/CD to/TO 2210/CD ./.
-Investor/NN focus/NN shifted/VBD quickly/RB ,/, traders/NNS ./.
+Investor/NN focus/NN shifted/VBD quickly/RB ,/, traders/NNS said/VBD ./.
 Many/JJ of/IN the/DT morning-session/NN winners/NNS turned/VBD out/RB to/TO be/VB losers/NNS by/IN afternoon/NN ./.
-other/JJ stock-market/NN news/NN ,/, the/DT Tokyo/NNP Stock/NNP Exchange/NNP said/VBD that/IN for/IN the/DT week/NN ended/VBN Friday/NNP ,/, the/DT balance/NN of/IN margin/JJ buying/NN rose/VBD 189.8/CD billion/CD yen/NNS (/( $/$ 1.34/CD billion/CD )/) ,/, to/TO 7.160/CD trillion/CD yen/NNS (/( $/$ 50.46/CD billion/CD ./.
+other/JJ stock-market/NN news/NN ,/, the/DT Tokyo/NNP Stock/NNP Exchange/NNP said/VBD that/IN for/IN the/DT week/NN ended/VBN Friday/NNP ,/, the/DT balance/NN of/IN margin/JJ buying/NN rose/VBD 189.8/CD billion/CD yen/NNS (/( $/$ 1.34/CD billion/CD )/) ,/, to/TO 7.160/CD trillion/CD yen/NNS (/( $/$ 50.46/CD billion/CD )/) ./.
 The/DT balance/NN of/IN short/JJ positions/NNS outstanding/JJ fell/VBD 159.7/CD billion/CD yen/NNS ,/, to/TO 779.8/CD billion/CD yen/NNS ./.
 London/NNP ,/, prices/NNS finished/VBD at/IN intraday/JJ peaks/NNS ,/, comforted/VBN by/IN a/DT reassuring/JJ early/JJ performance/NN on/IN Wall/NNP Street/NNP and/CC news/NN that/IN the/DT British/JJ government/NN will/MD waive/VB its/PRP$ ``/`` golden/JJ share/NN ''/'' in/IN auto/NN maker/NN Jaguar/NNP ./.
 investment/NN decision/NN makers/NNS remain/VBP wary/JJ from/IN gyrations/NNS and/CC upsets/NNS of/IN recent/JJ weeks/NNS ./.
@@ -43,7 +43,7 @@ the/DT Frankfurt/NNP Stock/NNP Exchange/NNP ,/, share/NN prices/NNS closed/VBD h
 The/DT DAX/NNP index/NN closed/VBD at/IN 1472.76/CD ,/, up/RB from/IN 1466.29/CD ./.
 the/DT modest/JJ gains/NNS ,/, traders/NNS said/VBD the/DT market/NN remains/VBZ dull/JJ ,/, with/IN investors/NNS remaining/VBG cautiously/RB on/IN the/DT sidelines/NNS ./.
 the/DT market/NN 's/POS reserved/JJ stance/NN was/VBD the/DT release/NN later/RBR in/IN the/DT day/NN of/IN new/JJ data/NNS on/IN the/DT health/NN of/IN the/DT U.S./NNP economy/NN ,/, in/IN the/DT form/NN of/IN the/DT U.S./NNP index/NN of/IN leading/VBG indicators/NNS ./.
-the/DT end/NN of/IN the/DT month/NN position-squaring/NN might/MD have/VB also/RB played/VBN a/DT minor/JJ role/NN ,/, traders/NNS ./.
+the/DT end/NN of/IN the/DT month/NN position-squaring/NN might/MD have/VB also/RB played/VBN a/DT minor/JJ role/NN ,/, traders/NNS said/VBD ./.
 share/NN prices/NNS closed/VBD higher/RBR in/IN Amsterdam/NNP ,/, Brussels/NNP ,/, Milan/NNP and/CC Paris/NNP ./.
 Prices/NNS were/VBD mixed/JJ in/IN Zurich/NNP and/CC lower/JJR in/IN Stockholm/NNP ./.
 Stocks/NNS closed/VBD higher/RBR in/IN Hong/NNP Kong/NNP ,/, Manila/NNP ,/, Singapore/NNP ,/, Sydney/NNP and/CC Wellington/NNP ,/, but/CC were/VBD lower/JJR in/IN Seoul/NNP ./.

@@ -10,14 +10,14 @@ That/DT 's/VBZ a/DT big/JJ number/NN ./.
 Warner/NNP also/RB had/VBD a/DT gain/NN of/IN more/RBR than/IN 13/CD %/NN from/IN records/NNS and/CC music/NN publishing/NN ,/, even/RB though/IN the/DT domestic/JJ record/NN business/NN was/VBD sluggish/JJ this/DT summer/NN ./.
 the/DT year-ago/JJ third/JJ quarter/NN ,/, Time/NNP on/IN its/PRP$ own/JJ reported/VBD net/JJ income/NN of/IN $/$ 81/CD million/CD ,/, or/CC $/$ 1.42/CD  a/DT share/NN ./.
 revenue/NN for/IN the/DT latest/JJS quarter/NN of/IN Time/NNP Warner/NNP was/VBD $/$ 2.2/CD billion/CD ,/, compared/VBN with/IN the/DT year-ago/JJ Time/NNP revenue/NN of/IN $/$ 1.1/CD billion/CD ./.
-a/DT pro/FW forma/FW basis/NN ,/, including/VBG all/DT of/IN Warner/NNP 's/POS earnings/NNS ,/, Time/NNP Warner/NNP had/VBD a/DT third-quarter/JJ loss/NN of/IN $/$ 217/CD million/CD ,/, compared/VBN with/IN a/DT $/$ 342/CD million/CD loss/NN  a/DT year/NN ./.
+a/DT pro/FW forma/FW basis/NN ,/, including/VBG all/DT of/IN Warner/NNP 's/POS earnings/NNS ,/, Time/NNP Warner/NNP had/VBD a/DT third-quarter/JJ loss/NN of/IN $/$ 217/CD million/CD ,/, compared/VBN with/IN a/DT $/$ 342/CD million/CD loss/NN  a/DT year/NN earlier/RBR ./.
 the/DT same/JJ basis/NN ,/, revenue/NN rose/VBD to/TO $/$ 2.7/CD billion/CD from/IN $/$ 2.2/CD billion/CD ./.
 the/DT third/JJ quarter/NN ,/, Warner/NNP 's/POS $/$ 106/CD million/CD loss/NN compared/VBN with/IN a/DT year-ago/JJ loss/NN of/IN $/$ 113/CD million/CD ,/, or/CC 90/CD cents/NNS  a/DT share/NN ./.
 Revenue/NN rose/VBD to/TO $/$ 1.5/CD billion/CD from/IN $/$ 1.1/CD billion/CD ./.
 The/DT 1988/CD figures/NNS were/VBD restated/VBN to/TO include/VB the/DT results/NNS of/IN Lorimar/NNP Telepictures/NNPS Corp./NNP ,/, which/WDT  Warner/NNP acquired/VBD in/IN January/NNP ./.
 Time/NNP Warner/NNP 's/POS operating/NN earnings/NNS got/VBD a/DT boost/NN from/IN Warner/NNP 's/POS record/NN box-office/NN results/NNS ./.
 Batman/NNP ''/'' alone/RB has/VBZ racked/VBN up/IN more/RBR than/IN $/$ 247/CD million/CD in/IN box-office/NN receipts/NNS to/TO date/NN ,/, making/VBG it/PRP  Warner/NNP Bros/NNP ./.
-largest/JJS grossing/VBG film/NN ./.
+largest/JJS grossing/VBG film/NN ever/RB ./.
 Lethal/NNP Weapon/NNP II/NNP ''/'' was/VBD also/RB a/DT big/JJ hit/NN ./.
 Warner/NNP also/RB contributed/VBD record/NN results/NNS from/IN its/PRP$ music/NN business/NN ,/, where/WRB unit/NN sales/NNS of/IN compact/JJ discs/NNS rose/VBD more/JJR than/IN 50/CD %/NN from/IN a/DT year/NN ago/IN ,/, the/DT company/NN said/VBD ,/, helped/VBN by/IN Prince/NNP 's/POS ``/`` Batman/NNP ''/'' soundtrack/NN ./.
 Time/NNP Warner/NNP said/VBD its/PRP$ cable/NN division/NN turned/VBD in/IN a/DT 77/CD %/NN increase/NN in/IN operating/NN cash/NN flow/NN ,/, to/TO $/$ 166/CD million/CD from/IN $/$ 94/CD million/CD ,/, reflecting/VBG higher/JJR per-subscriber/NN revenue/NN ./.

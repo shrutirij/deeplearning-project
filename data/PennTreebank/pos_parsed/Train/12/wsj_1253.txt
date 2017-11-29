@@ -1,8 +1,8 @@
 an/DT Oct./NNP 10/CD editorial-page/NN article/NN ,/, ``/`` It/PRP 's/VBZ the/DT World/NNP Bank/NNP 's/POS Turn/NN to/TO Adjust/VB ,/, ''/'' Paul/NNP Craig/NNP Roberts/NNP lays/VBZ most/JJS of/IN the/DT blame/NN for/IN what/WP ails/NNS developing/VBG countries/NNS at/IN the/DT doorstep/NN of/IN the/DT World/NNP Bank/NNP ./.
 The/DT article/NN is/VBZ ,/, unfortunately/RB ,/, replete/JJ with/IN outrageous/JJ distortions/NNS ./.
 One/CD of/IN Mr./NNP Roberts/NNP 's/POS observations/NNS is/VBZ that/IN the/DT Bank/NNP 's/POS own/JJ loan/NN portfolio/NN is/VBZ in/IN deep/JJ trouble/NN because/IN of/IN its/PRP$ lending/NN to/TO developing/VBG countries/NNS ./.
-This/DT ./.
-The/DT reality/NN is/VBZ that/IN Bank/NNP finances/NNS are/VBP rock/NN ./.
+This/DT is/VBZ just/RB not/RB so/RB ./.
+The/DT reality/NN is/VBZ that/IN Bank/NNP finances/NNS are/VBP rock/NN solid/JJ ./.
 June/NNP 30/CD ,/, 1989/CD --/: the/DT day/NN our/PRP$ past/NN fiscal/JJ year/NN came/VBD to/TO a/DT close/NN --/: only/RB 4.1/CD %/NN of/IN the/DT Bank/NNP 's/POS portfolio/NN was/VBD affected/VBN by/IN arrears/NNS of/IN over/IN six/CD months/NNS ./.
 This/DT is/VBZ an/DT enviably/RB low/JJ level/NN ./.
 the/DT Bank/NNP follows/VBZ a/DT prudent/JJ provisioning/VBG policy/NN and/CC has/VBZ set/VBN aside/RB $/$ 800/CD million/CD against/IN possible/JJ loan/NN losses/NNS ./.
@@ -22,6 +22,6 @@ these/DT measures/NNS include/VBP reforms/NNS to/TO downsize/VB the/DT role/NN o
 the/DT private/JJ sector/NN has/VBZ been/VBN a/DT longstanding/JJ concern/NN of/IN the/DT Bank/NNP 's/POS ./.
 the/DT years/NNS ,/, it/PRP has/VBZ helped/VBN encourage/VB investments/NNS by/IN entrepreneurs/NNS in/IN the/DT Third/NNP World/NNP through/IN its/PRP$ extensive/JJ credit/NN operations/NNS and/CC through/IN loans/NNS and/CC investments/NNS by/IN the/DT International/NNP Finance/NNP Corp/NNP ./.
 the/DT Bank/NNP Group/NNP has/VBZ been/VBN expanded/VBN to/TO include/VB the/DT Multilateral/NNP Investment/NNP Guarantee/NNP Agency/NNP to/TO stimulate/VB direct/JJ foreign/JJ investment/NN in/IN developing/VBG countries/NNS by/IN offering/VBG guarantees/NNS against/IN noncommercial/JJ risk/NN and/CC advice/NN to/TO member/NN countries/NNS on/IN how/WRB to/TO improve/VB their/PRP$ business/NN climate/NN ./.
-These/DT are/VBP not/RB the/DT actions/NNS of/IN a/DT development/NN agency/NN wed/VBN to/TO central/JJ planning/NN and/CC to/TO the/DT concentration/NN of/IN investment/NN decisions/NNS in/IN the/DT hands/NNS of/IN government/NN ,/, as/IN Mr./NNP Roberts/NNP ./.
+These/DT are/VBP not/RB the/DT actions/NNS of/IN a/DT development/NN agency/NN wed/VBN to/TO central/JJ planning/NN and/CC to/TO the/DT concentration/NN of/IN investment/NN decisions/NNS in/IN the/DT hands/NNS of/IN government/NN ,/, as/IN Mr./NNP Roberts/NNP alleges/VBZ ./.
 they/PRP reflect/VBP the/DT Bank/NNP 's/POS time-tested/JJ ,/, pragmatic/JJ approach/NN ,/, which/WDT aims/VBZ at/IN ensuring/VBG that/IN developing/VBG countries/NNS put/VBP their/PRP$ scarce/JJ resources/NNS to/TO the/DT best/JJS possible/JJ use/NN ./.
-Francisco/NNP Aguirre-Sacasa/NNP ====================================== Director/NNP ,/, External/NNP Affairs/NNPS ====================================== The/DT World/NNP Bank/NNP ====================================== Washington/NNP ======================================./.
+Francisco/NNP Aguirre-Sacasa/NNP ====================================== Director/NNP ,/, External/NNP Affairs/NNPS ====================================== The/DT World/NNP Bank/NNP ====================================== Washington/NNP ======================================

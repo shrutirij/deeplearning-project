@@ -4,5 +4,5 @@ they/PRP said/VBD they/PRP fired/VBD him/PRP ,/, and/CC two/CD directors/NNS att
 A/DT federal/JJ judge/NN turned/VBD down/IN the/DT Chapter/NN 11/CD petition/NN ./.
 The/DT company/NN 's/POS latest/JJS announcement/NN said/VBD Mr./NNP Waggoner/NNP will/MD remain/VB a/DT director/NN of/IN Staar/NNP ,/, a/DT maker/NN of/IN products/NNS for/IN small-incision/NN surgery/NN ./.
 Mr./NNP Wolf/NNP and/CC other/JJ members/NNS of/IN the/DT board/NN declined/VBD to/TO comment/VB on/IN the/DT announcement/NN ./.
-Mr./NNP Waggoner/NNP ./.
+Mr./NNP Waggoner/NNP could/MD n't/RB be/VB reached/VBN ./.
 The/DT Staar/NNP board/NN also/RB said/VBD that/IN John/NNP R./NNP Ford/NNP resigned/VBD as/IN a/DT director/NN ,/, and/CC that/IN Mr./NNP Wolf/NNP was/VBD named/VBN a/DT member/NN of/IN the/DT board/NN ./.

@@ -4,4 +4,4 @@ An/DT industry/NN analyst/NN ,/, Robert/NNP B./NNP Morris/NNP III/NNP in/IN Gold
 AT&T/NNP Nassau/NNP said/VBD the/DT operations/NNS on/IN the/DT block/NN are/VBP no/DT longer/RBR ``/`` strategic/JJ to/TO the/DT core/JJ business/NN ''/'' of/IN the/DT company/NN ,/, which/WDT is/VBZ telecommunications/JJ ./.
 The/DT Gaston/NNP operation/NN processes/VBZ metal/NN scrap/NN and/CC supplies/VBZ copper/NN rod/NN ,/, largely/RB to/TO AT&T/NNP itself/PRP ./.
 the/DT block/NN is/VBZ a/DT small/JJ metal/NN chopping/NN operation/NN in/IN Chandler/NNP ./.
-copper-based/JJ technology/NN has/VBZ been/VBN superseded/VBN by/IN light-wave/JJ technology/NN ,/, Mr./NNP Morris/NNP ./.
+copper-based/JJ technology/NN has/VBZ been/VBN superseded/VBN by/IN light-wave/JJ technology/NN ,/, Mr./NNP Morris/NNP said/VBD ./.

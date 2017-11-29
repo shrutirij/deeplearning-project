@@ -27,14 +27,14 @@ The/DT moisturizer/NN ,/, introduced/VBN in/IN 1962/CD ,/, had/VBD a/DT dowdy/JJ
 Oil/NNP of/IN Olay/NNP brought/VBD with/IN it/PRP  the/DT baggage/NN of/IN being/VBG used/VBN basically/RB by/IN older/JJR women/NNS  who/WP had/VBD already/RB aged/VBN ,/, ''/'' says/VBZ David/NNP Williams/NNP ,/, a/DT consultant/NN with/IN New/NNP England/NNP Consulting/NNP Group/NNP ./.
 P&G/NNP set/VBD out/IN to/TO reposition/VB the/DT brand/NN by/IN broadening/VBG the/DT product/NN line/NN to/TO include/VB facial/JJ cleansers/NNS and/CC moisturizers/NNS for/IN sensitive/JJ skin/NN ./.
 It/PRP also/RB redesigned/VBD Oil/NNP of/IN Olay/NNP 's/POS packaging/NN ,/, stamping/VBG the/DT traditional/JJ pink/JJ boxes/NNS with/IN gold/JJ lines/NNS to/TO create/VB a/DT more/RBR opulent/JJ look/NN ./.
-P&G/NNP shifted/VBD its/PRP$ ad/NN campaign/NN from/IN one/CD targeting/VBG older/JJR women/NNS to/TO one/CD featuring/VBG a/DT woman/NN in/IN her/PRP$ mid-30s/CD vowing/VBG ``/`` not/RB to/TO grow/VB old/JJ ./.
-The/DT company/NN says/VBZ sales/NNS ./.
+P&G/NNP shifted/VBD its/PRP$ ad/NN campaign/NN from/IN one/CD targeting/VBG older/JJR women/NNS to/TO one/CD featuring/VBG a/DT woman/NN in/IN her/PRP$ mid-30s/CD vowing/VBG ``/`` not/RB to/TO grow/VB old/JJ gracefully/RB ./.
+The/DT company/NN says/VBZ sales/NNS have/VBP soared/VBN ./.
 Goliaths/NNS like/IN Unilever/NNP and/CC P&G/NNP have/VBP enormous/JJ financial/JJ advantages/NNS over/IN smaller/JJR rivals/NNS ./.
 Next/JJ year/NN ,/, Noxell/NNP plans/VBZ to/TO roll/VB out/IN a/DT perfume/NN called/VBN Navy/NNP ,/, says/VBZ George/NNP L./NNP Bunting/NNP Jr./NNP ,/, chairman/NN of/IN Noxell/NNP ./.
 P&G/NNP 's/POS backing/NN ,/, Noxell/NNP might/MD not/RB have/VB been/VBN able/JJ to/TO spend/VB the/DT estimated/VBN $/$ 5/CD million/CD to/TO $/$ 7/CD million/CD needed/VBN to/TO accomplish/VB that/IN without/IN scrimping/VBG on/IN its/PRP$ existing/VBG brands/NNS ./.
-Packaged-goods/NNS companies/NNS ``/`` will/MD make/VB it/PRP tougher/JJR for/IN smaller/JJR people/NNS to/TO remain/VB competitive/JJ ,/, ''/'' Mr./NNP Bunting/NNP ./.
-Further/JJ consolidations/NNS in/IN the/DT industry/NN ./.
-Rumors/NNS that/IN Unilever/NNP is/VBZ interested/JJ in/IN acquiring/VBG Schering-Plough/NNP Corp./NNP 's/POS Maybelline/NNP unit/NN ./.
+Packaged-goods/NNS companies/NNS ``/`` will/MD make/VB it/PRP tougher/JJR for/IN smaller/JJR people/NNS to/TO remain/VB competitive/JJ ,/, ''/'' Mr./NNP Bunting/NNP says/VBZ ./.
+Further/JJ consolidations/NNS in/IN the/DT industry/NN could/MD follow/VB ./.
+Rumors/NNS that/IN Unilever/NNP is/VBZ interested/JJ in/IN acquiring/VBG Schering-Plough/NNP Corp./NNP 's/POS Maybelline/NNP unit/NN are/VBP widespread/JJ ./.
 Unilever/NNP wo/MD n't/RB comment/VB ;/: Schering/NNP ,/, however/RB ,/, denies/VBZ the/DT brand/NN is/VBZ for/IN sale/NN ./.
 The/DT presence/NN of/IN Unilever/NNP and/CC P&G/NNP is/VBZ likely/JJ to/TO increase/VB the/DT impact/NN of/IN advertising/NN on/IN cosmetics/NNS ./.
 the/DT two/CD are/VBP among/IN the/DT world/NN 's/POS biggest/JJS advertisers/NNS ,/, most/JJS makers/NNS of/IN upscale/NN cosmetics/NNS spend/VBP relatively/RB little/JJ on/IN national/JJ ads/NNS ./.
@@ -43,7 +43,7 @@ Estee/NNP Lauder/NNP ,/, for/IN example/NN ,/, spends/VBZ only/RB an/DT estimate
 The/DT most/RBS dramatic/JJ changes/NNS ,/, however/RB ,/, probably/RB will/MD come/VB in/IN new-product/NN development/NN ./.
 70/CD %/NN of/IN cosmetics/NNS sales/NNS come/VBP through/IN mass-distribution/JJ outlets/NNS such/JJ as/IN drug/NN stores/NNS and/CC supermarkets/NNS ,/, according/VBG to/TO Andrew/NNP Shore/NNP ,/, an/DT analyst/NN at/IN Shearson/NNP Lehman/NNP Hutton/NNP Inc/NNP ./.
 That/DT figure/NN has/VBZ been/VBN inching/VBG up/IN for/IN several/JJ years/NNS ./.
-the/DT trend/NN continues/VBZ ,/, demand/NN for/IN mass-market/JJ items/NNS  that/WDT are/VBP high/JJ quality/NN but/CC only/RB mid-priced/JJ --/: particularly/RB skin-care/NN products/NNS ./.
+the/DT trend/NN continues/VBZ ,/, demand/NN for/IN mass-market/JJ items/NNS  that/WDT are/VBP high/JJ quality/NN but/CC only/RB mid-priced/JJ --/: particularly/RB skin-care/NN products/NNS --/: is/VBZ expected/VBN to/TO increase/VB ./.
 This/DT fall/NN ,/, for/IN example/NN ,/, L'Oreal/NNP Group/NNP ,/, ordinarily/RB a/DT high-end/JJ line/NN ,/, rolled/VBD out/IN a/DT drug-store/NN line/NN of/IN skin-care/NN products/NNS called/VBN Plenitude/NNP ,/, which/WDT retail/VBP for/IN $/$ 5/CD to/TO $/$ 15/CD ./.
 The/DT packaged-goods/NNS marketers/NNS may/MD try/VB filling/VBG that/DT gap/NN with/IN a/DT spate/NN of/IN new/JJ products/NNS ./.
 the/DT old-line/NN cosmetics/NNS houses/NNS ,/, Unilever/NNP and/CC P&G/NNP  both/DT have/VBP enormous/JJ research/NN and/CC development/NN bases/NNS to/TO draw/VB on/IN for/IN new/JJ products/NNS ./.
@@ -55,10 +55,10 @@ You/PRP 'll/MD see/VB fewer/JJR gimmicks/NNS ./.
 success/NN for/IN Unilever/NNP and/CC P&G/NNP is/VBZ far/RB from/IN guaranteed/VBN ,/, as/IN shown/VBN by/IN the/DT many/JJ consumer-product/NN companies/NNS  that/WDT have/VBP tried/VBN and/CC failed/VBN to/TO master/VB the/DT quirky/JJ beauty/NN business/NN ./.
 the/DT 1970s/CD ,/, several/JJ pharmaceutical/JJ and/CC packaged-goods/JJ companies/NNS ,/, including/VBG Colgate-Palmolive/NNP Co./NNP ,/, Eli/NNP Lilly/NNP &/CC Co./NNP ,/, Pfizer/NNP Inc./NNP and/CC Schering-Plough/NNP acquired/VBD cosmetics/NNS companies/NNS ./.
 Industry/NN consultants/NNS say/VBP only/RB Schering-Plough/NNP ,/, which/WDT makes/VBZ the/DT mass-market/JJ Maybelline/NNP ,/, has/VBZ maintained/VBN a/DT meaningful/JJ business/NN ./.
-Colgate/NNP ,/, which/WDT acquired/VBD Helena/NNP Rubenstein/NNP in/IN 1973/CD ,/, sold/VBD the/DT brand/NN seven/CD years/NNS later/RB after/IN the/DT brand/NN ./.
+Colgate/NNP ,/, which/WDT acquired/VBD Helena/NNP Rubenstein/NNP in/IN 1973/CD ,/, sold/VBD the/DT brand/NN seven/CD years/NNS later/RB after/IN the/DT brand/NN languished/VBD ./.
 Unilever/NNP already/RB has/VBZ experienced/VBN some/DT disappointment/NN ./.
 The/DT mass-market/JJ Aziza/NNP brand/NN ,/, which/WDT  it/PRP acquired/VBD in/IN 1987/CD along/IN with/IN Chesebrough-Pond/NNP 's/POS Inc./NNP ,/, has/VBZ lost/VBN share/NN ,/, according/VBG to/TO industry/NN analysts/NNS ./.
-The/DT ritzy/JJ world/NN of/IN department-store/NN cosmetics/NNS retailing/NN ,/, where/WRB Unilever/NNP is/VBZ concentrating/VBG its/PRP$ efforts/NNS ./.
+The/DT ritzy/JJ world/NN of/IN department-store/NN cosmetics/NNS retailing/NN ,/, where/WRB Unilever/NNP is/VBZ concentrating/VBG its/PRP$ efforts/NNS ,/, may/MD prove/VB even/RB more/RBR treacherous/JJ ./.
 this/DT niche/NN ,/, makeup/NN colors/NNS change/VBP seasonally/RB because/IN they/PRP are/VBP linked/VBN to/TO ready-to-wear/JJ fashions/NNS ./.
-brand/NN loyalty/NN is/VBZ weak/JJ and/CC most/JJS cosmetics/NNS purchases/NNS are/VBP unplanned/JJ ,/, careful/JJ training/NN of/IN store/NN sales/NNS staffs/NNS by/IN cosmetics/NNS companies/NNS ./.
+brand/NN loyalty/NN is/VBZ weak/JJ and/CC most/JJS cosmetics/NNS purchases/NNS are/VBP unplanned/JJ ,/, careful/JJ training/NN of/IN store/NN sales/NNS staffs/NNS by/IN cosmetics/NNS companies/NNS is/VBZ important/JJ ./.
 a/DT luxury/NN image/NN strong/JJ enough/RB to/TO persuade/VB consumers/NNS to/TO pay/VB more/JJR than/IN $/$ 15/CD for/IN lipstick/NN or/CC eye/NN makeup/NN requires/VBZ a/DT subtle/JJ touch/NN that/IN packaged-goods/JJ companies/NNS have/VBP yet/RB to/TO demonstrate/VB on/IN their/PRP$ own/JJ ./.

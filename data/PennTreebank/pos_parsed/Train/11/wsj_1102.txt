@@ -1,12 +1,12 @@
 The/DT dollar/NN finished/VBD lower/JJR yesterday/NN ,/, after/IN tracking/VBG another/DT rollercoaster/JJ session/NN on/IN Wall/NNP Street/NNP ./.
-Concern/NN about/IN the/DT volatile/JJ U.S./NNP stock/NN market/NN had/VBD faded/VBN in/IN recent/JJ sessions/NNS ,/, and/CC traders/NNS appeared/VBD content/JJ to/TO let/VB the/DT dollar/NN languish/VB in/IN a/DT narrow/JJ range/NN until/IN tomorrow/NN ,/, when/WRB the/DT preliminary/JJ report/NN on/IN third-quarter/JJ U.S./NNP gross/JJ national/JJ product/NN ./.
-seesaw/JJ gyrations/NNS in/IN the/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP yesterday/NN put/VBD Wall/NNP Street/NNP back/RB in/IN the/DT spotlight/NN and/CC inspired/VBN market/NN participants/NNS to/TO bid/VB the/DT U.S./NNP unit/NN ./.
-UAL/NNP 's/POS decision/NN to/TO remain/VB an/DT independent/JJ company/NN sent/VBD share/NN prices/NNS ./.
-midmorning/NN ,/, the/DT DJIA/NNP had/VBD plunged/VBN 80/CD points/NNS and/CC foreign-exchange/JJ dealers/NNS quickly/RB drove/VBD the/DT dollar/NN ./.
+Concern/NN about/IN the/DT volatile/JJ U.S./NNP stock/NN market/NN had/VBD faded/VBN in/IN recent/JJ sessions/NNS ,/, and/CC traders/NNS appeared/VBD content/JJ to/TO let/VB the/DT dollar/NN languish/VB in/IN a/DT narrow/JJ range/NN until/IN tomorrow/NN ,/, when/WRB the/DT preliminary/JJ report/NN on/IN third-quarter/JJ U.S./NNP gross/JJ national/JJ product/NN is/VBZ released/VBN ./.
+seesaw/JJ gyrations/NNS in/IN the/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP yesterday/NN put/VBD Wall/NNP Street/NNP back/RB in/IN the/DT spotlight/NN and/CC inspired/VBN market/NN participants/NNS to/TO bid/VB the/DT U.S./NNP unit/NN lower/RBR ./.
+UAL/NNP 's/POS decision/NN to/TO remain/VB an/DT independent/JJ company/NN sent/VBD share/NN prices/NNS tumbling/VBG ./.
+midmorning/NN ,/, the/DT DJIA/NNP had/VBD plunged/VBN 80/CD points/NNS and/CC foreign-exchange/JJ dealers/NNS quickly/RB drove/VBD the/DT dollar/NN down/RP ./.
 the/DT DJIA/NNP modestly/RB rebounded/VBD ,/, the/DT dollar/NN bounced/VBD back/RP in/IN choppy/JJ dealings/NNS but/CC ended/VBD the/DT day/NN below/IN the/DT levels/NNS of/IN late/RB Monday/NNP ./.
 Stock/NN prices/NNS ,/, meanwhile/RB ,/, posted/VBD significant/JJ gains/NNS in/IN later/RB trading/NN and/CC closed/VBD down/RB by/IN only/RB 3.69/CD points/NNS on/IN the/DT day/NN ./.
 Some/DT dealers/NNS said/VBD that/IN the/DT market/NN 's/POS strong/JJ reaction/NN to/TO Wall/NNP Street/NNP reflects/VBZ a/DT general/JJ uneasiness/NN about/IN the/DT dollar/NN ./.
-They/PRP added/VBD that/IN the/DT DJIA/NNP 's/POS swift/JJ drop/NN proved/VBD an/DT easy/JJ excuse/NN for/IN the/DT market/NN to/TO drive/VB the/DT U.S./NNP currency/NN in/IN the/DT direction/NN  it/PRP ./.
+They/PRP added/VBD that/IN the/DT DJIA/NNP 's/POS swift/JJ drop/NN proved/VBD an/DT easy/JJ excuse/NN for/IN the/DT market/NN to/TO drive/VB the/DT U.S./NNP currency/NN in/IN the/DT direction/NN  it/PRP was/VBD already/RB headed/VBN ./.
 late/JJ New/NNP York/NNP trading/NN yesterday/NN ,/, the/DT dollar/NN was/VBD quoted/VBN at/IN 1.8355/CD marks/NNS ,/, down/RB from/IN 1.8470/CD marks/NNS Monday/NNP ,/, and/CC at/IN 141.45/CD yen/NN ,/, down/RB from/IN 141.90/CD yen/NN late/RB Monday/NNP ./.
 Sterling/NN was/VBD quoted/VBN at/IN $/$ 1.6055/CD ,/, up/RB from/IN $/$ 1.6030/CD late/RB Monday/NNP ./.
 Tokyo/NNP Wednesday/NNP ,/, the/DT U.S./NNP currency/NN opened/VBD for/IN trading/NN at/IN 141.57/CD yen/NN ,/, down/RB from/IN Tuesday/NNP 's/POS Tokyo/NNP close/NN of/IN 142.10/CD yen/NN ./.

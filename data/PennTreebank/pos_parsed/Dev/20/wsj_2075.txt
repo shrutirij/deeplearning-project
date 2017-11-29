@@ -1,5 +1,5 @@
-President/NNP Bush/NNP will/MD veto/VB a/DT bill/NN funding/VBG the/DT Departments/NNPS of/IN Labor/NNP ,/, Education/NNP and/CC Health/NNP and/CC Human/NNP Services/NNPS because/IN it/PRP would/MD allow/VB federal/JJ funding/NN of/IN abortions/NNS for/IN victims/NNS of/IN rape/NN and/CC incest/NN ,/, the/DT White/NNP House/NNP ./.
-Mr./NNP Bush/NNP had/VBD threatened/VBN a/DT veto/NN ./.
+President/NNP Bush/NNP will/MD veto/VB a/DT bill/NN funding/VBG the/DT Departments/NNPS of/IN Labor/NNP ,/, Education/NNP and/CC Health/NNP and/CC Human/NNP Services/NNPS because/IN it/PRP would/MD allow/VB federal/JJ funding/NN of/IN abortions/NNS for/IN victims/NNS of/IN rape/NN and/CC incest/NN ,/, the/DT White/NNP House/NNP said/VBD ./.
+Mr./NNP Bush/NNP had/VBD threatened/VBN a/DT veto/NN previously/RB ./.
 he/PRP put/VBD off/IN a/DT firm/JJ decision/NN while/IN his/PRP$ aides/NNS and/CC legislators/NNS searched/VBD for/IN a/DT compromise/NN  that/WDT would/MD tighten/VB requirements/NNS for/IN such/JJ abortions/NNS in/IN a/DT way/NN acceptable/JJ to/TO the/DT president/NN ./.
 White/NNP House/NNP Press/NNP Secretary/NNP Marlin/NNP Fitzwater/NNP said/VBD negotiations/NNS between/IN Bush/NNP aides/NNS and/CC lawmakers/NNS ended/VBD Monday/NNP without/IN success/NN ./.
 Most/JJS lawmakers/NNS think/VBP it/PRP will/MD be/VB extremely/RB difficult/JJ for/IN Mr./NNP Bush/NNP 's/POS opponents/NNS on/IN the/DT abortion/NN issue/NN to/TO round/VB up/IN the/DT votes/NNS needed/VBN to/TO override/VB the/DT veto/NN ./.

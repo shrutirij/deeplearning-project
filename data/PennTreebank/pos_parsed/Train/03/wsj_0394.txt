@@ -1,2 +1,2 @@
 ALLWASTE/NNP Inc./NNP declared/VBD a/DT 2-for-1/JJ stock/NN split/NN ,/, payable/JJ Dec./NNP 1/CD ,/, to/TO stock/NN of/IN record/NN Nov./NNP 15/CD ./.
-The/DT Stafford/NNP ,/, Texas-based/JJ company/NN will/MD issue/VB one/CD additional/JJ share/NN of/IN common/JJ stock/NN for/IN each/DT of/IN the/DT 14.8/CD million/CD shares/NNS ./.
+The/DT Stafford/NNP ,/, Texas-based/JJ company/NN will/MD issue/VB one/CD additional/JJ share/NN of/IN common/JJ stock/NN for/IN each/DT of/IN the/DT 14.8/CD million/CD shares/NNS outstanding/JJ ./.

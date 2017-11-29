@@ -25,7 +25,7 @@ The/DT bonds/NNS are/VBP rated/VBN single-A-1/JJ by/IN Moody/NNP 's/POS and/CC d
 Culver/NNP City/NNP Redevelopment/NNP Financing/NNP Authority/NNP ,/, Calif./NNP --/: $/$ 145/CD million/CD of/IN revenue/NN bonds/NNS ,/, Series/NNP 1989/CD ,/, tentatively/RB priced/VBN by/IN a/DT Stone/NNP &/CC Youngberg/NNP group/NN ./.
 The/DT issue/NN includes/VBZ $/$ 100/CD million/CD of/IN insured/JJ senior/JJ lien/NN bonds/NNS ./.
 These/DT consist/VBP of/IN current/JJ interest/NN bonds/NNS due/JJ 1990-2002/CD ,/, 2010/CD and/CC 2015/CD ,/, and/CC capital/NN appreciation/NN bonds/NNS due/JJ 2003/CD and/CC 2004/CD ,/, tentatively/RB priced/VBN to/TO yield/VB from/IN 5.75/CD %/NN in/IN 1990/CD to/TO 7.14/CD %/NN in/IN 2010/CD ./.
-Bonds/NNS due/JJ 2003/CD ,/, 2004/CD and/CC 2015/CD ./.
+Bonds/NNS due/JJ 2003/CD ,/, 2004/CD and/CC 2015/CD are/VBP n't/RB being/VBG formally/RB reoffered/VBN ./.
 There/EX are/VBP also/RB $/$ 40/CD million/CD of/IN uninsured/JJ subordinate/JJ lien/NN bonds/NNS ,/, due/JJ Dec./NNP 1/CD ,/, 2008/CD ,/, and/CC Dec./NNP 1/CD ,/, 2015/CD ./.
 There/EX are/VBP $/$ 15,015,000/CD of/IN 7/CD 1\/2/CD %/NN bonds/NNS priced/VBN at/IN par/NN and/CC due/JJ 2008/CD and/CC $/$ 24,985,000/CD of/IN 7.6/CD %/NN bonds/NNS priced/VBN at/IN par/NN and/CC due/JJ 2015/CD ./.
 The/DT insured/JJ bonds/NNS are/VBP rated/VBN triple-A/JJ by/IN Moody/NNP 's/POS and/CC S&P/NNP ./.
@@ -38,8 +38,8 @@ The/DT bonds/NNS are/VBP insured/VBN and/CC rated/VBN triple-A/JJ by/IN Moody/NN
 Connecticut/NNP Housing/NNP Finance/NNP Authority/NNP --/: $/$ 132.8/CD million/CD of/IN housing/NN mortgage/NN revenue/NN bonds/NNS priced/VBN by/IN a/DT PaineWebber/NNP Inc./NNP group/NN ./.
 The/DT $/$ 82.8/CD million/CD of/IN Series/NNP B/NNP bonds/NNS ,/, which/WDT are/VBP n't/RB subject/JJ to/TO the/DT alternative/JJ minimum/JJ tax/NN ,/, were/VBD priced/VBN at/IN par/NN to/TO yield/VB from/IN 6.85/CD %/NN in/IN 2000/CD to/TO 7.20/CD %/NN in/IN 2009/CD ./.
 the/DT $/$ 50/CD million/CD of/IN Series/NNP C/NNP bonds/NNS ,/, which/WDT are/VBP suject/JJ to/TO the/DT alternative/JJ minimum/JJ tax/NN ,/, were/VBD priced/VBN at/IN par/NN to/TO yield/VB from/IN 6.25/CD %/NN in/IN 1990/CD to/TO 7.10/CD %/NN to/TO 2000/CD ./.
-The/DT issue/NN is/VBZ expected/VBN to/TO receive/VB a/DT double-A/JJ rating/NN from/IN Moody/NNP 's/POS ,/, the/DT underwriter/NN ./.
-An/DT S&P/NNP rating/NN of/IN double-A-plus/JJ ./.
+The/DT issue/NN is/VBZ expected/VBN to/TO receive/VB a/DT double-A/JJ rating/NN from/IN Moody/NNP 's/POS ,/, the/DT underwriter/NN said/VBD ./.
+An/DT S&P/NNP rating/NN of/IN double-A-plus/JJ has/VBZ already/RB been/VBN confirmed/VBN ./.
 Montgomery/NNP County/NNP ,/, Md./NNP --/: $/$ 75/CD million/CD of/IN general/JJ obligation/NN ,/, Series/NNP B/NNP ,/, consolidated/JJ public/JJ improvement/NN bonds/NNS of/IN 1989/CD ,/, through/IN a/DT Manufacturers/NNP Hanover/NNP Trust/NNP Co./NNP group/NN ./.
 The/DT bonds/NNS ,/, rated/VBN triple-A/JJ by/IN Moody/NNP 's/POS and/CC S&P/NNP ,/, were/VBD priced/VBN to/TO yield/VB from/IN 5.75/CD %/NN in/IN 1990/CD to/TO 6.90/CD %/NN in/IN 2006/CD to/TO 2009/CD ./.
 Federal/NNP Home/NNP Loan/NNP Mortgage/NNP Corp./NNP --/: $/$ 500/CD million/CD of/IN Remic/NNP mortgage/NN securities/NNS being/VBG offered/VBN by/IN Prudential-Bache/NNP Capital/NNP Funding/NNP Inc/NNP ./.
@@ -65,13 +65,13 @@ Each/DT 5,000/CD mark/NN bond/NN carries/VBZ one/CD warrant/NN and/CC one/CD cer
 Miyoshi/NNP Oil/NNP &/CC Fat/NNP Co/NNP ./.
 Japan/NNP )/) --/: 120/CD million/CD Swiss/NNP francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ Dec./NNP 31/CD ,/, 1993/CD ,/, with/IN a/DT fixed/JJ 0.25/CD %/NN coupon/NN at/IN par/NN ,/, via/IN Union/NNP Bank/NNP of/IN Switzerland/NNP ./.
 option/NN on/IN Dec./NNP 31/CD ,/, 1991/CD ,/, at/IN a/DT fixed/JJ 107/CD to/TO yield/VB 3.43/CD %/NN ./.
-Each/DT 50,000/CD Swiss/JJ franc/NN bond/NN convertible/NN from/IN Nov./NNP 28/CD ,/, 1989/CD ,/, to/TO Dec./NNP 20/CD ,/, 1993/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN closing/NN share/NN price/NN Oct./NNP 30/CD ,/, when/WRB terms/NNS ./.
+Each/DT 50,000/CD Swiss/JJ franc/NN bond/NN convertible/NN from/IN Nov./NNP 28/CD ,/, 1989/CD ,/, to/TO Dec./NNP 20/CD ,/, 1993/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN closing/NN share/NN price/NN Oct./NNP 30/CD ,/, when/WRB terms/NNS are/VBP scheduled/VBN to/TO be/VB fixed/VBN ./.
 Fokker/NNP N.V/NNP ./.
 Netherlands/NNPS )/) --/: 150/CD million/CD Swiss/JJ francs/NNS of/IN convertible/JJ bonds/NNS due/JJ Nov./NNP 15/CD ,/, 1997/CD ,/, with/IN a/DT fixed/JJ 4/CD %/NN coupon/NN at/IN par/NN via/IN Union/NNP Bank/NNP of/IN Switzerland/NNP ./.
 Each/DT 5,000/CD Swiss/JJ franc/NN bond/NN convertible/JJ from/IN Jan./NNP 3/CD ,/, 1989/CD ,/, to/TO Oct./NNP 31/CD ,/, 1997/CD ./.
 Fees/NNS 2/CD 1\/8/CD ./.
 Sapporo/NNP Lion/NNP Ltd/NNP ./.
-Japan/NNP )/) --/: 50/CD million/CD Swiss/NNP francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ Dec./NNP 31/CD ,/, 1994/CD ,/, with/IN a/DT 0.25/CD %/NN coupon/NN at/IN par/NN ,/, via/IN Yamaichi/NNP Bank/NNP (/( Switzerland/NNP ./.
+Japan/NNP )/) --/: 50/CD million/CD Swiss/NNP francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ Dec./NNP 31/CD ,/, 1994/CD ,/, with/IN a/DT 0.25/CD %/NN coupon/NN at/IN par/NN ,/, via/IN Yamaichi/NNP Bank/NNP (/( Switzerland/NNP )/) ./.
 option/NN on/IN Dec./NNP 31/CD ,/, 1991/CD ,/, at/IN an/DT indicated/JJ 107/CD 7\/8/CD to/TO yield/VB 3.84/CD %/NN ./.
-Each/DT 50,000/CD Swiss/JJ franc/NN note/NN convertible/JJ from/IN Dec./NNP 1/CD ,/, 1989/CD ,/, to/TO Dec./NNP 16/CD ,/, 1994/CD ,/, at/IN 5/CD %/NN premium/NN over/IN the/DT closing/NN share/NN price/NN Oct./NNP 26/CD ,/, when/WRB terms/NNS ./.
+Each/DT 50,000/CD Swiss/JJ franc/NN note/NN convertible/JJ from/IN Dec./NNP 1/CD ,/, 1989/CD ,/, to/TO Dec./NNP 16/CD ,/, 1994/CD ,/, at/IN 5/CD %/NN premium/NN over/IN the/DT closing/NN share/NN price/NN Oct./NNP 26/CD ,/, when/WRB terms/NNS are/VBP scheduled/VBN to/TO be/VB fixed/VBN ./.
 Credit/NNP Local/NNP de/FW France/NNP --/: 100/CD million/CD Swiss/JJ francs/NNS of/IN 6/CD %/NN ,/, privately/RB placed/VBN notes/NNS due/JJ Dec./NNP 1/CD ,/, 1996/CD ,/, priced/VBN at/IN 100/CD 1\/2/CD to/TO yield/VB 5.91/CD %/NN ,/, via/IN Swiss/NNP Bank/NNP Corp/NNP ./.

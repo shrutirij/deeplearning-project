@@ -1,5 +1,5 @@
 a/DT highly/RB unusual/JJ move/NN  that/WDT buys/VBZ time/NN for/IN Congress/NNP to/TO debate/VB a/DT debt-limit/NN increase/NN ,/, the/DT Treasury/NNP Department/NNP announced/VBD it/PRP will/MD hold/VB an/DT unscheduled/JJ auction/NN of/IN securities/NNS next/IN week/NN to/TO raise/VB $/$ 17/CD billion/CD ./.
-The/DT auction/NN is/VBZ expected/VBN to/TO be/VB held/VBN on/IN Monday/NNP and/CC will/MD settle/VB on/IN Tuesday/NNP ,/, just/RB hours/NNS before/IN the/DT current/JJ debt-limit/NN legislation/NN ./.
+The/DT auction/NN is/VBZ expected/VBN to/TO be/VB held/VBN on/IN Monday/NNP and/CC will/MD settle/VB on/IN Tuesday/NNP ,/, just/RB hours/NNS before/IN the/DT current/JJ debt-limit/NN legislation/NN expires/VBZ ./.
 Congress/NNP has/VBZ n't/RB enacted/VBN a/DT new/JJ debt/NN limit/NN by/IN midnight/NN Tuesday/NNP ,/, the/DT Treasury/NNP will/MD have/VB to/TO suspend/VB all/DT sales/NNS of/IN securities/NNS ,/, including/VBG savings/NNS bonds/NNS ./.
 The/DT extraordinary/JJ auction/NN ,/, however/RB ,/, should/MD give/VB the/DT Treasury/NNP enough/JJ cash/NN to/TO cover/VB Social/NNP Security/NNP checks/NNS due/JJ out/RB Nov./NNP 3/CD ./.
 a/DT letter/NN to/TO congressional/JJ leaders/NNS ,/, Treasury/NNP Secretary/NNP Nicholas/NNP Brady/NNP said/VBD the/DT government/NN will/MD now/RB be/VB able/JJ to/TO operate/VB through/IN Nov./NNP 8/CD without/IN a/DT debt-limit/NN increase/NN ./.
@@ -14,8 +14,8 @@ the/DT government/NN 's/POS debt/NN totals/VBZ only/RB $/$ 2.853/CD trillion/CD 
 That/DT means/VBZ the/DT government/NN can/MD legally/RB sell/VB another/DT $/$ 17/CD billion/CD in/IN debt/NN ,/, provided/VBN it/PRP acts/NNS by/IN Tuesday/NNP ./.
 Tuesday/NNP ,/, the/DT debt/NN limit/NN expires/VBZ ,/, and/CC the/DT limit/NN drops/VBZ back/RB to/TO $/$ 2.8/CD trillion/CD ./.
 that/DT occurs/VBZ ,/, no/DT new/JJ securities/NNS can/MD be/VB issued/VBN without/IN violating/VBG the/DT debt-limit/NN law/NN ./.
-The/DT Treasury/NNP 's/POS regular/JJ auction/NN of/IN Treasury/NNP bills/NNS ,/, scheduled/VBN to/TO settle/VB on/IN Thursday/NNP ./.
-addition/NN ,/, all/DT sales/NNS of/IN savings/NNS bonds/NNS and/CC special/JJ securities/NNS issued/VBN to/TO state/NN and/CC local/JJ governments/NNS ./.
+The/DT Treasury/NNP 's/POS regular/JJ auction/NN of/IN Treasury/NNP bills/NNS ,/, scheduled/VBN to/TO settle/VB on/IN Thursday/NNP ,/, is/VBZ expected/VBN to/TO be/VB canceled/VBN ./.
+addition/NN ,/, all/DT sales/NNS of/IN savings/NNS bonds/NNS and/CC special/JJ securities/NNS issued/VBN to/TO state/NN and/CC local/JJ governments/NNS will/MD cease/VB ./.
 The/DT details/NNS of/IN next/JJ week/NN 's/POS unusual/JJ auction/NN will/MD be/VB announced/VBN today/NN ./.
 his/PRP$ letter/NN to/TO congressional/JJ leaders/NNS ,/, Treasury/NNP Secretary/NNP Brady/NNP called/VBD the/DT move/NN  an/DT ``/`` extraordinary/JJ administrative/JJ action/NN ./.
 He/PRP said/VBD that/IN it/PRP ``/`` is/VBZ important/JJ Congress/NNP act/NN on/IN debt-limit/NN legislation/NN no/RB later/RBR than/IN Nov./NNP 7/CD ,/, in/IN order/NN to/TO ensure/VB adequate/JJ time/NN to/TO arrange/VB market/NN borrowings/NNS to/TO avoid/VB default/NN ./.

@@ -11,7 +11,7 @@ There/EX are/VBP about/RB $/$ 25.6/CD million/CD of/IN 7.2/CD %/NN term/NN bonds
 The/DT bonds/NNS are/VBP insured/VBN and/CC rated/VBN triple-A/JJ by/IN Moody/NNP 's/POS and/CC S&P/NNP ./.
 Connecticut/NNP --/: $/$ 100.4/CD million/CD of/IN general/JJ obligation/NN capital/NN appreciation/NN bonds/NNS ,/, College/NNP Savings/NNP Plan/NNP ,/, 1989/CD Series/NNP B/NNP ,/, priced/VBN by/IN a/DT Prudential-Bache/NNP Capital/NNP Funding/NNP group/NN ./.
 The/DT zero-coupon/JJ bonds/NNS were/VBD priced/VBN to/TO yield/VB to/TO maturity/NN from/IN 6.25/CD %/NN in/IN 1994/CD to/TO 6.90/CD %/NN in/IN 2006/CD ,/, 2007/CD and/CC 2009/CD ./.
-The/DT bonds/NNS have/VBP received/VBN a/DT rating/NN of/IN double-A-1/JJ from/IN Moody/NNP 's/POS ,/, and/CC a/DT double-A-plus/JJ rating/NN is/VBZ expected/VBN from/IN S&P/NNP ,/, the/DT underwriter/NN ./.
+The/DT bonds/NNS have/VBP received/VBN a/DT rating/NN of/IN double-A-1/JJ from/IN Moody/NNP 's/POS ,/, and/CC a/DT double-A-plus/JJ rating/NN is/VBZ expected/VBN from/IN S&P/NNP ,/, the/DT underwriter/NN said/VBD ./.
 Oregon/NNP --/: $/$ 100/CD million/CD of/IN general/JJ obligation/NN veterans/NNS '/POS tax/NN notes/NNS ,/, Series/NNP 1989/CD ,/, dated/VBN Nov./NNP 1/CD ,/, 1989/CD ,/, and/CC due/JJ Nov./NNP 1/CD ,/, 1990/CD ,/, through/IN a/DT Chemical/NNP Securities/NNP Inc./NNP group/NN ./.
 The/DT group/NN is/VBZ offering/VBG the/DT notes/NNS priced/VBN as/IN 6/CD 3\/4/CD %/NN securities/NNS to/TO yield/VB 6.25/CD %/NN ./.
 The/DT notes/NNS are/VBP rated/VBN MIG-1/JJ by/IN Moody/NN 's/POS and/CC SP1-plus/JJ by/IN S&P/NNP ./.

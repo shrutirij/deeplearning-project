@@ -2,7 +2,7 @@ CALIFORNIA/NNP STRUGGLED/VBD with/IN the/DT aftermath/NN of/IN a/DT Bay/NNP area
 aftershocks/NNS shook/VBD the/DT San/NNP Francisco/NNP Bay/NNP area/NN ,/, rescuers/NNS searched/VBD through/IN rubble/NN for/IN survivors/NNS of/IN Tuesday/NNP 's/POS temblor/NN ,/, and/CC residents/NNS picked/VBD their/PRP$ way/NN through/IN glass-strewn/JJ streets/NNS ./.
 Oakland/NNP ,/, hopes/NNS faded/VBD for/IN finding/VBG any/DT more/JJR survivors/NNS within/IN the/DT concrete/NN and/CC steel/NN from/IN the/DT collapse/NN of/IN an/DT interstate/JJ highway/NN ./.
 least/JJS 270/CD people/NNS were/VBD reported/VBN killed/VBN and/CC 1,400/CD injured/VBN in/IN the/DT rush-hour/JJ tremor/NN  that/WDT caused/VBD billions/NNS of/IN dollars/NNS of/IN damage/NN along/IN 100/CD miles/NNS of/IN the/DT San/NNP Andreas/NNP fault/NN ./.
-Bush/NNP declared/VBD the/DT region/NN  a/DT major/JJ disaster/NN area/NN and/CC the/DT military/NN ./.
+Bush/NNP declared/VBD the/DT region/NN  a/DT major/JJ disaster/NN area/NN and/CC the/DT military/NN was/VBD mobilized/VBN to/TO prevent/VB looting/NN ./.
 The/DT baseball/NN commissioner/NN said/VBD the/DT third/JJ game/NN of/IN the/DT World/NNP Series/NNP between/IN the/DT Giants/NNP and/CC the/DT Athletics/NNP would/MD be/VB played/VBN Tuesday/NNP in/IN Candlestick/NNP Park/NNP ./.
 HONECKER/NNP WAS/VBD OUSTED/VBN as/IN leader/NN of/IN East/NNP Germany/NNP amid/IN growing/VBG unrest/NN ./.
 The/DT 77-year-old/JJ official/NN ,/, who/WP oversaw/VBD the/DT building/NN of/IN the/DT Berlin/NNP Wall/NNP ,/, was/VBD removed/VBN during/IN a/DT meeting/NN of/IN the/DT 163-member/JJ Communist/NNP Party/NNP Central/NNP Committee/NNP in/IN East/NNP Berlin/NNP ./.
@@ -22,13 +22,13 @@ The/DT Census/NNP Bureau/NNP reported/VBD that/IN 13.1/CD %/NN of/IN the/DT U.S.
 Last/JJ year/NN 's/POS figure/NN was/VBD down/RB from/IN 13.4/CD %/NN in/IN 1987/CD and/CC marked/VBD the/DT fifth/JJ consecutive/JJ annual/JJ decline/NN in/IN the/DT poverty/NN rate/NN ./.
 capita/NN income/NN rose/VBD 1.7/CD %/NN to/TO $/$ 13,120/CD ,/, but/CC median/JJ family/NN income/NN fell/VBD 0.2/CD %/NN ./.
 The/DT Bush/NNP administration/NN accused/VBD Israeli/NNP Prime/NNP Minister/NNP Shamir/NNP of/IN hindering/VBG peace/NN efforts/NNS in/IN the/DT Mideast/NNP with/IN ``/`` unhelpful/JJ ''/'' and/CC disappointing/JJ statements/NNS ./.
-Shamir/NNP said/VBD Tuesday/NNP that/IN he/PRP was/VBD prepared/VBN to/TO risk/VB a/DT policy/NN conflict/NN with/IN the/DT U.S./NNP over/IN an/DT Egyptian/JJ plan/NN to/TO hold/VB direct/JJ Israeli-Palestinian/JJ talks/NNS ,/, which/WDT  the/DT premier/NN 's/POS Likud/NNP bloc/NN ./.
-Cuba/NNP was/VBD elected/VBN to/TO the/DT U.N./NNP Security/NNP Council/NNP for/IN the/DT first/JJ time/NN since/IN its/PRP$ Castro-led/JJ revolution/NN 30/CD years/NNS ./.
+Shamir/NNP said/VBD Tuesday/NNP that/IN he/PRP was/VBD prepared/VBN to/TO risk/VB a/DT policy/NN conflict/NN with/IN the/DT U.S./NNP over/IN an/DT Egyptian/JJ plan/NN to/TO hold/VB direct/JJ Israeli-Palestinian/JJ talks/NNS ,/, which/WDT  the/DT premier/NN 's/POS Likud/NNP bloc/NN opposes/VBZ ./.
+Cuba/NNP was/VBD elected/VBN to/TO the/DT U.N./NNP Security/NNP Council/NNP for/IN the/DT first/JJ time/NN since/IN its/PRP$ Castro-led/JJ revolution/NN 30/CD years/NNS ago/RB ./.
 The/DT election/NN was/VBD by/IN secret/JJ ballot/NN in/IN the/DT General/NNP Assembly/NNP ./.
 The/DT U.S./NNP did/VBD n't/RB openly/RB oppose/VB Cuba/NNP 's/POS seating/NN as/IN the/DT Latin/JJ American/JJ council/NN delegate/NN ./.
-Britain/NNP 's/POS Prime/NNP Minister/NNP Thatcher/NNP told/VBD a/DT Commonwealth/NNP summit/NN in/IN Kuala/NNP Lumpur/NNP ,/, Malaysia/NNP ,/, that/WDT sanctions/NNS against/IN South/NNP Africa/NNP were/VBD ``/`` utterly/RB irresponsible/JJ ,/, ''/'' officials/NNS ./.
+Britain/NNP 's/POS Prime/NNP Minister/NNP Thatcher/NNP told/VBD a/DT Commonwealth/NNP summit/NN in/IN Kuala/NNP Lumpur/NNP ,/, Malaysia/NNP ,/, that/WDT sanctions/NNS against/IN South/NNP Africa/NNP were/VBD ``/`` utterly/RB irresponsible/JJ ,/, ''/'' officials/NNS said/VBD ./.
 other/JJ nations/NNS at/IN the/DT opening/NN of/IN the/DT 49-nation/JJ meeting/NN of/IN Britain/NNP and/CC its/PRP$ former/JJ colonies/NNS pressed/VBD for/IN continued/JJ or/CC stronger/JJR embargoes/NNS in/IN an/DT effort/NN to/TO end/VB apartheid/NN ./.
-Arab/JJ officials/NNS in/IN Saudi/NNP Arabia/NNP said/VBD three-week-old/JJ talks/NNS by/IN Lebanese/JJ lawmakers/NNS aimed/VBN at/IN ending/VBG Lebanon/NNP 's/POS civil/JJ war/NN ./.
+Arab/JJ officials/NNS in/IN Saudi/NNP Arabia/NNP said/VBD three-week-old/JJ talks/NNS by/IN Lebanese/JJ lawmakers/NNS aimed/VBN at/IN ending/VBG Lebanon/NNP 's/POS civil/JJ war/NN appeared/VBD about/RB to/TO collapse/VB ./.
 Christian/JJ legislators/NNS are/VBP insisting/VBG on/IN a/DT Syrian/JJ troop/NN pullout/NN from/IN Lebanon/NNP before/IN agreeing/VBG to/TO political/JJ changes/NNS giving/VBG the/DT nation/NN 's/POS Moslems/NNPS  a/DT greater/JJR role/NN in/IN Beirut/NNP 's/POS government/NN ./.
 Colombia/NNP 's/POS judges/NNS launched/VBD a/DT 72-hour/JJ strike/NN to/TO press/VB security/NN demands/NNS following/VBG Tuesday/NNP 's/POS murder/NN of/IN a/DT High/NNP Court/NNP justice/NN in/IN Medellin/NNP ./.
 The/DT country/NN 's/POS narcotics/NNS traffickers/NNS claimed/VBD responsibility/NN for/IN the/DT slaying/NN ./.

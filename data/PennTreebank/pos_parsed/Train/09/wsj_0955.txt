@@ -1,9 +1,9 @@
 Richard/NNP Breeden/NNP had/VBD n't/RB noticed/VBN that/IN his/PRP$ new/JJ desk/NN had/VBD just/RB four/CD telephone/NN lines/NNS and/CC one/CD phone/NN ./.
 It/PRP was/VBD ,/, after/IN all/DT ,/, only/RB his/PRP$ second/JJ full/JJ day/NN as/IN chairman/NN of/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP ./.
-the/DT lack/NN of/IN lines/NNS ./.
+the/DT lack/NN of/IN lines/NNS became/VBD painfully/RB apparent/JJ ./.
 the/DT stock/NN market/NN lurched/VBD into/IN a/DT 190-point/JJ free/JJ fall/NN on/IN Oct./NNP 13/CD ,/, Mr./NNP Breeden/NNP found/VBD himself/PRP scurrying/VBG around/IN the/DT sixth/JJ floor/NN of/IN the/DT SEC/NNP --/: from/IN his/PRP$ desk/NN ,/, where/WRB the/DT New/NNP York/NNP Stock/NNP Exchange/NNP was/VBD on/IN an/DT open/JJ line/NN ,/, to/TO his/PRP$ assistant/NN 's/POS office/NN ,/, where/WRB the/DT Commodity/NNP Futures/NNPS Trading/NNP Commission/NNP was/VBD connected/VBN ,/, to/TO a/DT third/JJ room/NN ,/, where/WRB a/DT computer/NN monitored/VBD market/NN moves/NNS ./.
 other/JJ anxious/JJ calls/NNS pouring/VBG in/IN ,/, he/PRP recalls/VBZ ,/, ``/`` I/PRP 'd/MD either/RB have/VB to/TO disconnect/VB the/DT New/NNP York/NNP Stock/NNP Exchange/NNP or/CC go/VB out/IN to/TO the/DT secretary/NN 's/POS desk/NN ./.
-It/PRP ./.
+It/PRP wo/MD n't/RB happen/VB again/RB ./.
 there/EX are/VBP more/JJR lines/NNS connected/VBN to/TO the/DT chairman/NN 's/POS office/NN ,/, and/CC the/DT market-monitoring/JJ computer/NN has/VBZ been/VBN moved/VBN next/JJ to/TO his/PRP$ desk/NN ./.
 It/PRP  's/VBZ all/DT part/NN of/IN a/DT new/JJ ``/`` command/NN center/NN ./.
 The/DT changes/NNS in/IN the/DT office/NN layout/NN illustrate/VBP Mr./NNP Breeden/NNP 's/POS stance/NN as/IN the/DT nation/NN 's/POS top/JJ securities/NNS regulator/NN ./.
@@ -26,7 +26,7 @@ Members/NNS of/IN the/DT Senate/NNP Banking/NNP Committee/NNP know/VBP Mr./NNP B
 Mr./NNP Breeden/NNP 's/POS confirmation/NN hearing/NN last/JJ month/NN ,/, senators/NNS asked/VBD him/PRP to/TO introduce/VB his/PRP$ children/NNS three/CD separate/JJ times/NNS --/: more/RBR often/RB than/IN they/PRP asked/VBD about/IN his/PRP$ qualifications/NNS for/IN the/DT job/NN ./.
 These/DT days/NNS ,/, Mr./NNP Breeden/NNP is/VBZ winning/VBG praise/NN in/IN Washington/NNP and/CC on/IN Wall/NNP Street/NNP for/IN his/PRP$ behind-the-scenes/JJ role/NN in/IN monitoring/VBG the/DT Friday-the-13th/JJ market/NN plunge/NN and/CC the/DT following/VBG Monday/NNP 's/POS harrowing/JJ morning/NN session/NN ./.
 a/DT regulator/NN charged/VBN with/IN restoring/VBG investor/NN confidence/NN ,/, Mr./NNP Breeden/NNP avoided/VBD making/VBG market-jarring/JJ comments/NNS and/CC worked/VBD to/TO gather/VB information/NN critical/JJ to/TO Wall/NNP Street/NNP and/CC to/TO other/JJ government/NN agencies/NNS ./.
-everyone/NN has/VBZ jumped/VBN on/IN the/DT Breeden/NNP bandwagon/NN ./.
+everyone/NN has/VBZ jumped/VBN on/IN the/DT Breeden/NNP bandwagon/NN ,/, however/RB ./.
 Some/DT in/IN Washington/NNP contend/VBP that/IN it/PRP 's/VBZ too/RB soon/RB to/TO tell/VB whether/IN Mr./NNP Breeden/NNP will/MD help/VB or/CC hinder/VB the/DT SEC/NNP ./.
 I/PRP do/VBP n't/RB think/VB this/DT was/VBD a/DT real/JJ test/NN ,/, ''/'' says/VBZ one/CD congressional/JJ aide/NN ./.
 It/PRP was/VBD a/DT fairly/RB stressful/JJ weekend/NN ,/, but/CC my/PRP$ sense/NN is/VBZ if/IN you/PRP had/VBD n't/RB had/VBN Richard/NNP Breeden/NNP there/RB ,/, it/PRP would/MD n't/RB have/VB made/VBN much/RB of/IN a/DT difference/NN ./.
@@ -39,9 +39,9 @@ Stunned/VBN ,/, Mr./NNP Breeden/NNP turned/VBD to/TO his/PRP$ market-monitoring/
 It/PRP showed/VBD the/DT DJIA/NNP up/RB 30/CD points/NNS ./.
 SEC/NNP staffers/NNS soon/RB determined/VBD that/IN a/DT widely/RB watched/VBN stock-market/NN service/NN ,/, Quotron/NNP ,/, had/VBD miscalculated/VBN the/DT industrial/JJ average/NN ./.
 Mr./NNP Breeden/NNP instructed/VBD SEC/NNP staffers/NNS to/TO inform/VB the/DT network/NN that/IN it/PRP was/VBD airing/VBG  the/DT wrong/JJ number/NN ./.
-It/PRP was/VBD the/DT plunge/NN  that/WDT did/VBD n't/RB happen/VB ,/, ''/'' he/PRP ./.
+It/PRP was/VBD the/DT plunge/NN  that/WDT did/VBD n't/RB happen/VB ,/, ''/'' he/PRP says/VBZ ./.
 Mr./NNP Breeden/NNP also/RB is/VBZ trying/VBG to/TO use/VB a/DT far/RB  more/RBR catastrophic/JJ event/NN --/: the/DT California/NNP earthquake/NN --/: to/TO move/VB another/DT rule/NN change/NN past/IN Congress/NNP ./.
-That/DT disaster/NN closed/VBD the/DT Pacific/NNP Stock/NNP Exchange/NNP 's/POS stock/NN options-trading/JJ operation/NN ,/, forcing/VBG those/DT options/NNS to/TO be/VB switched/VBN to/TO other/JJ exchanges/NNS ./.
+That/DT disaster/NN closed/VBD the/DT Pacific/NNP Stock/NNP Exchange/NNP 's/POS stock/NN options-trading/JJ operation/NN ,/, forcing/VBG those/DT options/NNS to/TO be/VB switched/VBN to/TO other/JJ exchanges/NNS temporarily/RB ./.
 most/JJS investors/NNS ,/, the/DT question/NN of/IN whether/IN to/TO list/VB options/NNS on/IN more/JJR than/IN one/CD exchange/NN has/VBZ aroused/VBN much/JJ interest/NN in/IN Congress/NNP ,/, mainly/RB because/IN regional/JJ exchanges/NNS fear/VBP the/DT change/NN could/MD bankrupt/VB them/PRP ./.
 Congressmen/NNS raised/VBD the/DT issue/NN yesterday/NN at/IN a/DT hearing/NN ./.
 Mr./NNP Breeden/NNP ,/, not/RB missing/VBG a/DT chance/NN to/TO press/VB his/PRP$ agenda/NN ,/, cited/VBD the/DT earthquake/NN ./.

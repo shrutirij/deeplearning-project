@@ -5,5 +5,5 @@ Mr./NNP Ovalle/NNP also/RB said/VBD Conasupo/NNP will/MD cut/VB back/JJ subsidie
 The/DT agency/NN 's/POS workers/NNS and/CC private/JJ companies/NNS would/MD be/VB allowed/VBN to/TO bid/VB for/IN the/DT assets/NNS up/IN for/IN sale/NN ./.
 Conasupo/NNP controls/VBZ prices/NNS on/IN agricultural/JJ goods/NNS and/CC operates/VBZ retail/JJ outlets/NNS where/WRB basic/JJ consumer/NN items/NNS are/VBP sold/VBN at/IN state-subsidized/JJ prices/NNS ./.
 Business/NN leaders/NNS have/VBP long/RB criticized/VBN the/DT agency/NN as/IN a/DT leading/VBG example/NN of/IN bureacratic/JJ waste/NN ./.
-Private-sector/JJ leaders/NNS praised/VBD the/DT Conasupo/NNP ./.
+Private-sector/JJ leaders/NNS praised/VBD the/DT Conasupo/NNP restructuring/NN ./.
 most/JJS economists/NNS doubt/VBP the/DT streamlining/VBG would/MD cut/VB deeply/RB into/IN Conasupo/NNP government/NN subsidy/NN ,/, which/WDT largely/RB goes/VBZ to/TO reduce/VB consumer/NN prices/NNS for/IN corn/NN and/CC milk/NN ./.

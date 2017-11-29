@@ -1,4 +1,4 @@
-Dana/NNP Corp./NNP said/VBD its/PRP$ third-quarter/JJ net/JJ income/NN fell/VBD 27/CD %/NN to/TO $/$ 29.6/CD million/CD ,/, or/CC 72/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 40.7/CD million/CD ,/, or/CC $/$ 1/CD  a/DT share/NN ,/, a/DT year/NN ./.
+Dana/NNP Corp./NNP said/VBD its/PRP$ third-quarter/JJ net/JJ income/NN fell/VBD 27/CD %/NN to/TO $/$ 29.6/CD million/CD ,/, or/CC 72/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 40.7/CD million/CD ,/, or/CC $/$ 1/CD  a/DT share/NN ,/, a/DT year/NN earlier/RBR ./.
 Sales/NNS dropped/VBD 4/CD %/NN to/TO $/$ 1.12/CD billion/CD from/IN $/$ 1.17/CD billion/CD ./.
 The/DT company/NN ,/, which/WDT supplies/VBZ transmissions/NNS and/CC other/JJ drive-train/NN parts/NNS to/TO auto/NN makers/NNS ,/, said/VBD about/RB half/PDT the/DT earnings/NNS drop/NN came/VBD from/IN the/DT ``/`` virtual/JJ collapse/NN ''/'' of/IN the/DT Venezuelan/JJ auto/NN industry/NN ./.
 The/DT Venezuelan/JJ currency/NN plummeted/VBD this/DT year/NN ,/, making/VBG it/PRP difficult/JJ for/IN auto/NN makers/NNS there/RB to/TO afford/VB imported/JJ parts/NNS ./.

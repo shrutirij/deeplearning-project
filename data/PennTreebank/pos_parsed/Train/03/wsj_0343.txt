@@ -12,7 +12,7 @@ that/DT could/MD make/VB it/PRP vulnerable/JJ to/TO a/DT veto/NN by/IN Mr./NNP B
 Senate/NNP Democrats/NNPS are/VBP to/TO meet/VB today/NN to/TO consider/VB the/DT GOP/NNP proposal/NN ./.
 Yesterday/NN ,/, Mr./NNP Dole/NNP seemed/VBD weary/JJ of/IN the/DT Bush/NNP administration/NN 's/POS strategy/NN of/IN pushing/VBG the/DT capital-gains/NNS measure/NN at/IN every/DT chance/NN in/IN the/DT face/NN of/IN Democratic/JJ procedural/JJ hurdles/NNS ./.
 the/DT issue/NN on/IN legislation/NN needed/VBN to/TO avoid/VB default/NN by/IN the/DT federal/JJ government/NN ,/, he/PRP told/VBD reporters/NNS ,/, ``/`` does/VBZ n't/RB seem/VB to/TO be/VB very/RB good/JJ strategy/NN to/TO me/PRP ./.
-12:01/CD a.m./NN EST/RB today/NN ,/, the/DT federal/JJ government/NN 's/POS temporary/JJ $/$ 2.87/CD trillion/CD debt/NN limit/NN ./.
+12:01/CD a.m./NN EST/RB today/NN ,/, the/DT federal/JJ government/NN 's/POS temporary/JJ $/$ 2.87/CD trillion/CD debt/NN limit/NN expired/VBD ./.
 default/NN ,/, lawmakers/NNS must/MD pass/VB legislation/NN raising/VBG the/DT limit/NN to/TO $/$ 3.12/CD trillion/CD from/IN $/$ 2.80/CD trillion/CD by/IN next/JJ Wednesday/NNP ,/, according/VBG to/TO the/DT Treasury/NNP ./.
 Chairman/NNP Dan/NNP Rostenkowski/NNP (/( D./NNP ,/, Ill/NNP ./.
 the/DT House/NNP Ways/NNP and/CC Means/NNP Committee/NNP ,/, Treasury/NNP Undersecretary/NNP Robert/NNP Glauber/NNP told/VBD a/DT congressional/JJ hearing/NN that/IN the/DT administration/NN would/MD give/VB up/RP its/PRP$ demand/NN for/IN the/DT capital-gains/NNS tax/NN cut/NN if/IN faced/VBN with/IN a/DT potential/JJ default/NN ./.

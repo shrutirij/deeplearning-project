@@ -5,5 +5,5 @@ Chicago/NNP since/IN 1987/CD has/VBZ reduced/VBN its/PRP$ loans/NNS to/TO such/J
 this/DT loss/NN ,/, First/NNP Chicago/NNP said/VBD it/PRP does/VBZ n't/RB need/VB to/TO sell/VB stock/NN to/TO raise/VB capital/NN ./.
 the/DT quarter/NN ,/, the/DT company/NN realized/VBD a/DT pretax/NN gain/NN of/IN $/$ 60.4/CD million/CD from/IN the/DT sale/NN of/IN its/PRP$ First/NNP Chicago/NNP Investment/NNP Advisors/NNPS unit/NN ./.
 foreign/JJ exchange/NN and/CC bond/NN trading/NN profits/NNS dipped/VBD 24/CD %/NN against/IN last/JJ year/NN 's/POS third/JJ quarter/NN ,/, to/TO $/$ 38.2/CD million/CD from/IN $/$ 50.5/CD million/CD ./.
-Gains/NNS from/IN First/NNP Chicago/NNP 's/POS venture/NN capital/NN unit/NN ,/, a/DT big/JJ leveraged/JJ buy-out/NN investor/NN ,/, rose/VBD 32/CD %/NN to/TO $/$ 34/CD million/CD from/IN $/$ 25.7/CD million/CD  a/DT year/NN ./.
-Interest/NN income/NN and/CC most/JJS fee/NN income/NN ./.
+Gains/NNS from/IN First/NNP Chicago/NNP 's/POS venture/NN capital/NN unit/NN ,/, a/DT big/JJ leveraged/JJ buy-out/NN investor/NN ,/, rose/VBD 32/CD %/NN to/TO $/$ 34/CD million/CD from/IN $/$ 25.7/CD million/CD  a/DT year/NN ago/IN ./.
+Interest/NN income/NN and/CC most/JJS fee/NN income/NN was/VBD strong/JJ ./.

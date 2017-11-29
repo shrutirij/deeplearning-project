@@ -3,7 +3,7 @@ A/DT group/NN of/IN investors/NNS led/VBN by/IN Giant/NNP Group/NNP Ltd./NNP and
 The/DT company/NN went/VBD public/JJ earlier/RBR this/DT month/NN ,/, offering/VBG 1,745,000/CD shares/NNS of/IN common/JJ stock/NN at/IN $/$ 15/CD  a/DT share/NN ./.
 Giant/NN has/VBZ interests/NNS in/IN cement/NN making/NN and/CC newsprint/NN ./.
 The/DT investor/NN group/NN includes/VBZ Restaurant/NNP Investment/NNP Partnership/NNP ,/, a/DT California/NNP general/JJ partnership/NN ,/, and/CC three/CD Rally/NNP 's/POS directors/NNS :/: Mr./NNP Sugarman/NNP ,/, James/NNP M./NNP Trotter/NNP III/NNP and/CC William/NNP E./NNP Trotter/NNP II/NNP ./.
-The/DT group/NN currently/RB holds/VBZ 3,027,330/CD Rally/NNP 's/POS shares/NNS ,/, or/CC 45.2/CD %/NN of/IN its/PRP$ commmon/JJ shares/NNS ./.
+The/DT group/NN currently/RB holds/VBZ 3,027,330/CD Rally/NNP 's/POS shares/NNS ,/, or/CC 45.2/CD %/NN of/IN its/PRP$ commmon/JJ shares/NNS outstanding/JJ ./.
 Giant/NNP Group/NNP owned/VBD 22/CD %/NN of/IN Rally/NNP 's/POS shares/NNS before/IN the/DT initial/JJ public/JJ offering/NN ./.
 A/DT second/JJ group/NN of/IN three/CD company/NN directors/NNS ,/, aligned/VBN with/IN Rally/NNP 's/POS founder/NN James/NNP Patterson/NNP ,/, also/RB is/VBZ seeking/VBG control/NN of/IN the/DT fast-food/NN chain/NN ./.
 It/PRP is/VBZ estimated/VBN that/IN the/DT Patterson/NNP group/NN controls/VBZ more/JJR than/IN 40/CD %/NN of/IN Rally/NNP 's/POS stock/NN ./.

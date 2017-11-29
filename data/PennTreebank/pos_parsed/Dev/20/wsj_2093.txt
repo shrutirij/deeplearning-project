@@ -3,10 +3,10 @@ UAL/NNP has/VBZ fallen/VBN $/$ 87.25/CD ,/, or/CC 31/CD %/NN ,/, in/IN the/DT th
 investor/NN Marvin/NNP Davis/NNP said/VBD he/PRP remains/VBZ interested/VBN in/IN UAL/NNP ,/, but/CC he/PRP dropped/VBD his/PRP$ earlier/JJR $/$ 300-a-share/JJ back-up/NN bid/NN ./.
 Stock/NN prices/NNS fell/VBD broadly/RB in/IN heavy/JJ trading/NN ,/, dominated/VBN by/IN futures-related/JJ program/NN selling/NN and/CC further/JJ declines/NNS by/IN UAL/NNP and/CC other/JJ airline/NN stocks/NNS ./.
 The/DT Dow/NNP Jones/NNP industrials/NNS closed/VBD off/IN 18.65/CD points/NNS ,/, at/IN 2638.73/CD ,/, after/IN plunging/VBG over/IN 60.25/CD points/NNS in/IN the/DT morning/NN ./.
-Bond/NN prices/NNS ended/VBD lower/JJR after/IN an/DT early/JJ rally/NN ,/, while/IN the/DT dollar/NN ./.
-The/DT U.S./NNP trade/NN deficit/NN swelled/VBD to/TO $/$ 10.77/CD billion/CD in/IN August/NNP ,/, prompting/VBG worries/NNS that/IN the/DT nation/NN 's/POS export/NN drive/NN ./.
+Bond/NN prices/NNS ended/VBD lower/JJR after/IN an/DT early/JJ rally/NN ,/, while/IN the/DT dollar/NN was/VBD mixed/VBN ./.
+The/DT U.S./NNP trade/NN deficit/NN swelled/VBD to/TO $/$ 10.77/CD billion/CD in/IN August/NNP ,/, prompting/VBG worries/NNS that/IN the/DT nation/NN 's/POS export/NN drive/NN had/VBD stalled/VBN ./.
 Exports/NNS declined/VBD for/IN the/DT second/JJ month/NN in/IN a/DT row/NN ,/, while/IN imports/NNS rose/VBD to/TO a/DT record/NN ./.
-An/DT analyst/NN called/VBD it/PRP  one/CD of/IN the/DT worst/JJS trade/NN reports/NNS since/IN the/DT dollar/NN bottomed/VBD out/IN in/IN====================================== Industrial/JJ output/NN fell/VBD 0.1/CD %/NN in/IN September/NNP ,/, the/DT latest/JJS sign/NN manufacturing/NN ./.
+An/DT analyst/NN called/VBD it/PRP  one/CD of/IN the/DT worst/JJS trade/NN reports/NNS since/IN the/DT dollar/NN bottomed/VBD out/IN in/IN====================================== Industrial/JJ output/NN fell/VBD 0.1/CD %/NN in/IN September/NNP ,/, the/DT latest/JJS sign/NN manufacturing/NN is/VBZ slowing/VBG ./.
 An/DT analyst/NN cited/VBD weaker/JJR capital/NN spending/NN and/CC exports/NNS ./.
 Bankers/NNPS Trust/NNP added/VBD $/$ 1.6/CD billion/CD to/TO reserves/NNS for/IN Third/NNP World/NNP loans/NNS ,/, the/DT latest/JJS big/JJ bank/NN to/TO take/VB such/PDT a/DT step/NN ./.
 It/PRP expects/VBZ a/DT $/$ 1.42/CD billion/CD quarterly/JJ loss/NN ./.

@@ -1,5 +1,5 @@
-The/DT bulls/NNS are/VBP back/RB in/IN the/DT art-auction/NN china/NN shops/NNS ,/, predicting/VBG higher/JJR prices/NNS and/CC higher/JJR volume/NN ./.
-Christie/NNP 's/POS and/CC Sotheby/NNP 's/POS ,/, the/DT two/CD major/JJ New/NNP York/NNP houses/NNS ,/, are/VBP about/IN to/TO offer/VB a/DT large/JJ number/NN of/IN impressionist/NN and/CC modern/JJ paintings/NNS at/IN estimates/NNS unheard/JJ of/IN even/RB five/CD years/NNS ./.
+The/DT bulls/NNS are/VBP back/RB in/IN the/DT art-auction/NN china/NN shops/NNS ,/, predicting/VBG higher/JJR prices/NNS and/CC higher/JJR volume/NN than/IN ever/RB before/RB ./.
+Christie/NNP 's/POS and/CC Sotheby/NNP 's/POS ,/, the/DT two/CD major/JJ New/NNP York/NNP houses/NNS ,/, are/VBP about/IN to/TO offer/VB a/DT large/JJ number/NN of/IN impressionist/NN and/CC modern/JJ paintings/NNS at/IN estimates/NNS unheard/JJ of/IN even/RB five/CD years/NNS ago/RB ./.
 They/PRP are/VBP betting/VBG that/DT demand/NN for/IN these/DT pictures/NNS will/MD be/VB so/RB strong/JJ that/IN the/DT market/NN will/MD swallow/VB everything/NN  that/WDT is/VBZ thrown/VBN at/IN it/PRP and/CC prices/NNS still/RB will/MD rise/VB --/: a/DT lot/NN ./.
 art/NN dealer/NN Richard/NNP Feigen/NNP sees/VBZ it/PRP ,/, ``/`` There/EX is/VBZ unlimited/JJ money/NN trying/VBG to/TO absorb/VB itself/PRP in/IN art/NN ./.
 Step/VB right/RB this/DT way/NN ./.
@@ -12,12 +12,12 @@ Christie/NNP 's/POS has/VBZ snagged/VBN the/DT 15/CD impressionist/NN and/CC mod
 Other/JJ one-owner/JJ collections/NNS include/VBP Billy/NNP Wilder/NNP 's/POS more/RBR modest/JJ but/CC choice/JJ offerings/NNS ,/, and/CC the/DT George/NNP N./NNP Richard/NNP collection/NN --/: piled/VBN on/IN top/NN of/IN Christie/NNP 's/POS estimated/VBN $/$ 150/CD million/CD --/: $/$ 200/CD million/CD of/IN other/JJ impressionist/NN goodies/NNS ./.
 All/PDT these/DT will/MD go/VB under/IN the/DT hammer/NN on/IN Nov./NNP 13/CD and/CC 14/CD ./.
 A/DT strong/JJ art/NN market/NN is/VBZ bringing/VBG out/RP paintings/NNS I/PRP never/RB expected/VBD to/TO see/VB on/IN the/DT market/NN ,/, ''/'' says/VBZ David/NNP Nash/NNP ,/, director/NN of/IN Sotheby/NNP 's/POS Fine/JJ Arts/NNS Division/NN ./.
-Some/DT museum/NN directors/NNS never/RB expected/VBD to/TO see/VB them/PRP ./.
-the/DT 1986/CD tax/NN laws/NNS drastically/RB reduced/VBD deductions/NNS for/IN the/DT donation/NN of/IN appreciated/VBN property/NN and/CC reduced/VBD overall/JJ tax/NN rates/NNS (/( thereby/RB making/VBG deductions/NNS less/RBR significant/JJ )/) ,/, charitable/JJ donations/NNS to/TO museums/NNS ,/, when/WRB anyone/NN makes/VBZ them/PRP ./.
+Some/DT museum/NN directors/NNS never/RB expected/VBD to/TO see/VB them/PRP there/RB either/RB ./.
+the/DT 1986/CD tax/NN laws/NNS drastically/RB reduced/VBD deductions/NNS for/IN the/DT donation/NN of/IN appreciated/VBN property/NN and/CC reduced/VBD overall/JJ tax/NN rates/NNS (/( thereby/RB making/VBG deductions/NNS less/RBR significant/JJ )/) ,/, charitable/JJ donations/NNS to/TO museums/NNS ,/, when/WRB anyone/NN makes/VBZ them/PRP ,/, are/VBP very/RB charitable/JJ indeed/RB ./.
 the/DT seductive/JJ prices/NNS held/VBD out/RB by/IN the/DT auction/NN houses/NNS ,/, the/DT urge/NN to/TO sell/VB can/MD --/: and/CC apparently/RB has/VBZ --/: become/VB irresistible/JJ ./.
-the/DT current/JJ group/NN of/IN paintings/NNS ,/, it/PRP 's/VBZ hard/JJ to/TO say/VB which/WDT ,/, in/IN the/DT days/NNS before/IN tax/NN reform/NN ./.
+the/DT current/JJ group/NN of/IN paintings/NNS ,/, it/PRP 's/VBZ hard/JJ to/TO say/VB which/WDT ,/, in/IN the/DT days/NNS before/IN tax/NN reform/NN ,/, might/MD have/VB been/VBN donated/VBN instead/RB of/IN sold/VBN ./.
 No/DT museum/NN director/NN will/MD risk/VB offending/VBG potential/JJ patrons/NNS by/IN publicly/RB airing/VBG disappointed/JJ hopes/NNS ./.
-Philadelphia/NNP Museum/NNP head/NN Anne/NNP d'Harnoncourt/NNP insists/VBZ that/IN even/RB though/IN John/NNP Dorrance/NNP may/MD have/VB been/VBN the/DT chairman/NN of/IN her/PRP$ Board/NN of/IN Trustees/NNS ,/, ``/`` We/PRP were/VBD n't/RB expecting/VBG the/DT pictures/NNS we/PRP ./.
+Philadelphia/NNP Museum/NNP head/NN Anne/NNP d'Harnoncourt/NNP insists/VBZ that/IN even/RB though/IN John/NNP Dorrance/NNP may/MD have/VB been/VBN the/DT chairman/NN of/IN her/PRP$ Board/NN of/IN Trustees/NNS ,/, ``/`` We/PRP were/VBD n't/RB expecting/VBG the/DT pictures/NNS we/PRP did/VBD n't/RB get/VB ./.
 Sotheby/NNP 's/POS points/VBZ out/RB that/IN it/PRP is/VBZ ``/`` an/DT international/JJ organization/NN ''/'' not/RB specifically/RB concerned/VBN with/IN potential/JJ losses/NNS to/TO American/JJ museums/NNS ,/, others/NNS are/VBP up/IN in/IN arms/NNS :/: ``/`` Donations/NNS have/VBP always/RB been/VBN the/DT main/JJ source/NN of/IN increased/VBN museum/NN collections/NNS ,/, ''/'' says/VBZ Edward/NNP H./NNP Able/NNP Jr./NNP ,/, executive/NN director/NN of/IN the/DT American/NNP Association/NNP of/IN Museums/NNPS ./.
 there/EX is/VBZ a/DT hemorrhaging/NN of/IN this/DT country/NN 's/POS patrimony/NN ./.
 a/DT study/NN conducted/VBN by/IN the/DT Association/NNP of/IN Art/NNP Museum/NNP Directors/NNPS ,/, the/DT drop/NN in/IN the/DT dollar/NN value/NN of/IN donated/VBN works/NNS of/IN art/NN since/IN 1986/CD is/VBZ more/JJR than/IN 50/CD %/NN ./.
@@ -29,25 +29,25 @@ the/DT sales/NNS ,/, the/DT hoopla/NN is/VBZ well/RB under/IN way/NN ./.
 Major/JJ attractions/NNS have/VBP out-of-town/JJ tryouts/NNS ./.
 Au/FW Lapin/FW Agile/FW ,/, ''/'' some/DT of/IN the/DT Mellon/NNP paintings/NNS ,/, and/CC others/NNS went/VBD around/IN the/DT world/NN on/IN a/DT series/NN of/IN whistle-stop/JJ exhibition/NN tours/NNS ;/: Billy/NNP Wilder/NNP 's/POS pictures/NNS went/VBD to/TO a/DT party/NN at/IN the/DT Beverly/NNP Hills/NNPS Hotel/NNP ;/: and/CC the/DT Dorrance/NNP paintings/NNS hung/VBD for/IN five/CD days/NNS in/IN the/DT Philadelphia/NNP Museum/NNP of/IN Art/NNP ./.
 Sotheby/NNP 's/POS PR/NNP department/NN could/MD n't/RB have/VB pulled/VBD that/IN one/NN off/RP ;/: Dorrance/NNP 's/POS executors/NNS ``/`` requested/VBD ''/'' it/PRP ./.
-last/JJ ,/, however/RB ,/, the/DT warmup/NN is/VBZ done/VBN and/CC the/DT action/NN ./.
+last/JJ ,/, however/RB ,/, the/DT warmup/NN is/VBZ done/VBN and/CC the/DT action/NN is/VBZ about/IN to/TO begin/VB ./.
 it/PRP will/MD soon/RB be/VB clear/JJ whether/IN enough/JJ people/NNS will/MD be/VB raising/VBG those/DT little/JJ bidding/NN paddles/NNS ,/, no/DT matter/NN  what/WP  the/DT cost/NN ./.
-The/DT weak/JJ dollar/NN makes/VBZ our/PRP$ market/NN  a/DT playground/NN for/IN foreign/JJ bidders/NNS ,/, and/CC our/PRP$ sorry/JJ balance/NN of/IN trade/NN has/VBZ given/VBN them/PRP plenty/NN of/IN dollars/NNS ./.
+The/DT weak/JJ dollar/NN makes/VBZ our/PRP$ market/NN  a/DT playground/NN for/IN foreign/JJ bidders/NNS ,/, and/CC our/PRP$ sorry/JJ balance/NN of/IN trade/NN has/VBZ given/VBN them/PRP plenty/NN of/IN dollars/NNS to/TO play/VB with/IN ./.
 many/JJ ways/NNS  the/DT Japanese/NNPS --/: particularly/RB Japanese/JJ corporations/NNS --/: dictate/VBP art/NN price/NN levels/NNS ,/, ''/'' says/VBZ Susan/NNP Seidel/NNP of/IN William/NNP Beadleston/NNP ,/, a/DT New/NNP York/NNP private/JJ dealing/NN concern/NN ./.
 They/PRP are/VBP willing/JJ to/TO pay/VB almost/RB anything/NN ./.
 art/NN ?/. Are/VBP we/PRP talking/VBG pure/JJ aesthetic/JJ appreciation/NN here/RB ?/.For/IN many/JJ buyers/NNS ,/, that/WDT still/RB is/VBZ major/JJ motivation/NN ./.
-the/DT stakes/NNS are/VBP now/RB very/RB high/JJ and/CC for/IN your/PRP$ $/$ 40/CD million/CD  you/PRP can/MD buy/VB only/RB the/DT best/JJS of/IN what/WP is/VBZ available/JJ --/: which/WDT may/MD not/RB be/VB the/DT best/JJS there/EX ./.
-least/JJS the/DT auction/NN process/NN illustrates/VBZ so/RB beautifully/RB that/IN everybody/NN else/JJ wanted/VBD to/TO have/VB it/PRP ./.
+the/DT stakes/NNS are/VBP now/RB very/RB high/JJ and/CC for/IN your/PRP$ $/$ 40/CD million/CD  you/PRP can/MD buy/VB only/RB the/DT best/JJS of/IN what/WP is/VBZ available/JJ --/: which/WDT may/MD not/RB be/VB the/DT best/JJS there/EX is/VBZ ./.
+least/JJS the/DT auction/NN process/NN illustrates/VBZ so/RB beautifully/RB that/IN everybody/NN else/JJ wanted/VBD to/TO have/VB it/PRP too/RB ./.
 some/DT ,/, the/DT social/JJ status/NN  that/WDT can/MD be/VB acquired/VBN in/IN this/DT way/NN is/VBZ the/DT point/NN of/IN the/DT game/NN ./.
 They/PRP buy/VBP the/DT co-op/NN ,/, they/PRP buy/VBP the/DT cars/NNS ,/, ''/'' says/VBZ Ms./NNP Seidel/NNP ./.
 they/PRP buy/VBP `/`` brand/NN names/NNS '/POS like/JJ Picasso/NN to/TO put/VB on/IN the/DT wall/NN ./.
 these/DT price/NN levels/NNS ,/, confidence/NN in/IN the/DT ``/`` investment/NN ''/'' potential/NN of/IN major/JJ paintings/NNS must/MD be/VB playing/VBG a/DT part/NN in/IN fueling/VBG the/DT collecting/NN frenzy/NN ./.
 Big-bucks/JJ buyers/NNS trust/VBP that/IN the/DT market/NN will/MD continue/VB its/PRP$ strong/JJ surge/NN ./.
-October/NNP of/IN '87/CD people/NNS saw/VBD that/IN everything/NN else/RB went/VBD down/RB but/CC art/NN went/VBD up/RB ,/, ''/'' Desmond/NNP Corcoran/NNP of/IN London/NNP 's/POS Alex/NNP Reid/NNP &/CC Lefevre/NNP Ltd./NNP gallery/NN ./.
-the/DT market/NN has/VBZ continued/VBN to/TO rise/VB ,/, but/CC now/RB the/DT size/NN of/IN the/DT estimates/NNS seems/VBZ to/TO be/VB making/VBG some/DT people/NNS ./.
+October/NNP of/IN '87/CD people/NNS saw/VBD that/IN everything/NN else/RB went/VBD down/RB but/CC art/NN went/VBD up/RB ,/, ''/'' Desmond/NNP Corcoran/NNP of/IN London/NNP 's/POS Alex/NNP Reid/NNP &/CC Lefevre/NNP Ltd./NNP gallery/NN points/VBZ out/RB ./.
+the/DT market/NN has/VBZ continued/VBN to/TO rise/VB ,/, but/CC now/RB the/DT size/NN of/IN the/DT estimates/NNS seems/VBZ to/TO be/VB making/VBG some/DT people/NNS nervous/JJ ./.
 Zey/PRP are/VBP crazee/JJ !/.''/'' shrieked/VBD one/CD French/JJ dealer/NN ,/, reeling/VBG from/IN auction/NN estimate/NN sticker/NN shock/NN ./.
-a/DT lower/JJR key/NN ,/, Mr./NNP Corcoran/NNP finds/VBZ the/DT world/NN ``/`` full/JJ of/IN strange/JJ speculators/NNS ''/'' and/CC the/DT auction/NN estimates/NNS ``/`` incredible/JJ ,/, ''/'' and/CC suggests/VBZ the/DT Dorrance/NNP sale/NN as/IN a/DT sort/NN of/IN early/JJ warning/NN system/NN :/: ``/`` These/DT pictures/NNS are/VBP not/RB absolutely/RB top/JJ quality/NN ,/, ''/'' he/PRP ./.
-the/DT market/NN absorbs/VBZ those/DT ,/, what/WP comes/VBZ three/CD weeks/NNS ./.
+a/DT lower/JJR key/NN ,/, Mr./NNP Corcoran/NNP finds/VBZ the/DT world/NN ``/`` full/JJ of/IN strange/JJ speculators/NNS ''/'' and/CC the/DT auction/NN estimates/NNS ``/`` incredible/JJ ,/, ''/'' and/CC suggests/VBZ the/DT Dorrance/NNP sale/NN as/IN a/DT sort/NN of/IN early/JJ warning/NN system/NN :/: ``/`` These/DT pictures/NNS are/VBP not/RB absolutely/RB top/JJ quality/NN ,/, ''/'' he/PRP says/VBZ ./.
+the/DT market/NN absorbs/VBZ those/DT ,/, what/WP comes/VBZ three/CD weeks/NNS later/RB will/MD do/VB just/RB fine/JJ ./.
 all/DT goes/VBZ well/RB ,/, if/IN the/DT Picasso/NNP hits/VBZ $/$ 75/CD million/CD ,/, and/CC Mellon/NNP ,/, Dorrance/NNP ,/, Wilder/NNP and/CC the/DT rest/NN get/VBP what/WP  they/PRP bargained/VBD for/IN ,/, the/DT uncomfortable/JJ ,/, questioning/JJ buzz/NN in/IN the/DT art/NN marketplace/NN will/MD trail/VB off/RB into/IN sighs/NNS of/IN relief/NN ,/, only/RB to/TO begin/VB anew/RB slightly/RB louder/RBR than/IN before/RB ,/, as/IN the/DT cycle/NN starts/VBZ over/RP in/IN the/DT spring/NN ./.
 some/DT ,/, the/DT art/NN market/NN has/VBZ become/VBN a/DT sort/NN of/IN magic/JJ beanstalk/NN rising/VBG into/IN the/DT clouds/NNS at/IN a/DT cartoon/NN rate/NN of/IN speed/NN ./.
-Nobody/NN knows/VBZ what/WP is/VBZ at/IN the/DT top/NN ,/, but/CC they/PRP are/VBP hoping/VBG it/PRP ./.
+Nobody/NN knows/VBZ what/WP is/VBZ at/IN the/DT top/NN ,/, but/CC they/PRP are/VBP hoping/VBG it/PRP is/VBZ very/RB far/RB away/RB ./.
 Ms./NNP Berman/NNP covers/VBZ the/DT auction/NN scene/NN ./.

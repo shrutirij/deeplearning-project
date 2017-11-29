@@ -3,8 +3,8 @@ The/DT $/$ 409/CD million/CD bid/NN includes/VBZ the/DT assumption/NN of/IN an/D
 The/DT group/NN is/VBZ led/VBN by/IN Jay/NNP Shidler/NNP ,/, chief/JJ executive/JJ officer/NN of/IN Shidler/NNP Investment/NNP Corp./NNP in/IN Honolulu/NNP ,/, and/CC A./NNP Boyd/NNP Simpson/NNP ,/, chief/JJ executive/NN of/IN the/DT Atlanta-based/JJ Simpson/NNP Organization/NNP Inc/NNP ./.
 Mr./NNP Shidler/NNP 's/POS company/NN specializes/VBZ in/IN commercial/JJ real-estate/NN investment/NN and/CC claims/VBZ to/TO have/VB $/$ 1/CD billion/CD in/IN assets/NNS ;/: Mr./NNP Simpson/NNP is/VBZ a/DT developer/NN and/CC a/DT former/JJ senior/JJ executive/NN of/IN L.J./NNP Hooker/NNP ./.
 The/DT assets/NNS are/VBP good/JJ ,/, but/CC they/PRP require/VBP more/JJR money/NN and/CC management/NN ''/'' than/IN can/MD be/VB provided/VBN in/IN L.J./NNP Hooker/NNP 's/POS current/JJ situation/NN ,/, said/VBD Mr./NNP Simpson/NNP in/IN an/DT interview/NN ./.
-Hooker/NNP 's/POS philosophy/NN ./.
-We/PRP ./.
+Hooker/NNP 's/POS philosophy/NN was/VBD to/TO build/VB and/CC sell/VB ./.
+We/PRP want/VBP to/TO build/VB and/CC hold/VB ./.
 L.J./NNP Hooker/NNP ,/, based/VBN in/IN Atlanta/NNP ,/, is/VBZ operating/VBG with/IN protection/NN from/IN its/PRP$ creditors/NNS under/IN Chapter/NNP 11/CD of/IN the/DT U.S./NNP Bankruptcy/NNP Code/NNP ./.
 Its/PRP$ parent/NN company/NN ,/, Hooker/NNP Corp./NNP of/IN Sydney/NNP ,/, Australia/NNP ,/, is/VBZ currently/RB being/VBG managed/VBN by/IN a/DT court-appointed/JJ provisional/JJ liquidator/NN ./.
 Sanford/NNP Sigoloff/NNP ,/, chief/JJ executive/NN of/IN L.J./NNP Hooker/NNP ,/, said/VBD yesterday/NN in/IN a/DT statement/NN that/IN he/PRP has/VBZ not/RB yet/RB seen/VBN the/DT bid/NN but/CC that/IN he/PRP would/MD review/VB it/PRP and/CC bring/VB it/PRP to/TO the/DT attention/NN of/IN the/DT creditors/NNS committee/NN ./.

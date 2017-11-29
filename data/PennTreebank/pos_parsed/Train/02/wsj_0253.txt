@@ -16,5 +16,5 @@ Yesterday/NN ,/, Armstrong/NNP reported/VBD flat/JJ earnings/NNS for/IN the/DT t
 the/DT quarter/NN ,/, earnings/NNS were/VBD $/$ 47/CD million/CD ,/, or/CC 92/CD cents/NNS  a/DT share/NN ,/, including/VBG a/DT one-time/JJ gain/NN of/IN $/$ 5.9/CD million/CD ./.
 the/DT year-ago/JJ quarter/NN ,/, earnings/NNS were/VBD $/$ 42.9/CD million/CD ,/, or/CC 93/CD cents/NNS  a/DT share/NN ./.
 Yesterday/NN ,/, Armstrong/NNP announced/VBD an/DT agreement/NN to/TO sell/VB its/PRP$ small/JJ Applied/NNP Color/NNP Systems/NNPS unit/NN to/TO a/DT subsidiary/NN of/IN the/DT Swiss/JJ company/NN ,/, Brauerei/NNP Eichof/NNP Ltd/NNP ./.
-The/DT price/NN was/VBD n't/RB ./.
+The/DT price/NN was/VBD n't/RB disclosed/VBN ./.
 Armstrong/NNP expects/VBZ to/TO close/VB the/DT sale/NN of/IN the/DT color/NN unit/NN in/IN late/JJ November/NNP and/CC the/DT carpet/NN sale/NN in/IN December/NNP ,/, with/IN the/DT gains/NNS to/TO be/VB applied/VBN to/TO fourth/JJ quarter/NN or/CC first-quarter/JJ results/NNS ./.

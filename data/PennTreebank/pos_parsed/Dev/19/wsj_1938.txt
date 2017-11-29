@@ -1,6 +1,6 @@
 Ciba-Geigy/NNP Ltd./NNP and/CC Chiron/NNP Corp./NNP said/VBD they/PRP extended/VBD their/PRP$ offer/NN for/IN Connaught/NNP BioSciences/NNP Inc./NNP ,/, valued/VBN at/IN 866/CD million/CD Canadian/JJ dollars/NNS (/( US$/$ 736/CD million/CD )/) to/TO Oct./NNP 27/CD ./.
 The/DT companies/NNS earlier/RBR said/VBD they/PRP did/VBD n't/RB want/VB to/TO raise/VB their/PRP$ offer/NN to/TO match/VB a/DT rival/JJ bid/NN by/IN Institut/NNP Merieux/NNP S.A./NNP of/IN C$/$ 37/CD  a/DT share/NN ,/, or/CC C$/$ 942/CD million/CD ./.
-they/PRP said/VBD the/DT C$/$ 30-a-share/JJ bid/NN ,/, which/WDT was/VBD due/JJ to/TO expire/VB Monday/NNP ./.
+they/PRP said/VBD the/DT C$/$ 30-a-share/JJ bid/NN ,/, which/WDT was/VBD due/JJ to/TO expire/VB Monday/NNP ,/, may/MD still/RB be/VB extended/VBN or/CC varied/VBN ./.
 Merieux/NNP ,/, a/DT vaccine/NN manufacturer/NN based/VBN in/IN Lyon/NNP ,/, France/NNP ,/, is/VBZ 51%-held/JJ by/IN French/JJ state-owned/JJ Rhone-Poulenc/NNP S.A/NNP ./.
 Ciba-Geigy/NNP is/VBZ a/DT major/JJ pharmaceutical/JJ concern/NN based/VBN in/IN Basel/NNP ,/, Switzerland/NNP ./.
 Chiron/NNP ,/, another/DT pharmaceutical/JJ concern/NN ,/, is/VBZ based/VBN in/IN Emeryville/NNP ,/, Calif/NNP ./.

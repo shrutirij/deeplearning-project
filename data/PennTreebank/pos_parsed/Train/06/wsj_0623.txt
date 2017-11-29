@@ -8,7 +8,7 @@ Senator/NNP Byrd/NNP is/VBZ chairman/NN of/IN the/DT Appropriations/NNPS Committ
 Iowa/NNP ,/, a/DT $/$ 1.8/CD million/CD request/NN became/VBD $/$ 12/CD million/CD for/IN Senator/NNP Grassley/NNP ,/, ranking/JJ minority/NN member/NN of/IN a/DT military/JJ construction/NN subcommittee/NN ./.
 Rep./NNP Jamie/NNP Whitten/NNP of/IN Mississippi/NNP and/CC chairman/NN of/IN House/NNP Appropriations/NNPS turned/VBD a/DT $/$ 20/CD million/CD Bush/NNP request/NN for/IN his/PRP$ state/NN into/IN a/DT $/$ 49.7/CD million/CD bequest/NN ./.
 Senator/NNP Sasser/NNP of/IN Tennessee/NNP is/VBZ chairman/NN of/IN the/DT Appropriations/NNPS subcommittee/NN on/IN military/JJ construction/NN ;/: Mr./NNP Bush/NNP 's/POS $/$ 87/CD million/CD request/NN for/IN Tennessee/NNP increased/VBD to/TO $/$ 109/CD million/CD ./.
-a/DT remark/NN  someone/NN should/MD remember/VB this/DT time/NN next/JJ year/NN ,/, Senator/NNP Sasser/NNP said/VBD ,/, ``/`` I/PRP think/VBP we/PRP 've/VBP seen/VBN the/DT peak/NN of/IN military/JJ construction/NN spending/VBG for/IN many/JJ years/NNS ./.
+a/DT remark/NN  someone/NN should/MD remember/VB this/DT time/NN next/JJ year/NN ,/, Senator/NNP Sasser/NNP said/VBD ,/, ``/`` I/PRP think/VBP we/PRP 've/VBP seen/VBN the/DT peak/NN of/IN military/JJ construction/NN spending/VBG for/IN many/JJ years/NNS to/TO come/VB ./.
 Tell/VB us/PRP about/IN spending/NN restraint/NN ./.
 Tell/VB us/PRP about/IN the/DT HUD/NNP scandals/NNS ./.
 Tell/VB us/PRP  what/WDT measure/NN ,/, short/RB of/IN house/NN arrest/NN ,/, will/MD get/VB this/DT Congress/NNP under/IN control/NN ./.

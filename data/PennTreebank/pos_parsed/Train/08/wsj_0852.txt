@@ -1,5 +1,5 @@
 N.V/NNP ./.
-Philips/NNP said/VBD third-quarter/JJ net/JJ profit/NN surged/VBD 41/CD %/NN to/TO 227/CD million/CD guilders/NNS (/( $/$ 109.4/CD million/CD )/) ,/, or/CC 84/CD guilder/NN cents/NNS  a/DT share/NN ,/, from/IN 161/CD million/CD guilders/NNS ,/, or/CC 63/CD cents/NNS ,/, a/DT year/NN ./.
+Philips/NNP said/VBD third-quarter/JJ net/JJ profit/NN surged/VBD 41/CD %/NN to/TO 227/CD million/CD guilders/NNS (/( $/$ 109.4/CD million/CD )/) ,/, or/CC 84/CD guilder/NN cents/NNS  a/DT share/NN ,/, from/IN 161/CD million/CD guilders/NNS ,/, or/CC 63/CD cents/NNS ,/, a/DT year/NN earlier/RBR ./.
 Separately/NNP ,/, the/DT Dutch/JJ electronics/NN group/NN announced/VBD it/PRP will/MD spin/VB off/RP about/RB 20/CD %/NN of/IN its/PRP$ PolyGram/NNP BV/NNP recording/NN subsidiary/NN in/IN an/DT international/JJ stock/NN offering/NN ./.
 It/PRP said/VBD it/PRP plans/VBZ to/TO file/VB the/DT share/NN offer/NN with/IN the/DT U.S./NNP Securities/NNP and/CC Exchange/NNP Commission/NNP and/CC Amsterdam/NNP Stock/NNP Exchange/NNP ``/`` within/IN the/DT next/JJ few/JJ weeks/NNS ./.
 It/PRP did/VBD n't/RB elaborate/VB ./.

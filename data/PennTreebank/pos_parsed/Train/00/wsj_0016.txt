@@ -1,4 +1,4 @@
-Japan/NNP 's/POS domestic/JJ sales/NNS of/IN cars/NNS ,/, trucks/NNS and/CC buses/NNS in/IN October/NNP rose/VBD 18/CD %/NN from/IN a/DT year/NN earlier/JJR to/TO 500,004/CD units/NNS ,/, a/DT record/NN for/IN the/DT month/NN ,/, the/DT Japan/NNP Automobile/NNP Dealers/NNPS '/POS Association/NNP ./.
+Japan/NNP 's/POS domestic/JJ sales/NNS of/IN cars/NNS ,/, trucks/NNS and/CC buses/NNS in/IN October/NNP rose/VBD 18/CD %/NN from/IN a/DT year/NN earlier/JJR to/TO 500,004/CD units/NNS ,/, a/DT record/NN for/IN the/DT month/NN ,/, the/DT Japan/NNP Automobile/NNP Dealers/NNPS '/POS Association/NNP said/VBD ./.
 The/DT strong/JJ growth/NN followed/VBD year-to-year/JJ increases/NNS of/IN 21/CD %/NN in/IN August/NNP and/CC 12/CD %/NN in/IN September/NNP ./.
 The/DT monthly/JJ sales/NNS have/VBP been/VBN setting/VBG records/NNS  every/DT month/NN since/IN March/NNP ./.
 October/NNP sales/NNS ,/, compared/VBN with/IN the/DT previous/JJ month/NN ,/, inched/VBD down/RB 0.4/CD %/NN ./.

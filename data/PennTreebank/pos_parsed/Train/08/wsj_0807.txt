@@ -9,7 +9,7 @@ this/DT year/NN ,/, Black/NNP &/CC Decker/NNP put/VBD three/CD Emhart/NNP busine
 The/DT three/CD units/NNS had/VBD combined/JJ 1988/CD sales/NNS of/IN about/RB $/$ 904/CD million/CD ./.
 The/DT three/CD units/NNS contributed/VBD about/RB a/DT third/NN of/IN Emhart/NNP 's/POS total/JJ sales/NNS ./.
 addition/NN ,/, Black/NNP &/CC Decker/NNP had/VBD said/VBN it/PRP would/MD sell/VB two/CD other/JJ undisclosed/JJ Emhart/NNP operations/NNS if/IN it/PRP received/VBD the/DT right/JJ price/NN ./.
-Bostic/NNP is/VBZ one/CD of/IN the/DT previously/RB unnamed/JJ units/NNS ,/, and/CC the/DT first/JJ of/IN the/DT five/CD ./.
+Bostic/NNP is/VBZ one/CD of/IN the/DT previously/RB unnamed/JJ units/NNS ,/, and/CC the/DT first/JJ of/IN the/DT five/CD to/TO be/VB sold/VBN ./.
 The/DT company/NN is/VBZ still/RB negotiating/VBG the/DT sales/NNS of/IN the/DT other/JJ four/CD units/NNS and/CC expects/VBZ to/TO announce/VB agreements/NNS by/IN the/DT end/NN of/IN the/DT year/NN ./.
 The/DT five/CD units/NNS generated/VBD sales/NNS of/IN about/RB $/$ 1.3/CD billion/CD in/IN 1988/CD ,/, almost/RB half/NN of/IN Emhart/NNP 's/POS $/$ 2.3/CD billion/CD revenue/NN ./.
 Bostic/NNP posted/VBD 1988/CD sales/NNS of/IN $/$ 255/CD million/CD ./.

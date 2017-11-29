@@ -1,5 +1,5 @@
-Farm/NN prices/NNS in/IN October/NNP edged/VBD up/RB 0.7/CD %/NN from/IN September/NNP as/IN raw/JJ milk/NN prices/NNS continued/VBD their/PRP$ rise/NN ,/, the/DT Agriculture/NNP Department/NNP ./.
-Milk/NN sold/VBN to/TO the/DT nation/NN 's/POS dairy/NN plants/NNS and/CC dealers/NNS averaged/VBD $/$ 14.50/CD for/IN each/DT hundred/CD pounds/NNS ,/, up/RB 50/CD cents/NNS from/IN September/NNP and/CC up/RB $/$ 1.50/CD from/IN October/NNP 1988/CD ,/, the/DT department/NN ./.
+Farm/NN prices/NNS in/IN October/NNP edged/VBD up/RB 0.7/CD %/NN from/IN September/NNP as/IN raw/JJ milk/NN prices/NNS continued/VBD their/PRP$ rise/NN ,/, the/DT Agriculture/NNP Department/NNP said/VBD ./.
+Milk/NN sold/VBN to/TO the/DT nation/NN 's/POS dairy/NN plants/NNS and/CC dealers/NNS averaged/VBD $/$ 14.50/CD for/IN each/DT hundred/CD pounds/NNS ,/, up/RB 50/CD cents/NNS from/IN September/NNP and/CC up/RB $/$ 1.50/CD from/IN October/NNP 1988/CD ,/, the/DT department/NN said/VBD ./.
 Commercial/JJ vegetables/NNS ,/, led/VBN by/IN lettuce/NN and/CC tomatoes/NNS ,/, rose/VBD 19/CD %/NN in/IN October/NNP ;/: oranges/NNS and/CC other/JJ fruits/NNS rose/VBD 5/CD %/NN ./.
 Broiler/NN prices/NNS fell/VBD 6.5/CD cents/NNS in/IN October/NNP to/TO 30.6/CD cents/NNS  a/DT pound/NN ,/, while/IN turkey/NN prices/NNS rose/VBD 1.2/CD cents/NNS  a/DT pound/NN to/TO 38.5/CD cents/NNS ./.
 Egg/NN prices/NNS averaged/VBD 64.2/CD cents/NNS  a/DT dozen/NN ,/, down/RB 0.2/CD cent/NN from/IN September/NNP ./.

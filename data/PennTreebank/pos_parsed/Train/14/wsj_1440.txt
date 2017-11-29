@@ -6,7 +6,7 @@ such/JJ a/DT backdrop/NN ,/, companies/NNS with/IN proven/JJ track/NN records/NN
 The/DT market/NN will/MD have/VB to/TO look/VB for/IN a/DT new/JJ theme/NN now/RB and/CC that/DT theme/NN will/MD be/VB a/DT return/NN to/TO growth/NN ,/, ''/'' declares/VBZ Mary/NNP Farrell/NNP ,/, a/DT PaineWebber/NNP analyst/NN ./.
 her/PRP$ OTC/NNP picks/NNS are/VBP Oshkosh/NNP B'Gosh/NNP and/CC A&W/NNP Brands/NNPS ./.
 many/JJ OTC/NNP growth/NN issues/NNS ,/, they/PRP have/VBP market/NN values/NNS --/: as/IN measured/VBN by/IN stock/NN price/NN times/CC shares/NNS outstanding/JJ --/: of/IN roughly/RB $/$ 100/CD million/CD to/TO $/$ 500/CD million/CD ./.
-Some/DT like/VBP to/TO specialize/VB in/IN growth/NN companies/NNS whose/WP$ shares/NNS ./.
+Some/DT like/VBP to/TO specialize/VB in/IN growth/NN companies/NNS whose/WP$ shares/NNS have/VBP n't/RB traded/VBN publicly/RB very/RB long/JJ ./.
 These/DT are/VBP sometimes/RB dubbed/VBN ``/`` emerging/VBG ''/'' growth/NN companies/NNS ,/, though/IN they/PRP also/RB have/VBP expanding-profit/JJ track/NN records/NNS ./.
 many/JJ growth/NN stocks/NNS are/VBP small/JJ ,/, not/RB all/DT small/JJ stocks/NNS have/VBP earnings-growth/JJ momentum/NN ./.
 That/DT 's/VBZ an/DT important/JJ distinction/NN because/IN some/DT analysts/NNS and/CC brokers/NNS ,/, who/WP perennially/RB predict/VBP that/IN small/JJ stocks/NNS are/VBP about/IN to/TO outperform/VB bigger/JJR issues/NNS ,/, may/MD use/VB any/DT spurt/NN in/IN growth/NN issues/NNS to/TO help/VB them/PRP sell/VB all/DT small/JJ stocks/NNS ./.
@@ -15,9 +15,9 @@ Mr./NNP Palicka/NNP 's/POS picks/NNS from/IN the/DT OTC/NNP market/NN include/VB
 The/DT main/JJ argument/NN for/IN growth/NN stocks/NNS is/VBZ their/PRP$ usually/RB superior/JJ performance/NN in/IN a/DT slowing/VBG economy/NN ./.
 the/DT market/NN refocuses/VB on/IN earnings/NNS ,/, we/PRP should/MD get/VB better/JJR valuations/NNS of/IN growth/NN stocks/NNS ,/, ''/'' says/VBZ L./NNP Keith/NNP Mullins/NNP ,/, a/DT growth-stock/JJ analyst/NN at/IN Morgan/NNP Stanley/NNP ./.
 he/PRP believes/VBZ ,/, investors/NNS will/MD be/VB willing/JJ to/TO pay/VB higher/JJR prices/NNS for/IN companies/NNS with/IN proven/JJ track/NN records/NNS of/IN earnings/NNS growth/NN ./.
-anticipation/NN of/IN that/DT shift/NN ,/, he/PRP and/CC other/JJ analysts/NNS are/VBP encouraging/VBG their/PRP$ clients/NNS to/TO buy/VB such/JJ issues/NNS ./.
-smaller/JJR growth/NN stocks/NNS have/VBP n't/RB been/VBN in/IN favor/NN ./.
-The/DT average/JJ issue/NN on/IN Standard/NNP &/CC Poor/NNP 's/POS 500-stock/JJ Index/NN gained/VBD 35/CD %/NN last/JJ year/NN ,/, Ms./NNP Farrell/NNP of/IN PaineWebber/NNP ./.
+anticipation/NN of/IN that/DT shift/NN ,/, he/PRP and/CC other/JJ analysts/NNS are/VBP encouraging/VBG their/PRP$ clients/NNS to/TO buy/VB such/JJ issues/NNS now/RB ./.
+smaller/JJR growth/NN stocks/NNS have/VBP n't/RB been/VBN in/IN favor/NN recently/RB ./.
+The/DT average/JJ issue/NN on/IN Standard/NNP &/CC Poor/NNP 's/POS 500-stock/JJ Index/NN gained/VBD 35/CD %/NN last/JJ year/NN ,/, Ms./NNP Farrell/NNP of/IN PaineWebber/NNP says/VBZ ./.
 Smaller-stock/JJR earnings/NNS ,/, by/IN comparison/NN ,/, rose/VBD between/IN 15/CD %/NN and/CC 20/CD %/NN ./.
 addition/NN ,/, earnings/NNS growth/NN took/VBD a/DT back/JJ seat/NN to/TO cash/NN flow/NN ,/, restructuring/NN and/CC takeover/NN potential/NN ,/, and/CC breakup/NN value/NN as/IN the/DT preferred/JJ stock-picking/JJ standards/NNS for/IN much/JJ of/IN the/DT year/NN ./.
 the/DT smaller/JJR growth/NN stocks/NNS are/VBP n't/RB widely/RB traded/VBN ,/, and/CC so/RB are/VBP harder/JJR to/TO buy/VB and/CC sell/VB quickly/RB than/IN blue/JJ chips/NNS ./.
@@ -29,8 +29,8 @@ his/PRP$ favorites/NNS in/IN his/PRP$ firm/NN 's/POS index/NN are/VBP Legent/NNP
 more/JJR money/NN managers/NNS are/VBP reassured/VBN that/DT profit/NN is/VBZ regaining/VBG importance/NN ./.
 Mark/NNP Schoeppner/NNP ,/, portfolio/NN manager/NN at/IN Pittsburgh-based/JJ Quaker/NNP Capital/NNP Management/NNP ,/, says/VBZ that/IN in/IN reaction/NN to/TO nervousness/NN about/IN debt-laden/JJ buy-out/NN transactions/NNS ,/, analysts/NNS and/CC investors/NNS now/RB appear/VBP to/TO be/VB ``/`` valuing/VBG stock/NN based/VBN on/IN future/JJ earnings/NNS as/IN opposed/VBN to/TO the/DT amount/NN of/IN debt/NN  the/DT company/NN can/MD support/VB./.
 Barney/NNP Hallingby/NNP ,/, managing/VBG director/NN of/IN research/NN at/IN Hambrecht/NNP &/CC Quist/NNP ,/, also/RB believes/VBZ earnings/NNS growth/NN is/VBZ beginning/VBG to/TO play/VB a/DT greater/JJR part/NN in/IN investors/NNS '/POS buying/NN decisions/NNS ./.
-Friday/NNP ,/, Hambrecht/NNP &/CC Quist/NNP added/VBD St./NNP Jude/NNP Medical/NNP to/TO the/DT list/NN of/IN 20/CD stocks/NNS  it/PRP ./.
-The/DT opinion/NN is/VBZ largely/RB based/VBN on/IN the/DT company/NN 's/POS earnings/NN momentum/NN ,/, Mr./NNP Hallingby/NNP ./.
+Friday/NNP ,/, Hambrecht/NNP &/CC Quist/NNP added/VBD St./NNP Jude/NNP Medical/NNP to/TO the/DT list/NN of/IN 20/CD stocks/NNS  it/PRP strongly/RB recommends/VBZ ./.
+The/DT opinion/NN is/VBZ largely/RB based/VBN on/IN the/DT company/NN 's/POS earnings/NN momentum/NN ,/, Mr./NNP Hallingby/NNP says/VBZ ./.
 St./NNP Jude/NNP 's/POS market/NN value/NN on/IN Nasdaq/NNP exceeds/VBZ $/$ 1/CD billion/CD ,/, so/CC it/PRP is/VBZ n't/RB a/DT small/JJ stock/NN ./.
 The/DT medical/JJ devices/NNS maker/NN 's/POS earnings/NNS rose/VBD nearly/RB 35/CD %/NN in/IN 1987/CD from/IN 1986/CD ,/, and/CC 75/CD %/NN in/IN 1988/CD ./.
 Kurt/NNP Kruger/NNP ,/, who/WP follows/VBZ the/DT stock/NN for/IN Hambrecht/NNP &/CC Quist/NNP ,/, anticipates/VBZ that/IN the/DT company/NN 's/POS net/JJ income/NN will/MD grow/VB 51/CD %/NN to/TO $/$ 2.15/CD  a/DT share/NN  this/DT year/NN ./.
@@ -57,7 +57,7 @@ A/DT Food/NNP and/CC Drug/NNP Administration/NNP advisory/JJ panel/NN has/VBZ as
 Qintex/NNP Entertainment/NNP dropped/VBD 2/CD 5\/8/CD to/TO 1/CD 1\/2/CD after/IN seeking/VBG protection/NN from/IN creditor/NN lawsuits/NNS under/IN Chapter/NN 11/CD of/IN the/DT federal/JJ Bankruptcy/NNP Code/NNP for/IN itself/PRP and/CC its/PRP$ two/CD operating/NN subsidiaries/NNS ,/, Hal/NNP Roach/NNP Studios/NNPS and/CC Qintex/NNP Productions/NNPS ./.
 Raymond/NNP Corp./NNP lost/VBD 1/CD to/TO 10/CD after/IN it/PRP said/VBD late/JJ Thursday/NNP that/IN it/PRP will/MD take/VB a/DT $/$ 4.4/CD million/CD charge/NN in/IN its/PRP$ third/JJ quarter/NN for/IN reserves/NNS to/TO cover/VB potential/JJ charges/NNS in/IN connection/NN with/IN the/DT closing/NN and/CC sale/NN of/IN a/DT manufacturing/VBG plant/NN ./.
 a/DT result/NN ,/, the/DT company/NN has/VBZ suspended/VBN its/PRP$ quarterly/JJ dividend/NN ./.
-McCaw/NNP Cellular/NNP Communications/NNPS and/CC its/PRP$ target/NN ,/, LIN/NNP Broadcasting/NNP ./.
+McCaw/NNP Cellular/NNP Communications/NNPS and/CC its/PRP$ target/NN ,/, LIN/NNP Broadcasting/NNP ,/, were/VBD active/JJ ./.
 LIN/NNP added/VBD 5\/8/CD to/TO 110/CD 5\/8/CD and/CC McCaw/NNP lost/VBD 1\/4/CD to/TO 41/CD ./.
 McCaw/NNP said/VBD it/PRP has/VBZ secured/VBN commitments/NNS from/IN three/CD banks/NNS to/TO help/VB finance/VB its/PRP$ $/$ 125-a-share/JJ bid/NN for/IN 22/CD million/CD of/IN Lin/NNP 's/POS shares/NNS ./.
 McCaw/NNP has/VBZ called/VBN for/IN a/DT ``/`` fair/JJ auction/NN ''/'' of/IN LIN/NNP ,/, which/WDT earlier/RB entered/VBD a/DT stock-swap/JJ merger/NN pact/NN with/IN BellSouth/NNP ./.

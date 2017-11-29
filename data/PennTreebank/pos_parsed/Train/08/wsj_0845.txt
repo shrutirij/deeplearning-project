@@ -4,4 +4,4 @@ Cellular/NNP said/VBD Robert/NNP J./NNP Lunday/NNP Jr./NNP ,/, its/PRP$ chairman
 A/DT new/JJ director/NN has/VBZ n't/RB been/VBN named/VBN to/TO fill/VB that/DT seat/NN ,/, which/WDT expires/VBZ in/IN 1992/CD ./.
 Mr./NNP Pohs/NNP said/VBD the/DT board/NN probaby/NN will/MD elect/VB a/DT new/JJ chairman/NN at/IN its/PRP$ meeting/NN Nov/NNP ./.
 addition/NN ,/, the/DT company/NN said/VBD Monroe/NNP M./NNP Rifkin/NNP ,/, a/DT cable/NN television/NN investor/NN and/CC consultant/NN ,/, was/VBD elected/VBN a/DT director/NN ,/, filling/VBG a/DT vacant/JJ seat/NN  that/WDT will/MD expire/VB in/IN 1991/CD ./.
-The/DT board/NN currently/RB has/VBZ six/CD members/NNS ,/, but/CC is/VBZ expanding/VBG to/TO nine/CD ,/, Mr./NNP Pohs/NNP ./.
+The/DT board/NN currently/RB has/VBZ six/CD members/NNS ,/, but/CC is/VBZ expanding/VBG to/TO nine/CD ,/, Mr./NNP Pohs/NNP said/VBD ./.

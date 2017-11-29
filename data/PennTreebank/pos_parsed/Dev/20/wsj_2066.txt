@@ -9,12 +9,12 @@ a/DT telephone/NN interview/NN ,/, Robert/NNP Thomson/NNP ,/, TCI/NNP senior/JJ 
 He/PRP added/VBD ,/, ``/`` We/PRP do/VBP n't/RB intend/VB to/TO be/VB drawn/VBN into/IN it/PRP ,/, ''/'' noting/VBG that/IN TCI/NNP wo/MD n't/RB play/VB any/DT active/JJ role/NN in/IN the/DT management/NN of/IN Showtime/NNP ./.
 Showtime/NNP with/IN the/DT largest/JJS cable/NN operator/NN in/IN the/DT U.S./NNP could/MD sharply/RB boost/VB its/PRP$ subscribers/NNS ./.
 TCI/NNP said/VBD it/PRP may/MD bring/VB in/IN other/JJ cable/NN operators/NNS as/IN investors/NNS ,/, a/DT practice/NN  it/PRP has/VBZ employed/VBN in/IN the/DT past/NN with/IN investments/NNS in/IN other/JJ cable/NN networks/NNS ,/, such/JJ as/IN The/NNP Discovery/NNP Channel/NNP ./.
-Additional/JJ cable/NN partners/NNS could/MD boost/VB subscribers/NNS ./.
+Additional/JJ cable/NN partners/NNS could/MD boost/VB subscribers/NNS even/RB further/RB ./.
 Time/NNP Warner/NNP declined/VBD comment/NN ./.
 addition/NN to/TO owning/VBG HBO/NNP ,/, Time/NNP Warner/NNP owns/VBZ American/NNP Television/NNP &/CC Communications/NNPS Inc./NNP ,/, the/DT nation/NN 's/POS second/JJ largest/JJS cable/NN operator/NN after/IN TCI/NNP ./.
 Viacom/NNP also/RB owns/VBZ cable/NN systems/NNS ,/, but/CC it/PRP is/VBZ the/DT 14th/JJ largest/JJS operator/NN of/IN such/JJ systems/NNS ,/, with/IN less/RBR than/IN one/CD million/CD subscribers/NNS ./.
 The/DT TCI/NNP investment/NN is/VBZ a/DT big/JJ victory/NN for/IN Viacom/NNP 's/POS chief/NN executive/NN officer/NN ,/, Frank/NNP Biondi/NNP ,/, and/CC Winston/NNP H./NNP Cox/NNP ,/, president/NN of/IN the/DT Showtime/NNP unit/NN ./.
 This/DT takes/VBZ any/DT question/NN of/IN Showtime/NNP 's/POS viability/NN and/CC puts/VBZ it/PRP away/RB once/RB and/CC for/IN all/DT ,/, ''/'' Mr./NNP Biondi/NNP said/VBD in/IN a/DT telephone/NN interview/NN ./.
 The/DT fight/NN between/IN HBO/NNP and/CC Showtime/NNP is/VBZ particularly/RB acrimonious/JJ because/IN Mr./NNP Biondi/NNP is/VBZ the/DT former/JJ chief/NN executive/NN of/IN HBO/NNP ,/, and/CC Mr./NNP Cox/NNP served/VBD as/IN chief/NN of/IN marketing/NN for/IN the/DT service/NN ./.
-They/PRP were/VBD both/DT hired/VBN by/IN Sumner/NNP Redstone/NNP ,/, the/DT Boston/NNP billionaire/NN  who/WP took/VBD control/NN of/IN Viacom/NNP three/CD years/NNS ago/IN in/IN a/DT leveraged/JJ ./.
+They/PRP were/VBD both/DT hired/VBN by/IN Sumner/NNP Redstone/NNP ,/, the/DT Boston/NNP billionaire/NN  who/WP took/VBD control/NN of/IN Viacom/NNP three/CD years/NNS ago/IN in/IN a/DT leveraged/JJ buy-out/NN ./.
 Time/NNP Warner/NNP has/VBZ vigorously/RB denied/VBN all/DT of/IN Viacom/NNP 's/POS allegations/NNS ./.

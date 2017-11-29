@@ -1,4 +1,4 @@
-NBC/NNP 's/POS winning/VBG streak/NN ./.
+NBC/NNP 's/POS winning/VBG streak/NN has/VBZ been/VBN canceled/VBN ./.
 The/DT National/NNP Broadcasting/NNP Co./NNP ,/, a/DT unit/NN of/IN General/NNP Electric/NNP Co./NNP ,/, had/VBD its/PRP$ record-breaking/JJ 68-week/JJ reign/NN as/IN the/DT prime-time/JJ ratings/NNS leader/NN snapped/VBD yesterday/NN by/IN ABC-TV/NNP ,/, a/DT subsidiary/NN of/IN Capital/NNP Cities\/ABC/NNP Inc/NNP ./.
 the/DT ratings/NNS compiled/VBN by/IN the/DT A.C./NNP Nielsen/NNP Co./NNP ,/, ABC/NNP ,/, which/WDT broadcast/VBD the/DT World/NNP Series/NNP ,/, topped/VBD the/DT competition/NN with/IN a/DT 14.8/CD rating/NN and/CC 25/CD share/NN ./.
 NBC/NNP was/VBD second/JJ with/IN a/DT 13.9/CD rating/NN and/CC 24/CD share/NN followed/VBN by/IN CBS/NNP Inc./NNP 's/POS television/NN network/NN with/IN a/DT 12.5/CD rating/NN and/CC 21/CD share/NN ./.

@@ -8,10 +8,10 @@ Gerard/NNP Scannell/NNP ,/, the/DT head/NN of/IN OSHA/NNP ,/, said/VBD USX/NNP m
 flagrant/JJ ,/, ''/'' Mrs./NNP Dole/NNP said/VBD ,/, ``/`` are/VBP the/DT company/NN 's/POS numerous/JJ failures/NNS to/TO properly/RB record/VB injuries/NNS at/IN its/PRP$ Fairless/NNP works/NNS ,/, in/IN spite/NN of/IN the/DT firm/JJ promise/NN  it/PRP had/VBD made/VBN in/IN an/DT earlier/JJR corporate-wide/JJ settlement/NN agreement/NN to/TO correct/VB such/JJ discrepancies/NNS ./.
 That/DT settlement/NN was/VBD in/IN April/NNP 1987/CD ./.
 A/DT USX/NNP spokesman/NN said/VBD the/DT company/NN had/VBD n't/RB yet/RB received/VBN any/DT documents/NNS from/IN OSHA/NNP regarding/VBG the/DT penalty/NN or/CC fine/NN ./.
-we/PRP do/VBP ,/, they/PRP will/MD receive/VB very/RB serious/JJ evaluation/NN ,/, ''/'' the/DT spokesman/NN ./.
+we/PRP do/VBP ,/, they/PRP will/MD receive/VB very/RB serious/JJ evaluation/NN ,/, ''/'' the/DT spokesman/NN said/VBD ./.
 No/DT consideration/NN is/VBZ more/RBR important/JJ than/IN the/DT health/NN and/CC safety/NN of/IN our/PRP$ employees/NNS ./.
 USX/NNP said/VBD it/PRP has/VBZ been/VBN cooperating/VBG with/IN OSHA/NNP since/IN the/DT agency/NN began/VBD investigating/VBG the/DT Clairton/NNP and/CC Fairless/NNP works/NNS ./.
-He/PRP said/VBD that/IN ,/, if/IN and/CC when/WRB safety/NN problems/NNS were/VBD identified/VBN ,/, they/PRP ./.
+He/PRP said/VBD that/IN ,/, if/IN and/CC when/WRB safety/NN problems/NNS were/VBD identified/VBN ,/, they/PRP were/VBD corrected/VBN ./.
 The/DT USX/NNP citations/NNS represented/VBD the/DT first/JJ sizable/JJ enforcement/NN action/NN taken/VBN by/IN OSHA/NNP under/IN Mr./NNP Scannell/NNP ./.
 He/PRP has/VBZ promised/VBN stiffer/JJR fines/NNS ,/, though/IN the/DT size/NN of/IN penalties/NNS sought/VBN by/IN OSHA/NNP have/VBP been/VBN rising/VBG in/IN recent/JJ years/NNS even/RB before/IN he/PRP took/VBD office/NN  this/DT year/NN ./.
 The/DT big/JJ problem/NN is/VBZ that/IN USX/NNP management/NN has/VBZ proved/VBN unwilling/JJ to/TO devote/VB the/DT necessary/JJ resources/NNS and/CC manpower/NN to/TO removing/VBG hazards/NNS and/CC to/TO safeguarding/VBG safety/NN and/CC health/NN in/IN the/DT plants/NNS ,/, ''/'' said/VBD Linda/NNP Anku/NNP ,/, OSHA/NNP regional/JJ administrator/NN in/IN Philadelphia/NNP ./.

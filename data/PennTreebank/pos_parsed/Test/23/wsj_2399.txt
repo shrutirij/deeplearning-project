@@ -9,7 +9,7 @@ The/DT offering/NN ,/, Series/NNP 102/CD ,/, backed/VBN by/IN Freddie/NNP Mac/NN
 classes/NNS for/IN which/WDT details/NNS were/VBD available/JJ ,/, yields/NNS ranged/VBD from/IN 8.78/CD %/NN ,/, or/CC 75/CD basis/NN points/NNS over/IN two-year/JJ Treasury/NNP securities/NNS ,/, to/TO 10.05/CD %/NN ,/, or/CC 200/CD basis/NN points/NNS over/IN 10-year/JJ Treasurys/NNPS ./.
 Federal/NNP Home/NNP Loan/NNP Mortgage/NNP Corp./NNP --/: $/$ 300/CD million/CD of/IN Remic/NNP mortgage/NN securities/NNS offered/VBN by/IN Citicorp/NNP Securities/NNP Markets/NNP Inc/NNP ./.
 The/DT offering/NN ,/, Series/NNP 101/CD ,/, is/VBZ backed/VBN by/IN Freddie/NNP Mac/NNP 9/CD 1\/2/CD %/NN securities/NNS ./.
-details/NNS ./.
+details/NNS were/VBD n't/RB immediately/RB available/JJ ./.
 Federal/NNP Home/NNP Loan/NNP Mortgage/NNP Corp./NNP --/: $/$ 200/CD million/CD of/IN stripped/JJ mortgage/NN securities/NNS underwritten/VBN by/IN BT/NNP Securities/NNP Corp/NNP ./.
 The/DT agency/NN 's/POS first/JJ strips/NNS issue/NN ,/, collateralized/VBN by/IN Freddie/NNP Mac/NNP 8/CD %/NN securities/NNS pooled/VBN into/IN a/DT single/JJ security/NN called/VBN a/DT Giant/NNP ,/, will/MD be/VB divided/VBN into/IN interest-only/JJ and/CC principal-only/JJ securities/NNS ./.
 The/DT collateral/NN is/VBZ being/VBG sold/VBN by/IN a/DT thrift/NN institution/NN ./.

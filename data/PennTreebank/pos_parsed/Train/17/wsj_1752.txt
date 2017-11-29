@@ -3,7 +3,7 @@ Storage/NNP ,/, Louisville/NNP ,/, Colo./NNP ,/, which/WDT makes/VBZ data-storag
 The/DT company/NN said/VBD it/PRP recently/RB sold/VBD its/PRP$ 750th/JJ cartridge/NN system/NN ,/, which/WDT cost/VBD $/$ 400,000/CD to/TO $/$ 500,000/CD each/DT ./.
 Quarter/NN revenue/NN was/VBD $/$ 232.6/CD million/CD ,/, up/IN 12/CD %/NN from/IN $/$ 206/CD million/CD last/JJ year/NN ./.
 The/DT stock/NN market/NN reacted/VBD strongly/RB to/TO the/DT news/NN ./.
-Storage/NNP rose/VBD $/$ 1.125/CD  a/DT share/NN ,/, to/TO close/VB at/IN $/$ 14/CD ,/, in/IN New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ ./.
+Storage/NNP rose/VBD $/$ 1.125/CD  a/DT share/NN ,/, to/TO close/VB at/IN $/$ 14/CD ,/, in/IN New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN ./.
 the/DT nine/CD months/NNS ,/, Storage/NNP had/VBD net/NN of/IN $/$ 25.5/CD million/CD ,/, or/CC 98/CD cents/NNS  a/DT share/NN ,/, including/VBG an/DT $/$ 11.3/CD million/CD extraordinary/JJ gain/NN for/IN the/DT anticipated/VBN proceeds/NNS from/IN liquidating/VBG an/DT Irish/JJ unit/NN ./.
 Net/NN was/VBD up/IN 69/CD %/NN from/IN $/$ 15.1/CD million/CD ,/, or/CC 57/CD cents/NNS  a/DT share/NN ,/, last/JJ year/NN ./.
 Revenue/NN for/IN the/DT latest/JJS period/NN was/VBD up/IN 11/CD %/NN to/TO $/$ 682.7/CD million/CD ,/, from/IN $/$ 614.6/CD million/CD ./.

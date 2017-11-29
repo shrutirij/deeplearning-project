@@ -3,4 +3,4 @@ The/DT investment/NN bank/NN becomes/VBZ majority/NN shareholder/NN in/IN Sports
 Sports/NNPS Unlimited/NNP ,/, Tampa/NNP ,/, Fla./NNP ,/, posted/VBD revenue/NN of/IN $/$ 59/CD million/CD for/IN the/DT year/NN ended/VBD July/NNP 31/CD ./.
 The/DT company/NN is/VBZ ``/`` very/RB profitable/JJ ''/'' on/IN an/DT operating/VBG basis/NN ,/, Mr./NNP Richardson/NNP said/VBD ,/, but/CC he/PRP declined/VBD to/TO specify/VB numbers/NNS ./.
 1982/CD ,/, Sports/NNPS &/CC Recreation/NNP 's/POS managers/NNS and/CC certain/JJ passive/JJ investors/NNS purchased/VBD the/DT company/NN from/IN Brunswick/NNP Corp./NNP of/IN Skokie/NNP ,/, Ill/NNP ./.
-the/DT latest/JJS transaction/NN ,/, management/NN bought/VBD out/IN the/DT passive/JJ investors/NNS '/POS holding/NN ,/, Mr./NNP Richardson/NNP ./.
+the/DT latest/JJS transaction/NN ,/, management/NN bought/VBD out/IN the/DT passive/JJ investors/NNS '/POS holding/NN ,/, Mr./NNP Richardson/NNP said/VBD ./.

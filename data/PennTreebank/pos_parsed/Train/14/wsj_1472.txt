@@ -4,4 +4,4 @@ We/PRP are/VBP n't/RB selling/VBG bonds/NNS right/RB now/RB ,/, and/CC I/PRP do/
 The/DT rating/NN agency/NN said/VBD it/PRP lowered/VBD the/DT ratings/NNS on/IN $/$ 75/CD million/CD of/IN the/DT holding/VBG company/NN 's/POS convertible/JJ subordinated/JJ Eurodebentures/NNS to/TO B-3/JJ from/IN B-1/JJ ./.
 Moody/NNP 's/POS said/VBD it/PRP also/RB lowered/VBD the/DT ratings/NNS of/IN $/$ 70/CD million/CD of/IN Pinnacle/NNP 's/POS MeraBank/NNP thrift/NN unit/NN long-term/JJ deposits/NNS to/TO B-3/JJ from/IN B-2/JJ ,/, and/CC on/IN its/PRP$ subordinated/JJ debt/NN to/TO Ca/JJ from/IN Caa/JJ ./.
 MeraBank/NNP 's/POS rating/NN for/IN short-term/JJ deposits/NNS remains/VBZ Not/RB Prime/JJ ./.
-Securities/NNS of/IN MeraBank/NNP were/VBD placed/VBN under/IN review/NN last/JJ May/MD ,/, and/CC will/MD remain/VB under/IN review/NN for/IN downgrade/NN ,/, the/DT agency/NN ./.
+Securities/NNS of/IN MeraBank/NNP were/VBD placed/VBN under/IN review/NN last/JJ May/MD ,/, and/CC will/MD remain/VB under/IN review/NN for/IN downgrade/NN ,/, the/DT agency/NN said/VBD ./.

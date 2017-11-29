@@ -9,12 +9,12 @@ He/PRP said/VBD the/DT company/NN was/VBD ``/`` encouraged/VBN by/IN feedback/NN
 The/DT red/JJ ink/NN came/VBD as/IN no/DT surprise/NN to/TO Wall/NNP Street/NNP ,/, but/CC analysts/NNS said/VBD they/PRP saw/VBD ominous/JJ hints/NNS of/IN a/DT further/JJ delay/NN in/IN volume/NN shipments/NNS of/IN Version/NNP 1.1/CD ,/, a/DT harbinger/NN of/IN continued/JJ losses/NNS in/IN the/DT fourth/JJ quarter/NN ./.
 The/DT loss/NN is/VBZ in/IN line/NN with/IN our/PRP$ expectations/NNS ,/, ''/'' said/VBD John/NNP C./NNP Maxwell/NNP III/NNP ,/, an/DT analyst/NN with/IN Dillon/NNP ,/, Read/NNP &/CC Co./NNP in/IN New/NNP York/NNP ./.
 He/PRP added/VBD gross/JJ margins/NNS and/CC operating/NN profit/NN ``/`` eroded/VBD quite/RB dramatically/RB ''/'' from/IN the/DT prior/JJ quarter/NN ,/, along/IN with/IN sales/NNS of/IN existing/JJ software/NN product/NN lines/NNS like/IN Multimate/NNP and/CC Framework/NNP ./.
-The/DT success/NN of/IN a/DT new/JJ product/NN in/IN the/DT database/NN line/NN ./.
-the/DT company/NN has/VBZ n't/RB made/VBN a/DT definite/JJ statement/NN ,/, it/PRP now/RB looks/VBZ like/IN that/DT 's/VBZ not/RB going/VBG to/TO be/VB anytime/RB soon/RB ,/, ''/'' Mr./NNP Maxwell/NNP ./.
+The/DT success/NN of/IN a/DT new/JJ product/NN in/IN the/DT database/NN line/NN is/VBZ needed/VBN ./.
+the/DT company/NN has/VBZ n't/RB made/VBN a/DT definite/JJ statement/NN ,/, it/PRP now/RB looks/VBZ like/IN that/DT 's/VBZ not/RB going/VBG to/TO be/VB anytime/RB soon/RB ,/, ''/'' Mr./NNP Maxwell/NNP said/VBD ./.
 The/DT company/NN said/VBD in/IN a/DT statement/NN that/IN it/PRP expects/VBZ to/TO ship/VB new/JJ products/NNS ``/`` during/IN the/DT next/JJ two/CD quarters/NNS ./.
 It/PRP now/RB looks/VBZ like/IN database/NN IV/NNP Version/NNP 1.1/CD is/VBZ n't/RB going/VBG to/TO be/VB {/( widely/RB }/) available/JJ until/IN the/DT first/JJ quarter/NN of/IN 1990/CD ,/, ''/'' said/VBD David/NNP Bayer/NNP ,/, an/DT analyst/NN with/IN Montgomery/NNP Securities/NNP in/IN San/NNP Francisco/NNP ./.
 This/DT is/VBZ the/DT second/JJ delay/NN now/RB in/IN getting/VBG the/DT product/NN out/IN the/DT door/NN ./.
-It/PRP does/VBZ prolong/VB the/DT pain/NN ./.
+It/PRP does/VBZ prolong/VB the/DT pain/NN somewhat/RB ./.
 Mr./NNP Maxwell/NNP said/VBD unless/IN the/DT company/NN can/MD start/VB shipments/NNS of/IN the/DT new/JJ product/NN sometime/RB this/DT quarter/NN ,/, the/DT fourth-quarter/JJ loss/NN is/VBZ likely/JJ to/TO be/VB ``/`` comparable/JJ to/TO the/DT third/JJ quarter/NN 's/POS ./.
-the/DT company/NN can/MD start/VB to/TO ship/VB during/IN this/DT quarter/NN ,/, it/PRP could/MD stem/VB some/DT ,/, if/IN not/RB all/DT of/IN the/DT red/JJ ink/NN ,/, he/PRP ./.
+the/DT company/NN can/MD start/VB to/TO ship/VB during/IN this/DT quarter/NN ,/, it/PRP could/MD stem/VB some/DT ,/, if/IN not/RB all/DT of/IN the/DT red/JJ ink/NN ,/, he/PRP said/VBD ./.
 national/JJ over-the-counter/JJ trading/NN ,/, Ashton-Tate/NNP closed/VBD yesterday/NN at/IN $/$ 10/CD  a/DT share/NN ,/, up/RB 62.5/CD cents/NNS ./.

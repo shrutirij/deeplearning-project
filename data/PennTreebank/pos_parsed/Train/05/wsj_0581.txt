@@ -3,5 +3,5 @@ Consumers/NNP Power/NNP Co./NNP ,/, now/RB the/DT main/JJ unit/NN of/IN CMS/NNP 
 CMS/NNP is/VBZ nearly/RB done/VBN converting/VBG the/DT Midland/NNP plant/NN to/TO a/DT gas-fired/JJ cogeneration/NN facility/NN at/IN a/DT cost/NN of/IN $/$ 600/CD million/CD ./.
 CMS/NNP management/NN said/VBD Thursday/NNP that/IN they/PRP planned/VBD to/TO recommend/VB paying/VBG a/DT modest/JJ dividend/NN when/WRB the/DT board/NN of/IN directors/NNS met/VBD Friday/NNP ./.
 The/DT dividend/NN will/MD be/VB paid/VBN Nov./NNP 22/CD to/TO shares/NNS of/IN record/NN Nov./NNP 7/CD ./.
-The/DT company/NN suffered/VBD a/DT loss/NN of/IN $/$ 270/CD million/CD in/IN 1985/CD ,/, but/CC its/PRP$ financial/JJ situation/NN ./.
-CMS/NNP said/VBD it/PRP earned/VBD $/$ 237.8/CD million/CD in/IN the/DT first/JJ nine/CD months/NNS of/IN======================================./.
+The/DT company/NN suffered/VBD a/DT loss/NN of/IN $/$ 270/CD million/CD in/IN 1985/CD ,/, but/CC its/PRP$ financial/JJ situation/NN has/VBZ been/VBN improving/VBG since/IN then/RB ./.
+CMS/NNP said/VBD it/PRP earned/VBD $/$ 237.8/CD million/CD in/IN the/DT first/JJ nine/CD months/NNS of/IN======================================

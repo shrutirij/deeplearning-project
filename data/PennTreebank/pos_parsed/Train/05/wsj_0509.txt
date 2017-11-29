@@ -1,9 +1,9 @@
 the/DT sixth/JJ time/NN in/IN as/RB many/JJ years/NNS ,/, Continental/NNP Airlines/NNPS has/VBZ a/DT new/JJ senior/JJ executive/NN ./.
 D./NNP Joseph/NNP Corr/NNP ,/, the/DT airline/NN 's/POS chairman/NN ,/, chief/NN executive/NN and/CC president/NN ,/, appointed/VBN only/RB last/JJ December/NNP ./.
-Mr./NNP Corr/NNP resigned/VBD to/TO pursue/VB other/JJ business/NN interests/NNS ,/, the/DT airline/NN ./.
+Mr./NNP Corr/NNP resigned/VBD to/TO pursue/VB other/JJ business/NN interests/NNS ,/, the/DT airline/NN said/VBD ./.
 He/PRP could/MD not/RB be/VB reached/VBN for/IN comment/NN ./.
 him/PRP as/IN chairman/NN and/CC chief/NN executive/NN will/MD be/VB Frank/NNP Lorenzo/NNP ,/, chairman/NN and/CC chief/NN executive/NN of/IN Continental/NNP 's/POS parent/NN ,/, Texas/NNP Air/NNP Corp/NNP ./.
-Mr./NNP Lorenzo/NNP ,/, 49/CD years/NNS old/JJ ,/, is/VBZ reclaiming/VBG the/DT job/NN  that/WDT was/VBD his/PRP before/IN Mr./NNP Corr/NNP ./.
+Mr./NNP Lorenzo/NNP ,/, 49/CD years/NNS old/JJ ,/, is/VBZ reclaiming/VBG the/DT job/NN  that/WDT was/VBD his/PRP before/IN Mr./NNP Corr/NNP signed/VBD on/IN ./.
 The/DT airline/NN also/RB named/VBD Mickey/NNP Foret/NNP as/IN president/NN ./.
 Mr./NNP Foret/NNP ,/, 44/CD ,/, is/VBZ a/DT 15-year/JJ veteran/NN of/IN Texas/NNP Air/NNP and/CC Texas/NNP International/NNP Airlines/NNPS ,/, its/PRP$ predecessor/NN ./.
 he/PRP had/VBD been/VBN executive/JJ vice/NN president/NN for/IN planning/NN and/CC finance/NN at/IN Texas/NNP Air/NNP ./.

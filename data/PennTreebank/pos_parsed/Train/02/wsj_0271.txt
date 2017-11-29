@@ -21,7 +21,7 @@ Interest/NN on/IN the/DT bonds/NNS will/MD be/VB treated/VBN as/IN a/DT preferen
 The/DT bonds/NNS are/VBP insured/JJ and/CC rated/VBN triple-A/JJ by/IN Moody/NNP 's/POS and/CC S&P/NNP ./.
 Federal/NNP Home/NNP Loan/NNP Mortgage/NNP Corp./NNP --/: $/$ 500/CD million/CD of/IN Remic/NNP mortgage/NN securities/NNS is/VBZ being/VBG offered/VBN in/IN 11/CD classes/NNS by/IN a/DT Morgan/NNP Stanley/NNP group/NN ./.
 The/DT offering/NN ,/, Series/NNP 109/CD ,/, is/VBZ backed/VBN by/IN Freddie/NNP Mac/NNP 10/CD %/NN securities/NNS ./.
-Complete/JJ details/NNS ./.
+Complete/JJ details/NNS were/VBD n't/RB immediately/RB available/JJ ./.
 Lomas/NNP Mortgage/NNP Funding/NNP Corp./NNP II/NNP --/: $/$ 100/CD million/CD issue/NN of/IN collateralized/JJ mortgage/NN obligations/NNS is/VBZ being/VBG offered/VBN in/IN four/CD classes/NNS by/IN a/DT Morgan/NNP Stanley/NNP group/NN ./.
 The/DT securities/NNS yield/VBP from/IN 9.35/CD %/NN to/TO 10.48/CD %/NN for/IN a/DT 30-year/JJ issue/NN with/IN an/DT average/JJ life/NN of/IN 21.18/CD years/NNS ./.
 The/DT 10.48/CD %/NN yield/NN represents/VBZ a/DT spread/NN to/TO the/DT 20-year/JJ Treasury/NNP of/IN 2.45/CD percentage/NN points/NNS ./.

@@ -8,10 +8,10 @@ this/DT year/NN ,/, the/DT Financial/NNP Institutions/NNP Reform/NNP ,/, Recover
 The/DT RTC/NNP can/MD then/RB close/VB the/DT thrift/NN institution/NN and/CC sell/VB it/PRP whole/JJ or/CC in/IN parts/NNS ./.
 three/CD months/NNS ago/RB ,/, the/DT RTC/NNP has/VBZ taken/VBN over/RP 256/CD thrifts/NNS valued/VBN at/IN $/$ 95.6/CD billion/CD ./.
 The/DT RTC/NNP was/VBD on/IN the/DT verge/NN of/IN placing/VBG Colonial/NNP Savings/NNP Bank/NNP of/IN Roselle/NNP ,/, N.J./NNP ,/, a/DT subsidiary/NN of/IN Deltacorp/NNP ,/, into/IN receivership/NN ./.
-This/DT week/NN Deltacorp/NNP persuaded/VBD Judge/NNP Brozman/NNP to/TO issue/VB a/DT temporary/JJ restraining/JJ order/NN ,/, arguing/VBG that/IN before/IN its/PRP$ thrift/NN was/VBD taken/VBN over/RP the/DT apparent/JJ conflict/NN between/IN the/DT two/CD federal/JJ laws/NNS ./.
+This/DT week/NN Deltacorp/NNP persuaded/VBD Judge/NNP Brozman/NNP to/TO issue/VB a/DT temporary/JJ restraining/JJ order/NN ,/, arguing/VBG that/IN before/IN its/PRP$ thrift/NN was/VBD taken/VBN over/RP the/DT apparent/JJ conflict/NN between/IN the/DT two/CD federal/JJ laws/NNS should/MD be/VB resolved/VBN ./.
 Mr./NNP Friedman/NNP ,/, the/DT RTC/NNP 's/POS pending/VBG|JJ takeover/NN would/MD impair/VB the/DT company/NN 's/POS ability/NN under/IN Chapter/NNP 11/CD to/TO recoup/VB loses/NNS by/IN putting/VBG its/PRP$ subsidiary/NN up/RP for/IN bid/NN ./.
 Mr./NNP Friedman/NNP claims/VBZ Deltacorp/NN estimates/NNS that/IN by/IN selling/VBG the/DT thrift/NN  it/PRP could/MD make/VB about/RB $/$ 23/CD million/CD ./.
-the/DT government/NN sells/VBZ the/DT thrift/NN ,/, the/DT company/NN will/MD make/VB far/RB less/JJR ,/, he/PRP ./.
+the/DT government/NN sells/VBZ the/DT thrift/NN ,/, the/DT company/NN will/MD make/VB far/RB less/JJR ,/, he/PRP contends/VBZ ./.
 the/DT court/NN were/VBD to/TO issue/VB the/DT injunction/NN ,/, it/PRP would/MD set/VB a/DT significant/JJ precedent/NN ,/, ''/'' says/VBZ Mr./NNP Friedman/NNP ,/, who/WP says/VBZ he/PRP does/VBZ n't/RB know/VB how/WRB many/JJ other/JJ companies/NNS are/VBP in/IN a/DT position/NN to/TO use/VB the/DT bankruptcy/NN law/NN as/IN a/DT shelter/NN against/IN RTC/NNP takeovers/NNS ./.
 Jerome/NNP Kowalski/NNP ,/, a/DT partner/NN with/IN Parker/NNP Chapin/NNP Flattau/NNP &/CC Klimpl/NNP  who/WP has/VBZ clients/NNS in/IN situations/NNS similar/JJ to/TO Deltacorp/NNP ,/, says/VBZ lawyers/NNS would/MD be/VB ``/`` foolish/JJ not/RB to/TO tell/VB clients/NNS to/TO follow/VB ''/'' the/DT Deltacorp/NNP strategy/NN ./.
 The/DT Office/NNP of/IN Thrift/NNP Supervision/NNP failed/VBD to/TO return/VB numerous/JJ phone/NN calls/NNS ./.
@@ -31,15 +31,15 @@ Simon/NNP &/CC Schuster/NNP Inc./NNP sued/VBD to/TO have/VB the/DT law/NN declar
 The/DT company/NN filed/VBD the/DT suit/NN in/IN 1986/CD after/IN the/DT ``/`` Son/NNP of/IN Sam/NNP ''/'' law/NN was/VBD applied/VBN to/TO ``/`` Wiseguy/NNP :/: Life/NN in/IN a/DT Mafia/NNP Family/NN ,/, ''/'' a/DT best-seller/NN by/IN Nicholas/NNP Pileggi/NNP ./.
 The/DT book/NN was/VBD based/VBN on/IN the/DT life/NN of/IN Henry/NNP Hill/NNP ,/, whom/WP  the/DT court/NN refers/VBZ to/TO as/IN a/DT ``/`` career/NN criminal/NN ''/'' and/CC who/WP received/VBD payments/NNS from/IN the/DT publisher/NN in/IN return/NN for/IN his/PRP$ life/NN story/NN ./.
 Simon/NNP &/CC Schuster/NNP said/VBD many/JJ books/NNS about/IN criminal/JJ activities/NNS would/MD never/RB be/VB published/VBN if/IN criminals/NNS could/MD n't/RB be/VB paid/VBN for/IN their/PRP$ stories/NNS ,/, and/CC that/IN this/DT had/VBD a/DT chilling/JJ effect/NN on/IN the/DT publishing/NN industry/NN ./.
-Judge/NNP Keenan/NNP said/VBD ,/, ``/`` Although/IN it/PRP may/MD be/VB more/RBR difficult/JJ for/IN publishers/NNS and/CC authors/NNS to/TO create/VB books/NNS with/IN the/DT cooperation/NN of/IN a/DT criminal/JJ source/NN {/( under/IN the/DT ``/`` Son/NNP of/IN Sam/NNP ''/'' law/NN }/) ,/, it/PRP is/VBZ not/RB impossible/JJ nor/CC is/VBZ such/JJ cooperation/NN ./.
+Judge/NNP Keenan/NNP said/VBD ,/, ``/`` Although/IN it/PRP may/MD be/VB more/RBR difficult/JJ for/IN publishers/NNS and/CC authors/NNS to/TO create/VB books/NNS with/IN the/DT cooperation/NN of/IN a/DT criminal/JJ source/NN {/( under/IN the/DT ``/`` Son/NNP of/IN Sam/NNP ''/'' law/NN }/) ,/, it/PRP is/VBZ not/RB impossible/JJ nor/CC is/VBZ such/JJ cooperation/NN proscribed/VBN ./.
 The/DT judge/NN added/VBD ,/, ``/`` The/DT speech/NN  itself/PRP is/VBZ not/RB the/DT target/NN of/IN {/( the/DT state/NN law/NN }/) ;/: the/DT profit-making/JJ aspect/NN is/VBZ the/DT target/NN ./.
 A/DT spokeswoman/NN for/IN Simon/NNP &/CC Schuster/NNP said/VBD the/DT New/NNP York/NNP company/NN would/MD appeal/VB the/DT ruling/NN ./.
-BAKER/NNP &/CC McKENZIE/NNP Moscow/NNP ./.
+BAKER/NNP &/CC McKENZIE/NNP Moscow/NNP bound/JJ ./.
 The/DT Chicago/NNP law/NN firm/NN ,/, the/DT world/NN 's/POS largest/JJS ,/, will/MD open/VB the/DT first/JJ Soviet-accredited/JJ office/NN of/IN a/DT foreign/JJ law/NN firm/NN in/IN Moscow/NNP later/RB this/DT year/NN ./.
 Coudert/NNP Brothers/NNP ,/, a/DT New/NNP York/NNP law/NN firm/NN ,/, and/CC Arnold/NNP &/CC Porter/NNP and/CC Heron/NNP ,/, Burchette/NNP ,/, Ruckert/NNP &/CC Rothwell/NNP ,/, both/DT in/IN Washington/NNP ,/, D.C./NNP ,/, have/VBP had/VBD lawyers/NNS in/IN the/DT Soviet/NNP Union/NNP under/IN the/DT auspices/NNS of/IN companies/NNS '/POS trade/NN offices/NNS or/CC in/IN unofficial/JJ capacities/NNS ./.
 1,400-lawyer/JJ Baker/NNP &/CC McKenzie/NNP will/MD open/VB a/DT full-fledged/JJ branch/NN ./.
 The/DT firm/NN will/MD have/VB 46/CD offices/NNS in/IN 27/CD countries/NNS ./.
-It/PRP became/VBD the/DT first/JJ foreign/JJ firm/NN with/IN an/DT Eastern/JJ European/JJ branch/NN when/WRB it/PRP opened/VBD in/IN Budapest/NNP two/CD years/NNS ./.
+It/PRP became/VBD the/DT first/JJ foreign/JJ firm/NN with/IN an/DT Eastern/JJ European/JJ branch/NN when/WRB it/PRP opened/VBD in/IN Budapest/NNP two/CD years/NNS ago/RB ./.
 Three/CD lawyers/NNS ,/, headed/VBN by/IN partner/NN Paul/NNP J./NNP Melling/NNP ,/, will/MD be/VB in/IN Moscow/NNP full-time/RB ./.
 Ten/CD lawyers/NNS from/IN the/DT firm/NN 's/POS other/JJ offices/NNS will/MD work/VB with/IN them/PRP ./.
 Fifteen/CD joint/JJ ventures/NNS have/VBP already/RB signed/VBN on/RP as/IN clients/NNS ,/, according/VBG to/TO Robert/NNP W./NNP Cox/NNP ,/, chairman/NN of/IN the/DT firm/NN ./.

@@ -1,4 +1,4 @@
-Prospect/NNP Group/NNP Inc./NNP ,/, whose/WP$ recent/JJ hostile/JJ tender/NN offer/NN for/IN Recognition/NNP Equipment/NNP Inc./NNP failed/VBD for/IN lack/NN of/IN financing/NN ,/, apparently/RB has/VBZ gained/VBN a/DT measure/NN of/IN control/NN over/IN the/DT troubled/JJ company/NN ./.
+Prospect/NNP Group/NNP Inc./NNP ,/, whose/WP$ recent/JJ hostile/JJ tender/NN offer/NN for/IN Recognition/NNP Equipment/NNP Inc./NNP failed/VBD for/IN lack/NN of/IN financing/NN ,/, apparently/RB has/VBZ gained/VBN a/DT measure/NN of/IN control/NN over/IN the/DT troubled/JJ company/NN anyway/RB ./.
 part/NN of/IN what/WP  a/DT Recognition/NNP spokeswoman/NN termed/VBD an/DT ``/`` amiable/JJ agreement/NN ,/, ''/'' Prospect/NNP Group/NNP will/MD wind/VB up/RP with/IN control/NN of/IN top/JJ management/NN posts/NNS and/CC an/DT increased/JJ stake/NN in/IN the/DT maker/NN of/IN data/NNS management/NN equipment/NN ./.
 a/DT management/NN restructuring/NN ,/, Thomas/NNP L./NNP Ringer/NNP resigned/VBD as/IN chairman/NN ,/, chief/JJ executive/NN and/CC a/DT director/NN ,/, while/IN Israel/NNP Sheinberg/NNP resigned/VBD as/IN a/DT director/NN ./.
 Mr./NNP Sheinberg/NNP remains/VBZ as/IN executive/JJ vice/NN president/NN ./.
@@ -16,4 +16,4 @@ The/DT company/NN attributed/VBD the/DT loss/NN to/TO declining/VBG revenue/NN a
 The/DT former/JJ executives/NNS were/VBD indicted/VBN last/JJ October/NNP on/IN charges/NNS of/IN fraud/NN ,/, theft/NN and/CC conspiracy/NN related/VBN to/TO efforts/NNS by/IN the/DT company/NN to/TO win/VB $/$ 400/CD million/CD in/IN Postal/NNP Service/NNP contracts/NNS ./.
 Recognition/NNP Equipment/NNP said/VBD it/PRP expected/VBD to/TO put/VB the/DT agreement/NN with/IN Prospect/NNP to/TO a/DT vote/NN of/IN its/PRP$ stockholders/NNS at/IN a/DT special/JJ meeting/NN in/IN January/NNP ./.
 New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN ,/, Recognition/NNP rose/VBD 87.5/CD cents/NNS to/TO $/$ 6.625/CD ./.
-Prospect/NNP slipped/VBD 25/CD cents/NNS to/TO $/$ 10.50/CD in/IN national/JJ over-the-counter/JJ ./.
+Prospect/NNP slipped/VBD 25/CD cents/NNS to/TO $/$ 10.50/CD in/IN national/JJ over-the-counter/JJ trading/NN ./.

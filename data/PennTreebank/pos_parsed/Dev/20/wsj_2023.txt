@@ -2,10 +2,10 @@ L.J./NNP Hooker/NNP Corp./NNP is/VBZ expected/VBN to/TO reach/VB an/DT agreement
 L.J./NNP Hooker/NNP ,/, based/VBN in/IN Atlanta/NNP ,/, filed/VBD for/IN Chapter/NN 11/CD bankruptcy/NN protection/NN earlier/RBR this/DT year/NN ./.
 its/PRP$ parent/NN company/NN ,/, Hooker/NNP Corp./NNP of/IN Sydney/NNP ,/, Australia/NNP ,/, is/VBZ being/VBG managed/VBN by/IN a/DT court-appointed/JJ liquidator/NN ./.
 It/PRP is/VBZ expected/VBN that/IN GE/NNP Capital/NNP Corp./NNP ,/, a/DT financial-services/NNS subsidiary/NN of/IN General/NNP Electric/NNP Co./NNP ,/, will/MD provide/VB much/RB of/IN the/DT funding/NN for/IN the/DT proposed/VBN leveraged/JJ buy-out/NN of/IN Merksamer/NNP ,/, based/VBN in/IN Sacramento/NNP ,/, Calif/NNP ./.
-A/DT spokesman/NN for/IN GE/NNP Capital/NNP ./.
+A/DT spokesman/NN for/IN GE/NNP Capital/NNP declined/VBD to/TO comment/VB ./.
 GE/NNP Capital/NNP has/VBZ a/DT working/VBG relationship/NN with/IN L.J./NNP Hooker/NNP ./.
 It/PRP is/VBZ providing/VBG $/$ 50/CD million/CD in/IN emergency/NN financing/NN to/TO the/DT company/NN and/CC has/VBZ agreed/VBN to/TO buy/VB as/RB much/RB as/IN $/$ 75/CD million/CD in/IN receivables/NN from/IN B./NNP Altman/NNP &/CC Co./NNP and/CC Bonwit/NNP Teller/NNP ,/, L.J./NNP Hooker/NNP 's/POS two/CD fully/RB owned/VBN department-store/NN chains/NNS ./.
-Sam/NNP Merksamer/NNP ,/, chief/NN executive/NN officer/NN of/IN the/DT nationwide/JJ jewelry/NN chain/NN ,/, and/CC Sanford/NNP Sigoloff/NNP ,/, chief/NN executive/NN of/IN L.J./NNP Hooker/NNP Corp./NNP ,/, both/DT ./.
+Sam/NNP Merksamer/NNP ,/, chief/NN executive/NN officer/NN of/IN the/DT nationwide/JJ jewelry/NN chain/NN ,/, and/CC Sanford/NNP Sigoloff/NNP ,/, chief/NN executive/NN of/IN L.J./NNP Hooker/NNP Corp./NNP ,/, both/DT declined/VBD to/TO comment/VB ./.
 Currently/RB ,/, Mr./NNP Merksamer/NNP owns/VBZ 20/CD %/NN of/IN the/DT company/NN ;/: L.J./NNP Hooker/NNP acquired/VBD its/PRP$ 80/CD %/NN interest/NN in/IN the/DT firm/NN in/IN May/NNP 1986/CD ./.
 the/DT time/NN ,/, the/DT Merksamer/NNP chain/NN had/VBD 11/CD stores/NNS in/IN operation/NN ./.
 Today/NN ,/, there/EX are/VBP 77/CD units/NNS ,/, all/DT located/VBN in/IN shopping/NN malls/NNS ./.

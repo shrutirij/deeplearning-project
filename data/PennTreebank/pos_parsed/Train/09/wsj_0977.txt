@@ -5,7 +5,7 @@ L.J./NNP Hooker/NNP ,/, based/VBN in/IN Atlanta/NNP ,/, filed/VBN for/IN Chapter
 L.J./NNP Hooker/NNP is/VBZ owned/VBN by/IN Hooker/NNP Corp./NNP ,/, Sydney/NNP ,/, Australia/NNP ,/, which/WDT  itself/PRP is/VBZ currently/RB being/VBG managed/VBN by/IN a/DT court-appointed/JJ provisional/JJ liquidator/NN ./.
 L.J./NNP Hooker/NNP 's/POS planned/VBN sale/NN of/IN Merksamer/NNP is/VBZ subject/JJ to/TO approval/NN by/IN Judge/NNP Tina/NNP Brozman/NNP of/IN U.S./NNP Bankruptcy/NNP Court/NNP ./.
 Rumors/NNS to/TO the/DT effect/NN that/IN the/DT Merksamer/NNP chain/NN would/MD file/VB for/IN Chapter/NN 11/CD arose/VBD last/JJ week/NN in/IN the/DT jewelry/NN industry/NN ./.
-that/DT time/NN ,/, Sam/NNP Merksamer/NNP ,/, president/NN of/IN the/DT chain/NN ,/, angrily/RB denied/VBD that/IN his/PRP$ company/NN ./.
+that/DT time/NN ,/, Sam/NNP Merksamer/NNP ,/, president/NN of/IN the/DT chain/NN ,/, angrily/RB denied/VBD that/IN his/PRP$ company/NN was/VBD about/IN to/TO file/VB ./.
 Mr./NNP Merksamer/NNP is/VBZ leading/VBG the/DT buy-out/JJ ./.
 executives/NNS close/RB to/TO the/DT situation/NN ,/, Merksamer/NNP filed/VBD for/IN Chapter/NN 11/CD to/TO speed/VB the/DT sale/NN of/IN the/DT chain/NN ./.
 One/CD executive/NN said/VBD an/DT accord/NN signed/VBN by/IN the/DT unsecured/JJ creditors/NNS of/IN L.J./NNP Hooker/NNP Corp./NNP had/VBD frozen/VBN in/IN place/NN  all/DT of/IN L.J./NNP Hooker/NNP 's/POS assets/NNS ./.

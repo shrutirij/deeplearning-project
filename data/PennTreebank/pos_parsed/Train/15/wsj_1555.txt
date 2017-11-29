@@ -1,10 +1,10 @@
 Hewlett-Packard/NNP Co./NNP will/MD announce/VB today/NN  a/DT software/NN program/NN  that/WDT allows/VBZ computers/NNS in/IN a/DT network/NN to/TO speed/VB up/RP computing/NN tasks/NNS by/IN sending/VBG the/DT tasks/NNS to/TO each/DT other/JJ ./.
-Task/NNP Broker/NNP ,/, the/DT program/NN acts/VBZ something/NN like/IN an/DT auctioneer/NN among/IN a/DT group/NN of/IN computers/NNS ./.
+Task/NNP Broker/NNP ,/, the/DT program/NN acts/VBZ something/NN like/IN an/DT auctioneer/NN among/IN a/DT group/NN of/IN computers/NNS wired/VBN together/RB ./.
 a/DT machine/NN has/VBZ a/DT big/JJ computing/NN task/NN ,/, Task/NNP Broker/NNP asks/VBZ other/JJ computers/NNS in/IN the/DT network/NN for/IN ``/`` bids/NNS ''/'' on/IN the/DT job/NN ./.
 It/PRP then/RB determines/VBZ which/WDT machine/NN is/VBZ free/JJ to/TO do/VB the/DT task/NN most/RBS quickly/RB and/CC sends/VBZ the/DT task/NN to/TO that/DT machine/NN ./.
 Hewlett-Packard/NNP claims/VBZ that/IN the/DT software/NN allows/VBZ a/DT network/NN to/TO run/VB three/CD times/NNS as/IN many/JJ tasks/NNS as/IN conventional/JJ networks/NNS and/CC will/MD run/VB each/DT task/NN twice/RB as/IN fast/JJ ./.
 The/DT new/JJ Hewlett-Packard/NNP program/NN ,/, said/VBD analyst/NN John/NNP McCarthy/NNP at/IN Forrester/NNP Research/NNP Inc./NNP ,/, a/DT computer-market/JJ research/NN company/NN ,/, ``/`` is/VBZ a/DT key/JJ building/NN block/NN as/IN people/NNS move/VBP to/TO this/DT new/JJ model/NN of/IN distributed/VBN processing/NN ./.
-today/NN 's/POS computer/NN networks/NNS ,/, some/DT machines/NNS often/RB sit/VBP idle/JJ while/IN others/NNS ./.
+today/NN 's/POS computer/NN networks/NNS ,/, some/DT machines/NNS often/RB sit/VBP idle/JJ while/IN others/NNS are/VBP overtaxed/VBN ./.
 the/DT Hewlett-Packard/NNP program/NN ,/, he/PRP said/VBD ,/, ``/`` You/PRP get/VBP more/JJR bang/NN for/IN the/DT buck/NN  you/PRP 've/VBP spent/VBN on/IN computers/NNS ./.
 The/DT program/NN ,/, which/WDT will/MD be/VB shipped/VBN in/IN January/NNP 1990/CD ,/, runs/VBZ on/IN the/DT Unix/NNP operating/NN system/NN ./.
 Hewlett-Packard/NNP will/MD charge/VB $/$ 5,000/CD for/IN a/DT license/NN covering/VBG 10/CD users/NNS ./.

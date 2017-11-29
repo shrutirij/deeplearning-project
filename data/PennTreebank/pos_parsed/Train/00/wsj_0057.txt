@@ -13,6 +13,6 @@ that/DT decision/NN ,/, the/DT company/NN said/VBD it/PRP was/VBD converting/VBG
 A/DT spokesman/NN declined/VBD to/TO speculate/VB about/IN possible/JJ reductions/NNS in/IN force/NN ./.
 This/DT is/VBZ a/DT company/NN  that/WDT has/VBZ invested/VBN in/IN capacity/NN additions/NNS more/RBR aggressively/RB than/IN any/DT other/JJ company/NN in/IN the/DT industry/NN and/CC now/RB the/DT industry/NN is/VBZ growing/VBG more/RBR slowly/RB and/CC they/PRP are/VBP suddenly/RB poorly/RB positioned/VBN ,/, ''/'' said/VBD Michael/NNP Stark/NNP ,/, chip/NN analyst/NN at/IN Robertson/NNP ,/, Stephens/NNP &/CC Co/NNP ./.
 I/PRP think/VBP the/DT stock/NN is/VBZ dead/JJ money/NN for/IN a/DT while/NN ./.
-Yesterday/NN 's/POS announcement/NN was/VBD made/VBN after/IN markets/NNS ./.
+Yesterday/NN 's/POS announcement/NN was/VBD made/VBN after/IN markets/NNS closed/VBD ./.
 U.S./NNP chip/NN makers/NNS are/VBP facing/VBG continued/VBN slack/JJ demand/NN following/VBG a/DT traditionally/RB slow/JJ summer/NN ./.
 Part/NN of/IN the/DT problem/NN is/VBZ that/IN chip/NN buyers/NNS are/VBP keeping/VBG inventories/NNS low/JJ because/IN of/IN jitters/NNS about/IN the/DT course/NN of/IN the/DT U.S./NNP economy/NN ./.

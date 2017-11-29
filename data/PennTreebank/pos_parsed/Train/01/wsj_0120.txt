@@ -8,13 +8,13 @@ California/NNP ,/, two/CD petition/NN drives/NNS for/IN next/JJ year/NN 's/POS e
 Mr./NNP McGuigan/NNP cites/VBZ three/CD completed/VBN efforts/NNS in/IN Oklahoma/NNP ./.
 Hot/JJ ballot/NN topics/NNS are/VBP expected/VBN to/TO be/VB abortion/NN ,/, the/DT environment/NN and/CC insurance/NN reform/NN ./.
 a/DT cue/NN from/IN California/NNP ,/, more/JJR politicians/NNS will/MD launch/VB their/PRP$ campaigns/NNS by/IN backing/VBG initiatives/NNS ,/, says/VBZ David/NNP Magleby/NNP of/IN Brigham/NNP Young/NNP University/NNP ./.
-PHOTOGRAPH/NN COLLECTING/NN gains/VBZ new/JJ stature/NN as/IN prices/NNS ./.
+PHOTOGRAPH/NN COLLECTING/NN gains/VBZ new/JJ stature/NN as/IN prices/NNS rise/VBP ./.
 Price/NN records/NNS are/VBP being/VBG set/NN at/IN auctions/NNS  this/DT week/NN ./.
 Christie/NNP 's/POS ,/, a/DT folio/NN of/IN 21/CD prints/NNS from/IN Alfred/NNP Stieglitz/NNP 's/POS ``/`` Equivalents/NNS ''/'' series/NN sold/VBD for/IN $/$ 396,000/CD ,/, a/DT single-lot/JJ record/NN ./.
 Other/JJ works/NNS also/RB have/VBP been/VBN exceeding/VBG price/NN estimates/NNS ./.
 part/NN ,/, prices/NNS reflect/VBP development/NN of/IN a/DT market/NN structure/NN based/VBN on/IN such/JJ variables/NNS as/IN the/DT number/NN of/IN prints/NNS ./.
 This/DT information/NN used/VBD to/TO be/VB poorly/RB documented/VBN and/CC largely/RB anecdotal/JJ ,/, says/VBZ Beth/NNP Gates-Warren/NNP of/IN Sotheby/NNP 's/POS ./.
-There/EX is/VBZ finally/RB some/DT sort/NN of/IN sense/NN in/IN the/DT market/NN ,/, ''/'' she/PRP ./.
+There/EX is/VBZ finally/RB some/DT sort/NN of/IN sense/NN in/IN the/DT market/NN ,/, ''/'' she/PRP says/VBZ ./.
 Corporations/NNS and/CC museums/NNS are/VBP among/IN the/DT serious/JJ buyers/NNS ,/, giving/VBG greater/JJR market/NN stability/NN ,/, says/VBZ Robert/NNP Persky/NNP of/IN the/DT Photograph/NNP Collector/NNP ./.
 I/PRP see/VBP prints/NNS going/VBG into/IN the/DT hands/NNS of/IN institutions/NNS ,/, I/PRP know/VBP they/PRP are/VBP n't/RB going/VBG to/TO come/VB back/RB on/IN the/DT market/NN ./.
 Most/JJS in/IN demand/NN :/: classic/JJ photographs/NNS by/IN masters/NNS such/JJ as/IN Stieglitz/NNP and/CC Man/NNP Ray/NNP ./.
@@ -22,11 +22,11 @@ much/RB contemporary/JJ work/NN is/VBZ also/RB fetching/VBG ``/`` a/DT great/JJ 
 DIALING/VBG 900/CD brings/VBZ callers/NNS  a/DT growing/VBG number/NN of/IN services/NNS ./.
 a/DT $/$ 300/CD million-a-year/JJ business/NN ,/, 900/CD telephone/NN service/NN is/VBZ expected/VBN to/TO hit/VB $/$ 500/CD million/CD next/JJ year/NN and/CC near/IN $/$ 2/CD billion/CD by/IN 1992/CD as/IN uses/NNS for/IN the/DT service/NN continue/VBP to/TO expand/VB ,/, says/VBZ Joel/NNP Gross/NNP of/IN Donaldson/NNP ,/, Lufkin/NNP &/CC Jenrette/NNP Inc/NNP ./.
 The/DT service/NN --/: which/WDT costs/VBZ the/DT caller/NN from/IN 30/CD cents/NNS to/TO $/$ 25/CD  a/DT minute/NN --/: currently/RB is/VBZ dominated/VBN by/IN celebrity/NN chatter/NN ,/, horoscopes/NNS and/CC romance/NN lines/NNS ./.
-more/RBR serious/JJ applications/NNS are/VBP in/IN the/DT wings/NNS ,/, and/CC that/DT is/VBZ where/WRB the/DT future/JJ growth/NN ./.
+more/RBR serious/JJ applications/NNS are/VBP in/IN the/DT wings/NNS ,/, and/CC that/DT is/VBZ where/WRB the/DT future/JJ growth/NN is/VBZ expected/VBN ./.
 I/PRP 'm/VBP starting/VBG to/TO see/VB more/JJR business/NN transactions/NNS ,/, ''/'' says/VBZ Andrea/NNP West/NNP of/IN American/NNP Telephone/NNP &/CC Telegraph/NNP Co./NNP ,/, noting/VBG growing/VBG interest/NN in/IN use/NN of/IN 900/CD service/NN for/IN stock/NN sales/NNS ,/, software/NN tutorials/NNS and/CC even/RB service/NN contracts/NNS ./.
 Colleges/NNS ,/, she/PRP says/VBZ ,/, are/VBP eyeing/VBG registration/NN through/IN 900/CD service/NN ./.
 Charities/NNS test/VBP the/DT waters/NNS ,/, but/CC they/PRP face/VBP legal/JJ barriers/NNS to/TO electronic/JJ fund/NN raising/NN ./.
-The/DT thing/NN  that/WDT will/MD really/RB break/VB this/DT market/NN right/RB open/JJ is/VBZ merchandising/NN ,/,  ''/'' Ms./NNP West/NNP ./.
+The/DT thing/NN  that/WDT will/MD really/RB break/VB this/DT market/NN right/RB open/JJ is/VBZ merchandising/NN ,/,  ''/'' Ms./NNP West/NNP says/VBZ ./.
 the/DT 800/CD service/NN will/MD ``/`` migrate/VB to/TO 900/CD ,/, ''/'' predicts/VBZ Jack/NNP Lawless/NNP ,/, general/JJ manager/NN of/IN US/NNP  Sprint/NNP 's/POS 900/CD product/NN ./.
 FAMILY/NN PETS/NNS are/VBP improving/VBG recovery/NN rates/NNS of/IN patients/NNS at/IN Columbia/NNP Hospital/NNP ,/, Milwaukee/NNP ./.
 Patients/NNS  who/WP receive/VBP canine/JJ or/CC feline/JJ visitors/NNS are/VBP found/VBN to/TO have/VB lower/JJR blood/NN pressure/NN and/CC improved/VBN appetite/NN and/CC be/VB more/RBR receptive/JJ to/TO therapy/NN ,/, says/VBZ Mary/NNP Ann/NNP O'Loughlin/NNP ,/, program/NN coordinator/NN ./.
@@ -43,5 +43,5 @@ its/PRP$ new/JJ customers/NNS :/: day-care/JJ centers/NNS  that/WDT previously/R
 The/DT National/NNP Association/NNP of/IN Diaper/NNP Services/NNPS ,/, Philadelphia/NNP ,/, says/VBZ that/IN since/IN January/NNP  it/PRP has/VBZ gotten/VBN more/JJR than/IN 672/CD inquiries/NNS from/IN people/NNS interested/JJ in/IN starting/VBG diaper/NN services/NNS ./.
 Elisa/NNP Hollis/NNP launched/VBD a/DT diaper/NN service/NN last/JJ year/NN because/IN State/NNP College/NNP ,/, Pa./NNP ,/, where/WRB she/PRP lives/VBZ ,/, did/VBD n't/RB have/VB one/CD ./.
 Diaper/NN shortages/NNS  this/DT summer/NN limited/VBD growth/NN at/IN Stork/NNP Diaper/NNP Services/NNPS ,/, Springfield/NNP ,/, Mass./NNP ,/, where/WRB business/NN is/VBZ up/IN 25/CD %/NN in/IN======================================Also/RB spurring/VBG the/DT move/NN to/TO cloth/NN :/: diaper/NN covers/NNS with/IN Velcro/NN fasteners/NNS  that/WDT eliminate/VBP the/DT need/NN for/IN safety/NN pins/NNS ./.
-BRIEFS/NNPS :/: Only/RB 57.6/CD %/NN of/IN New/NNP Yorkers/NNPS watch/VBP the/DT local/JJ news/NN ,/, the/DT lowest/JJS viewership/NN in/IN the/DT country/NN ,/, says/VBZ a/DT new/JJ study/NN by/IN Impact/NNP Resources/NNPS Inc./NNP ,/, Columbus/NNP ,/, Ohio/NNP ./.
+BRIEFS/NNPS :/: Only/RB 57.6/CD %/NN of/IN New/NNP Yorkers/NNPS watch/VBP the/DT local/JJ news/NN ,/, the/DT lowest/JJS viewership/NN in/IN the/DT country/NN ,/, says/VBZ a/DT new/JJ study/NN by/IN Impact/NNP Resources/NNPS Inc./NNP ,/, Columbus/NNP ,/, Ohio/NNP .../: ./.
 FreudToy/NNP ,/, a/DT pillow/NN bearing/VBG the/DT likeness/NN of/IN Sigmund/NNP Freud/NNP ,/, is/VBZ marketed/VBN as/IN a/DT $/$ 24.95/CD tool/NN for/IN do-it-yourself/JJ analysis/NN ./.

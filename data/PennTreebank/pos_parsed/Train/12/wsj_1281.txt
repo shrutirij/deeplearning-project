@@ -1,7 +1,7 @@
 Carnival/NNP Cruise/NNP Lines/NNPS Inc./NNP 's/POS common/JJ stock/NN was/VBD dragged/VBN down/IN yesterday/NN amid/IN concerns/NNS that/IN a/DT bankruptcy/NN filing/VBG by/IN a/DT Finnish/JJ shipbuilder/NN would/MD delay/VB delivery/NN of/IN three/CD big/JJ cruise/NN ships/NNS ./.
-The/DT Miami-based/JJ company/NN 's/POS stock/NN fell/VBD $/$ 1.75/CD yesterday/NN to/TO $/$ 20.75/CD  a/DT share/NN in/IN heavy/JJ American/NNP Stock/NNP Exchange/NNP composite/JJ ./.
+The/DT Miami-based/JJ company/NN 's/POS stock/NN fell/VBD $/$ 1.75/CD yesterday/NN to/TO $/$ 20.75/CD  a/DT share/NN in/IN heavy/JJ American/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN ./.
 Carnival/NNP said/VBD in/IN a/DT company/NN statement/NN that/IN it/PRP had/VBD been/VBN ``/`` notified/VBN unofficially/RB ''/'' that/IN Waertsilae/NNP Marine/NNP Industries/NNPS ,/, the/DT Finnish/JJ shipyard/NN  that/WDT is/VBZ building/VBG its/PRP$ three/CD new/JJ cruise/NN ships/NNS ,/, planned/VBN to/TO file/VB for/IN bankruptcy/NN ./.
-Officials/NNS at/IN Carnival/NNP ./.
+Officials/NNS at/IN Carnival/NNP declined/VBD to/TO comment/VB ./.
 There/EX is/VBZ just/RB a/DT tremendous/JJ amount/NN of/IN uncertainty/NN about/IN what/WP  the/DT effect/NN ,/, if/IN any/DT ,/, of/IN all/PDT this/DT is/VBZ ,/, ''/'' said/VBD John/NNP P./NNP Uphoff/NNP ,/, an/DT analyst/NN at/IN Raymond/NNP James/NNP Associates/NNPS Inc/NNP ./.
 I/PRP did/VBD n't/RB even/RB know/VB that/IN a/DT company/NN in/IN a/DT socialistic/JJ country/NN could/MD file/VB for/IN bankruptcy/NN ./.
 Carnival/NNP said/VBD the/DT ``/`` Fantasy/NNP ,/, ''/'' the/DT first/JJ of/IN the/DT three/CD $/$ 200/CD million/CD ships/NNS that/IN Carnival/NNP has/VBZ on/IN order/NN ,/, is/VBZ scheduled/VBN to/TO be/VB delivered/VBN next/JJ month/NN ,/, just/RB in/IN time/NN for/IN the/DT winter/NN tourist/NN season/NN in/IN the/DT Caribbean/NNP ./.

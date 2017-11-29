@@ -6,7 +6,7 @@ the/DT real/JJ future/NN of/IN this/DT game/NN is/VBZ in/IN a/DT number/NN of/IN
 the/DT Laurel/NNP race/NN track/NN ,/, the/DT breeders/NNS are/VBP romancing/VBG people/NNS like/IN Tim/NNP Hulings/NNP ,/, a/DT beer/NN packaging/NN plant/NN worker/NN ./.
 Mr./NNP Hulings/NNP is/VBZ waving/VBG his/PRP$ racing/NN program/NN ,/, cheering/VBG for/IN Karnak/NNP on/IN the/DT Nile/NNP ,/, a/DT sleek/JJ thoroughbred/NN galloping/VBG down/IN the/DT home/NN stretch/NN ./.
 Mr./NNP Hulings/NNP gloats/VBZ that/IN he/PRP sold/VBD all/PDT his/PRP$ stocks/NNS  a/DT week/NN before/IN the/DT market/NN plummeted/VBD 190/CD points/NNS on/IN Oct./NNP 13/CD ,/, and/CC he/PRP is/VBZ using/VBG the/DT money/NN to/TO help/VB buy/VB a/DT 45-acre/JJ horse/NN farm/NN ./.
-exciting/JJ  that/DT would/MD be/VB if/IN that/DT 's/VBZ your/PRP$ horse/NN ,/, ''/'' he/PRP ./.
+exciting/JJ  that/DT would/MD be/VB if/IN that/DT 's/VBZ your/PRP$ horse/NN ,/, ''/'' he/PRP says/VBZ ./.
 experts/NNS caution/VBP that/IN this/DT is/VBZ n't/RB a/DT game/NN for/IN anyone/NN with/IN a/DT weak/JJ stomach/NN or/CC wallet/NN ./.
 It/PRP 's/VBZ a/DT big-risk/JJ business/NN ,/, ''/'' warns/VBZ Charles/NNP C./NNP Mihalek/NNP ,/, a/DT Lexington/NNP attorney/NN and/CC former/JJ Kentucky/NNP state/NN securities/NNS commissioner/NN ./.
 You/PRP have/VBP to/TO go/VB into/IN it/PRP firmly/RB believing/VBG that/IN it/PRP 's/VBZ the/DT kind/NN of/IN investment/NN where/WRB you/PRP can/MD lose/VB everything/NN ./.
@@ -19,7 +19,7 @@ One/CD big/JJ problem/NN has/VBZ been/VBN the/DT thoroughbred/JJ racehorse/NN ma
 prices/NNS have/VBP slumped/VBN ,/, to/TO an/DT average/NN of/IN $/$ 395,374/CD this/DT summer/NN ./.
 that/DT 's/VBZ for/IN the/DT best/JJS horses/NNS ,/, with/IN most/JJS selling/VBG for/IN much/RB less/JJR --/: as/RB little/JJ as/IN $/$ 100/CD for/IN some/DT pedestrian/JJ thoroughbreds/NNS ./.
 they/PRP move/VBP outside/IN their/PRP$ traditional/JJ tony/JJ circle/NN ,/, racehorse/NN owners/NNS still/RB try/VBP to/TO capitalize/VB on/IN the/DT elan/NN of/IN the/DT sport/NN ./.
-Glossy/JJ brochures/NNS circulated/VBN at/IN racetracks/NNS gush/VBP about/IN the/DT limelight/NN of/IN the/DT winner/NN 's/POS circle/NN and/CC high-society/NN ./.
+Glossy/JJ brochures/NNS circulated/VBN at/IN racetracks/NNS gush/VBP about/IN the/DT limelight/NN of/IN the/DT winner/NN 's/POS circle/NN and/CC high-society/NN schmoozing/NN ./.
 One/CD handout/NN promises/VBZ :/: ``/`` Pedigrees/NNS ,/, parties/NNS ,/, post/NN times/NNS ,/, parimutuels/NNS and/CC pageantry/NN ./.
 It/PRP 's/VBZ just/RB a/DT matter/NN of/IN marketing/VBG and/CC promoting/VBG ourselves/PRP ,/, ''/'' says/VBZ Headley/NNP Bell/NNP ,/, a/DT fifth-generation/JJ horse/NN breeder/NN from/IN Lexington/NNP ./.
 it/PRP 's/VBZ not/RB that/RB simple/NN ./.
@@ -34,7 +34,7 @@ Some/DT badly/RB managed/VBN partnerships/NNS have/VBP burned/VBN investors/NNS 
 owners/NNS have/VBP developed/VBN a/DT ``/`` code/NN of/IN ethics/NNS ,/, ''/'' outlining/VBG rules/NNS for/IN consultants/NNS and/CC agents/NNS ,/, and/CC disclosure/NN of/IN fees/NNS and/CC any/DT conflicts/NNS of/IN interest/NN ./.
 some/DT are/VBP skeptical/JJ of/IN the/DT code/NN 's/POS effectiveness/NN ./.
 The/DT industry/NN is/VBZ based/VBN on/IN individual/JJ honesty/NN ,/, ''/'' says/VBZ Cap/NNP Hershey/NNP ,/, a/DT Lexington/NNP horse/NN farmer/NN and/CC one/CD of/IN the/DT investors/NNS  who/WP bought/VBD Spendthrift/NNP ./.
-the/DT drop/NN in/IN prices/NNS for/IN thoroughbreds/NNS ,/, owning/VBG one/CD ./.
+the/DT drop/NN in/IN prices/NNS for/IN thoroughbreds/NNS ,/, owning/VBG one/CD still/RB is/VBZ n't/RB cheap/JJ ./.
 the/DT low/JJ end/NN ,/, investors/NNS can/MD spend/VB $/$ 15,000/CD or/CC more/JJR to/TO own/VB a/DT racehorse/NN in/IN partnership/NN with/IN others/NNS ./.
 a/DT yearling/JJ sale/NN ,/, a/DT buyer/NN can/MD go/VB solo/RB|JJ and/CC get/VB a/DT horse/NN for/IN a/DT few/JJ thousand/CD dollars/NNS ./.
 that/DT means/VBZ paying/VBG the/DT horse/NN 's/POS maintenance/NN ;/: on/IN average/NN ,/, it/PRP costs/VBZ $/$ 25,000/CD  a/DT year/NN to/TO raise/VB a/DT horse/NN ./.

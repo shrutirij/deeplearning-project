@@ -1,10 +1,10 @@
-the/DT aftermath/NN of/IN the/DT Beijing/NNP massacre/NN on/IN June/NNP 4/CD ,/, economists/NNS advanced/VBD wildly/RB divergent/JJ views/NNS on/IN how/WRB Hong/NNP Kong/NNP ./.
+the/DT aftermath/NN of/IN the/DT Beijing/NNP massacre/NN on/IN June/NNP 4/CD ,/, economists/NNS advanced/VBD wildly/RB divergent/JJ views/NNS on/IN how/WRB Hong/NNP Kong/NNP would/MD be/VB affected/VBN ./.
 the/DT most/JJS upbeat/NN was/VBD BT/NNP Brokerage/NNP (/( Asia/NNP )/) Ltd/NNP ./.
 a/DT June/NNP 5/CD reaction/NN ,/, the/DT Bankers/NNPS Trust/NNP Co./NNP unit/NN proclaimed/VBD the/DT economy/NN ``/`` shockproof/JJ ./.
-Others/NNS ./.
+Others/NNS were/VBD more/RBR cautious/JJ ./.
 a/DT July/NNP analysis/NN titled/VBN ``/`` From/IN Euphoria/NNP to/TO Despair/NN ,/, ''/'' W.I./NNP Carr/NNP (/( Far/NNP East/NNP )/) Ltd./NNP ,/, another/DT securities/NNS firm/NN ,/, said/VBD that/IN eroding/VBG confidence/NN might/MD undermine/VB future/JJ economic/JJ development/NN ./.
 Today/NN ,/, with/IN business/NN activity/NN in/IN Hong/NNP Kong/NNP staggering/VBG along/IN at/IN an/DT uneven/JJ pace/NN ,/, the/DT economy/NN  itself/PRP seems/VBZ locked/VBN in/IN a/DT struggle/NN between/IN hope/NN and/CC fear/NN ./.
-Manufacturers/NNS have/VBP survived/VBN the/DT turmoil/NN in/IN China/NNP ./.
+Manufacturers/NNS have/VBP survived/VBN the/DT turmoil/NN in/IN China/NNP largely/RB unscathed/JJ ./.
 Signs/NNS of/IN revival/NN seem/VBP evident/JJ in/IN Hong/NNP Kong/NNP 's/POS hard-hit/JJ hotel/NN sector/NN ./.
 the/DT stock/NN and/CC real-estate/NN markets/NNS ,/, activity/NN remains/VBZ spotty/JJ even/RB though/IN prices/NNS have/VBP regained/VBN much/RB of/IN their/PRP$ lost/VBN ground/NN ./.
 demand/NN reported/VBN by/IN importers/NNS ,/, retailers/NNS and/CC even/RB fancy/JJ restaurants/NNS all/DT reinforce/VBP a/DT profile/NN of/IN a/DT community/NN  that/WDT is/VBZ sharply/RB tightening/VBG its/PRP$ belt/NN ./.
@@ -21,29 +21,29 @@ China/NNP 's/POS leaders/NNS have/VBP promised/VBN generous/JJ liberties/NNS for
 That/DT promise/NN sounds/VBZ shaky/JJ now/RB that/IN those/DT same/JJ leaders/NNS have/VBP fallen/VBN back/RB on/IN Marxist/JJ dogma/NN and/CC brute/JJ force/NN to/TO crush/VB their/PRP$ nation/NN 's/POS democracy/NN movement/NN ./.
 Outflows/NNS of/IN people/NNS and/CC capital/NN from/IN Hong/NNP Kong/NNP have/VBP been/VBN growing/VBG since/IN the/DT sovereignty/NN issue/NN first/RB arose/VBD in/IN the/DT early/JJ 1980s/CD ./.
 A/DT widely/RB held/VBN assumption/NN  all/DT along/IN has/VBZ been/VBN that/IN ,/, given/VBN its/PRP$ robust/JJ economy/NN ,/, Hong/NNP Kong/NNP will/MD be/VB able/JJ to/TO attract/VB sufficient/JJ foreign/JJ money/NN and/CC talent/NN to/TO comfortably/RB offset/VB the/DT outflows/NNS ./.
-interest/NN in/IN emigration/NN and/CC investment/NN abroad/RB soaring/VBG since/IN June/NNP 4/CD ,/, that/DT assumption/NN ./.
+interest/NN in/IN emigration/NN and/CC investment/NN abroad/RB soaring/VBG since/IN June/NNP 4/CD ,/, that/DT assumption/NN no/RB longer/RB seems/VBZ so/RB safe/JJ ./.
 Investment/NN and/CC emigration/NN plans/NNS take/VBP time/NN to/TO come/VB to/TO fruition/NN ./.
 four/CD months/NNS have/VBP passed/VBN since/IN the/DT Beijing/NNP massacre/NN ,/, and/CC few/JJ are/VBP prepared/VBN to/TO predict/VB its/PRP$ ultimate/JJ impact/NN ./.
-The/DT only/JJ consensus/NN is/VBZ that/IN more/JJR money/NN and/CC people/NNS may/MD leave/VB Hong/NNP Kong/NNP ./.
+The/DT only/JJ consensus/NN is/VBZ that/IN more/JJR money/NN and/CC people/NNS may/MD leave/VB Hong/NNP Kong/NNP than/IN had/VBD been/VBN thought/VBN likely/RB ./.
 This/DT expected/VBN blow/NN has/VBZ cast/VBN a/DT pall/NN over/IN the/DT economy/NN 's/POS prospects/NNS ./.
-The/DT question/NN ,/, as/IN many/JJ people/NNS see/VBP it/PRP ,/, is/VBZ how/WRB long/JJ such/JJ uncertainty/NN ./.
+The/DT question/NN ,/, as/IN many/JJ people/NNS see/VBP it/PRP ,/, is/VBZ how/WRB long/JJ such/JJ uncertainty/NN will/MD last/VB ./.
 Maureen/NNP Fraser/NNP ,/, an/DT economist/NN with/IN W.I./NNP Carr/NNP ,/, a/DT subsidiary/NN of/IN France/NNP 's/POS Banque/NNP Indosuez/NNP ,/, believes/VBZ that/IN the/DT territory/NN may/MD not/RB be/VB able/JJ to/TO regain/VB its/PRP$ momentum/NN until/IN some/DT time/NN after/IN 1997/CD ./.
-It/PRP may/MD experience/VB an/DT upswing/NN or/CC two/CD ./.
+It/PRP may/MD experience/VB an/DT upswing/NN or/CC two/CD in/IN between/IN ./.
 local/JJ investors/NNS shaken/VBN by/IN China/NNP 's/POS political/JJ and/CC economic/JJ turmoil/NN ,/, she/PRP says/VBZ ,/, a/DT genuine/JJ recovery/NN may/MD not/RB arrive/VB until/IN Hong/NNP Kong/NNP can/MD prove/VB itself/PRP secure/JJ under/IN Chinese/JJ sovereignty/NN ./.
-Investors/NNS have/VBP to/TO accept/VB the/DT possibility/NN of/IN a/DT significant/JJ slowdown/NN in/IN economic/JJ activity/NN in/IN the/DT runup/NN to/TO 1997/CD ,/, ''/'' she/PRP ./.
+Investors/NNS have/VBP to/TO accept/VB the/DT possibility/NN of/IN a/DT significant/JJ slowdown/NN in/IN economic/JJ activity/NN in/IN the/DT runup/NN to/TO 1997/CD ,/, ''/'' she/PRP says/VBZ ./.
 the/DT next/JJ few/JJ years/NNS ,/, I/PRP would/MD advise/VB caution/NN ./.
 a/DT soon-to-be/JJ published/VBN book/NN on/IN the/DT territory/NN ,/, a/DT political/JJ economist/NN ,/, Miron/NNP Mushkat/NNP ,/, has/VBZ derived/VBN three/CD future/JJ scenarios/NNS from/IN interviews/NNS with/IN 41/CD Hong/NNP Kong/NNP government/NN officials/NNS and/CC businessmen/NNS ./.
 half/DT of/IN them/PRP argue/VBP that/IN Hong/NNP Kong/NNP 's/POS uneasy/JJ relationship/NN with/IN China/NNP will/MD constrain/VB --/: though/IN not/RB inhibit/VB --/: long-term/JJ economic/JJ growth/NN ./.
 The/DT rest/NN are/VBP split/VBN roughly/RB between/IN optimists/NNS  who/WP expect/VBP Hong/NNP Kong/NNP to/TO hum/VB along/IN as/RB before/IN and/CC pessimists/NNS  who/WP foresee/VBP irreparable/JJ chaos/NN ./.
-The/DT interviews/NNS took/VBD place/NN two/CD years/NNS ./.
-the/DT China/NNP crisis/NN erupted/VBD ,/, Mr./NNP Mushkat/NNP says/VBZ ,/, the/DT scenario/NN as/IN depicted/VBN by/IN the/DT middle-of-the-road/JJ group/NN bears/VBZ a/DT remarkable/JJ resemblance/NN to/TO the/DT difficulties/NNS Hong/NNP Kong/NNP ./.
+The/DT interviews/NNS took/VBD place/NN two/CD years/NNS ago/IN ./.
+the/DT China/NNP crisis/NN erupted/VBD ,/, Mr./NNP Mushkat/NNP says/VBZ ,/, the/DT scenario/NN as/IN depicted/VBN by/IN the/DT middle-of-the-road/JJ group/NN bears/VBZ a/DT remarkable/JJ resemblance/NN to/TO the/DT difficulties/NNS Hong/NNP Kong/NNP currently/RB faces/VBZ ./.
 The/DT consensus/NN of/IN this/DT group/NN ,/, which/WDT  he/PRP dubs/VBZ ``/`` realists/NNS ,/, ''/'' is/VBZ that/IN the/DT local/JJ economy/NN will/MD grow/VB through/IN the/DT 1990s/CD at/IN annual/JJ rates/NNS averaging/VBG between/IN 3/CD %/NN and/CC 5/CD %/NN ./.
 Such/PDT a/DT pace/NN of/IN growth/NN ,/, though/IN respectable/JJ for/IN mature/JJ industrialized/VBN economies/NNS ,/, would/MD be/VB unusually/RB slow/JJ for/IN Hong/NNP Kong/NNP ./.
 the/DT 1960s/CD has/VBZ annual/JJ gross/JJ domestic/JJ product/NN growth/NN here/RB fallen/VBN below/IN 5/CD %/NN for/IN two/CD or/CC more/JJR consecutive/JJ years/NNS ./.
 The/DT first/JJ instance/NN occurred/VBD in/IN 1967-68/CD ,/, when/WRB China/NNP 's/POS Cultural/NNP Revolution/NNP triggered/VBD bloody/JJ street/NN rioting/NN in/IN the/DT colony/NN ./.
 The/DT other/JJ came/VBD in/IN 1974-75/CD from/IN the/DT combined/VBN shock/NN of/IN world/NN recession/NN and/CC a/DT severe/JJ local/JJ stock/NN market/NN crash/NN ./.
-the/DT past/JJ 10/CD years/NNS ,/, Hong/NNP Kong/NNP 's/POS economic/JJ growth/NN has/VBZ averaged/VBN 8.3/CD %/NN ./.
-Hong/NNP Kong/NNP 's/POS record/NN ,/, Mr./NNP Mushkat/NNP 's/POS ``/`` realists/NNS ''/'' might/MD have/VB sounded/VBN unduly/RB conservative/JJ when/WRB the/DT interviews/NNS took/VBD place/NN two/CD years/NNS ./.
+the/DT past/JJ 10/CD years/NNS ,/, Hong/NNP Kong/NNP 's/POS economic/JJ growth/NN has/VBZ averaged/VBN 8.3/CD %/NN annually/RB ./.
+Hong/NNP Kong/NNP 's/POS record/NN ,/, Mr./NNP Mushkat/NNP 's/POS ``/`` realists/NNS ''/'' might/MD have/VB sounded/VBN unduly/RB conservative/JJ when/WRB the/DT interviews/NNS took/VBD place/NN two/CD years/NNS ago/IN ./.
 the/DT current/JJ circumstances/NNS ,/, he/PRP says/VBZ ,/, their/PRP$ scenario/NN no/RB longer/RB seems/VBZ unrealistic/JJ ./.
 The/DT city/NN could/MD lose/VB some/DT of/IN its/PRP$ entrepreneurial/JJ flavor/NN ./.
 It/PRP could/MD lose/VB some/DT of/IN its/PRP$ dynamism/NN ,/, ''/'' says/VBZ Mr./NNP Mushkat/NNP ,/, a/DT director/NN of/IN Baring/NNP Securities/NNPS (/( Hong/NNP Kong/NNP )/) Ltd./NNP ,/, a/DT unit/NN of/IN Britain/NNP 's/POS Barings/NNPS PLC/NNP ./.
@@ -52,7 +52,7 @@ It/PRP just/RB means/VBZ that/IN Hong/NNP Kong/NNP would/MD become/VB a/DT less/
 official/JJ forecasts/NNS of/IN GDP/NNP ,/, which/WDT measures/VBZ the/DT colony/NN 's/POS output/NN of/IN goods/NNS and/CC services/NNS ,/, minus/CC foreign/JJ income/NN ,/, Mr./NNP Mushkat/NNP 's/POS ``/`` realists/NNS ''/'' seem/VBP relatively/RB close/RB to/TO the/DT mark/NN ./.
 account/NN  the/DT fallout/NN from/IN the/DT China/NNP crisis/NN ,/, the/DT government/NN has/VBZ projected/VBN 1989/CD GDP/NNP growth/NN of/IN 5/CD %/NN ./.
 The/DT updated/VBN forecast/NN ,/, published/VBN Aug./NNP 25/CD ,/, compares/VBZ with/IN an/DT earlier/JJR forecast/NN of/IN 6/CD %/NN published/VBN March/NNP 1/CD and/CC a/DT 7.4/CD %/NN rate/NN achieved/VBN in/IN====================================== Sir/NNP Piers/NNP Jacobs/NNP ,/, Hong/NNP Kong/NNP 's/POS financial/JJ secretary/NN ,/, says/VBZ a/DT further/RB downward/JJ revision/NN may/MD be/VB justified/VBN unless/IN the/DT economy/NN stages/VBZ a/DT more/RBR convincing/JJ rally/NN ./.
-We/PRP are/VBP n't/RB looking/VBG at/IN anything/NN like/IN a/DT doomsday/NN scenario/NN ,/, ''/'' he/PRP ./.
+We/PRP are/VBP n't/RB looking/VBG at/IN anything/NN like/IN a/DT doomsday/NN scenario/NN ,/, ''/'' he/PRP says/VBZ ./.
 we/PRP 're/VBP entering/VBG a/DT difficult/JJ period/NN ./.
 Many/JJ factors/NNS besides/IN a/DT dread/NN of/IN 1997/CD will/MD have/VB a/DT bearing/NN on/IN Hong/NNP Kong/NNP 's/POS economy/NN ./.
 One/CD concerns/VBZ Japanese/JJ investors/NNS ./.
@@ -69,8 +69,8 @@ Many/DT are/VBP refugees/NNS ,/, having/VBG fled/VBN China/NNP 's/POS unending/J
 a/DT result/NN ,/, many/JJ of/IN those/DT now/RB planning/VBG to/TO leave/VB Hong/NNP Kong/NNP ca/MD n't/RB easily/RB be/VB swayed/VBN by/IN momentary/JJ improvements/NNS in/IN the/DT colony/NN 's/POS political/JJ and/CC economic/JJ climate/NN ./.
 Emigration/NN applications/NNS soared/VBD in/IN 1985/CD ,/, when/WRB Britain/NNP and/CC China/NNP ratified/VBD their/PRP$ accord/NN on/IN Hong/NNP Kong/NNP 's/POS future/NN ./.
 1987/CD ,/, Hong/NNP Kong/NNP 's/POS most/JJS prosperous/JJ year/NN for/IN a/DT decade/NN ,/, 30,000/CD left/VBD ,/, up/IN 58/CD %/NN from/IN the/DT previous/JJ year/NN ./.
-Last/JJ year/NN ,/, 45,000/CD ./.
-The/DT government/NN predicts/VBZ that/IN annual/JJ outflows/NNS will/MD level/VB off/IN over/IN the/DT next/JJ few/JJ years/NNS at/IN as/RB much/JJ as/IN 60,000/CD --/: a/DT projection/NN  that/WDT ./.
+Last/JJ year/NN ,/, 45,000/CD went/VBD ./.
+The/DT government/NN predicts/VBZ that/IN annual/JJ outflows/NNS will/MD level/VB off/IN over/IN the/DT next/JJ few/JJ years/NNS at/IN as/RB much/JJ as/IN 60,000/CD --/: a/DT projection/NN  that/WDT is/VBZ widely/RB regarded/VBN as/RB unrealistically/RB low/JJ ./.
 A/DT large/JJ number/NN of/IN those/DT leaving/VBG are/VBP managers/NNS and/CC professionals/NNS ./.
 no/DT one/NN professes/VBZ to/TO know/VB the/DT exact/JJ cost/NN of/IN such/PDT a/DT ``/`` brain/NN drain/NN ''/'' to/TO the/DT economy/NN ,/, hardly/RB anyone/NN doubts/VBZ that/IN it/PRP poses/VBZ a/DT threat/NN ./.
 the/DT economy/NN loses/VBZ a/DT big/JJ portion/NN of/IN its/PRP$ work/NN force/NN  that/WDT also/RB happens/VBZ to/TO include/VB its/PRP$ most/JJS productive/JJ members/NNS ,/, economic/JJ growth/NN is/VBZ bound/VBN to/TO be/VB affected/VBN ,/, ''/'' says/VBZ Anthong/NNP Wong/NNP ,/, an/DT economist/NN with/IN Hang/NNP Seng/NNP Bank/NNP ./.

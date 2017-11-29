@@ -1,7 +1,7 @@
-Few/JJ people/NNS are/VBP aware/JJ that/IN the/DT federal/JJ government/NN lends/VBZ almost/RB as/IN much/JJ money/NN as/IN it/PRP ./.
+Few/JJ people/NNS are/VBP aware/JJ that/IN the/DT federal/JJ government/NN lends/VBZ almost/RB as/IN much/JJ money/NN as/IN it/PRP borrows/VBZ ./.
 1980/CD to/TO 1988/CD ,/, while/IN federal/JJ budget/NN deficits/NNS totaled/VBD $/$ 1.41/CD trillion/CD ,/, the/DT government/NN issued/VBD $/$ 394/CD billion/CD of/IN new/JJ direct/JJ loans/NNS and/CC an/DT additional/JJ $/$ 756/CD billion/CD of/IN new/JJ primary/JJ loan/NN guarantees/NNS ./.
-These/DT figures/NNS omit/VBP secondary/JJ guarantees/NNS ,/, deposit/NN insurance/NN ,/, and/CC the/DT activities/NNS of/IN Government-Sponsored/NNP Enterprises/NNP (/( a/DT huge/JJ concern/NN in/IN its/PRP$ own/JJ right/NN ,/, as/IN detailed/VBN on/IN this/DT page/NN May/NNP 3/CD ./.
-Federal/JJ credit/NN programs/NNS date/VBP back/RB to/TO the/DT New/NNP Deal/NNP ./.
+These/DT figures/NNS omit/VBP secondary/JJ guarantees/NNS ,/, deposit/NN insurance/NN ,/, and/CC the/DT activities/NNS of/IN Government-Sponsored/NNP Enterprises/NNP (/( a/DT huge/JJ concern/NN in/IN its/PRP$ own/JJ right/NN ,/, as/IN detailed/VBN on/IN this/DT page/NN May/NNP 3/CD )/) ./.
+Federal/JJ credit/NN programs/NNS date/VBP back/RB to/TO the/DT New/NNP Deal/NNP ,/, and/CC were/VBD meant/VBN to/TO break/VB even/RB|JJ financially/RB ./.
 the/DT 1950s/CD ,/, federal/JJ lending/NN has/VBZ experienced/VBN extraordinary/JJ growth/NN in/IN credit/NN volume/NN ,/, subsidy/NN rates/NNS ,/, and/CC policy/NN applications/NNS ,/, spurred/VBN on/RP by/IN the/DT growth/NN of/IN government/NN in/IN general/JJ and/CC budget/NN gimmicks/NNS and/CC deceptive/JJ management/NN in/IN particular/NN ./.
 we/PRP will/MD see/VB ,/, many/JJ of/IN these/DT obligations/NNS do/VBP n't/RB show/VB up/RP as/IN part/NN of/IN the/DT federal/JJ deficit/NN ./.
 recent/JJ events/NNS indicate/VBP that/DT federal/JJ credit/NN is/VBZ out/IN of/IN control/NN ./.
@@ -19,7 +19,7 @@ credit/NN to/TO improve/VB the/DT operation/NN of/IN capital/NN markets/NNS ,/, 
 There/EX is/VBZ a/DT fundamental/JJ conflict/NN between/IN providing/VBG a/DT subsidy/NN and/CC maintaining/VBG the/DT integrity/NN of/IN a/DT credit/NN program/NN ./.
 the/DT program/NN is/VBZ meant/VBN to/TO provide/VB a/DT subsidy/NN ,/, collecting/VBG the/DT debt/NN defeats/VBZ the/DT original/JJ goal/NN ./.
 loans/NNS tend/VBP to/TO turn/VB into/IN giveaway/JJ programs/NNS ,/, with/IN increasing/VBG subsidy/NN and/CC default/NN rates/NNS over/IN time/NN ./.
-this/DT problem/NN ,/, government/NN should/MD issue/VB credit/NN only/RB if/IN it/PRP intends/VBZ to/TO use/VB every/DT legal/JJ method/NN ./.
+this/DT problem/NN ,/, government/NN should/MD issue/VB credit/NN only/RB if/IN it/PRP intends/VBZ to/TO use/VB every/DT legal/JJ method/NN to/TO collect/VB ./.
 contrast/NN ,/, credit/NN programs/NNS can/MD be/VB appropriate/JJ tools/NNS to/TO improve/VB the/DT operation/NN of/IN capital/NN markets/NNS ./.
 example/NN ,/, legal/JJ restrictions/NNS on/IN interstate/JJ banking/NN once/RB inhibited/VBD the/DT supply/NN of/IN credit/NN to/TO the/DT agricultural/JJ sector/NN ./.
 Farm/NN lending/NN was/VBD enacted/VBN to/TO correct/VB this/DT problem/NN by/IN providing/VBG a/DT reliable/JJ flow/NN of/IN lendable/JJ funds/NNS ./.
@@ -27,33 +27,33 @@ this/DT in/IN no/DT way/NN justifies/VBZ the/DT huge/JJ government/NN subsidies/
 Credit/NN policy/NN should/MD separate/VB these/DT two/CD competing/VBG objectives/NNS and/CC eliminate/VB aspects/NNS  that/WDT provide/VBP the/DT subsidy/NN ./.
 example/NN ,/, student/NN loans/NNS currently/RB attempt/VBP to/TO subsidize/VB college/NN attendance/NN and/CC mitigate/VB problems/NNS created/VBN by/IN the/DT fact/NN that/IN students/NNS '/POS future/JJ earnings/NNS are/VBP not/RB accepted/VBN as/IN collateral/NN ./.
 The/DT program/NN provides/VBZ highly/RB subsidized/JJ loans/NNS to/TO any/DT student/NN  whose/WP$ family/NN earns/VBZ less/JJR than/IN a/DT particular/JJ amount/NN ./.
-High/JJ default/NN rates/NNS ,/, a/DT low/JJ interest/NN rate/NN ,/, and/CC government/NN coverage/NN of/IN all/DT interest/NN costs/NNS while/IN the/DT student/NN is/VBZ in/IN school/NN make/VBP program/NN costs/NNS ./.
+High/JJ default/NN rates/NNS ,/, a/DT low/JJ interest/NN rate/NN ,/, and/CC government/NN coverage/NN of/IN all/DT interest/NN costs/NNS while/IN the/DT student/NN is/VBZ in/IN school/NN make/VBP program/NN costs/NNS extremely/RB high/JJ ./.
 Families/NNS  that/WDT do/VBP not/RB need/VB the/DT loan/NN can/MD make/VB money/NN simply/RB by/IN putting/VBG the/DT loan/NN in/IN the/DT bank/NN and/CC paying/VBG it/PRP back/RP when/WRB the/DT student/NN graduates/VBZ ./.
 contrast/NN ,/, a/DT student/NN loan/NN program/NN  that/WDT was/VBD meant/VBN solely/RB to/TO correct/VB capital-market/JJ imperfections/NNS would/MD allow/VB loans/NNS for/IN any/DT student/NN ,/, regardless/RB of/IN family/NN income/NN ,/, at/IN market/NN or/CC near-market/JJ rates/NNS ./.
 the/DT student/NN was/VBD in/IN school/NN ,/, interest/NN costs/NNS would/MD either/RB be/VB paid/VBN by/IN the/DT student/NN or/CC added/VBN to/TO the/DT loan/NN balance/NN ./.
 This/DT program/NN ,/, combined/VBN with/IN cash/NN grants/NNS to/TO needy/JJ students/NNS ,/, would/MD reduce/VB program/NN costs/NNS and/CC much/RB more/RBR effectively/RB target/VB the/DT intended/JJ beneficiaries/NNS ./.
 2/LS ./.
 better/JJR incentives/NNS ./.
-the/DT structure/NN of/IN most/JJS credit/NN programs/NNS ,/, it/PRP is/VBZ surprising/JJ that/IN default/NN rates/NNS ./.
-Guarantee/NN rates/NNS are/VBP typically/RB 100/CD %/NN ,/, giving/VBG lenders/NNS little/JJ reason/NN to/TO screen/NN customers/NNS ./.
+the/DT structure/NN of/IN most/JJS credit/NN programs/NNS ,/, it/PRP is/VBZ surprising/JJ that/IN default/NN rates/NNS are/VBP not/RB even/RB higher/JJR ./.
+Guarantee/NN rates/NNS are/VBP typically/RB 100/CD %/NN ,/, giving/VBG lenders/NNS little/JJ reason/NN to/TO screen/NN customers/NNS carefully/RB ./.
 those/DT rates/NNS moderately/RB (/( say/UH ,/, to/TO 75/CD %/NN )/) would/MD still/RB provide/VB substantial/JJ assistance/NN to/TO borrowers/NNS ./.
 it/PRP would/MD also/RB encourage/VB lenders/NNS to/TO choose/VB more/RBR creditworthy/NN customers/NNS ,/, and/CC go/VB a/DT long/JJ way/NN toward/IN reducing/VBG defaults/NNS ./.
 example/NN ,/, the/DT Small/NNP Business/NNP Administration/NNP has/VBZ had/VBD reasonable/JJ success/NN in/IN reducing/VBG both/DT guarantee/NN rates/NNS and/CC default/NN rates/NNS in/IN its/PRP$ Preferred/NNP Lenders/NNP '/POS Program/NNP ./.
-Borrowers/NNS '/POS incentives/NNS ./.
-the/DT government/NN has/VBZ a/DT dismal/JJ record/NN of/IN collecting/VBG bad/JJ debts/NNS ,/, the/DT costs/NNS to/TO the/DT borrower/NN ./.
-addition/NN ,/, it/PRP is/VBZ often/RB possible/JJ to/TO obtain/VB a/DT new/JJ government/NN loan/NN even/RB if/IN existing/JJ debts/NNS ./.
+Borrowers/NNS '/POS incentives/NNS are/VBP equally/RB skewed/JJ ./.
+the/DT government/NN has/VBZ a/DT dismal/JJ record/NN of/IN collecting/VBG bad/JJ debts/NNS ,/, the/DT costs/NNS to/TO the/DT borrower/NN of/IN defaulting/VBG are/VBP usually/RB low/JJ ./.
+addition/NN ,/, it/PRP is/VBZ often/RB possible/JJ to/TO obtain/VB a/DT new/JJ government/NN loan/NN even/RB if/IN existing/JJ debts/NNS are/VBP not/RB paid/VBN off/RP ./.
 Simple/NN policy/NN prescriptions/NNS in/IN this/DT case/NN would/MD be/VB to/TO improve/VB debt/NN collection/NN (/( taking/VBG the/DT gloves/NNS off/RP contracted/VBN collection/NN agencies/NNS )/) and/CC to/TO deny/VB new/JJ credit/NN to/TO defaulters/NNS ./.
 These/DT provisions/NNS would/MD be/VB difficult/JJ to/TO enforce/VB for/IN a/DT program/NN intended/VBN to/TO provide/VB a/DT subsidy/NN ,/, but/CC would/MD be/VB reasonable/JJ and/CC effective/JJ devices/NNS for/IN programs/NNS  that/WDT attempt/VBP to/TO offset/VB market/NN imperfections/NNS ./.
 3/LS ./.
 the/DT true/JJ costs/NNS of/IN credit/NN programs/NNS in/IN the/DT federal/JJ budget/NN ./.
-the/DT budget/NN measures/VBZ cash/NN flow/NN ,/, a/DT new/JJ $/$ 1/CD direct/JJ loan/NN is/VBZ treated/VBN as/IN a/DT $/$ 1/CD expenditure/NN ,/, even/RB though/IN at/IN least/JJS part/NN of/IN the/DT loan/NN ./.
+the/DT budget/NN measures/VBZ cash/NN flow/NN ,/, a/DT new/JJ $/$ 1/CD direct/JJ loan/NN is/VBZ treated/VBN as/IN a/DT $/$ 1/CD expenditure/NN ,/, even/RB though/IN at/IN least/JJS part/NN of/IN the/DT loan/NN will/MD be/VB paid/VBN back/RP ./.
 Loan/NN guarantees/NNS do/VBP n't/RB appear/VB at/IN all/DT until/IN the/DT borrower/NN defaults/NNS ,/, so/RB new/JJ guarantees/NNS do/VBP not/RB raise/VB the/DT deficit/NN ,/, even/RB though/IN they/PRP create/VBP future/JJ liabilities/NNS for/IN the/DT government/NN ./.
 an/DT expenditure/NN or/CC loan/NN to/TO a/DT guarantee/NN ,/, the/DT government/NN can/MD ensure/VB the/DT same/JJ flow/NN of/IN resources/NNS and/CC reduce/VB the/DT current/JJ deficit/NN ./.
 outstanding/JJ have/VBP risen/VBN by/IN $/$ 130/CD billion/CD since/IN 1985/CD ,/, while/IN direct/JJ loans/NNS outstanding/JJ have/VBP fallen/VBN by/IN $/$ 30/CD billion/CD ./.
 The/DT true/JJ budgetary/JJ cost/NN of/IN a/DT credit/NN subsidy/NN is/VBZ the/DT discounted/JJ value/NN of/IN the/DT net/JJ costs/NNS to/TO government/NN ./.
-This/DT figure/NN could/MD be/VB estimated/VBN using/VBG techniques/NNS employed/VBN by/IN private/JJ lenders/NNS to/TO forecast/VB losses/NNS ,/, or/CC determined/VBN by/IN selling/VBG loans/NNS to/TO private/JJ owners/NNS (/( without/IN federal/JJ guarantees/NNS ./.
+This/DT figure/NN could/MD be/VB estimated/VBN using/VBG techniques/NNS employed/VBN by/IN private/JJ lenders/NNS to/TO forecast/VB losses/NNS ,/, or/CC determined/VBN by/IN selling/VBG loans/NNS to/TO private/JJ owners/NNS (/( without/IN federal/JJ guarantees/NNS )/) ./.
 technique/NN is/VBZ perfect/JJ ,/, but/CC both/DT are/VBP better/JJR than/IN the/DT current/JJ system/NN ,/, which/WDT misstates/VBZ the/DT costs/NNS of/IN new/JJ credit/NN programs/NNS by/IN amounts/NNS  that/WDT vary/VBP substantially/RB and/CC average/VBP about/RB $/$ 20/CD billion/CD annually/RB ,/, according/VBG to/TO the/DT Congressional/NNP Budget/NNP Office/NNP ./.
-A/DT budget/NN  that/WDT reflected/VBD the/DT real/JJ costs/NNS of/IN lending/NN would/MD eliminate/VB incentives/NNS to/TO convert/VB spending/NN or/CC lending/NN programs/NNS to/TO guarantees/NNS and/CC would/MD let/VB taxpayers/NNS know/VB what/WP  Congress/NNP is/VBZ committing/VBG them/PRP ./.
+A/DT budget/NN  that/WDT reflected/VBD the/DT real/JJ costs/NNS of/IN lending/NN would/MD eliminate/VB incentives/NNS to/TO convert/VB spending/NN or/CC lending/NN programs/NNS to/TO guarantees/NNS and/CC would/MD let/VB taxpayers/NNS know/VB what/WP  Congress/NNP is/VBZ committing/VBG them/PRP to/TO ./.
 4/LS ./.
 standard/JJ accounting/NN and/CC administrative/JJ practices/NNS ./.
 Creative/JJ accounting/NN is/VBZ a/DT hallmark/NN of/IN federal/JJ credit/NN ./.

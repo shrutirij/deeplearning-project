@@ -8,7 +8,7 @@ Sales/NNS in/IN the/DT latest/JJS period/NN edged/VBD up/IN to/TO $/$ 295.7/CD m
 Mr./NNP Schwartz/NNP said/VBD the/DT recent/JJ increase/NN in/IN orders/NNS ``/`` puts/VBZ us/PRP well/RB on/IN the/DT way/NN to/TO our/PRP$ goal/NN of/IN $/$ 1.6/CD billion/CD in/IN bookings/NNS for/IN the/DT year/NN ./.
 He/PRP added/VBD :/: ``/`` I/PRP expect/VBP to/TO see/VB the/DT earnings/NNS momentum/NN  we/PRP experienced/VBD this/DT quarter/NN continue/VB for/IN the/DT rest/NN of/IN the/DT year/NN ./.
 Loral/NNP said/VBD it/PRP expects/VBZ sales/NNS to/TO accelerate/VB in/IN both/PDT  the/DT third/JJ and/CC fourth/JJ quarters/NNS of/IN this/DT fiscal/JJ year/NN ./.
-Loral/NNP  's/POS profit/NN from/IN continuing/VBG operations/NNS for/IN the/DT first/JJ six/CD months/NNS of/IN fiscal/JJ 1990/CD was/VBD $/$ 36.4/CD million/CD ,/, or/CC $/$ 1.44/CD  a/DT share/NN ,/, up/IN 31/CD %/NN from/IN $/$ 27.8/CD million/CD ,/, or/CC $/$ 1.11/CD  a/DT share/NN ,/, a/DT year/NN ./.
+Loral/NNP  's/POS profit/NN from/IN continuing/VBG operations/NNS for/IN the/DT first/JJ six/CD months/NNS of/IN fiscal/JJ 1990/CD was/VBD $/$ 36.4/CD million/CD ,/, or/CC $/$ 1.44/CD  a/DT share/NN ,/, up/IN 31/CD %/NN from/IN $/$ 27.8/CD million/CD ,/, or/CC $/$ 1.11/CD  a/DT share/NN ,/, a/DT year/NN earlier/RBR ./.
 Net/JJ income/NN fell/VBD 8.6/CD %/NN to/TO $/$ 37.1/CD million/CD ,/, or/CC $/$ 1.43/CD  a/DT share/NN ,/, from/IN $/$ 40.6/CD million/CD ,/, or/CC $/$ 1.56/CD  a/DT share/NN ./.
 Fiscal/JJ first-half/NN sales/NNS slipped/VBD 3.9/CD %/NN to/TO $/$ 528.4/CD million/CD from/IN $/$ 549.9/CD million/CD ./.
 Bookings/NNS for/IN the/DT first/JJ  half/DT totaled/VBD $/$ 813/CD million/CD ,/, compared/VBN with/IN the/DT $/$ 432/CD million/CD recorded/VBN last/JJ year/NN ./.

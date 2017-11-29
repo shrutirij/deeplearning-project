@@ -6,7 +6,7 @@ He/PRP said/VBD he/PRP believes/VBZ the/DT bank/NN loan/NN ,/, to/TO be/VB arran
 British/NNP Satellite/NNP ,/, which/WDT already/RB has/VBZ raised/VBN #/# 423.5/CD million/CD from/IN 10/CD backers/NNS ,/, initially/RB expected/VBD to/TO seek/VB an/DT additional/JJ #/# 400/CD million/CD ./.
 Mr./NNP Simonds-Gooding/NNP said/VBD the/DT additional/JJ financing/NN may/MD leave/VB British/NNP Satellite/NNP owned/VBN by/IN about/RB 20/CD investors/NNS ,/, including/VBG Australian/JJ entrepreneur/NN Alan/NNP Bond/NNP ,/, whose/WP$ nearly/RB 36/CD %/NN stake/NN would/MD be/VB reduced/VBN to/TO as/RB little/JJ as/IN 20/CD %/NN ./.
 Bond/NNP Corp./NNP ,/, British/NNP Satellite/NNP 's/POS biggest/JJS investor/NN ,/, would/MD like/VB to/TO withdraw/VB from/IN the/DT satellite-TV/JJ consortium/NN ,/, and/CC analysts/NNS have/VBP speculated/VBN Hollywood/NNP studios/NNS might/MD buy/VB the/DT Bond/NNP stake/NN ./.
-Mr./NNP Simonds-Gooding/NNP said/VBD he/PRP is/VBZ n't/RB talking/VBG to/TO any/DT studios/NNS ./.
+Mr./NNP Simonds-Gooding/NNP said/VBD he/PRP is/VBZ n't/RB talking/VBG to/TO any/DT studios/NNS about/IN investing/VBG|NN ./.
 Bond/NNP Corp./NNP ,/, British/NNP Satellite/NNP 's/POS other/JJ backers/NNS include/VBP Pearson/NNP PLC/NNP ,/, Reed/NNP International/NNP PLC/NNP and/CC Granada/NNP Group/NNP PLC/NNP ./.
 The/DT consortium/NN faced/VBD a/DT setback/NN in/IN May/NNP when/WRB technical/JJ problems/NNS forced/VBD it/PRP to/TO postpone/VB the/DT September/NNP launch/NN until/IN next/JJ spring/NN ./.
 uncertainty/NN about/IN the/DT timing/NN of/IN the/DT consortium/NN 's/POS debut/NN could/MD make/VB it/PRP hard/JJ to/TO find/VB a/DT #/# 450/CD million/CD cash/NN injection/NN ./.

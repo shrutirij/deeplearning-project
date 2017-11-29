@@ -1,6 +1,6 @@
 Program/NN trading/NN on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP in/IN September/NNP rose/VBD to/TO its/PRP$ highest/JJS recorded/VBN level/NN as/IN a/DT percentage/NN of/IN total/JJ monthly/JJ trading/NN volume/NN ./.
 September/NNP program/NN trading/NN amounted/VBD to/TO 13.8/CD %/NN of/IN average/JJ daily/JJ New/NNP York/NNP Stock/NNP Exchange/NNP volume/NN of/IN 151.8/CD million/CD shares/NNS ,/, the/DT largest/JJS percentage/NN since/IN the/DT exchange/NN began/VBD making/VBG such/JJ figures/NNS public/JJ in/IN July/NNP 1988/CD ./.
-A/DT daily/JJ average/NN of/IN 20.9/CD million/CD shares/NNS traded/VBN in/IN program/NN strategies/NNS in/IN September/NNP ,/, the/DT second-highest/JJ level/NN ./.
+A/DT daily/JJ average/NN of/IN 20.9/CD million/CD shares/NNS traded/VBN in/IN program/NN strategies/NNS in/IN September/NNP ,/, the/DT second-highest/JJ level/NN ever/RB ./.
 The/DT highest/JJS level/NN was/VBD in/IN June/NNP 1989/CD ,/, when/WRB a/DT daily/JJ average/NN of/IN 22.1/CD million/CD shares/NNS traded/VBD in/IN program/NN strategies/NNS ./.
 Average/JJ daily/JJ trading/NN volume/NN in/IN June/NNP of/IN 180.3/CD million/CD shares/NNS was/VBD considerably/RB higher/JJR than/IN in/IN September/NNP ./.
 Program/NN trading/NN amounted/VBD to/TO 12.3/CD %/NN of/IN average/JJ daily/JJ volume/NN in/IN June/NNP ./.

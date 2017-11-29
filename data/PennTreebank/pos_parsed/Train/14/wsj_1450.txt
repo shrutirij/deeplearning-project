@@ -5,7 +5,7 @@ The/DT business/NN closed/VBD when/WRB the/DT owner/NN was/VBD murdered/VBN by/I
 The/DT owner/NN was/VBD Israel/NNP Ortiz/NNP ,/, a/DT 29-year-old/JJ entrepreneur/NN and/CC father/NN of/IN two/CD ./.
 his/PRP$ first/JJ year/NN of/IN operating/VBG the/DT store/NN  he/PRP bought/VBD for/IN $/$ 220,000/CD ,/, Mr./NNP Ortiz/NNP was/VBD robbed/VBN at/IN least/RBS twice/RB at/IN gunpoint/NN ./.
 The/DT first/JJ time/NN  he/PRP was/VBD shot/VBN in/IN the/DT hand/NN as/IN he/PRP chased/VBD the/DT robbers/NNS outside/RB ./.
-The/DT second/JJ time/NN  he/PRP identified/VBD two/CD robbers/NNS ,/, who/WP ./.
+The/DT second/JJ time/NN  he/PRP identified/VBD two/CD robbers/NNS ,/, who/WP were/VBD arrested/VBN and/CC charged/VBN ./.
 Two/CD weeks/NNS later/RB --/: perhaps/RB in/IN retaliation/NN --/: Mr./NNP Ortiz/NNP was/VBD shot/VBN three/CD times/NNS in/IN the/DT back/NN ,/, during/IN what/WP police/NNS classified/VBD as/IN a/DT third/JJ robbery/NN attempt/NN ./.
 That/DT was/VBD his/PRP$ reward/NN for/IN working/VBG until/IN 11/CD p.m./RB seven/CD days/NNS  a/DT week/NN to/TO cover/VB his/PRP$ $/$ 3,000/CD  a/DT month/NN rent/NN ./.
 what/WP  his/PRP$ customers/NNS described/VBD as/IN very/RB personal/JJ and/CC helpful/JJ service/NN ./.
@@ -19,8 +19,8 @@ no/DT means/NN  the/DT highest/JJS crime/NN community/NN in/IN the/DT country/NN
 A/DT survey/NN of/IN small/JJ businesses/NNS there/RB was/VBD conducted/VBN this/DT spring/NN by/IN Interface/NNP ,/, a/DT policy/NN research/NN organization/NN ./.
 It/PRP gave/VBD 1,124/CD businesses/NNS  a/DT questionnaire/NN and/CC analyzed/VBD 353/CD responses/NNS ./.
 The/DT survey/NN found/VBD that/IN over/IN a/DT three-year/JJ period/NN 22/CD %/NN of/IN the/DT firms/NNS said/VBD employees/NNS or/CC owners/NNS had/VBD been/VBN robbed/VBN on/IN their/PRP$ way/NN to/TO or/CC from/IN work/NN or/CC while/NN on/IN the/DT job/NN ./.
-Seventeen/CD percent/NN reported/VBD their/PRP$ customers/NNS ./.
-Crime/NN was/VBD the/DT reason/NN that/IN 26/CD %/NN reported/VBD difficulty/NN recruiting/VBG personnel/NNS and/CC that/DT 19/CD %/NN said/VBD they/PRP ./.
+Seventeen/CD percent/NN reported/VBD their/PRP$ customers/NNS being/VBG robbed/VBN ./.
+Crime/NN was/VBD the/DT reason/NN that/IN 26/CD %/NN reported/VBD difficulty/NN recruiting/VBG personnel/NNS and/CC that/DT 19/CD %/NN said/VBD they/PRP were/VBD considering/VBG moving/VBG ./.
 one-third/NN of/IN the/DT responding/VBG businesses/NNS said/VBD they/PRP suffer/VBP from/IN drug/NN dealing/NN and/CC loitering/NN near/IN their/PRP$ premises/NNS ./.
 Brooklyn/NNP and/CC the/DT Bronx/NNP ,/, one/CD out/IN of/IN four/CD commercial/JJ firms/NNS is/VBZ burglarized/VBN each/DT year/NN ./.
 Industrial/JJ neighborhoods/NNS fare/VBP even/RB worse/RBR ,/, with/IN burglary/NN rates/NNS twice/JJ the/DT citywide/JJ average/NN ./.
@@ -48,7 +48,7 @@ One/CD is/VBZ that/IN there/EX are/VBP not/RB enough/JJ police/NN to/TO satisfy/
 The/DT number/NN one/CD proposal/NN for/IN reducing/VBG crime/NN in/IN the/DT New/NNP York/NNP survey/NN was/VBD to/TO put/VB more/JJR police/NNS on/IN foot/NN or/CC scooter/NN patrol/NN ,/, suggested/VBN by/IN more/JJR than/IN two-thirds/NNS of/IN the/DT respondents/NNS ./.
 22/CD %/NN supported/VBD private/JJ security/NN patrols/NNS funded/VBN by/IN the/DT merchants/NNS themselves/PRP ./.
 A/DT second/JJ problem/NN is/VBZ the/DT persistent/JJ frustration/NN of/IN false/JJ alarms/NNS ,/, which/WDT can/MD make/VB urban/JJ police/NNS less/RBR than/IN enthusiastic/JJ about/IN responding/VBG to/TO calls/NNS from/IN small/JJ businesses/NNS ./.
-half/PDT the/DT New/NNP York/NNP small/JJ businesses/NNS surveyed/VBN ,/, for/IN their/PRP$ part/NN ,/, are/VBP satisfied/JJ with/IN the/DT police/NN response/NN  they/PRP ./.
+half/PDT the/DT New/NNP York/NNP small/JJ businesses/NNS surveyed/VBN ,/, for/IN their/PRP$ part/NN ,/, are/VBP satisfied/JJ with/IN the/DT police/NN response/NN  they/PRP receive/VBP ./.
 Some/DT cities/NNS ,/, including/VBG New/NNP York/NNP ,/, have/VBP experimented/VBN with/IN special/JJ tax/NN districts/NNS for/IN commercial/JJ areas/NNS  that/WDT provide/VBP additional/JJ patrols/NNS funded/VBN by/IN local/JJ businesses/NNS ./.
 this/DT raises/VBZ added/VBN cost/NN barriers/NNS to/TO urban/JJ entrepreneurship/NN ./.
 Another/DT solution/NN cities/NNS might/MD consider/VB is/VBZ giving/VBG special/JJ priority/NN to/TO police/NN patrols/NNS of/IN small-business/NN areas/NNS ./.
@@ -59,4 +59,4 @@ Small-business/NN patrols/NNS would/MD be/VB an/DT especially/RB helpful/JJ gest
 no/DT guarantee/NN ,/, an/DT increased/VBN police/NN presence/NN might/MD even/RB deter/VB further/JJ attacks/NNS ./.
 It/PRP might/MD even/RB have/VB saved/VBN the/DT life/NN ,/, and/CC business/NN ,/, of/IN Israel/NNP Ortiz/NNP ./.
 Mr./NNP Sherman/NNP is/VBZ a/DT professor/NN of/IN criminology/NN at/IN the/DT University/NNP of/IN Maryland/NNP and/CC president/NN of/IN the/DT Crime/NNP Control/NNP Institute/NNP in/IN Washington/NNP ,/, D.C/NNP ./.
-story/NN :/: ``/`` Commercial/JJ Oases/NNS in/IN the/DT Inner/JJ City/NN ''/'' --/: WSJ/NNP Oct./NNP 23/CD ,/, 1989/CD )/)======================================./.
+story/NN :/: ``/`` Commercial/JJ Oases/NNS in/IN the/DT Inner/JJ City/NN ''/'' --/: WSJ/NNP Oct./NNP 23/CD ,/, 1989/CD )/)======================================

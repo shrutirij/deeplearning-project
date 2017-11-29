@@ -14,6 +14,6 @@ It/PRP said/VBD yesterday/NN it/PRP still/RB expects/VBZ to/TO close/VB the/DT a
 Florida/NNP National/NNP ,/, if/IN acquired/VBN ,/, would/MD almost/RB double/VB First/NNP Union/NNP 's/POS banking/VBG franchise/NN in/IN Florida/NNP to/TO $/$ 17/CD billion/CD in/IN assets/NNS ./.
 That/DT would/MD make/VB it/PRP  the/DT second-largest/JJ bank/NN ,/, after/IN Barnett/NNP Banks/NNP Inc./NNP ,/, in/IN a/DT state/NN widely/RB considered/VBN to/TO be/VB the/DT most/RBS lucrative/JJ banking/NN market/NN in/IN the/DT country/NN ./.
 New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ,/, First/NNP Union/NNP shares/NNS rose/VBD 25/CD cents/NNS to/TO $/$ 23/CD ./.
-Florida/NNP National/NNP stock/NN closed/VBD unchanged/JJ at/IN $/$ 25.875/CD in/IN national/JJ over-the-counter/JJ ./.
+Florida/NNP National/NNP stock/NN closed/VBD unchanged/JJ at/IN $/$ 25.875/CD in/IN national/JJ over-the-counter/JJ trading/NN ./.
 this/DT year/NN ,/, the/DT Fed/NNP denied/VBD an/DT application/NN by/IN Continental/NNP Bank/NNP Corp./NNP to/TO purchase/VB Grand/NNP Canyon/NNP State/NNP Bank/NNP in/IN Scottsdale/NNP ,/, Ariz./NNP ,/, on/IN grounds/NNS that/IN Continental/NNP had/VBD n't/RB fully/RB complied/VBN with/IN the/DT Community/NNP Reinvestment/NNP Act/NNP ./.
 the/DT time/NN ,/, the/DT Fed/NNP said/VBD the/DT denial/NN ,/, the/DT first/JJ ever/RB on/IN such/JJ grounds/NNS ,/, signaled/VBD the/DT agency/NN 's/POS new/JJ emphasis/NN on/IN the/DT Community/NNP Reinvestment/NNP Act/NNP ./.

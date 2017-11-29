@@ -26,9 +26,9 @@ Polished/JJ hooves/NNS ,/, fancy/JJ turf/NN ,/, fat/JJ purses/NNS --/: the/DT ho
 Sunday/NNP ,/, Nov./NNP 5/CD ,/, 10:30/CD a.m.-1:30/CD p.m./NN EST/NNP ,/, on/IN ABC/NNP :/: New/NNP York/NNP City/NNP Marathon/NNP ./.
 Shiny/NNP Nikes/NNPS ,/, cracked/VBN cement/NN ,/, media/NNS  glory/NN --/: the/DT foot/NN race/NN of/IN the/DT year/NN ./.
 Sunday/NNP ,/, Nov./NNP 5/CD ,/, 8-9/CD p.m./NN EST/NNP ,/, on/IN TNT/NNP :/: ``/`` Gary/NNP Cooper/NNP :/: American/NNP Life/NNP ,/, American/NNP Legend/NNP ./.
-I/PRP 've/VBP seen/VBN a/DT great/JJ many/JJ moviestar/NN film/NN portraits/NNS ,/, and/CC this/DT one/CD ./.
+I/PRP 've/VBP seen/VBN a/DT great/JJ many/JJ moviestar/NN film/NN portraits/NNS ,/, and/CC this/DT one/CD is/VBZ outstanding/JJ ./.
 Sundays/NNPS ,/, Nov./NNP 5-12/CD ,/, 9-10:30/CD p.m./NN EST/NNP ,/, on/IN PBS/NNP :/: ``/`` Glory/NNP Enough/NNP for/IN All/NNP ./.
-Masterpiece/NNP Theatre/NNP ''/'' make/VB a/DT compelling/JJ human/JJ story/NN out/IN of/IN the/DT discovery/NN of/IN insulin/NN ?/. This/DT earthy/JJ ,/, amusing/JJ film/NN answers/NNS with/IN a/DT resounding/JJ ./.
+Masterpiece/NNP Theatre/NNP ''/'' make/VB a/DT compelling/JJ human/JJ story/NN out/IN of/IN the/DT discovery/NN of/IN insulin/NN ?/. This/DT earthy/JJ ,/, amusing/JJ film/NN answers/NNS with/IN a/DT resounding/JJ ``/`` yes/RB ./.
 Sunday/NNP and/CC Monday/NNP ,/, Nov./NNP 5/CD and/CC 6/CD ,/, 9-11/CD p.m./NN EST/NNP ,/, on/IN NBC/NNP :/: ``/`` Cross/NNP of/IN Fire/NNP ./.
 The/DT Ku/NNP Klux/NNP Klan/NNP was/VBD revived/VBN in/IN the/DT 1920s/CD as/IN a/DT national/JJ organization/NN aimed/VBN at/IN Catholics/NNPS and/CC Jews/NNPS as/RB well/RB as/IN blacks/NNS ./.
 One/CD reason/NN for/IN its/PRP$ downfall/NN was/VBD the/DT murder/NN trial/NN of/IN D.C./NNP Stephenson/NNP ,/, an/DT Indiana/NNP leader/NN  whose/WP$ reckless/JJ career/NN is/VBZ depicted/VBN in/IN this/DT film/NN starring/VBG Mel/NNP Harris/NNP (/( ``/`` thirtysomething/NNP ''/'' )/) and/CC John/NNP Heard/NNP ./.

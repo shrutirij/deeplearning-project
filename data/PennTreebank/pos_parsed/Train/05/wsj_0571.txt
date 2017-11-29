@@ -5,10 +5,10 @@ The/DT British/JJ press/NN ,/, making/VBG a/DT mountain/NN out/IN of/IN a/DT mol
 the/DT silly/JJ posturing/NN lies/VBZ a/DT real/JJ dispute/NN ./.
 Mr./NNP Lawson/NNP and/CC his/PRP$ European-minded/JJ colleagues/NNS want/VBP the/DT British/JJ pound/NN formally/RB tied/VBN to/TO the/DT West/JJ German/JJ mark/NN ./.
 Sir/NNP Alan/NNP considers/VBZ this/DT an/DT ill-advised/JJ and/CC costly/JJ policy/NN ./.
-there/EX is/VBZ an/DT effort/NN to/TO ``/`` anchor/VB the/DT dollar/NN ''/'' either/CC to/TO gold/NN or/CC other/JJ currencies/NNS ,/, the/DT dispute/NN is/VBZ worth/JJ ./.
+there/EX is/VBZ an/DT effort/NN to/TO ``/`` anchor/VB the/DT dollar/NN ''/'' either/CC to/TO gold/NN or/CC other/JJ currencies/NNS ,/, the/DT dispute/NN is/VBZ worth/JJ examining/VBG ./.
 his/PRP$ resignation/NN ,/, Mr./NNP Lawson/NNP had/VBD been/VBN conducting/VBG British/JJ monetary/JJ policy/NN as/IN if/IN the/DT pound/NN were/VBD tied/VBN to/TO the/DT mark/NN ./.
 Mrs./NNP Thatcher/NNP cut/VBD the/DT top/JJ tax/NN rate/NN to/TO 40/CD %/NN ,/, Mr./NNP Lawson/NNP flooded/VBD the/DT country/NN with/IN money/NN to/TO prevent/VB the/DT pound/NN from/IN rising/VBG against/IN the/DT mark/NN ./.
-a/DT result/NN ,/, he/PRP reignited/VBD the/DT inflation/NN that/IN Mrs./NNP Thatcher/NNP ,/, through/IN a/DT long/JJ and/CC costly/JJ effort/NN ./.
+a/DT result/NN ,/, he/PRP reignited/VBD the/DT inflation/NN that/IN Mrs./NNP Thatcher/NNP ,/, through/IN a/DT long/JJ and/CC costly/JJ effort/NN ,/, had/VBD subdued/VBN ./.
 inflation/NN surging/VBG ,/, the/DT pound/NN began/VBD falling/VBG against/IN the/DT mark/NN ./.
 the/DT exchange/NN rate/NN pegged/VBD ,/, Mr./NNP Lawson/NNP tightened/VBD monetary/JJ policy/NN and/CC pushed/VBD interest/NN rates/NNS up/RB to/TO 15/CD %/NN ./.
 This/DT doubled/VBD the/DT mortgage/NN interest/NN rates/NNS of/IN the/DT many/JJ new/JJ homeowners/NNS that/IN Mrs./NNP Thatcher/NNP 's/POS policies/NNS had/VBD created/VBN ,/, producing/VBG widespread/JJ disaffection/NN and/CC pushing/VBG Labor/NN ahead/RB in/IN the/DT polls/NNS ./.
@@ -37,6 +37,6 @@ This/DT policy/NN is/VBZ totally/RB mindless/JJ ,/, and/CC Sir/NNP Alan/NNP is/V
 Britain/NNP and/CC all/DT of/IN Europe/NNP need/VBP to/TO reconsider/VB the/DT prospects/NNS for/IN European/JJ integration/NN in/IN light/NN of/IN the/DT possible/JJ reunification/NN and/CC neutralization/NN of/IN Germany/NNP ./.
 A/DT unified/VBN Germany/NNP  that/WDT remained/VBD within/IN the/DT Western/JJ alliance/NN would/MD give/VB Germany/NNP such/PDT an/DT overshadowing/VBG position/NN that/IN all/DT other/JJ members/NNS of/IN a/DT unified/VBN Europe/NNP would/MD become/VB vassals/NNS of/IN the/DT German/JJ state/NN ./.
 Unless/IN  the/DT Soviet/NNP Union/NNP collapses/VBZ ,/, German/JJ reunification/NN is/VBZ likely/JJ to/TO require/VB Germany/NNP 's/POS neutralization/NN ./.
-The/DT implications/NNS for/IN Britain/NNP ,/, France/NNP and/CC the/DT rest/NN of/IN Europe/NNP of/IN having/VBG their/PRP$ currencies/NNS tied/VBN to/TO the/DT economic/JJ policy/NN of/IN a/DT neutral/JJ country/NN need/VBP considering/VBG before/IN we/PRP judge/VBP Mr./NNP Lawson/NNP 's/POS resignation/NN ./.
+The/DT implications/NNS for/IN Britain/NNP ,/, France/NNP and/CC the/DT rest/NN of/IN Europe/NNP of/IN having/VBG their/PRP$ currencies/NNS tied/VBN to/TO the/DT economic/JJ policy/NN of/IN a/DT neutral/JJ country/NN need/VBP considering/VBG before/IN we/PRP judge/VBP Mr./NNP Lawson/NNP 's/POS resignation/NN to/TO be/VB unfortunate/JJ ./.
 the/DT least/JJS ,/, we/PRP must/MD recognize/VB the/DT futility/NN of/IN trying/VBG to/TO use/VB exchange-rate/JJ intervention/NN to/TO offset/VB the/DT effects/NNS of/IN tax-rate/JJ reduction/NN on/IN capital/NN flows/NNS ./.
 Mr./NNP Roberts/NNP was/VBD assistant/JJ Treasury/NNP secretary/NN under/IN President/NNP Reagan/NNP ./.

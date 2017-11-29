@@ -5,8 +5,8 @@ contrast/NN ,/, an/DT investor/NN holding/VBG the/DT Dow/NNP Jones/NNP portfolio
 Accepted/JJ theories/NNS of/IN asset/NN pricing/NN offer/VBP a/DT perfectly/RB legitimate/JJ explanation/NN ./.
 Accepted/JJ theories/NNS state/VBP that/IN investors/NNS require/VBP higher/JJR returns/NNS on/IN riskier/JJR investments/NNS ./.
 the/DT excess/JJ returns/NNS to/TO the/DT pro-selected/JJ portfolio/NN as/IN being/VBG abnormal/JJ ,/, I/PRP see/VBP those/DT returns/NNS as/IN simply/RB compensations/NNS for/IN taking/VBG on/IN added/VBN risk/NN ./.
-I/PRP believe/VBP the/DT risk/NN for/IN each/DT individual/JJ stock/NN selected/VBN by/IN your/PRP$ pros/NNS ./.
-you/PRP asked/VBD me/PRP to/TO select/VB a/DT stock/NN with/IN the/DT highest/JJS expected/JJ return/NN ,/, I/PRP would/MD select/VB a/DT stock/NN with/IN the/DT greatest/JJS amount/NN of/IN undiversifiable/JJ risk/NN ,/, as/IN I/PRP am/VBP sure/RB your/PRP$ pros/NNS ./.
+I/PRP believe/VBP the/DT risk/NN for/IN each/DT individual/JJ stock/NN selected/VBN by/IN your/PRP$ pros/NNS is/VBZ very/RB large/JJ ./.
+you/PRP asked/VBD me/PRP to/TO select/VB a/DT stock/NN with/IN the/DT highest/JJS expected/JJ return/NN ,/, I/PRP would/MD select/VB a/DT stock/NN with/IN the/DT greatest/JJS amount/NN of/IN undiversifiable/JJ risk/NN ,/, as/IN I/PRP am/VBP sure/RB your/PRP$ pros/NNS do/VBP ./.
 Your/PRP$ hypothetical/JJ investor/NN is/VBZ simply/RB being/VBG compensated/VBN for/IN taking/VBG on/RP this/DT added/VBN risk/NN ./.
 your/PRP$ hypothetical/JJ investor/NN has/VBZ forsaken/VBN the/DT gains/NNS to/TO be/VB had/VBN in/IN reducing/VBG risk/NN by/IN diversifying/VBG his/PRP$ portfolio/NN ./.
 A/DT four-stock/JJ portfolio/NN is/VBZ still/RB exposed/VBN to/TO a/DT great/JJ deal/NN of/IN unnecessary/JJ risk/NN ./.
@@ -17,4 +17,4 @@ The/DT fact/NN that/IN stock/NN pickers/NNS have/VBP bested/VBN a/DT randomly/RB
 What/WP matters/VBZ is/VBZ that/IN the/DT stocks/NNS recommended/VBN by/IN your/PRP$ pros/NNS tend/VBP to/TO be/VB substantially/RB riskier/JJR than/IN a/DT diversified/JJ portfolio/NN ./.
 example/NN ,/, your/PRP$ pickers/NNS '/POS recommendations/NNS for/IN the/DT coming/VBG month/NN are/VBP ,/, on/IN average/NN ,/, 22.5/CD %/NN riskier/JJR than/IN holding/VBG the/DT market/NN portfolio/NN according/VBG to/TO Value/NNP Line/NNP 's/POS Beta/NN estimates/NNS ./.
 James/NNP Morgan/NNP 's/POS pick/NN for/IN October/NNP --/: Dynascan/NNP --/: is/VBZ a/DT substantial/JJ 35/CD %/NN riskier/JJR than/IN the/DT market/NN portfolio/NN ;/: his/PRP$ lauded/VBD Thermo/NNP Electron/NNP pick/NN is/VBZ 40/CD %/NN riskier/JJR ./.
-Eric/NNP C./NNP Meltzer/NNP ====================================== New/JJ  York/NNP ======================================./.
+Eric/NNP C./NNP Meltzer/NNP ====================================== New/JJ  York/NNP ======================================

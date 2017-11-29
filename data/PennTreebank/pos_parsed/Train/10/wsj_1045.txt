@@ -2,7 +2,7 @@ Adolph/NNP Coors/NNP Co./NNP said/VBD William/NNP K./NNP Coors/NNP ,/, chairman/
 Jeffrey/NNP Coors/NNP ,/, 44/CD years/NNS old/JJ ,/, had/VBD been/VBN president/NN since/IN 1985/CD ,/, when/WRB he/PRP succeeded/VBD his/PRP$ father/NN Joseph/NNP in/IN the/DT job/NN ./.
 the/DT brewer/NN said/VBD Jeffrey/NNP Coors/NNP voluntarily/RB gave/VBD up/RP the/DT position/NN to/TO focus/VB more/JJR of/IN his/PRP$ energy/NN on/IN Coors/NNP Technology/NNP Co./NNP ,/, a/DT small/JJ unit/NN of/IN Coors/NNP  he/PRP has/VBZ run/VBN for/IN several/JJ years/NNS ./.
 A/DT Coors/NNP spokesman/NN said/VBD the/DT company/NN does/VBZ n't/RB believe/VB the/DT move/NN will/MD further/RBR increase/VB William/NNP Coors/NNP 's/POS influence/NN or/CC reduce/VB the/DT influence/NN of/IN Jeffrey/NNP Coors/NNP ,/, Peter/NNP Coors/NNP or/CC Joseph/NNP Coors/NNP Jr./NNP ,/, who/WP run/VBP the/DT company/NN 's/POS three/CD operating/VBG units/NNS ./.
-It/PRP certainly/RB was/VBD n't/RB intended/VBN to/TO be/VB a/DT demotion/NN ,/, ''/'' the/DT spokesman/NN ./.
+It/PRP certainly/RB was/VBD n't/RB intended/VBN to/TO be/VB a/DT demotion/NN ,/, ''/'' the/DT spokesman/NN said/VBD ./.
 Pete/NNP and/CC Jeff/NNP and/CC Joe/NNP Jr./NNP have/VBP taken/VBN over/IN the/DT reins/NNS and/CC are/VBP doing/VBG most/JJS of/IN the/DT work/NN ./.
 We/PRP do/VBP n't/RB think/VB this/DT will/MD affect/VB that/DT ./.
 Jeffrey/NNP ,/, Peter/NNP and/CC Joseph/NNP Jr./NNP are/VBP brothers/NNS ./.

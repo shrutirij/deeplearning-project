@@ -13,5 +13,5 @@ Charles/NNP Haworth/NNP ,/, a/DT lawyer/NN for/IN Sunbelt/NNP ,/, says/VBZ he/PR
 This/DT institution/NN is/VBZ just/RB brain/NN dead/JJ ,/, ''/'' says/VBZ Mr./NNP Haworth/NNP ,/, a/DT partner/NN in/IN the/DT Dallas/NNP office/NN of/IN Andrews/NNP &/CC Kurth/NNP ,/, a/DT Houston/NNP law/NN firm/NN ./.
 a/DT lawyer/NN for/IN Triland/NNP Investment/NNP Group/NNP ,/, the/DT developer/NN of/IN Valley/NNP Ranch/NNP ,/, dismisses/VBZ such/JJ arguments/NNS as/IN a/DT ``/`` defense/NN  du/FW jour/FW ./.
 Attorney/NNP Richard/NNP Jackson/NNP of/IN Dallas/NNP says/VBZ a/DT judgment/NN for/IN Triland/NNP could/MD be/VB satisfied/JJ in/IN ways/NNS other/JJ than/IN a/DT monetary/JJ award/NN ,/, including/VBG the/DT reversal/NN of/IN Sunbelt/NNP 's/POS foreclosure/NN on/IN Valley/NNP Ranch/NNP ./.
-We/PRP 're/VBP asking/VBG the/DT court/NN for/IN a/DT number/NN of/IN things/NNS  he/PRP can/MD grant/VB in/IN addition/NN to/TO the/DT thrill/NN of/IN victory/NN ,/, ''/'' he/PRP ./.
+We/PRP 're/VBP asking/VBG the/DT court/NN for/IN a/DT number/NN of/IN things/NNS  he/PRP can/MD grant/VB in/IN addition/NN to/TO the/DT thrill/NN of/IN victory/NN ,/, ''/'' he/PRP says/VBZ ./.
 We/PRP 'd/MD take/VB the/DT Valley/NNP Ranch/NNP free/JJ and/CC clear/JJ as/IN a/DT booby/JJ prize/NN ./.

@@ -28,16 +28,16 @@ Svenska/NNP Intecknings/NNP Garanti/NNP Aktiebolaget/NNP (/( Sweden/NNP )/) --/:
 Svenska/NNP Handelsbanken/NNP ./.
 Fees/NNS 1/CD 7\/8/CD ./.
 Takashima/NNP &/CC Co/NNP ./.
-Japan/NNP )/) --/: 50/CD million/CD Swiss/JJ francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ March/NNP 31/CD ,/, 1994/CD ,/, with/IN a/DT fixed/VBN 0.25/CD %/NN coupon/NN at/IN par/NN via/IN Yamaichi/NNP Bank/NNP (/( Switzerland/NNP ./.
+Japan/NNP )/) --/: 50/CD million/CD Swiss/JJ francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ March/NNP 31/CD ,/, 1994/CD ,/, with/IN a/DT fixed/VBN 0.25/CD %/NN coupon/NN at/IN par/NN via/IN Yamaichi/NNP Bank/NNP (/( Switzerland/NNP )/) ./.
 option/NN March/NNP 31/CD ,/, 1992/CD ,/, at/IN a/DT fixed/VBN 107/CD 7\/8/CD to/TO yield/VB 3.43/CD %/NN ./.
-Each/DT 50,000/CD Swiss/JJ franc/NN note/NN is/VBZ convertible/JJ from/IN Nov./NNP 30/CD ,/, 1989/CD ,/, to/TO March/NNP 16/CD ,/, 1994/CD at/IN a/DT 5/CD %/NN premium/NN over/IN the/DT closing/JJ share/NN price/NN Monday/NNP ,/, when/WRB terms/NNS ./.
+Each/DT 50,000/CD Swiss/JJ franc/NN note/NN is/VBZ convertible/JJ from/IN Nov./NNP 30/CD ,/, 1989/CD ,/, to/TO March/NNP 16/CD ,/, 1994/CD at/IN a/DT 5/CD %/NN premium/NN over/IN the/DT closing/JJ share/NN price/NN Monday/NNP ,/, when/WRB terms/NNS are/VBP scheduled/VBN to/TO be/VB fixed/VBN ./.
 Fees/NNS 1/CD 3\/4/CD ./.
 Mitsubishi/NNP Pencil/NNP Co/NNP ./.
 Japan/NNP )/) --/: 60/CD million/CD Swiss/JJ francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ Dec./NNP 31/CD ,/, 1993/CD ,/, with/IN a/DT fixed/VBN 0.25/CD %/NN coupon/NN at/IN par/NN via/IN Union/NNP Bank/NNP of/IN Switzerland/NNP ./.
 option/NN on/IN Dec./NNP 31/CD ,/, 1991/CD ,/, at/IN a/DT fixed/VBN 106/CD 7\/8/CD to/TO yield/VB 3.42/CD %/NN ./.
-Each/DT 50,000/CD Swiss/JJ franc/NN note/NN is/VBZ convertible/JJ from/IN Dec./NNP 5/CD ,/, 1989/CD ,/, to/TO Dec./NNP 31/CD ,/, 1993/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN the/DT closing/JJ share/NN price/NN Tuesday/NNP ,/, when/WRB terms/NNS ./.
+Each/DT 50,000/CD Swiss/JJ franc/NN note/NN is/VBZ convertible/JJ from/IN Dec./NNP 5/CD ,/, 1989/CD ,/, to/TO Dec./NNP 31/CD ,/, 1993/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN the/DT closing/JJ share/NN price/NN Tuesday/NNP ,/, when/WRB terms/NNS are/VBP scheduled/VBN to/TO be/VB fixed/VBN ./.
 Fees/NNS 1/CD 5\/8/CD ./.
 Koizumi/NNP Sangyo/NNP Corp/NNP ./.
-Japan/NNP )/) --/: 20/CD million/CD Swiss/JJ francs/NNS of/IN 6/CD 1\/2/CD %/NN privately/RB placed/VBN notes/NNS due/JJ Nov./NNP 29/CD ,/, 1996/CD ,/, priced/VBN at/IN 99/CD 1\/2/CD via/IN Dai-Ichi/NNP Kangyo/NNP Bank/NNP (/( Schweiz/NNP ./.
+Japan/NNP )/) --/: 20/CD million/CD Swiss/JJ francs/NNS of/IN 6/CD 1\/2/CD %/NN privately/RB placed/VBN notes/NNS due/JJ Nov./NNP 29/CD ,/, 1996/CD ,/, priced/VBN at/IN 99/CD 1\/2/CD via/IN Dai-Ichi/NNP Kangyo/NNP Bank/NNP (/( Schweiz/NNP )/) ./.
 Guarantee/NN by/IN Dai-Ichi/NNP Kangyo/NNP Bank/NNP Ltd/NNP ./.
 Fees/NNS 1/CD 3\/4/CD ./.

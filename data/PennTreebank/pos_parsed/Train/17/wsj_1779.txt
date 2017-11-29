@@ -4,8 +4,8 @@ Per-share/JJ earnings/NNS were/VBD enhanced/VBN by/IN the/DT company/NN 's/POS s
 strong/JJ prices/NNS in/IN the/DT company/NN 's/POS two/CD major/JJ areas/NNS --/: building/NN products/NNS as/RB well/RB as/IN pulp/NN and/CC paper/NN --/: analysts/NNS had/VBD expected/VBN a/DT roaring/VBG quarter/NN ./.
 the/DT performance/NN exceeded/VBD some/DT estimates/NNS of/IN around/IN $/$ 1.90/CD  a/DT share/NN ./.
 the/DT growth/NN ,/, among/IN other/JJ things/NNS ,/, were/VBD higher-than-expected/JJ prices/NNS for/IN certain/JJ building/NN products/NNS ./.
-One/CD reason/NN :/: efforts/NNS to/TO protect/VB the/DT spotted/JJ owl/NN led/VBD to/TO restrictions/NNS on/IN logging/VBG in/IN the/DT Pacific/NNP Northwest/NNP ,/, constricting/VBG supply/NN and/CC forcing/VBG prices/NNS ./.
-Another/DT reason/NN :/: strikes/NNS ,/, both/DT at/IN Georgia-Pacific/NNP and/CC other/JJ lumber/NN companies/NNS also/RB cut/VBP supplies/NNS and/CC raised/VBD prices/NNS ,/, analysts/NNS ./.
+One/CD reason/NN :/: efforts/NNS to/TO protect/VB the/DT spotted/JJ owl/NN led/VBD to/TO restrictions/NNS on/IN logging/VBG in/IN the/DT Pacific/NNP Northwest/NNP ,/, constricting/VBG supply/NN and/CC forcing/VBG prices/NNS up/IN ./.
+Another/DT reason/NN :/: strikes/NNS ,/, both/DT at/IN Georgia-Pacific/NNP and/CC other/JJ lumber/NN companies/NNS also/RB cut/VBP supplies/NNS and/CC raised/VBD prices/NNS ,/, analysts/NNS said/VBD ./.
 the/DT nine/CD months/NNS ,/, Georgia-Pacific/NNP 's/POS earnings/NNS increased/VBD 49/CD %/NN to/TO $/$ 504/CD million/CD ,/, or/CC $/$ 5.58/CD  a/DT share/NN ,/, from/IN $/$ 338/CD million/CD ,/, or/CC $/$ 3.41/CD  a/DT share/NN ./.
 Sales/NNS rose/VBD 11/CD %/NN to/TO $/$ 7.73/CD billion/CD from/IN $/$ 6.94/CD billion/CD ./.
 composite/JJ New/NNP York/NNP Stock/NNP Exchange/NNP Trading/NNP ,/, Georgia-Pacific/NNP stock/NN rose/VBD $/$ 1.25/CD  a/DT share/NN yesterday/NN to/TO close/VB at/IN $/$ 58/CD ./.

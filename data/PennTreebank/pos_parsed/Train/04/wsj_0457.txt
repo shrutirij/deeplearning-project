@@ -1,7 +1,7 @@
 Monday/NNP ,/, October/NNP 30/CD ,/, 1989/CD ====================================== The/DT key/JJ U.S./NNP and/CC foreign/JJ annual/JJ interest/NN rates/NNS below/RB are/VBP a/DT guide/NN to/TO general/JJ levels/NNS but/CC do/VBP n't/RB always/RB represent/VB actual/JJ transactions/NNS ./.
 PRIME/NNP RATE/NNP :/: 10/CD 1\/2/CD %/NN ./.
 The/DT base/NN rate/NN on/IN corporate/JJ loans/NNS at/IN large/JJ U.S./NNP money/NN center/NN commercial/JJ banks/NNS ./.
-FEDERAL/NNP FUNDS/NNP :/: 8/CD 3\/4/CD %/NN high/JJ ,/, 8/CD 11\/16/CD %/NN low/JJ ,/, 8/CD 3\/4/CD %/NN near/IN closing/NN bid/NN ,/, 8/CD 3\/4/CD %/NN ./.
+FEDERAL/NNP FUNDS/NNP :/: 8/CD 3\/4/CD %/NN high/JJ ,/, 8/CD 11\/16/CD %/NN low/JJ ,/, 8/CD 3\/4/CD %/NN near/IN closing/NN bid/NN ,/, 8/CD 3\/4/CD %/NN offered/VBN ./.
 Reserves/NNS traded/VBD among/IN commercial/JJ banks/NNS for/IN overnight/JJ use/NN in/IN amounts/NNS of/IN $/$ 1/CD million/CD or/CC more/JJR ./.
 Source/NN :/: Fulton/NNP Prebon/NNP (/( U.S.A/NNP ./.
 Inc/NNP ./.
@@ -26,7 +26,7 @@ TREASURY/NNP BILLS/NNS :/: Results/NNS of/IN the/DT Monday/NNP ,/, October/NNP 3
 FEDERAL/NNP HOME/NNP LOAN/NNP MORTGAGE/NNP CORP./NNP (/( Freddie/NNP Mac/NNP )/) :/: Posted/VBD yields/NNS on/IN 30-year/JJ mortgage/NN commitments/NNS for/IN delivery/NN within/IN 30/CD days/NNS ./.
 9.86/CD %/NN ,/, standard/JJ conventional/JJ fixed-rate/JJ mortgages/NNS ;/: 7.875/CD %/NN ,/, 2/CD %/NN rate/NN capped/VBD one-year/JJ adjustable/JJ rate/NN mortgages/NNS ./.
 Source/NN :/: Telerate/NNP Systems/NNP Inc/NNP ./.
-FEDERAL/NNP NATIONAL/NNP MORTGAGE/NNP ASSOCIATION/NNP (/( Fannie/NNP Mae/NNP )/) :/: Posted/VBD yields/NNS on/IN 30/CD year/NN mortgage/NN commitments/NNS for/IN delivery/NN within/IN 30/CD days/NNS (/( priced/VBN at/IN par/NN ./.
+FEDERAL/NNP NATIONAL/NNP MORTGAGE/NNP ASSOCIATION/NNP (/( Fannie/NNP Mae/NNP )/) :/: Posted/VBD yields/NNS on/IN 30/CD year/NN mortgage/NN commitments/NNS for/IN delivery/NN within/IN 30/CD days/NNS (/( priced/VBN at/IN par/NN )/) ./.
 9.76/CD %/NN ,/, standard/JJ conventional/JJ fixed-rate/JJ mortgages/NNS ;/: 8.75/CD %/NN ,/, 6\/2/CD rate/NN capped/VBD one-year/JJ adjustable/JJ rate/NN mortgages/NNS ./.
 Source/NN :/: Telerate/NNP Systems/NNP Inc/NNP ./.
 MERRILL/NNP LYNCH/NNP READY/NNP ASSETS/NNP TRUST/NNP :/: 8.70/CD %/NN ./.

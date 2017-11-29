@@ -8,13 +8,13 @@ Analysts/NNS said/VBD the/DT results/NNS were/VBD as/RB expected/VBN ,/, but/CC 
 The/DT quality/NN of/IN earnings/NNS was/VBD n't/RB as/RB high/JJ as/IN I/PRP expected/VBD ,/, ''/'' said/VBD Eric/NNP Philo/NNP ,/, an/DT analyst/NN for/IN Goldman/NNP ,/, Sachs/NNP &/CC Co/NNP ./.
 example/NN ,/, he/PRP noted/VBD ,/, operating/VBG profit/NN was/VBD weaker/JJR than/IN he/PRP had/VBD anticipated/VBN ,/, but/CC nonoperating/NN earnings/NNS of/IN $/$ 14.6/CD million/CD and/CC a/DT lower/JJR tax/NN rate/NN helped/VBD boost/VB net/NN income/NN ./.
 Dun/NNP &/CC Bradstreet/NNP said/VBD operating/NN earnings/NNS rose/VBD 8/CD %/NN ,/, excluding/VBG the/DT sale/NN of/IN Official/NNP Airline/NNP Guides/NNPS ./.
-Third-quarter/NN sales/NNS of/IN U.S./NNP credit/NN services/NNS were/VBD ``/`` disappointingly/RB below/IN sales/NNS ''/'' of/IN a/DT year/NN earlier/RBR ,/, Dun/NNP &/CC Bradstreet/NNP ./.
+Third-quarter/NN sales/NNS of/IN U.S./NNP credit/NN services/NNS were/VBD ``/`` disappointingly/RB below/IN sales/NNS ''/'' of/IN a/DT year/NN earlier/RBR ,/, Dun/NNP &/CC Bradstreet/NNP said/VBD ./.
 those/DT sales/NNS have/VBP been/VBN declining/VBG this/DT year/NN in/IN the/DT wake/NN of/IN allegations/NNS that/IN the/DT company/NN engaged/VBD in/IN unfair/JJ sales/NNS practices/NNS  that/WDT encouraged/VBD customers/NNS to/TO overpurchase/VB services/NNS ./.
 The/DT company/NN has/VBZ denied/VBN the/DT allegations/NNS but/CC has/VBZ negotiated/VBN a/DT proposed/VBN $/$ 18/CD million/CD settlement/NN of/IN related/VBN lawsuits/NNS ./.
-Analysts/NNS predict/VBP the/DT sales/NNS impact/NN ./.
+Analysts/NNS predict/VBP the/DT sales/NNS impact/NN will/MD linger/VB ./.
 There/EX is/VBZ n't/RB much/JJ question/NN there/RB will/MD continue/VB to/TO be/VB a/DT ripple/NN effect/NN ,/, ''/'' said/VBD John/NNP Reidy/NNP ,/, an/DT analyst/NN with/IN Drexel/NNP Burnham/NNP Lambert/NNP Inc/NNP ./.
 Dun/NNP &/CC Bradstreet/NNP noted/VBD that/IN price/NN competition/NN in/IN its/PRP$ Nielsen/NNP Marketing/NNP Research/NNP ,/, Nielsen/NNP Clearing/NNP House/NNP and/CC Donnelley/NNP Marketing/NNP businesses/NNS also/RB restrained/VBD revenue/NN growth/NN ./.
 It/PRP cited/VBD cyclical/JJ conditions/NNS in/IN its/PRP$ Moody/NNP 's/POS Investors/NNPS Service/NNP Inc./NNP and/CC D&B/NNP Plan/NNP Services/NNPS units/NNS ./.
-the/DT nine/CD months/NNS ,/, net/JJ income/NN rose/VBD 19/CD %/NN to/TO $/$ 449/CD million/CD ,/, or/CC $/$ 2.40/CD  a/DT share/NN ,/, from/IN $/$ 375.9/CD million/CD ,/, or/CC $/$ 2.01/CD  a/DT share/NN ,/, a/DT year/NN ./.
+the/DT nine/CD months/NNS ,/, net/JJ income/NN rose/VBD 19/CD %/NN to/TO $/$ 449/CD million/CD ,/, or/CC $/$ 2.40/CD  a/DT share/NN ,/, from/IN $/$ 375.9/CD million/CD ,/, or/CC $/$ 2.01/CD  a/DT share/NN ,/, a/DT year/NN earlier/RBR ./.
 Year-earlier/JJ earnings/NNS reflected/VBD costs/NNS of/IN $/$ 14.3/CD million/CD related/VBN to/TO the/DT acquisition/NN of/IN IMS/NNP International/NNP ./.
 Revenue/NN rose/VBD slightly/RB to/TO $/$ 3.16/CD billion/CD from/IN $/$ 3.13/CD billion/CD ./.

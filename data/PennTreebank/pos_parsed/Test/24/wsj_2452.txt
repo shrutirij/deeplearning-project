@@ -9,5 +9,5 @@ A/DT trial/NN on/IN criminal/JJ allegations/NNS against/IN the/DT company/NN and
 They/PRP were/VBD indicted/VBN last/JJ October/NNP on/IN charges/NNS of/IN fraud/NN ,/, theft/NN and/CC conspiracy/NN related/VBN to/TO an/DT effort/NN to/TO win/VB $/$ 400/CD million/CD in/IN Postal/NNP Service/NNP equipment/NN contracts/NNS by/IN the/DT maker/NN of/IN data/NNS management/NN equipment/NN ./.
 The/DT company/NN and/CC its/PRP$ executives/NNS deny/VBP the/DT charges/NNS ./.
 a/DT related/VBN development/NN ,/, Recognition/NNP Equipment/NNP said/VBD the/DT Postal/NNP Service/NNP has/VBZ barred/VBN the/DT company/NN from/IN bidding/VBG on/IN postal/JJ contracts/NNS for/IN an/DT additional/JJ 120/CD days/NNS ./.
-The/DT Postal/NNP Service/NNP originally/RB suspended/VBD the/DT company/NN Oct./NNP 7/CD ,/, 1988/CD ,/, and/CC has/VBZ been/VBN renewing/VBG the/DT ban/NN ./.
+The/DT Postal/NNP Service/NNP originally/RB suspended/VBD the/DT company/NN Oct./NNP 7/CD ,/, 1988/CD ,/, and/CC has/VBZ been/VBN renewing/VBG the/DT ban/NN ever/RB since/IN ./.
 The/DT company/NN said/VBD it/PRP will/MD continue/VB to/TO pursue/VB a/DT lifting/NN of/IN the/DT suspension/NN ./.

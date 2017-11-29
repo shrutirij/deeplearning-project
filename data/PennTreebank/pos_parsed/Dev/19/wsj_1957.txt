@@ -9,34 +9,34 @@ Tuesday/NNP ,/, the/DT broader-based/JJ Tokyo/NNP Stock/NNP Price/NNP Index/NNP 
 an/DT estimated/JJ 650/CD million/CD shares/NNS ,/, though/IN brisker/JJR than/IN Monday/NNP 's/POS 526/CD million/CD ./.
 issues/NNS outnumbered/VBD decliners/NNS 821-201/CD ,/, with/IN 103/CD unchanged/JJ ./.
 We/PRP 're/VBP back/RB to/TO square/NN one/CD ,/, ''/'' said/VBD Simon/NNP Smithson/NNP ,/, an/DT analyst/NN in/IN Japan/NNP for/IN Kleinwort/NNP Benson/NNP International/NNP Inc/NNP ./.
-Japanese/JJ domestic/JJ institutions/NNS ,/, including/VBG trust/NN banks/NNS and/CC investment/NN management/NN firms/NNS ,/, that/WDT had/VBD been/VBN on/IN the/DT sidelines/NNS during/IN Monday/NNP 's/POS fall/NN were/VBD back/RB in/IN the/DT market/NN ,/, analysts/NNS ./.
+Japanese/JJ domestic/JJ institutions/NNS ,/, including/VBG trust/NN banks/NNS and/CC investment/NN management/NN firms/NNS ,/, that/WDT had/VBD been/VBN on/IN the/DT sidelines/NNS during/IN Monday/NNP 's/POS fall/NN were/VBD back/RB in/IN the/DT market/NN ,/, analysts/NNS said/VBD ./.
 Foreign/JJ investors/NNS reportedly/RB started/VBD off/RP selling/VBG but/CC later/RB joined/VBD in/IN the/DT buying/NN ./.
 The/DT Tokyo/NNP rally/NN seemed/VBD to/TO confirm/VB the/DT view/NN ,/, frequently/RB expressed/VBN in/IN Japan/NNP in/IN the/DT past/JJ few/JJ days/NNS ,/, that/IN the/DT drop/NN in/IN New/NNP York/NNP was/VBD a/DT local/JJ problem/NN related/VBN to/TO merger/NN and/CC acquisition/NN activity/NN in/IN the/DT U.S/NNP ./.
 This/DT time/NN  we/PRP do/VBP n't/RB really/RB have/VB to/TO worry/VB about/IN Tokyo/NNP ,/, ''/'' said/VBD an/DT official/NN at/IN Daiwa/NNP Securities/NNP Co/NNP ./.
 Nothing/NN has/VBZ changed/VBN fundamentally/RB in/IN the/DT Tokyo/NNP market/NN ./.
 Tokyo/NNP appears/VBZ unharmed/JJ by/IN recent/JJ market/NN volatility/NN ,/, analysts/NNS and/CC traders/NNS say/VBP there/EX are/VBP still/RB a/DT few/JJ concerns/NNS on/IN the/DT horizon/NN ./.
-particular/JJ ,/, Japanese/JJ investors/NNS will/MD be/VB keeping/VBG a/DT wary/JJ eye/NN on/IN Wall/NNP Street/NNP to/TO see/VB whether/IN Monday/NNP 's/POS 88.12-point/JJ rally/NN holds/VBZ up/RP as/RB fresh/JJ U.S./NNP economic/JJ data/NNS ./.
+particular/JJ ,/, Japanese/JJ investors/NNS will/MD be/VB keeping/VBG a/DT wary/JJ eye/NN on/IN Wall/NNP Street/NNP to/TO see/VB whether/IN Monday/NNP 's/POS 88.12-point/JJ rally/NN holds/VBZ up/RP as/RB fresh/JJ U.S./NNP economic/JJ data/NNS are/VBP released/VBN ./.
 People/NNS are/VBP placing/VBG small/JJ bets/NNS ./.
 There/EX 's/VBZ no/DT huge/JJ buying/NN ,/, ''/'' said/VBD Stephen/NNP Hill/NNP ,/, head/NN of/IN equity/NN sales/NNS at/IN Jardine/NNP Fleming/NNP Securities/NNP Ltd./NNP in/IN Tokyo/NNP ./.
-brave/JJ views/NNS ./.
-Yesterday/NN 's/POS buyers/NNS favored/VBD real/JJ estate/NN ,/, construction/NN and/CC other/JJ large-capitalization/JJ issues/NNS ,/, reflecting/VBG the/DT fact/NN that/IN many/JJ Tokyo/NNP investors/NNS now/RB feel/VBP safer/JJR with/IN domestically/RB oriented/VBN stocks/NNS ,/, analysts/NNS ./.
+brave/JJ views/NNS right/RB now/RB would/MD be/VB foolhardy/JJ ./.
+Yesterday/NN 's/POS buyers/NNS favored/VBD real/JJ estate/NN ,/, construction/NN and/CC other/JJ large-capitalization/JJ issues/NNS ,/, reflecting/VBG the/DT fact/NN that/IN many/JJ Tokyo/NNP investors/NNS now/RB feel/VBP safer/JJR with/IN domestically/RB oriented/VBN stocks/NNS ,/, analysts/NNS said/VBD ./.
 They/PRP also/RB are/VBP concerned/JJ about/IN the/DT persistent/JJ strength/NN of/IN the/DT dollar/NN against/IN the/DT yen/NN ,/, as/IN a/DT weaker/JJR yen/NN leads/VBZ to/TO higher/JJR import/NN prices/NNS in/IN Japan/NNP and/CC adds/VBZ to/TO domestic/JJ inflationary/JJ pressures/NNS ./.
 Currency/NN concerns/NNS also/RB weigh/VBP heavily/RB on/IN interest/NN rate-sensitive/JJ stocks/NNS such/JJ as/IN banking/NN and/CC other/JJ financial/JJ issues/NNS because/IN of/IN fears/NNS that/IN Japanese/JJ interest/NN rates/NNS might/MD have/VB to/TO rise/VB to/TO keep/VB the/DT dollar/NN in/IN check/NN ./.
 steel/NN shares/NNS ,/, NKK/NNP rose/VBD 19/CD to/TO 705/CD yen/NN (/( $/$ 4.97/CD )/) a/DT share/NN ,/, and/CC Nippon/NNP Steel/NNP gained/VBD 17/CD to/TO 735/CD ./.
 Construction/NN shares/NNS  that/WDT gained/VBD included/VBD Shimizu/NNP ,/, which/WDT rose/VBD 130/CD to/TO 2,080/CD ./.
 the/DT real/JJ estate/NN sector/NN ,/, Mitsui/NNP Real/NNP Estate/NNP Development/NNP was/VBD up/RB 100/CD at/IN 2,760/CD ,/, and/CC Mitsubishi/NNP Estate/NNP gained/VBD 80/CD to/TO 2,360/CD ./.
 London/NNP 's/POS Financial/NNP Times-Stock/NNP Exchange/NNP 100-share/JJ index/NN fell/VBD 27.9/CD points/NNS to/TO 2135.5/CD ./.
-It/PRP was/VBD down/RB more/JJR than/IN 40/CD points/NNS  a/DT half-hour/NN before/IN the/DT close/NN ,/, marking/VBG a/DT 61.5-point/JJ turnaround/NN from/IN its/PRP$ high/JJ ,/, reached/VBN in/IN the/DT first/JJ 15/CD minutes/NNS ./.
+It/PRP was/VBD down/RB more/JJR than/IN 40/CD points/NNS  a/DT half-hour/NN before/IN the/DT close/NN ,/, marking/VBG a/DT 61.5-point/JJ turnaround/NN from/IN its/PRP$ high/JJ ,/, reached/VBN in/IN the/DT first/JJ 15/CD minutes/NNS of/IN trading/NN ./.
 The/DT narrower/JJR Financial/NNP Times/NNP 30-share/JJ index/NN fell/VBD 29.6/CD to/TO 1730.7/CD ./.
 Volume/NN was/VBD an/DT active/JJ 643.3/CD million/CD shares/NNS ,/, about/IN double/RB the/DT recent/JJ levels/NNS but/CC down/RB from/IN 959.3/CD million/CD  the/DT previous/JJ day/NN ,/, which/WDT U.K./NN traders/NNS have/VBP dubbed/VBN ``/`` Manic/NNP Monday/NNP ./.
 Prices/NNS opened/VBD strongly/RB on/IN the/DT basis/NN of/IN Monday/NNP 's/POS Wall/NNP Street/NNP rally/NN and/CC yesterday/NN 's/POS gains/NNS in/IN Tokyo/NNP ./.
-the/DT advance/NN faltered/VBD as/IN index-options/NNS traders/NNS and/CC investors/NNS jittery/JJ about/IN the/DT U.K./NNP economic/JJ outlook/NN ./.
+the/DT advance/NN faltered/VBD as/IN index-options/NNS traders/NNS and/CC investors/NNS jittery/JJ about/IN the/DT U.K./NNP economic/JJ outlook/NN took/VBD over/RP ./.
 The/DT unexpectedly/RB wide/JJ U.S./NNP August/NNP trade/NN deficit/NN of/IN $/$ 10.77/CD billion/CD hit/VBD an/DT already/RB jittery/JJ U.K./NNP market/NN in/IN midafternoon/NN ./.
 Michael/NNP Hicks/NNP ,/, who/WP manages/VBZ sales/NNS and/CC trading/NN for/IN brokerage/NN concern/NN Societe/NNP Generale/NNP Strauss/NNP Turnbull/NNP ,/, said/VBD :/: ``/`` It/PRP 's/VBZ a/DT nervous/JJ market/NN ./.
 It/PRP was/VBD all/RB over/IN the/DT place/NN ./.
-you/PRP bought/VBD ,/, you/PRP wish/VBP you/PRP had/VBD n't/RB ,/, and/CC if/IN you/PRP sold/VBD ,/, you/PRP wish/VBP you/PRP ./.
+you/PRP bought/VBD ,/, you/PRP wish/VBP you/PRP had/VBD n't/RB ,/, and/CC if/IN you/PRP sold/VBD ,/, you/PRP wish/VBP you/PRP had/VBD n't/RB ./.
 He/PRP said/VBD the/DT current/JJ market/NN ``/`` is/VBZ all/RB about/IN sentiment/NN ,/, and/CC the/DT sentiment/NN in/IN London/NNP is/VBZ 90/CD %/NN anxiety/NN and/CC worry/NN ./.
-Britain/NNP 's/POS economic/JJ fundamentals/NNS ,/, he/PRP ./.
+Britain/NNP 's/POS economic/JJ fundamentals/NNS ,/, he/PRP said/VBD ,/, ``/`` do/VBP n't/RB look/VB very/RB bright/JJ ./.
 Dealers/NNS said/VBD London/NNP showed/VBD signs/NNS of/IN calming/VBG in/IN midafternoon/NN after/IN Wall/NNP Street/NNP avoided/VBD sharp/JJ losses/NNS despite/IN the/DT trade/NN report/NN ,/, but/CC a/DT wave/NN of/IN futures-related/JJ selling/NN later/RB in/IN the/DT session/NN sent/VBD buyers/NNS back/RB to/TO the/DT sidelines/NNS ./.
 some/DT sectors/NNS found/VBD buying/NN interest/NN after/IN being/VBG actively/RB sold/VBN in/IN recent/JJ weeks/NNS ./.
 Merchant/NN banks/NNS were/VBD stronger/JJR across/IN the/DT board/NN ./.

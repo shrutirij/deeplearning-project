@@ -52,7 +52,7 @@ def ParseData(subfolder_range, subdir_name):
                         next_line = lines[j]
                         j += 1
                     i = j
-                    temp[sent_num].append('./.')
+                    temp[sent_num].append(next_line)
                     sent_num += 1
                 else:
                     i += 1

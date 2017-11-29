@@ -16,16 +16,16 @@ the/DT hidebound/JJ traditionalist/NN reconstructed/VBD hypothetical/JJ organism
 It/PRP was/VBD not/RB until/IN the/DT early/JJ 1970s/CD that/IN Cambridge/NNP Prof./NNP Harry/NNP Whittington/NNP and/CC two/CD sharp/JJ graduate/JJ students/NNS began/VBD to/TO publish/VB a/DT reinterpretation/NN of/IN the/DT Burgess/NNP Shale/NNP ./.
 clever/JJ inferences/NNS about/IN how/WRB the/DT squashed/JJ and/CC distorted/JJ fossil/NN remains/NNS corresponded/VBD to/TO three-dimensional/JJ structures/NNS ,/, this/DT trio/NN was/VBD able/JJ to/TO piece/VB together/RB a/DT series/NN of/IN wondrous/JJ beasties/NNS quite/RB unlike/IN anything/NN currently/RB on/IN the/DT planet/NN ./.
 One/CD was/VBD so/RB fantastic/JJ in/IN appearance/NN ,/, it/PRP was/VBD dubbed/VBN Hallucigenia/NNP ./.
-that/IN Mr./NNP Gould/NNP 's/POS minute/JJ descriptions/NNS of/IN these/DT creatures/NNS ./.
+that/IN Mr./NNP Gould/NNP 's/POS minute/JJ descriptions/NNS of/IN these/DT creatures/NNS was/VBD always/RB so/RB colorful/JJ ./.
 A/DT good/JJ deal/NN of/IN the/DT book/NN is/VBZ boring/JJ ,/, particularly/RB the/DT endless/JJ allusions/NNS to/TO high/JJ and/CC pop/JJ culture/NN and/CC the/DT frequent/JJ jokes/NNS festooning/VBG the/DT text/NN ./.
 These/DT turns/NNS do/VBP not/RB provide/VB sufficient/JJ relief/NN from/IN sentences/NNS like/IN ,/, ``/`` Most/JJS modern/JJ chelicerates/NNS have/VBP six/CD uniramous/JJ appendages/NNS on/IN the/DT prosoma/NN ./.
 Interest/NN picks/VBZ up/RP ,/, though/RB ,/, when/WRB Mr./NNP Gould/NNP gets/VBZ around/IN to/TO discussing/VBG the/DT meaning/NN of/IN the/DT Burgess/NNP oddities/NNS for/IN the/DT theory/NN of/IN evolution/NN ./.
 the/DT appearance/NN of/IN life/NN ,/, evidently/RB ,/, there/EX was/VBD an/DT explosive/JJ proliferation/NN in/IN the/DT number/NN of/IN animal/NN designs/NNS seen/VBN on/IN the/DT earth/NN ./.
-The/DT vast/JJ majority/NN of/IN them/PRP ,/, however/RB ,/, were/VBD wiped/VBN out/RP by/IN a/DT succession/NN of/IN environmental/JJ upheavals/NNS  that/WDT were/VBD too/RB sudden/JJ and/CC catastrophic/JJ for/IN the/DT normal/JJ rules/NNS of/IN natural/JJ selection/NN ./.
+The/DT vast/JJ majority/NN of/IN them/PRP ,/, however/RB ,/, were/VBD wiped/VBN out/RP by/IN a/DT succession/NN of/IN environmental/JJ upheavals/NNS  that/WDT were/VBD too/RB sudden/JJ and/CC catastrophic/JJ for/IN the/DT normal/JJ rules/NNS of/IN natural/JJ selection/NN to/TO operate/VB ./.
 the/DT winnowing/NN process/NN was/VBD like/IN a/DT lottery/NN ``/`` in/IN which/WDT  each/DT group/NN {/( held/VBD }/) a/DT ticket/NN unrelated/JJ to/TO its/PRP$ anatomical/JJ virtues/NNS ./.
 survival/NN of/IN the/DT fittest/JJS ./.
 the/DT notion/NN that/IN we/PRP  humans/NNS triumphed/VBD in/IN the/DT Darwinian/JJ struggle/NN by/IN evolving/VBG big/JJ brains/NNS ./.
-Our/PRP$ mammalian/JJ forerunners/NNS lucked/VBD out/RP through/IN the/DT extraterrestrial/JJ impact/NN  that/WDT did/VBD in/IN the/DT dinosaurs/NNS because/IN they/PRP ./.
+Our/PRP$ mammalian/JJ forerunners/NNS lucked/VBD out/RP through/IN the/DT extraterrestrial/JJ impact/NN  that/WDT did/VBD in/IN the/DT dinosaurs/NNS because/IN they/PRP were/VBD small/JJ ,/, not/RB smart/JJ ./.
 anyone/NN has/VBZ difficulty/NN imagining/VBG a/DT world/NN in/IN which/WDT history/NN went/VBD merrily/RB on/RB without/IN us/PRP ,/, Mr./NNP Gould/NNP sketches/VBZ several/JJ ./.
 one/CD ,/, birds/NNS are/VBP the/DT dominant/JJ carnivores/NNS ;/: in/IN another/DT the/DT seas/NNS abound/VBP with/IN ``/`` little/JJ penises/NNS ./.
 the/DT Burgess/NNP fauna/NNS were/VBD flourishing/VBG ,/, it/PRP seems/VBZ ,/, human/JJ evolutionary/JJ hopes/NNS hung/VBD on/IN the/DT survival/NN of/IN a/DT little/JJ worm/NN with/IN a/DT backbone/NN called/VBN Pikaia/NNP ./.

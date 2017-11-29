@@ -9,7 +9,7 @@ part/NN of/IN its/PRP$ decision/NN to/TO leave/VB the/DT building/NN ,/, Chase/N
 Chase/NNP Senior/NNP Vice/NNP President/NNP George/NNP Scandalios/NNP said/VBD the/DT bank/NN decided/VBD to/TO exercise/VB its/PRP$ option/NN after/IN bids/NNS fell/VBD short/RB of/IN expectations/NNS ./.
 He/PRP said/VBD Chase/NNP and/CC the/DT Atlas/NNP estate/NN were/VBD looking/VBG to/TO sell/VB the/DT entire/JJ building/NN for/IN $/$ 400/CD million/CD to/TO $/$ 475/CD million/CD ,/, but/CC did/VBD n't/RB get/VB an/DT offer/NN for/IN more/JJR than/IN $/$ 375/CD million/CD ./.
 the/DT building/NN 's/POS new/JJ owner/NN ,/, Chase/NNP will/MD have/VB its/PRP$ work/NN cut/VBD out/RP for/IN it/PRP ./.
-Chase/NNP is/VBZ vacating/VBG 1.1/CD million/CD square/JJ feet/NNS of/IN space/NN ,/, and/CC Salomon/NNP Brothers/NNP Inc./NNP ,/, whose/WP$ headquarters/NN is/VBZ in/IN the/DT building/NN ./.
+Chase/NNP is/VBZ vacating/VBG 1.1/CD million/CD square/JJ feet/NNS of/IN space/NN ,/, and/CC Salomon/NNP Brothers/NNP Inc./NNP ,/, whose/WP$ headquarters/NN is/VBZ in/IN the/DT building/NN ,/, also/RB plans/VBZ to/TO move/VB shortly/RB ./.
 addition/NN ,/, another/DT major/JJ building/NN tenant/NN ,/, Thomson/NNP McKinnon/NNP Inc./NNP 's/POS Thomson/NNP McKinnon/NNP Securities/NNP ,/, likely/RB will/MD vacate/VB the/DT premises/NNS as/IN part/NN of/IN its/PRP$ liquidation/NN ./.
 New/NNP York/NNP real/JJ estate/NN brokerage/NN Edward/NNP S./NNP Gordon/NNP Co./NNP will/MD have/VB the/DT difficult/JJ task/NN of/IN finding/VBG new/JJ tenants/NNS ./.
 its/PRP$ striking/JJ views/NNS of/IN the/DT New/NNP York/NNP harbor/NN ,/, the/DT building/NN is/VBZ considered/VBN antiquated/JJ by/IN modern/JJ office/NN standards/NNS ./.

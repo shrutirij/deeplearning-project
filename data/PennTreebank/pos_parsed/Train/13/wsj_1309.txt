@@ -9,11 +9,11 @@ The/DT U.S./NNP Coast/NNP Guard/NNP closed/VBD six/CD miles/NNS of/IN the/DT Hou
 The/DT Port/NNP of/IN Houston/NNP closed/VBD its/PRP$ terminal/NN for/IN handling/VBG bulk/JJ cargo/NN ./.
 water/NN lines/NNS and/CC gas/NN leaks/NNS hindered/VBD firefighters/NNS '/POS efforts/NNS ,/, but/CC by/IN late/RB yesterday/NN authorities/NNS said/VBD they/PRP had/VBD the/DT fire/NN under/IN control/NN ./.
 The/DT blasts/NNS blew/VBD out/RP windows/NNS ,/, spewed/VBD debris/NN for/IN miles/NNS and/CC crumpled/VBD the/DT ceiling/NN in/IN an/DT area/NN elementary/JJ school/NN ./.
-The/DT initial/JJ fireball/NN was/VBD caught/VBN by/IN cameras/NNS in/IN downtown/JJ Houston/NNP ,/, about/RB 10/CD miles/NNS ./.
-Nearby/JJ Pasadena/NNP ,/, Texas/NNP ,/, police/NN reported/VBD that/IN 104/CD people/NNS had/VBD been/VBN taken/VBN to/TO area/NN hospitals/NNS ,/, but/CC a/DT spokeswoman/NN said/VBD that/DT toll/NN ./.
-The/DT injured/JJ ,/, including/VBG three/CD in/IN critical/JJ condition/NN ,/, were/VBD treated/VBN for/IN burns/NNS ,/, breathing/NN problems/NNS and/CC cuts/NNS from/IN flying/VBG glass/NN ,/, hospital/NN officials/NNS ./.
+The/DT initial/JJ fireball/NN was/VBD caught/VBN by/IN cameras/NNS in/IN downtown/JJ Houston/NNP ,/, about/RB 10/CD miles/NNS away/RB ./.
+Nearby/JJ Pasadena/NNP ,/, Texas/NNP ,/, police/NN reported/VBD that/IN 104/CD people/NNS had/VBD been/VBN taken/VBN to/TO area/NN hospitals/NNS ,/, but/CC a/DT spokeswoman/NN said/VBD that/DT toll/NN could/MD rise/VB ./.
+The/DT injured/JJ ,/, including/VBG three/CD in/IN critical/JJ condition/NN ,/, were/VBD treated/VBN for/IN burns/NNS ,/, breathing/NN problems/NNS and/CC cuts/NNS from/IN flying/VBG glass/NN ,/, hospital/NN officials/NNS said/VBD ./.
 The/DT plant/NN employs/VBZ between/IN 800/CD and/CC 900/CD on/IN three/CD shifts/NNS ./.
-The/DT number/NN working/VBG at/IN the/DT time/NN of/IN the/DT blast/NN was/VBD n't/RB ./.
+The/DT number/NN working/VBG at/IN the/DT time/NN of/IN the/DT blast/NN was/VBD n't/RB known/VBN ./.
 Yesterday/NN 's/POS explosions/NNS were/VBD the/DT second/JJ round/NN in/IN two/CD months/NNS at/IN the/DT plastics/NNS plant/NN ./.
 late/JJ August/NNP ,/, four/CD contract/NN workers/NNS were/VBD injured/VBN and/CC one/CD Phillips/NNS employee/NN died/VBD after/IN an/DT explosion/NN at/IN a/DT fuel/NN supply/NN line/NN near/IN the/DT facility/NN 's/POS boiler/NN house/NN ./.
 The/DT Phillips/NNP facility/NN manufactures/VBZ polyethylene/NN ,/, polypropylene/NN and/CC K-resin/NN ,/, plastics/NNS used/VBN in/IN a/DT wide/JJ array/NN of/IN applications/NNS ,/, including/VBG milk/NN jugs/NNS and/CC toys/NNS ./.

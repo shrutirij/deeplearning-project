@@ -1,12 +1,12 @@
 OPEC/NNP 's/POS ability/NN to/TO produce/VB more/JJR petroleum/NN than/IN it/PRP can/MD sell/VB is/VBZ beginning/VBG to/TO cast/VB a/DT shadow/NN over/IN world/NN oil/NN markets/NNS ./.
-Output/NN from/IN the/DT Organization/NNP of/IN Petroleum/NNP Exporting/NNP Countries/NNPS is/VBZ already/RB at/IN a/DT high/JJ for/IN the/DT year/NN and/CC most/JJS member/NN nations/NNS ./.
+Output/NN from/IN the/DT Organization/NNP of/IN Petroleum/NNP Exporting/NNP Countries/NNPS is/VBZ already/RB at/IN a/DT high/JJ for/IN the/DT year/NN and/CC most/JJS member/NN nations/NNS are/VBP running/VBG flat/RB out/RB ./.
 industry/NN and/CC OPEC/NNP officials/NNS agree/VBP that/IN a/DT handful/NN of/IN members/NNS still/RB have/VB enough/JJ unused/JJ capacity/NN to/TO glut/VB the/DT market/NN and/CC cause/VB an/DT oil-price/NN collapse/NN  a/DT few/JJ months/NNS from/IN now/RB if/IN OPEC/NNP does/VBZ n't/RB soon/RB adopt/VB a/DT new/JJ quota/NN system/NN to/TO corral/VB its/PRP$ chronic/JJ cheaters/NNS ./.
 a/DT result/NN ,/, the/DT effort/NN by/IN some/DT oil/NN ministers/NNS to/TO get/VB OPEC/NNP to/TO approve/VB a/DT new/JJ permanent/JJ production-sharing/JJ agreement/NN next/JJ month/NN is/VBZ taking/VBG on/IN increasing/VBG urgency/NN ./.
 The/DT organization/NN is/VBZ scheduled/VBN to/TO meet/VB in/IN Vienna/NNP beginning/VBG Nov./NNP 25/CD ./.
 this/DT year/NN ,/, rising/VBG demand/NN for/IN OPEC/NNP oil/NN and/CC production/NN restraint/NN by/IN some/DT members/NNS have/VBP kept/VBN prices/NNS firm/JJ despite/IN rampant/JJ cheating/NN by/IN others/NNS ./.
-that/DT could/MD change/VB if/IN demand/NN for/IN OPEC/NNP 's/POS oil/NN softens/VBZ seasonally/RB early/JJ next/JJ year/NN as/IN some/DT ./.
+that/DT could/MD change/VB if/IN demand/NN for/IN OPEC/NNP 's/POS oil/NN softens/VBZ seasonally/RB early/JJ next/JJ year/NN as/IN some/DT think/VBP may/MD happen/VB ./.
 OPEC/NNP is/VBZ currently/RB producing/VBG more/JJR than/IN 22/CD million/CD barrels/NNS  a/DT day/NN ,/, sharply/RB above/IN its/PRP$ nominal/JJ ,/, self-imposed/JJ fourth-quarter/JJ ceiling/NN of/IN 20.5/CD million/CD ,/, according/VBG to/TO OPEC/NNP and/CC industry/NN officials/NNS at/IN an/DT oil/NN conference/NN here/RB sponsored/VBN by/IN the/DT Oil/NNP Daily/NNP and/CC the/DT International/NNP Herald/NNP Tribune/NNP ./.
-that/DT rate/NN ,/, a/DT majority/NN of/IN OPEC/NNP 's/POS 13/CD members/NNS have/VBP reached/VBN their/PRP$ output/NN limits/NNS ,/, they/PRP ./.
+that/DT rate/NN ,/, a/DT majority/NN of/IN OPEC/NNP 's/POS 13/CD members/NNS have/VBP reached/VBN their/PRP$ output/NN limits/NNS ,/, they/PRP said/VBD ./.
 it/PRP is/VBZ estimated/VBN that/IN at/IN least/JJS three/CD million/CD barrels/NNS  a/DT day/NN --/: and/CC possibly/RB as/RB much/JJ as/IN seven/CD million/CD barrels/NNS  a/DT day/NN --/: of/IN spare/JJ capacity/NN still/RB exists/VBZ within/IN OPEC/NNP ./.
 five/CD Persian/NNP Gulf/NNP countries/NNS ,/, including/VBG his/PRP$ own/JJ ,/, Issam/NNP Al-Chalabi/NNP ,/, Iraq/NNP 's/POS oil/NN minister/NN ,/, told/VBD the/DT conference/NN Friday/NNP ./.
 He/PRP puts/VBZ OPEC/NNP 's/POS current/JJ capacity/NN at/IN 28/CD million/CD to/TO 29/CD million/CD barrels/NNS  a/DT day/NN ./.
@@ -31,10 +31,10 @@ the/DT oil/NN ministers/NNS continue/VBP to/TO study/VB the/DT plan/NN ,/, and/C
 It/PRP 's/VBZ understood/VBN several/JJ compromises/NNS already/RB have/VBP been/VBN worked/VBN into/IN the/DT plan/NN ./.
 The/DT ceiling/NN would/MD be/VB lifted/VBN to/TO 21.5/CD million/CD barrels/NNS to/TO provide/VB Kuwait/NNP and/CC the/DT United/NNP Arab/NNP Emirates/NNP much/RB higher/JJR official/JJ quotas/NNS while/IN reducing/VBG percentage/NN shares/NNS of/IN some/DT others/NNS ./.
 Libya/NNP 's/POS previous/JJ conditions/NNS are/VBP no/RB longer/RB considered/VBN a/DT problem/NN ,/, although/IN the/DT United/NNP Arab/NNP Emirates/NNPS is/VBZ still/RB an/DT issue/NN ./.
-Saudi/NNP Arabia/NNP ,/, OPEC/NNP 's/POS kingpin/NN ,/, also/RB has/VBZ surfaced/VBN as/IN a/DT possible/JJ obstacle/NN ,/, some/DT OPEC/NNP sources/NNS ./.
+Saudi/NNP Arabia/NNP ,/, OPEC/NNP 's/POS kingpin/NN ,/, also/RB has/VBZ surfaced/VBN as/IN a/DT possible/JJ obstacle/NN ,/, some/DT OPEC/NNP sources/NNS said/VBD ./.
 a/DT 24.5/CD %/NN share/NN of/IN any/DT ceiling/NN ,/, Saudi/JJ officials/NNS have/VBP long/RB pressed/VBN for/IN the/DT pro/JJ rata/JJ distribution/NN of/IN increases/NNS to/TO all/DT members/NNS ./.
 Geneva/NNP ,/, however/RB ,/, they/PRP supported/VBD Iran/NNP 's/POS proposal/NN because/IN it/PRP would/MD have/VB left/VBN the/DT Saudi/JJ percentage/NN of/IN the/DT OPEC/NNP total/NN intact/JJ ,/, and/CC increased/VBD actual/JJ Saudi/JJ volume/NN to/TO nearly/RB 5.3/CD million/CD barrels/NNS daily/RB from/IN five/CD million/CD ./.
 Some/DT of/IN the/DT proposed/VBN modifications/NNS since/RB ,/, however/RB ,/, call/VBP on/IN Saudi/NNP Arabia/NNP to/TO ``/`` give/VB back/RB ''/'' to/TO the/DT production-sharing/JJ pool/NN  a/DT token/JJ 23,000/CD barrels/NNS ./.
 tiny/JJ ,/, that/DT 's/VBZ a/DT reduction/NN in/IN its/PRP$ share/NN ./.
 Mr./NNP Nazer/NNP ,/, the/DT Saudi/JJ oil/NN minister/NN ,/, reiterated/VBD here/RB that/IN the/DT kingdom/NN would/MD insist/VB on/IN maintaining/VBG its/PRP$ percentage/NN share/NN of/IN OPEC/NNP production/NN under/IN any/DT quota/NN revisions/NNS ./.
-any/DT circumstances/NNS ,/, Saudi/NNP Arabia/NNP should/MD get/VB more/JJR ''/'' rather/RB than/IN less/JJR ,/, Mr./NNP Nazer/NNP ./.
+any/DT circumstances/NNS ,/, Saudi/NNP Arabia/NNP should/MD get/VB more/JJR ''/'' rather/RB than/IN less/JJR ,/, Mr./NNP Nazer/NNP said/VBD ./.

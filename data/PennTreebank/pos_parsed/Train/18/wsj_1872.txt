@@ -5,6 +5,6 @@ Refcorp/NNP ,/, created/VBN by/IN the/DT thrift-overhaul/NN law/NN enacted/VBN i
 Congress/NNP authorized/VBD $/$ 50/CD billion/CD to/TO be/VB borrowed/VBN to/TO pay/VB for/IN the/DT thrift/NN bailout/NN ./.
 that/DT amount/NN ,/, $/$ 20/CD billion/CD has/VBZ already/RB been/VBN borrowed/VBN by/IN the/DT Treasury/NNP Department/NNP ./.
 a/DT particular/JJ offer/NN ,/, the/DT bonds/NNS wo/MD n't/RB be/VB subject/JJ to/TO redemption/NN prior/RB to/TO maturity/NN ./.
-Interest/NN payments/NNS on/IN the/DT bonds/NNS ./.
+Interest/NN payments/NNS on/IN the/DT bonds/NNS will/MD be/VB payable/JJ semiannually/RB ./.
 The/DT bonds/NNS are/VBP subject/JJ to/TO federal/JJ taxation/NN in/IN the/DT U.S./NNP ,/, including/VBG income/NN taxes/NNS ./.
 the/DT state/NN and/CC local/JJ level/NN ,/, the/DT bonds/NNS are/VBP subject/JJ to/TO surtaxes/NNS and/CC estate/NN ,/, inheritance/NN and/CC gift/NN taxes/NNS ,/, but/CC exempt/JJ from/IN taxation/NN as/IN to/TO principal/NN and/CC interest/NN ./.

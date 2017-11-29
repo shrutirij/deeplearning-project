@@ -1,6 +1,6 @@
 India/NNP gears/VBZ up/IN for/IN general/JJ elections/NNS to/TO be/VB held/VBN by/IN January/NNP ,/, television/NN is/VBZ emerging/VBG as/IN a/DT powerful/JJ political/JJ tool/NN --/: and/CC a/DT highly/RB controversial/JJ one/CD ./.
 Television/NN is/VBZ beamed/VBN into/IN 74/CD %/NN of/IN the/DT country/NN 's/POS villages/NNS ,/, up/IN from/IN 49/CD %/NN during/IN the/DT 1984/CD general-election/NN campaign/NN ./.
-The/DT government/NN hopes/VBZ to/TO get/VB broadcasts/NNS into/IN all/DT of/IN India/NNP 's/POS 57,500/CD villages/NNS ./.
+The/DT government/NN hopes/VBZ to/TO get/VB broadcasts/NNS into/IN all/DT of/IN India/NNP 's/POS 57,500/CD villages/NNS eventually/RB ./.
 the/DT government/NN is/VBZ essentially/RB the/DT only/JJ broadcaster/NN ./.
 It/PRP controls/VBZ the/DT sole/JJ national/JJ TV/NN network/NN ,/, Doordarshan/NNP ,/, and/CC the/DT only/JJ national/JJ radio/NN system/NN ,/, All/DT India/NNP Radio/NNP ./.
 TV/NN news/NN coverage/NN has/VBZ generally/RB favored/VBN the/DT government/NN ./.
@@ -13,13 +13,13 @@ There/EX is/VBZ general/JJ agreement/NN on/IN one/CD point/NN :/: The/DT electio
 Many/JJ say/VBP Mr./NNP Gandhi/NNP and/CC Congress/NNP (/( I/NN )/) ,/, with/IN seesawing/VBG popularity/NN and/CC an/DT arms/NNS scandal/NN  that/WDT has/VBZ tarnished/VBN the/DT government/NN ,/, stand/VBP a/DT chance/NN of/IN losing/VBG power/NN ./.
 The/DT arms/NNS scandal/NN involves/VBZ a/DT report/NN by/IN India/NNP 's/POS comptroller/NN and/CC auditor/NN general/NN ,/, which/WDT cited/VBD lapses/NNS in/IN the/DT government/NN 's/POS evaluation/NN and/CC purchase/NN of/IN artillery/NN guns/NNS from/IN a/DT Swedish/JJ arms/NNS company/NN ./.
 Television/NN came/VBD to/TO India/NNP in/IN 1965/CD ,/, when/WRB black-and-white/JJ broadcasts/NNS began/VBD in/IN New/NNP Delhi/NNP ./.
-Broadcasts/NNS to/TO other/JJ cities/NNS did/VBD n't/RB start/VB until/IN 1972/CD ,/, and/CC color/NN broadcasts/NNS debuted/VBD just/RB seven/CD years/NNS ./.
+Broadcasts/NNS to/TO other/JJ cities/NNS did/VBD n't/RB start/VB until/IN 1972/CD ,/, and/CC color/NN broadcasts/NNS debuted/VBD just/RB seven/CD years/NNS ago/IN ./.
 1980/CD ,/, the/DT country/NN had/VBD 1.6/CD million/CD TV/NN sets/NNS ;/: today/NN  there/EX are/VBP 20/CD million/CD ./.
 That/DT 's/VBZ a/DT small/JJ number/NN for/IN a/DT nation/NN of/IN 800/CD million/CD people/NNS ,/, but/CC a/DT single/JJ set/NN might/MD have/VB much/JJ of/IN a/DT village/NN for/IN its/PRP$ audience/NN ./.
 A/DT sizable/JJ portion/NN of/IN illiterate/JJ Indians/NNPS now/RB rely/VBP on/IN television/NN for/IN news/NN  they/PRP used/VBD to/TO hear/VB third/JJ or/CC fourth/JJ hand/NN ,/, if/IN at/IN all/DT ./.
-Doordarshan/NNP is/VBZ controlled/VBN by/IN the/DT Ministry/NNP of/IN Information/NNP and/CC Broadcasting/NNP and/CC often/RB takes/VBZ orders/NNS directly/RB from/IN the/DT prime/JJ minister/NN 's/POS office/NN ,/, some/DT Doordarshan/NNP staff/NN members/NNS ./.
+Doordarshan/NNP is/VBZ controlled/VBN by/IN the/DT Ministry/NNP of/IN Information/NNP and/CC Broadcasting/NNP and/CC often/RB takes/VBZ orders/NNS directly/RB from/IN the/DT prime/JJ minister/NN 's/POS office/NN ,/, some/DT Doordarshan/NNP staff/NN members/NNS contend/VBP ./.
 critics/NNS ,/, the/DT shift/NN in/IN Doordarshan/NNP 's/POS news/NN coverage/NN from/IN generally/RB favoring/VBG the/DT government/NN to/TO outright/JJ bias/NN began/VBD in/IN May/NNP ./.
-that/DT time/NN ,/, the/DT critics/NNS say/VBP ,/, items/NNS on/IN Mr./NNP Gandhi/NNP and/CC Congress/NNP (/( I/NN )/) have/VBP increasingly/RB dominated/VBN the/DT nationwide/JJ evening/NN news/NN and/CC have/VBP been/VBN overwhelmingly/RB positive/JJ ,/, while/IN the/DT opposition/NN has/VBZ been/VBN given/VBN short/JJ shrift/NN ./.
+that/DT time/NN ,/, the/DT critics/NNS say/VBP ,/, items/NNS on/IN Mr./NNP Gandhi/NNP and/CC Congress/NNP (/( I/NN )/) have/VBP increasingly/RB dominated/VBN the/DT nationwide/JJ evening/NN news/NN and/CC have/VBP been/VBN overwhelmingly/RB positive/JJ ,/, while/IN the/DT opposition/NN has/VBZ been/VBN given/VBN short/JJ shrift/NN or/CC blatantly/RB abused/VBN ./.
 May/NNP ,/, a/DT Doordarshan/NNP news/NN bulletin/NN quoted/VBD excerpts/NNS from/IN a/DT newspaper/NN article/NN by/IN an/DT opposition/NN leader/NN ./.
 The/DT article/NN criticized/VBD both/PDT  the/DT government/NN and/CC the/DT opposition/NN ,/, but/CC Doordarshan/NNP aired/VBD only/RB the/DT parts/NNS criticizing/VBG the/DT opposition/NN ./.
 This/DT was/VBD merely/RB news/NN judgment/NN ,/, says/VBZ Mr./NNP Tewary/NNP ,/, the/DT information/NN and/CC broadcasting/NN minister/NN ./.
@@ -32,6 +32,6 @@ Doordarshan/NNP ignored/VBD it/PRP ./.
 Mr./NNP Tewary/NNP says/VBZ the/DT prime/JJ minister/NN is/VBZ photographed/VBN with/IN many/JJ people/NNS and/CC that/IN therefore/RB the/DT photograph/NN was/VBD n't/RB news/NN ./.
 a/DT senior/JJ reporter/NN at/IN All/NNP India/NNP Radio/NNP ,/, who/WP declines/VBZ to/TO be/VB identified/VBN ,/, says/VBZ :/: ``/`` We/PRP get/VBP orders/NNS from/IN a/DT chain/NN of/IN people/NNS ./.
 We/PRP are/VBP a/DT government/NN news/NN agency/NN and/CC are/VBP expected/VBN to/TO project/VB the/DT government/NN ./.
-all/PDT the/DT criticism/NN of/IN what/WP is/VBZ seen/VBN as/IN government/NN propaganda/NN ,/, many/JJ media/NNS experts/NNS say/VBP it/PRP ./.
+all/PDT the/DT criticism/NN of/IN what/WP is/VBZ seen/VBN as/IN government/NN propaganda/NN ,/, many/JJ media/NNS experts/NNS say/VBP it/PRP could/MD be/VB counterproductive/JJ ./.
 Probhat/NNP Chandra/NNP Chatterji/NNP ,/, one/CD of/IN the/DT pioneers/NNS of/IN Indian/JJ broadcasting/NN and/CC a/DT former/JJ director-general/NN of/IN All/NNP India/NNP Radio/NNP and/CC Doordarshan/NNP :/: ``/`` It/PRP is/VBZ debatable/JJ whether/IN this/DT propaganda/NN will/MD bring/VB votes/NNS to/TO the/DT government/NN ./.
-large/JJ ,/, people/NNS think/VBP that/IN it/PRP will/MD turn/VB the/DT people/NNS ./.
+large/JJ ,/, people/NNS think/VBP that/IN it/PRP will/MD turn/VB the/DT people/NNS away/RB ./.

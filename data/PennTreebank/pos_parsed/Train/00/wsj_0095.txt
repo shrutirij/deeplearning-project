@@ -4,7 +4,7 @@ Ethel/NNP }/) Klein/NNP puts/VBZ it/PRP ./.
 professionals/NNS ,/, 76/CD %/NN have/VBP a/DT favorable/JJ opinion/NN of/IN her/PRP$ ,/, compared/VBN to/TO 62/CD %/NN  who/WP approve/VBP of/IN her/PRP$ husband/NN 's/POS performance/NN ./.
 a/DT quarter/NN of/IN black/JJ voters/NNS disapprove/VBP of/IN Mr./NNP Bush/NNP 's/POS handling/NN of/IN his/PRP$ job/NN ,/, only/RB 15/CD %/NN have/VBP a/DT negative/JJ view/NN of/IN his/PRP$ spouse/NN ./.
 The/DT statistics/NNS imply/VBP that/IN three-quarters/NNS of/IN blacks/NNS approve/VBP of/IN Mr./NNP Bush/NNP 's/POS job/NN performance/NN and/CC 85/CD %/NN of/IN blacks/NNS approve/VBP of/IN Mrs./NNP Bush/NNP ./.
-the/DT assumption/NN is/VBZ that/IN it/PRP is/VBZ surprising/JJ that/IN so/RB few/JJ blacks/NNS find/VBP Mr./NNP and/CC Mrs./NNP Bush/NNP distasteful/JJ ,/, the/DT positive/JJ view/NN ./.
+the/DT assumption/NN is/VBZ that/IN it/PRP is/VBZ surprising/JJ that/IN so/RB few/JJ blacks/NNS find/VBP Mr./NNP and/CC Mrs./NNP Bush/NNP distasteful/JJ ,/, the/DT positive/JJ view/NN is/VBZ even/RB more/RBR newsworthy/JJ ./.
 Such/PDT an/DT editorial/NN point/NN of/IN view/NN perpetuates/VBZ an/DT insidious/JJ ,/, stereotyped/JJ perspective/NN ./.
 are/VBP we/PRP  blacks/NNS continually/RB defined/VBN by/IN our/PRP$ minority/NN and/CC the/DT lowest/JJS common/JJ denominator/NN ./.
 Preston/NNP G./NNP Foster/NNP ====================================== Birmingham/NNP ,/, Ala/NNP ./.

@@ -10,5 +10,5 @@ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ,/,
 M./NNP Anthony/NNP Burns/NNP ,/, Ryder/NNP 's/POS chairman/NN and/CC chief/JJ executive/NN officer/NN ,/, said/VBD :/: ``/`` We/PRP 're/VBP constantly/RB trying/VBG to/TO find/VB ways/NNS to/TO regain/VB the/DT earnings/NNS momentum/NN ./.
 we/PRP 're/VBP still/RB at/IN the/DT beginning/VBG stages/NNS of/IN some/DT of/IN these/DT changes/NNS ./.
 He/PRP said/VBD the/DT fourth/JJ quarter/NN will/MD be/VB ``/`` challenging/JJ ,/, ''/'' and/CC maintained/VBD his/PRP$ conservative/JJ forecast/NN that/IN 1990/CD ``/`` wo/MD n't/RB be/VB a/DT barn/NN burner/NN ./.
-the/DT nine/CD months/NNS ,/, net/JJ income/NN fell/VBD 79/CD %/NN to/TO $/$ 31.1/CD million/CD ,/, or/CC 33/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 149.3/CD million/CD ,/, or/CC $/$ 1.82/CD  a/DT share/NN ,/, a/DT year/NN ./.
+the/DT nine/CD months/NNS ,/, net/JJ income/NN fell/VBD 79/CD %/NN to/TO $/$ 31.1/CD million/CD ,/, or/CC 33/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 149.3/CD million/CD ,/, or/CC $/$ 1.82/CD  a/DT share/NN ,/, a/DT year/NN earlier/RB ./.
 Revenue/NN rose/VBD slightly/RB to/TO $/$ 3.8/CD billion/CD from/IN $/$ 3.7/CD billion/CD ./.

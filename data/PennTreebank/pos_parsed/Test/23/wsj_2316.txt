@@ -11,17 +11,17 @@ It/PRP also/RB said/VBD it/PRP would/MD use/VB that/DT two-and-a-half/JJ year/NN
 The/DT U.S./NNP termed/VBD its/PRP$ plan/NN ,/, a/DT ``/`` trade/NN liberalization/NN program/NN ,/, ''/'' despite/IN the/DT fact/NN that/IN it/PRP is/VBZ merely/RB an/DT extension/NN ./.
 Mexico/NNP ,/, which/WDT was/VBD one/CD of/IN the/DT first/JJ countries/NNS to/TO conclude/VB its/PRP$ steel/NN talks/NNS with/IN the/DT U.S./NNP ,/, virtually/RB doubled/VBD its/PRP$ quota/NN to/TO 0.95/CD %/NN of/IN the/DT U.S./NNP steel/NN market/NN from/IN 0.48/CD %/NN under/IN the/DT previous/JJ quotas/NNS ./.
 South/NNP Korea/NNP ,/, which/WDT had/VBD 1.9/CD %/NN under/IN the/DT previous/JJ quotas/NNS ,/, is/VBZ set/VBN to/TO get/VB a/DT small/JJ increase/NN to/TO about/RB 1.95/CD %/NN ./.
-That/DT increase/NN rises/VBZ to/TO slightly/RB more/JJR than/IN 2/CD %/NN of/IN the/DT U.S./NNP market/NN if/IN a/DT joint/JJ Korean-U.S./NNP steel/NN project/NN ./.
+That/DT increase/NN rises/VBZ to/TO slightly/RB more/JJR than/IN 2/CD %/NN of/IN the/DT U.S./NNP market/NN if/IN a/DT joint/JJ Korean-U.S./NNP steel/NN project/NN is/VBZ included/VBN ./.
 Brazil/NNP is/VBZ expected/VBN to/TO increase/VB its/PRP$ allowance/NN from/IN the/DT 1.43/CD %/NN share/NN it/PRP has/VBZ had/VBN in/IN recent/JJ years/NNS ./.
 The/DT EC/NNP and/CC Japan/NNP --/: the/DT U.S./NNP 's/POS largest/JJS steel/NN suppliers/NNS --/: have/VBP n't/RB been/VBN filling/VBG their/PRP$ quotas/NNS to/TO the/DT full/JJ extent/NN ./.
 The/DT EC/NNP steel/NN industry/NN ,/, which/WDT has/VBZ been/VBN coping/VBG with/IN strong/JJ European/JJ demand/NN ,/, has/VBZ been/VBN supplying/VBG about/RB 5/CD %/NN of/IN the/DT U.S./NNP market/NN compared/VBN with/IN recent/JJ quotas/NNS of/IN about/RB 6.7/CD %/NN ./.
 Japan/NNP has/VBZ been/VBN shipping/VBG steel/NN to/TO total/VB about/RB 4.5/CD %/NN of/IN the/DT U.S./NNP market/NN compared/VBN with/IN a/DT quota/NN of/IN 5.9/CD %/NN ./.
 the/DT recent/JJ talks/NNS ,/, the/DT EC/NNP had/VBD its/PRP$ quota/NN increased/VBN about/RB 300,000/CD tons/NNS ,/, to/TO 7/CD %/NN of/IN the/DT U.S./NNP market/NN from/IN 6.7/CD %/NN in/IN 1988/CD ./.
 its/PRP$ quota/NN has/VBZ been/VBN as/RB high/JJ as/IN 6.9/CD %/NN in/IN 1984/CD ./.
-Japan/NNP ,/, however/RB ,/, has/VBZ agreed/VBN to/TO cut/VB its/PRP$ quota/NN to/TO about/RB 5/CD %/NN from/IN 5.9/CD %/NN ./.
+Japan/NNP ,/, however/RB ,/, has/VBZ agreed/VBN to/TO cut/VB its/PRP$ quota/NN to/TO about/RB 5/CD %/NN from/IN 5.9/CD %/NN previously/RB ./.
 Japan/NNP ,/, the/DT EC/NNP ,/, Brazil/NNP ,/, Mexico/NNP and/CC South/NNP Korea/NNP provide/VBP about/RB 80/CD %/NN of/IN the/DT steel/NN imported/VBN to/TO the/DT U.S./NNP under/IN the/DT quota/NN program/NN ./.
 The/DT balance/NN is/VBZ supplied/VBN by/IN a/DT host/NN of/IN smaller/JJR exporters/NNS ,/, such/JJ as/IN Australia/NNP and/CC Venezuela/NNP ./.
 The/DT U.S./NNP had/VBD about/RB an/DT extra/JJ 2/CD %/NN of/IN the/DT domestic/JJ steel/NN market/NN to/TO give/VB to/TO foreign/JJ suppliers/NNS in/IN its/PRP$ quota/NN talks/NNS ./.
 That/DT was/VBD essentially/RB made/VBN up/RP of/IN a/DT 1/CD %/NN increase/NN in/IN the/DT overall/JJ quota/NN program/NN and/CC 1/CD %/NN from/IN cutting/VBG Japan/NNP 's/POS allowance/NN ./.
-Negotiators/NNS from/IN the/DT White/NNP House/NNP trade/NN office/NN will/MD repeat/VB these/DT quota/NN negotiations/NNS next/IN year/NN when/WRB they/PRP will/MD have/VB another/DT 1/CD %/NN of/IN the/DT U.S./NNP steel/NN market/NN ./.
+Negotiators/NNS from/IN the/DT White/NNP House/NNP trade/NN office/NN will/MD repeat/VB these/DT quota/NN negotiations/NNS next/IN year/NN when/WRB they/PRP will/MD have/VB another/DT 1/CD %/NN of/IN the/DT U.S./NNP steel/NN market/NN to/TO allocate/VB ./.
 These/DT optional/JJ 1%-a-year/JJ increases/NNS to/TO the/DT steel/NN quota/NN program/NN are/VBP built/VBN into/IN the/DT Bush/NNP administration/NN 's/POS steel-quota/NN program/NN to/TO give/VB its/PRP$ negotiators/NNS leverage/NN with/IN foreign/JJ steel/NN suppliers/NNS to/TO try/VB to/TO get/VB them/PRP to/TO withdraw/VB subsidies/NNS and/CC protectionism/NN from/IN their/PRP$ own/JJ steel/NN industries/NNS ./.

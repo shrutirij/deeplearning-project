@@ -3,4 +3,4 @@ This/DT is/VBZ a/DT classic/JJ example/NN of/IN the/DT old/JJ saying/NN ,/, ``/`
 It/PRP 's/VBZ ridiculous/JJ for/IN a/DT family/NN with/IN taxable/JJ income/NN of/IN $/$ 50,000/CD to/TO pay/VB the/DT same/JJ 28/CD %/NN incremental/JJ tax/NN rate/NN as/IN a/DT family/NN with/IN taxable/JJ income/NN of/IN $/$ 250,000/CD ./.
 The/DT 33/CD %/NN bracket/NN should/MD apply/VB to/TO all/DT income/NN over/IN the/DT applicable/JJ level/NN ,/, not/RB just/RB the/DT 5/CD %/NN rate/NN adjustment/NN amount/NN ./.
 It/PRP 's/VBZ equally/RB ridiculous/JJ not/RB to/TO provide/VB a/DT capital/NN investment/NN or/CC retirement-savings/JJ tax/NN incentive/NN ./.
-Jeffrey/NNP T./NNP Schmidlin/NNP ====================================== Cincinnati/NNP ======================================./.
+Jeffrey/NNP T./NNP Schmidlin/NNP ====================================== Cincinnati/NNP ======================================

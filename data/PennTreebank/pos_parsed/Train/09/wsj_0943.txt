@@ -1,5 +1,5 @@
 Bell/NNP Atlantic/NNP Corp./NNP said/VBD it/PRP agreed/VBD definitively/RB to/TO acquire/VB one/CD of/IN Control/NNP Data/NNP Corp./NNP 's/POS computer-maintenance/NN businesses/NNS ./.
-Terms/NNS of/IN the/DT accord/NN ./.
+Terms/NNS of/IN the/DT accord/NN were/VBD n't/RB disclosed/VBN ./.
 Control/NNP Data/NNP 's/POS third-party/JJ maintenance/NN unit/NN services/VBZ products/NNS primarily/RB made/VBN by/IN Digital/NNP Equipment/NNP Corp./NNP and/CC International/NNP Business/NNP Machines/NNPS Corp/NNP ./.
 The/DT unit/NN has/VBZ 6,000/CD customers/NNS and/CC ,/, according/VBG to/TO one/CD analyst/NN ,/, had/VBD 1988/CD revenue/NN of/IN about/IN $/$ 85/CD million/CD ./.
 the/DT agreement/NN ,/, which/WDT had/VBD been/VBN widely/RB expected/VBN ,/, Bell/NNP Atlantic/NNP would/MD be/VB buying/VBG Control/NNP Data/NNP 's/POS customer/NN base/NN and/CC its/PRP$ approximately/RB 100/CD U.S./NNP maintenance/NN facilities/NNS in/IN about/IN 33/CD cities/NNS ./.

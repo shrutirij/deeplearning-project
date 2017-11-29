@@ -6,14 +6,14 @@ it/PRP is/VBZ Mr./NNP Lane/NNP ,/, as/IN movie/NN director/NN ,/, producer/NN an
 course/NN ,/, if/IN the/DT film/NN contained/VBD dialogue/NN ,/, Mr./NNP Lane/NNP 's/POS Artist/NNP would/MD be/VB called/VBN a/DT homeless/JJ person/NN ./.
 the/DT Little/NNP Tramp/NNP ,/, for/IN that/DT matter/NN ./.
 I/PRP say/VBP ``/`` contained/VBD dialogue/NN ''/'' because/IN ``/`` Sidewalk/NNP Stories/NNP ''/'' is/VBZ n't/RB really/RB silent/JJ at/IN all/DT ./.
-Composer/NN Marc/NNP Marder/NNP ,/, a/DT college/NN friend/NN of/IN Mr./NNP Lane/NNP 's/POS  who/WP earns/VBZ his/PRP$ living/NN playing/VBG the/DT double/JJ bass/NN in/IN classical/JJ music/NN ensembles/NNS ,/, has/VBZ prepared/VBN an/DT exciting/JJ ,/, eclectic/JJ score/NN  that/WDT tells/VBZ you/PRP  what/WP  the/DT characters/NNS are/VBP thinking/VBG and/CC feeling/VBG far/RB more/RBR precisely/RB than/IN intertitles/NNS ,/, or/CC even/RB words/NNS ./.
-Mr./NNP Lane/NNP 's/POS film/NN takes/VBZ a/DT highly/RB romanticized/VBN view/NN of/IN life/NN on/IN the/DT streets/NNS (/( though/IN probably/RB no/DT more/RBR romanticized/VBN than/IN Mr./NNP Chaplin/NNP 's/POS notion/NN of/IN the/DT Tramp/NNP as/IN the/DT good-hearted/JJ free/JJ spirit/NN ./.
+Composer/NN Marc/NNP Marder/NNP ,/, a/DT college/NN friend/NN of/IN Mr./NNP Lane/NNP 's/POS  who/WP earns/VBZ his/PRP$ living/NN playing/VBG the/DT double/JJ bass/NN in/IN classical/JJ music/NN ensembles/NNS ,/, has/VBZ prepared/VBN an/DT exciting/JJ ,/, eclectic/JJ score/NN  that/WDT tells/VBZ you/PRP  what/WP  the/DT characters/NNS are/VBP thinking/VBG and/CC feeling/VBG far/RB more/RBR precisely/RB than/IN intertitles/NNS ,/, or/CC even/RB words/NNS ,/, would/MD ./.
+Mr./NNP Lane/NNP 's/POS film/NN takes/VBZ a/DT highly/RB romanticized/VBN view/NN of/IN life/NN on/IN the/DT streets/NNS (/( though/IN probably/RB no/DT more/RBR romanticized/VBN than/IN Mr./NNP Chaplin/NNP 's/POS notion/NN of/IN the/DT Tramp/NNP as/IN the/DT good-hearted/JJ free/JJ spirit/NN )/) ./.
 lovely/JJ black/NN and/CC white/NN by/IN Bill/NNP Dill/NNP ,/, the/DT New/NNP York/NNP streets/NNS of/IN ``/`` Sidewalk/NNP Stories/NNP ''/'' seem/VBP benign/JJ ./.
 Wall/NNP Street/NNP men/NNS and/CC women/NNS walk/VBP with/IN great/JJ purpose/NN ,/, noticing/VBG one/CD another/DT only/RB when/WRB they/PRP jostle/VBP for/IN cabs/NNS ./.
 The/DT Artist/NNP hangs/VBZ out/RP in/IN Greenwich/NNP Village/NNP ,/, on/IN a/DT strip/NN of/IN Sixth/NNP Avenue/NNP populated/VBN by/IN jugglers/NNS ,/, magicians/NNS and/CC other/JJ good-natured/JJ hustlers/NNS ./.
 This/DT clearly/RB is/VBZ not/RB real/JJ life/NN :/: no/DT crack/NN dealers/NNS ,/, no/DT dead-eyed/JJ men/NNS selling/VBG four-year-old/JJ copies/NNS of/IN Cosmopolitan/NNP ,/, no/DT one/PRP curled/VBD up/RP in/IN a/DT cardboard/NN box/NN ./.
 The/DT Artist/NNP has/VBZ his/PRP$ routine/NN ./.
-He/PRP spends/VBZ his/PRP$ days/NNS ./.
+He/PRP spends/VBZ his/PRP$ days/NNS sketching/VBG passers-by/NNS ,/, or/CC trying/VBG to/TO ./.
 night/NN  he/PRP returns/VBZ to/TO the/DT condemned/VBN building/NN  he/PRP calls/VBZ home/NN ./.
 His/PRP$ life/NN ,/, including/VBG his/PRP$ skirmishes/NNS with/IN a/DT competing/VBG sketch/NN artist/NN ,/, seems/VBZ carefree/JJ ./.
 He/PRP is/VBZ his/PRP$ own/JJ man/NN ./.
@@ -36,8 +36,8 @@ She/PRP was/VBD untrained/JJ and/CC ,/, in/IN one/CD botched/JJ job/NN killed/VB
 Her/PRP$ remorse/NN was/VBD shallow/JJ and/CC brief/JJ ./.
 she/PRP was/VBD kind/JJ and/CC playful/JJ to/TO her/PRP$ children/NNS ,/, she/PRP was/VBD dreadful/JJ to/TO her/PRP$ war-damaged/JJ husband/NN ;/: she/PRP openly/RB brought/VBD her/PRP$ lover/NN into/IN their/PRP$ home/NN ./.
 Mr./NNP Chabrol/NNP ,/, and/CC played/VBN with/IN thin-lipped/JJ intensity/NN by/IN Isabelle/NNP Huppert/NNP ,/, Marie-Louise/NNP (/( called/VBN Marie/NNP Latour/NNP in/IN the/DT film/NN )/) was/VBD not/RB a/DT nice/JJ person/NN ./.
-she/PRP did/VBD n't/RB deserve/VB to/TO have/VB her/PRP$ head/NN ./.
+she/PRP did/VBD n't/RB deserve/VB to/TO have/VB her/PRP$ head/NN chopped/VBN off/RP ./.
 There/EX is/VBZ very/RB little/JJ to/TO recommend/VB ``/`` Old/NNP Gringo/NNP ,/, ''/'' a/DT confused/JJ rendering/NN of/IN the/DT Carlos/NNP Fuentes/NNP novel/NN of/IN the/DT Mexican/NNP Revolution/NNP ./.
 the/DT picture/NN is/VBZ taken/VBN up/RP with/IN endless/JJ scenes/NNS of/IN many/JJ people/NNS either/CC fighting/VBG or/CC eating/VBG and/CC drinking/VBG to/TO celebrate/VB victory/NN ./.
-I/PRP mention/VBP the/DT picture/NN only/RB because/IN many/JJ bad/JJ movies/NNS have/VBP a/DT bright/JJ spot/NN ,/, and/CC this/DT  one/CD has/VBZ Gregory/NNP Peck/NNP ,/, in/IN a/DT marvelously/RB loose/JJ and/CC energetic/JJ portrayal/NN of/IN an/DT old/JJ man/NN  who/WP wants/VBZ to/TO die/VB the/DT way/NN  he/PRP ./.
+I/PRP mention/VBP the/DT picture/NN only/RB because/IN many/JJ bad/JJ movies/NNS have/VBP a/DT bright/JJ spot/NN ,/, and/CC this/DT  one/CD has/VBZ Gregory/NNP Peck/NNP ,/, in/IN a/DT marvelously/RB loose/JJ and/CC energetic/JJ portrayal/NN of/IN an/DT old/JJ man/NN  who/WP wants/VBZ to/TO die/VB the/DT way/NN  he/PRP wants/VBZ to/TO die/VB ./.
 Video/NNP Tip/NNP :/: Before/IN seeing/VBG ``/`` Sidewalk/NNP Stories/NNP ,/, ''/'' take/VB a/DT look/NN at/IN ``/`` City/NNP Lights/NNP ,/, ''/'' Chaplin/NNP 's/POS Tramp/NNP at/IN his/PRP$ finest/JJS ./.

@@ -6,4 +6,4 @@ addition/NN ,/, HealthVest/NNP said/VBD Bank/NNP of/IN Tokyo/NNP Trust/NNP Co./N
 HealthVest/NNP missed/VBD an/DT interest/NN payment/NN to/TO Bank/NNP of/IN Tokyo/NNP on/IN Oct./NNP 1/CD ./.
 HealthVest/NNP said/VBD the/DT Tokyo/NNP bank/NN indicated/VBD that/IN it/PRP wo/MD n't/RB accelerate/VB HealthVest/NNP 's/POS $/$ 50/CD million/CD loan/NN ./.
 HealthVest/NNP is/VBZ in/IN a/DT severe/JJ liquidity/NN bind/NN because/IN its/PRP$ affiliate/NN ,/, Healthcare/NNP International/NNP Inc./NNP ,/, has/VBZ failed/VBN to/TO make/VB about/IN $/$ 10.6/CD million/CD in/IN principal/NN and/CC interest/NN payments/NNS owed/VBD since/IN August/NNP ./.
-Healthcare/NNP operates/VBZ many/JJ of/IN the/DT health-care/JJ properties/NNS that/IN HealthVest/NNP ./.
+Healthcare/NNP operates/VBZ many/JJ of/IN the/DT health-care/JJ properties/NNS that/IN HealthVest/NNP owns/VBZ ./.

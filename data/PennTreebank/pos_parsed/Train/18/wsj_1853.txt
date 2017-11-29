@@ -8,7 +8,7 @@ addition/NN ,/, despite/IN IBM/NNP 's/POS well-publicized/JJ recent/JJ problems/
 the/DT end/NN of/IN the/DT second/JJ quarter/NN ,/, it/PRP had/VBD $/$ 4.47/CD billion/CD of/IN cash/NN and/CC marketable/JJ securities/NNS on/IN hand/NN ./.
 a/DT result/NN ,/, some/DT securities/NNS analysts/NNS had/VBD predicted/VBN in/IN recent/JJ days/NNS that/IN IBM/NNP would/MD authorize/VB additional/JJ purchases/NNS ./.
 Armonk/NNP ,/, N.Y./NNP ,/, a/DT spokesman/NN said/VBD that/IN although/IN IBM/NNP did/VBD n't/RB view/VB its/PRP$ spending/NN as/IN necessarily/RB a/DT way/NN to/TO support/VB the/DT stock/NN ,/, it/PRP thought/VBD the/DT purchases/NNS were/VBD a/DT good/JJ way/NN to/TO improve/VB such/JJ financial/JJ measurements/NNS as/IN per-share/JJ earnings/NNS and/CC return/NN on/IN equity/NN ./.
-We/PRP view/VBP it/PRP as/IN a/DT good/JJ long-term/JJ investment/NN ,/, ''/'' the/DT spokesman/NN ./.
+We/PRP view/VBP it/PRP as/IN a/DT good/JJ long-term/JJ investment/NN ,/, ''/'' the/DT spokesman/NN said/VBD ./.
 the/DT short/JJ term/NN ,/, the/DT move/NN is/VBZ likely/JJ to/TO have/VB little/JJ effect/NN ./.
 yesterday/NN 's/POS closing/NN price/NN ,/, $/$ 1/CD billion/CD would/MD buy/VB back/RB about/IN 10/CD million/CD shares/NNS ,/, or/CC less/JJR than/IN 2/CD %/NN of/IN the/DT roughly/RB 580/CD million/CD outstanding/JJ ./.
 addition/NN ,/, as/IN of/IN Sept./NNP 30/CD ,/, the/DT company/NN still/RB had/VBD authorization/NN to/TO buy/VB $/$ 368/CD million/CD of/IN stock/NN under/IN a/DT prior/RB repurchase/NN program/NN ./.
@@ -17,7 +17,7 @@ IBM/NNP last/JJ year/NN produced/VBD its/PRP$ first/JJ strong/JJ results/NNS in/
 it/PRP had/VBD trouble/NN manufacturing/VBG a/DT chip/NN for/IN its/PRP$ mainframes/NNS ,/, IBM/NNP 's/POS bread-and-butter/JJ business/NN ./.
 it/PRP had/VBD a/DT series/NN of/IN smaller/JJR glitches/NNS ,/, including/VBG problems/NNS manufacturing/VBG certain/JJ personal/JJ computers/NNS and/CC the/DT delay/NN in/IN the/DT announcement/NN of/IN some/DT important/JJ workstations/NNS ./.
 IBM/NNP had/VBD to/TO delay/VB the/DT introduction/NN of/IN some/DT high-end/JJ disk/NN drives/NNS ,/, which/WDT account/VBP for/IN 10/CD %/NN of/IN its/PRP$ $/$ 60/CD billion/CD of/IN annual/JJ revenue/NN ./.
-None/NN of/IN the/DT problems/NNS is/VBZ necessarily/RB fatal/JJ ,/, and/CC they/PRP are/VBP n't/RB all/DT ./.
+None/NN of/IN the/DT problems/NNS is/VBZ necessarily/RB fatal/JJ ,/, and/CC they/PRP are/VBP n't/RB all/DT necessarily/RB even/RB related/JJ ./.
 There/EX are/VBP also/RB other/JJ factors/NNS at/IN work/NN  that/WDT are/VBP outside/IN IBM/NNP 's/POS control/NN ,/, such/JJ as/IN currency/NN exchange/NN rates/NNS ./.
 The/DT strong/JJ dollar/NN ,/, which/WDT reduces/VBZ the/DT value/NN of/IN overseas/JJ earnings/NNS and/CC revenue/NN when/WRB they/PRP are/VBP translated/VBN into/IN dollars/NNS ,/, is/VBZ expected/VBN to/TO knock/VB 80/CD to/TO 85/CD cents/NNS off/IN IBM/NNP 's/POS per-share/JJ earnings/NNS for/IN the/DT full/JJ year/NN ./.
 that/DT problem/NN ,/, IBM/NNP might/MD have/VB matched/VBN last/JJ year/NN 's/POS earnings/NNS of/IN $/$ 5.81/CD billion/CD ,/, or/CC $/$ 9.80/CD  a/DT share/NN ./.

@@ -11,11 +11,11 @@ the/DT latest/JJS week/NN ,/, funds/NNS open/JJ to/TO institutions/NNS alone/RB 
 Some/DT fund/NN managers/NNS say/VBP inflows/NNS could/MD increase/VB in/IN coming/VBG days/NNS as/IN a/DT result/NN of/IN stock/NN selling/NN in/IN the/DT wake/NN of/IN Friday/NNP 's/POS 190.58/CD point/JJ drop/NN in/IN the/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP ./.
 you/PRP 're/VBP selling/VBG equities/NNS ,/, you/PRP do/VBP n't/RB start/VB getting/VBG proceeds/NNS for/IN five/CD to/TO seven/CD days/NNS ,/, ''/'' said/VBD Frank/NNP Rachwalski/NNP ,/, who/WP manages/VBZ the/DT Kemper/NNP Money/NNP Market/NNP Fund/NNP ./.
 Neal/NNP Litvack/NNP ,/, marketing/NN vice/NN president/NN for/IN Fidelity/NNP Investments/NNPS ,/, said/VBD inflows/NNS Friday/NNP into/IN Fidelity/NNP 's/POS Spartan/NNP and/CC Cash/NNP Reserves/NNPS money-market/NN funds/NNS were/VBD about/IN twice/RB normal/JJ levels/NNS ,/, with/IN about/IN half/NN coming/VBG from/IN equity/NN and/CC junk-bond/NN funds/NNS ./.
-Monday/NNP and/CC Tuesday/NNP ``/`` were/VBD lackluster/JJ in/IN comparison/NN ,/, ''/'' he/PRP ./.
-People/NNS are/VBP n't/RB necessarily/RB running/VBG scared/RB ,/, ''/'' Mr./NNP Litvack/NNP ./.
-They/PRP 're/VBP maintaining/VBG their/PRP$ attitude/NN toward/IN investing/NN ,/, which/WDT has/VBZ leaned/VBN toward/IN the/DT conservative/NN ./.
+Monday/NNP and/CC Tuesday/NNP ``/`` were/VBD lackluster/JJ in/IN comparison/NN ,/, ''/'' he/PRP said/VBD ./.
+People/NNS are/VBP n't/RB necessarily/RB running/VBG scared/RB ,/, ''/'' Mr./NNP Litvack/NNP said/VBD ./.
+They/PRP 're/VBP maintaining/VBG their/PRP$ attitude/NN toward/IN investing/NN ,/, which/WDT has/VBZ leaned/VBN toward/IN the/DT conservative/NN recently/RB ./.
 Money-fund/NN yields/NNS tend/VBP to/TO lag/VB interestrate/NN trends/NNS as/IN portfolio/NN managers/NNS adjust/VBP the/DT maturities/NNS of/IN their/PRP$ investments/NNS --/: short-term/JJ Treasury/NNP securities/NNS ,/, commercial/JJ paper/NN and/CC the/DT like/JJ --/: to/TO capture/VB the/DT highest/JJS yields/NNS ./.
-Maturities/NNS usually/RB are/VBP shorter/JJR when/WRB rates/NNS are/VBP rising/VBG and/CC longer/JJR when/WRB they/PRP ./.
+Maturities/NNS usually/RB are/VBP shorter/JJR when/WRB rates/NNS are/VBP rising/VBG and/CC longer/JJR when/WRB they/PRP are/VBP falling/VBG ./.
 The/DT average/JJ maturity/NN of/IN the/DT funds/NNS tracked/VBN by/IN IBC\/Donoghue/NNP 's/POS remained/VBD at/IN 38/CD days/NNS for/IN the/DT third/JJ consecutive/JJ week/NN ./.
 It/PRP was/VBD as/RB short/JJ as/IN 29/CD days/NNS at/IN the/DT start/NN of/IN this/DT year/NN ,/, when/WRB rates/NNS were/VBD marching/VBG steadily/RB upward/RB ,/, and/CC hit/VBD 42/CD days/NNS in/IN August/NNP ./.
 The/DT average/JJ seven-day/JJ simple/JJ yield/NN of/IN the/DT funds/NNS fell/VBD to/TO 8.21/CD %/NN  this/DT week/NN from/IN 8.26/CD %/NN ./.

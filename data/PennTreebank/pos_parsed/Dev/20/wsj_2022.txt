@@ -1,5 +1,5 @@
 Coca-Cola/NNP Enterprises/NNPS Inc./NNP ,/, fulfilling/VBG its/PRP$ dismal/JJ earnings/NNS forecast/VBN for/IN 1989/CD ,/, said/VBD its/PRP$ third-quarter/NN net/NN income/NN fell/VBD 68/CD %/NN on/IN flat/JJ revenue/NN ./.
-higher/JJR marketing/NN costs/NNS and/CC slowing/VBG volume/NN growth/NN ,/, the/DT giant/JJ Coke/NNP bottling/NN operation/NN said/VBD net/NN fell/VBD to/TO $/$ 12.7/CD million/CD ,/, or/CC six/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 39.9/CD million/CD ,/, or/CC 26/CD cents/NNS  a/DT share/NN ,/, the/DT year/NN ./.
+higher/JJR marketing/NN costs/NNS and/CC slowing/VBG volume/NN growth/NN ,/, the/DT giant/JJ Coke/NNP bottling/NN operation/NN said/VBD net/NN fell/VBD to/TO $/$ 12.7/CD million/CD ,/, or/CC six/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 39.9/CD million/CD ,/, or/CC 26/CD cents/NNS  a/DT share/NN ,/, the/DT year/NN earlier/RBR ./.
 The/DT results/NNS met/VBD estimates/NNS of/IN analysts/NNS ,/, who/WP had/VBD already/RB slashed/VBN their/PRP$ projections/NNS after/IN the/DT company/NN said/VBD in/IN late/JJ August/NNP that/IN its/PRP$ 1989/CD earnings/NNS could/MD tumble/VB as/RB much/RB as/IN 37/CD %/NN ./.
 A/DT company/NN spokesman/NN said/VBD yesterday/NN that/IN Coca-Cola/NNP Enterprises/NNPS sticks/VBZ by/IN its/PRP$ 1989/CD forecast/NN ./.
 Third-quarter/NN revenue/NN was/VBD flat/JJ at/IN $/$ 1.02/CD billion/CD ./.
@@ -9,7 +9,7 @@ The/DT volume/NN is/VBZ well/RB below/IN the/DT industry/NN 's/POS 4/CD %/NN to/
 The/DT latest/JJS third-quarter/NN volume/NN also/RB compares/VBZ with/IN a/DT very/RB strong/JJ 10/CD %/NN growth/NN in/IN the/DT year-ago/JJ quarter/NN ./.
 Coca-Cola/NNP Enterprises/NNPS blamed/VBD the/DT lower/JJR volume/NN on/IN its/PRP$ soft-drink/JJ prices/NNS ,/, which/WDT were/VBD about/IN 3/CD %/NN higher/JJR in/IN the/DT third/JJ quarter/NN ./.
 Consumers/NNS have/VBP been/VBN accustomed/VBN to/TO buying/VBG soft-drinks/NNS at/IN discounted/VBN prices/NNS for/IN several/JJ years/NNS ./.
-Coca-Cola/NNP Enterprises/NNPS said/VBD it/PRP had/VBD to/TO boost/VB spending/VBG for/IN trade/NN and/CC dealer/NN incentives/NNS to/TO try/VB to/TO keep/VB volumes/NNS ./.
+Coca-Cola/NNP Enterprises/NNPS said/VBD it/PRP had/VBD to/TO boost/VB spending/VBG for/IN trade/NN and/CC dealer/NN incentives/NNS to/TO try/VB to/TO keep/VB volumes/NNS from/IN slipping/VBG ./.
 The/DT company/NN said/VBD it/PRP expects/VBZ consumers/NNS will/MD adjust/VB to/TO higher-priced/JJ soft/JJ drinks/NNS ./.
 A/DT spokesman/NN attributed/VBD the/DT bulk/NN of/IN a/DT 14/CD %/NN increase/NN in/IN selling/VBG ,/, administrative/JJ and/CC general/JJ expenses/NNS --/: to/TO $/$ 324.9/CD million/CD --/: to/TO marketing/NN costs/NNS ./.
 They/PRP 're/VBP out/IN there/RB promoting/VBG like/IN crazy/JJ ,/, trying/VBG to/TO get/VB prices/NNS up/IN by/IN promotion/NN ,/, ''/'' said/VBD Roy/NNP Burry/NNP ,/, an/DT analyst/NN with/IN Kidder/NNP ,/, Peabody/NNP &/CC Co/NNP ./.

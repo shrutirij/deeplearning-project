@@ -9,7 +9,7 @@ They/PRP previously/RB had/VBD backed/VBN an/DT internal/JJ reorganization/NN pl
 All/DT of/IN the/DT bidders/NNS contemplate/VBP full/JJ payment/NN including/VBG interest/NN to/TO secured/VBN creditors/NNS ./.
 United/NNP Illuminating/NNP 's/POS plan/NN ,/, however/RB ,/, offers/VBZ more/RBR for/IN unsecured/JJ creditors/NNS ./.
 Geoffrey/NNP Kalmus/NNP ,/, counsel/NN to/TO the/DT official/JJ creditors/NNS committee/NN ,/, said/VBD that/IN under/IN the/DT United/NNP Illuminating/NNP plan/NN ,/, unsecured/JJ creditors/NNS would/MD be/VB paid/VBN in/IN full/JJ credits/NNS and/CC interest/NN of/IN about/IN $/$ 855/CD million/CD ,/, accrued/VBN before/IN PS/NNP of/IN New/NNP Hampshire/NNP 's/POS Jan./NNP 1988/CD filing/VBG for/IN bankruptcy/NN court/NN protection/NN ./.
-addition/NN ,/, they/PRP would/MD receive/VB some/DT $/$ 200/CD million/CD in/IN payments/NNS for/IN interest/NN ./.
+addition/NN ,/, they/PRP would/MD receive/VB some/DT $/$ 200/CD million/CD in/IN payments/NNS for/IN interest/NN since/IN then/RB ./.
 Mr./NNP Kalmus/NNP said/VBD that/IN by/IN next/JJ July/NNP they/PRP would/MD have/VB accrued/VBN unpaid/JJ interest/NN equal/JJ to/TO $/$ 350/CD million/CD ./.
 Other/JJ plans/NNS generally/RB would/MD n't/RB pay/VB unsecured/JJ creditors/NNS '/POS interest/NN accrued/VBN since/IN the/DT filing/NN ./.
 United/NNP Illuminating/NNP 's/POS plan/NN ,/, a/DT new/JJ holding/VBG company/NN would/MD be/VB formed/VBN to/TO own/VB the/DT two/CD companies/NNS ./.
@@ -26,7 +26,7 @@ creditors/NNS and/CC bidders/NNS alike/RB concede/VBP that/IN the/DT state/NN pl
 The/DT state/NN has/VBZ endorsed/VBN the/DT New/NNP England/NNP Electric/NNP plan/NN ,/, which/WDT promises/VBZ to/TO limit/VB rate/NN increases/NNS to/TO 4.8/CD %/NN annually/RB for/IN seven/CD years/NNS ./.
 Northeast/NNP Utilities/NNPS '/POS plan/NN proposes/VBZ 5.5/CD %/NN annual/JJ increases/NNS ./.
 PS/NNP of/IN New/NNP Hampshire/NNP amended/VBD its/PRP$ plan/NN to/TO call/VB for/IN two/CD years/NNS of/IN 5.5/CD %/NN rate/NN increases/NNS followed/VBN by/IN five/CD years/NNS of/IN 4.5/CD %/NN increases/NNS ./.
-Fuel/NN cost/NN adjustments/NNS could/MD change/VB the/DT effective/JJ rate/NN increases/NNS ./.
+Fuel/NN cost/NN adjustments/NNS could/MD change/VB the/DT effective/JJ rate/NN increases/NNS ,/, however/RB ./.
 it/PRP had/VBD proposed/VBN seven/CD years/NNS of/IN 5.5/CD %/NN increases/NNS ./.
 United/NNP Illuminating/NNP also/RB amended/VBD its/PRP$ rate/NN plan/NN ./.
 The/DT new/JJ offer/NN assumes/VBZ just/RB five/CD years/NNS of/IN 5.5/CD %/NN rate/NN increases/NNS ,/, to/TO be/VB followed/VBN by/IN state-approved/JJ increases/NNS under/IN the/DT usual/JJ hearing/NN procedure/NN ./.

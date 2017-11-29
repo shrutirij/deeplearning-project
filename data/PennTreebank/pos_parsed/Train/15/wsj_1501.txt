@@ -3,8 +3,8 @@ an/DT Oct./NNP 19/CD letter/NN to/TO A.P./NNP Green/NNP 's/POS board/NN ,/, East
 The/DT letter/NN ,/, attached/VBN to/TO a/DT filing/NN with/IN the/DT Securities/NNP and/CC Exchange/NNP Commission/NNP ,/, said/VBD the/DT approval/NN is/VBZ also/RB contingent/JJ upon/IN obtaining/VBG satisfactory/JJ financing/NN ./.
 An/DT A.P./NNP Green/NNP official/NN declined/VBD to/TO comment/VB on/IN the/DT filing/NN ./.
 The/DT $/$ 40-a-share/JJ proposal/NN values/VBZ the/DT company/NN at/IN about/RB $/$ 106.6/CD million/CD ./.
-A.P./NNP Green/NNP currently/RB has/VBZ 2,664,098/CD shares/NNS ./.
-Its/PRP$ stock/NN closed/VBD at/IN $/$ 38/CD ,/, up/RB $/$ 1.875/CD ,/, in/IN national/JJ over-the-counter/JJ ./.
+A.P./NNP Green/NNP currently/RB has/VBZ 2,664,098/CD shares/NNS outstanding/JJ ./.
+Its/PRP$ stock/NN closed/VBD at/IN $/$ 38/CD ,/, up/RB $/$ 1.875/CD ,/, in/IN national/JJ over-the-counter/JJ trading/NN ./.
 The/DT company/NN is/VBZ a/DT Mexico/NNP ,/, Mo./NNP ,/, maker/NN of/IN refractory/JJ products/NNS ./.
 East/NNP Rock/NNP also/RB said/VBD in/IN the/DT filing/NN that/IN it/PRP boosted/VBD its/PRP$ stake/NN in/IN A.P./NNP Green/NNP to/TO 8.7/CD %/NN ./.
 It/PRP now/RB holds/VBZ 233,000/CD A.P./NNP Green/NNP common/JJ shares/NNS ,/, including/VBG 30,000/CD shares/NNS bought/VBD last/JJ Thursday/NNP for/IN $/$ 35.50/CD to/TO $/$ 36.50/CD  a/DT share/NN ./.

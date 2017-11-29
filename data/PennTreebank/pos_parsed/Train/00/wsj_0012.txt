@@ -10,7 +10,7 @@ The/DT magazine/NN will/MD reward/VB with/IN ``/`` page/NN bonuses/NNS ''/'' adv
 Mr./NNP Spoon/NNP said/VBD the/DT plan/NN is/VBZ not/RB an/DT attempt/NN to/TO shore/VB up/IN a/DT decline/NN in/IN ad/NN pages/NNS in/IN the/DT first/JJ nine/CD months/NNS of/IN 1989/CD ;/: Newsweek/NNP 's/POS ad/NN pages/NNS totaled/VBD 1,620/CD ,/, a/DT drop/NN of/IN 3.2/CD %/NN from/IN last/JJ year/NN ,/, according/VBG to/TO Publishers/NNP Information/NNP Bureau/NNP ./.
 What/WP matters/VBZ is/VBZ what/WP advertisers/NNS are/VBP paying/VBG per/IN page/NN ,/, and/CC in/IN that/DT department/NN  we/PRP are/VBP doing/VBG fine/RB this/DT fall/NN ,/, ''/'' said/VBD Mr./NNP Spoon/NNP ./.
 Both/DT Newsweek/NNP and/CC U.S./NNP News/NNP have/VBP been/VBN gaining/VBG circulation/NN in/IN recent/JJ years/NNS without/IN heavy/JJ use/NN of/IN electronic/JJ giveaways/NNS to/TO subscribers/NNS ,/, such/JJ as/IN telephones/NNS or/CC watches/NNS ./.
-none/NN of/IN the/DT big/JJ three/CD weeklies/NNS recorded/VBD circulation/NN gains/NNS ./.
+none/NN of/IN the/DT big/JJ three/CD weeklies/NNS recorded/VBD circulation/NN gains/NNS recently/RB ./.
 Audit/NNP Bureau/NNP of/IN Circulations/NNP ,/, Time/NNP ,/, the/DT largest/JJS newsweekly/RB ,/, had/VBD average/JJ circulation/NN of/IN 4,393,237/CD ,/, a/DT decrease/NN of/IN 7.3/CD %/NN ./.
 Newsweek/NNP 's/POS circulation/NN for/IN the/DT first/JJ six/CD months/NNS of/IN 1989/CD was/VBD 3,288,453/CD ,/, flat/JJ from/IN the/DT same/JJ period/NN last/JJ year/NN ./.
 U.S./NNP News/NNP '/POS circulation/NN in/IN the/DT same/JJ time/NN was/VBD 2,303,328/CD ,/, down/RB 2.6/CD %/NN ./.

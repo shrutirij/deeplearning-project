@@ -7,9 +7,9 @@ Shearson/NNP ,/, a/DT 62%-owned/JJ unit/NN of/IN American/NNP Express/NNP Co./NN
 The/DT first/JJ thought/VBD some/DT investors/NNS had/VBD was/VBD that/IN a/DT red-faced/JJ Shearson/NNP must/MD have/VB been/VBN wildly/RB bullish/JJ on/IN stocks/NNS in/IN its/PRP$ original/JJ commentary/NN ,/, and/CC that/DT 's/VBZ why/WRB it/PRP purged/VBD its/PRP$ pages/NNS ./.
 Investors/NNS recalled/VBD that/IN Shearson/NNP last/JJ week/NN had/VBD been/VBN advising/VBG that/IN ``/`` the/DT market/NN is/VBZ still/RB exhibiting/VBG all/DT the/DT signs/NNS of/IN a/DT further/JJ advance/NN ./.
 Many/JJ other/JJ brokerage/NN firms/NNS had/VBD similarly/RB bullish/JJ views/NNS ./.
-Mr./NNP Rivkin/NNP insists/VBZ that/IN the/DT 10/CD pages/NNS were/VBD n't/RB pulled/VBN because/IN they/PRP ./.
+Mr./NNP Rivkin/NNP insists/VBZ that/IN the/DT 10/CD pages/NNS were/VBD n't/RB pulled/VBN because/IN they/PRP were/VBD too/RB bullish/JJ ./.
 he/PRP says/VBZ ,/, ``/`` they/PRP were/VBD cautious/JJ ,/, and/CC that/DT was/VBD n't/RB  the/DT message/NN  we/PRP wanted/VBD to/TO deliver/VB ''/'' on/IN Monday/NNP ./.
 Mr./NNP Rivkin/NNP explains/VBZ it/PRP ,/, ``/`` We/PRP were/VBD raising/VBG some/DT caution/NN flags/NNS about/IN rate/NN rises/NNS in/IN Europe/NNP and/CC concerns/NNS about/IN the/DT LBO/NNP market/NN ./.
-late/JJ Friday/NNP afternoon/NN ,/, actually/RB after/IN the/DT close/JJ ,/, we/PRP decided/VBD that/DT was/VBD the/DT wrong/JJ tone/NN ./.
+late/JJ Friday/NNP afternoon/NN ,/, actually/RB after/IN the/DT close/JJ ,/, we/PRP decided/VBD that/DT was/VBD the/DT wrong/JJ tone/NN to/TO take/VB ./.
 the/DT market/NN down/RB ,/, we/PRP wanted/VBD to/TO tell/VB people/NNS to/TO put/VB their/PRP$ orders/NNS in/RP on/IN the/DT opening/NN ./.
 Both/DT before/IN and/CC after/IN the/DT Friday/NNP plunge/NN ,/, Shearson/NNP has/VBZ maintained/VBN a/DT recommended/VBN portfolio/NN weighting/NN of/IN 65/CD %/NN stocks/NNS ,/, 20/CD %/NN bonds/NNS and/CC 15/CD %/NN cash/NN ./.

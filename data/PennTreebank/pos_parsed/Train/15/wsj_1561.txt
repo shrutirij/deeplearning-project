@@ -16,4 +16,4 @@ USX/NNP already/RB has/VBZ six/CD lines/NNS in/IN existing/VBG plants/NNS produc
 it/PRP will/MD boost/VB by/IN 50/CD %/NN USX/NNP 's/POS current/JJ hot-dipped/JJ capacity/NN of/IN 1,275,000/CD tons/NNS ./.
 The/DT company/NN said/VBD it/PRP does/VBZ n't/RB expect/VB the/DT new/JJ line/NN 's/POS capacity/NN to/TO adversely/RB affect/VB the/DT company/NN 's/POS existing/VBG hot-dipped/JJ galvanizing/VBG lines/NNS ./.
 Steelmakers/NNS have/VB also/RB been/VBN adding/VBG capacity/NN of/IN so-called/JJ electrogalvanized/VBN steel/NN ,/, which/WDT is/VBZ another/DT way/NN to/TO make/VB coated/JJ corrosion-resistant/JJ steel/NN ./.
-One/CD of/IN the/DT advantages/NNS of/IN the/DT hot-dipped/JJ process/NN is/VBZ that/IN it/PRP allows/VBZ the/DT steel/NN to/TO be/VB covered/VBN with/IN a/DT thicker/JJR coat/NN of/IN zinc/NN ./.
+One/CD of/IN the/DT advantages/NNS of/IN the/DT hot-dipped/JJ process/NN is/VBZ that/IN it/PRP allows/VBZ the/DT steel/NN to/TO be/VB covered/VBN with/IN a/DT thicker/JJR coat/NN of/IN zinc/NN more/RBR quickly/RB ./.

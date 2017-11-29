@@ -9,4 +9,4 @@ We/PRP now/RB need/VBP support/NN from/IN the/DT Democrats/NNS on/IN the/DT Rule
 all/DT four/CD Republicans/NNP on/IN the/DT committee/NN are/VBP co-sponsors/NNS of/IN my/PRP$ bill/NN ,/, it/PRP is/VBZ the/DT Democrats/NNS  who/WP will/MD be/VB held/VBN fully/RB accountable/JJ if/IN an/DT earnings/NNS test/NN amendment/NN is/VBZ not/RB allowed/VBN from/IN the/DT floor/NN ./.
 The/DT time/NN is/VBZ now/RB to/TO lift/VB the/DT burdensome/JJ Social/NNP Security/NNP earnings/NNS limit/NN from/IN the/DT backs/NNS of/IN our/PRP$ nation/NN 's/POS seniors/NNS ./.
 Rep./NNP J./NNP Dennis/NNP Hastert/NNP (/( R./NNP ,/, Ill/NNP ./.
-Washington/NNP ======================================./.
+Washington/NNP ======================================

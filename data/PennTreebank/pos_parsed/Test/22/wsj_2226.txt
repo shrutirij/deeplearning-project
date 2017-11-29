@@ -1,4 +1,4 @@
-Health/NNP and/CC Human/NNP Services/NNP Secretary/NNP Louis/NNP Sullivan/NNP has/VBZ chosen/VBN Antonia/NNP Novello/NNP to/TO be/VB the/DT next/JJ surgeon/NN general/NN ,/, Bush/NNP administration/NN officials/NNS ./.
+Health/NNP and/CC Human/NNP Services/NNP Secretary/NNP Louis/NNP Sullivan/NNP has/VBZ chosen/VBN Antonia/NNP Novello/NNP to/TO be/VB the/DT next/JJ surgeon/NN general/NN ,/, Bush/NNP administration/NN officials/NNS said/VBD ./.
 she/PRP is/VBZ nominated/VBN by/IN President/NNP Bush/NNP and/CC confirmed/VBN by/IN the/DT Senate/NNP ,/, Dr./NNP Novello/NNP would/MD succeed/VB C./NNP Everett/NNP Koop/NNP ,/, who/WP rattled/VBD liberals/NNS and/CC conservatives/NNS alike/RB with/IN his/PRP$ outspoken/JJ views/NNS on/IN a/DT range/NN of/IN health/NN issues/NNS ./.
 Dr./NNP Novello/NNP ,/, an/DT expert/NN on/IN pediatric/JJ kidney/NN diseases/NNS ,/, is/VBZ deputy/JJ director/NN of/IN the/DT National/NNP Institute/NNP of/IN Child/NNP Health/NNP and/CC Human/NNP Development/NNP ./.
 She/PRP has/VBZ also/RB served/VBN on/IN several/JJ task/NN forces/NNS on/IN acquired/VBN immune/JJ deficiency/NN syndrome/NN ./.

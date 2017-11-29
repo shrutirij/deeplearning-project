@@ -1,6 +1,6 @@
 its/PRP$ centennial/NN year/NN ,/, The/DT Wall/NNP Street/NNP Journal/NNP will/MD report/VB events/NNS of/IN the/DT past/JJ century/NN  that/WDT stand/VBP as/IN milestones/NNS of/IN American/JJ business/NN history/NN ./.
 PLASTIC/NN PENCILS/NNS ,/, CODE-NAMED/VBN E-71/NNP ,/, made/VBD their/PRP$ hush-hush/JJ debut/NN in/IN children/NNS 's/POS pencil/NN boxes/NNS at/IN five-and-dime/NN stores/NNS in/IN 1973/CD ./.
-few/JJ knew/VBD it/PRP then/RB and/CC most/RBS still/RB think/VBP all/DT pencils/NNS ./.
+few/JJ knew/VBD it/PRP then/RB and/CC most/RBS still/RB think/VBP all/DT pencils/NNS are/VBP wooden/JJ ./.
 Eagle/NNP Pencil/NNP of/IN Shelbyville/NNP ,/, Tenn./NNP ,/, ``/`` Pencil/NNP City/NNP U.S.A./NNP ,/, ''/'' had/VBD made/VBN its/PRP$ earliest/JJS pilot/NN plastic/NN pencils/NNS in/IN 1971/CD ./.
 it/PRP  was/VBD n't/RB until/IN after/IN it/PRP hired/VBD Arthur/NNP D./NNP Little/NNP ,/, a/DT Cambridge/NNP ,/, Mass./NNP ,/, research/NN concern/NN ,/, that/IN its/PRP$ new/JJ product/NN was/VBD refined/VBN for/IN commercial/JJ sale/NN in/IN 1973/CD ./.
 Three/CD A.D.L./NNP inventors/NNS applied/VBD April/NNP 6/CD ,/, 1973/CD ,/, for/IN the/DT patent/NN ,/, which/WDT was/VBD assigned/VBN and/CC awarded/VBN in/IN 1976/CD to/TO Hasbro/NNP Industries/NNPS ,/, then/RB Eagle/NNP 's/POS parent/NN ./.
@@ -9,8 +9,8 @@ It/PRP takes/VBZ five/CD steps/NNS to/TO make/VB standard/JJ pencils/NNS ,/, jus
 machines/NNS coextrude/VBP long/JJ plastic/NN sheaths/NNS with/IN graphite-plastic/JJ cores/NNS  that/WDT are/VBP printed/VBN ,/, cut/VBN ,/, painted/VBN and/CC eraser-fitted/JJ ./.
 200/CD years/NNS ,/, something/NN  new/JJ has/VBZ happened/VBN to/TO pencils/NNS ,/, ''/'' said/VBD Arthur/NNP D./NNP Little/NNP in/IN a/DT 1974/CD report/NN  that/WDT publicly/RB described/VBD the/DT previously/RB secret/JJ item/NN ./.
 Eagle/NNP 's/POS plastic/JJ type/NN sharpens/VBZ and/CC looks/VBZ like/IN a/DT wooden/JJ pencil/NN ./.
-A/DT major/JJ difference/NN is/VBZ that/IN a/DT snapped/JJ wooden/JJ pencil/NN will/MD have/VB a/DT slivered/VBN break/NN while/IN a/DT plastic/NN model/NN ./.
+A/DT major/JJ difference/NN is/VBZ that/IN a/DT snapped/JJ wooden/JJ pencil/NN will/MD have/VB a/DT slivered/VBN break/NN while/IN a/DT plastic/NN model/NN will/MD break/VB cleanly/RB ./.
 The/DT softness/NN of/IN the/DT core/NN constrains/VBZ the/DT plastic/NN models/NNS to/TO No./NN 1/CD ,/, No./NN 2/CD or/CC No./NN 3-type/JJ pencils/NNS ,/, which/WDT account/VBP for/IN the/DT bulk/NN of/IN the/DT market/NN ./.
-Artists/NNS and/CC draftsmen/NNS ./.
+Artists/NNS and/CC draftsmen/NNS need/VBP harder/JJR ``/`` leads/NNS ./.
 Eagle/NNP ,/, now/RB called/VBN Eagle-Berol/NNP ,/, remains/VBZ a/DT leading/VBG company/NN among/IN the/DT 10/CD in/IN the/DT U.S./NNP that/IN produced/VBD about/IN 2.3/CD billion/CD pencils/NNS last/JJ year/NN ,/, according/VBG to/TO the/DT Pencil/NNP Makers/NNPS Association/NNP ./.
-It/PRP 's/VBZ a/DT trade/NN secret/NN how/WRB many/JJ were/VBD plastic/NN ,/, and/CC most/JJS writers/NNS still/RB do/VBP n't/RB know/VB what/WP  they/PRP ./.
+It/PRP 's/VBZ a/DT trade/NN secret/NN how/WRB many/JJ were/VBD plastic/NN ,/, and/CC most/JJS writers/NNS still/RB do/VBP n't/RB know/VB what/WP  they/PRP 're/VBP using/VBG ./.

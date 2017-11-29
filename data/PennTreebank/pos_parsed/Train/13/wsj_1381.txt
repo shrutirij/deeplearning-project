@@ -8,4 +8,4 @@ Imperial/NNP said/VBD in/IN a/DT statement/NN  it/PRP expects/VBZ other/JJ compl
 an/DT Imperial/JJ spokesman/NN said/VBD the/DT company/NN had/VBD n't/RB yet/RB been/VBN served/VBN with/IN the/DT derivative/NN suit/NN ,/, he/PRP reiterated/VBD the/DT company/NN 's/POS statement/NN that/IN it/PRP would/MD vigorously/RB defend/VB itself/PRP against/IN the/DT class-action/JJ suit/NN ./.
 Spokesmen/NNS at/IN Drexel/NNP and/CC First/NNP Executive/NNP said/VBD the/DT companies/NNS had/VBD n't/RB yet/RB been/VBN served/VBN with/IN the/DT suit/NN ./.
 a/DT separate/JJ complaint/NN also/RB filed/VBN in/IN federal/JJ court/NN here/RB ,/, shareholder/NN Max/NNP Grill/NNP of/IN New/NNP York/NNP charged/VBD Imperial/NNP ,/, its/PRP$ top/JJ executives/NNS and/CC directors/NNS with/IN breach/NN of/IN fiduciary/JJ duty/NN and/CC squandering/VBG the/DT company/NN 's/POS assets/NNS ./.
-Imperial/NNP said/VBD it/PRP had/VBD n't/RB been/VBN served/VBN with/IN this/DT suit/NN ./.
+Imperial/NNP said/VBD it/PRP had/VBD n't/RB been/VBN served/VBN with/IN this/DT suit/NN either/RB ./.

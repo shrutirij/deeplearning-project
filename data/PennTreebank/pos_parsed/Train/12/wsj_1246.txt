@@ -6,12 +6,12 @@ the/DT researchers/NNS themselves/PRP acknowledged/VBD they/PRP still/RB must/MD
 Shin/NNP Yonehara/NNP ,/, a/DT research/NN scientist/NN at/IN the/DT Tokyo/NNP Metropolitan/NNP Institute/NNP of/IN Medical/NNP Science/NNP ,/, said/VBD the/DT antibody/NN  he/PRP discovered/VBD works/VBZ by/IN recognizing/VBG an/DT antigen/NN called/VBN a/DT Fas-antigen/NN ,/, which/WDT is/VBZ characteristic/JJ of/IN an/DT infected/JJ cell/NN ./.
 The/DT antibody/NN then/RB kills/VBZ the/DT cell/NN ./.
 Dr./NNP Yonehara/NNP and/CC his/PRP$ partner/NN ,/, Nobuyuki/NNP Kobayashi/NNP of/IN Yamaguchi/NNP University/NNP ,/, said/VBD their/PRP$ experiments/NNS showed/VBD that/IN the/DT antibody/NN wiped/VBD out/IN an/DT average/NN of/IN 60/CD %/NN of/IN AIDS-infected/JJ cells/NNS within/IN three/CD days/NNS ./.
-some/DT of/IN the/DT experiments/NNS ,/, it/PRP killed/VBD almost/RB all/PDT the/DT infected/JJ cells/NNS ,/, the/DT researchers/NNS ./.
-10/CD %/NN of/IN the/DT healthy/JJ cells/NNS ./.
+some/DT of/IN the/DT experiments/NNS ,/, it/PRP killed/VBD almost/RB all/PDT the/DT infected/JJ cells/NNS ,/, the/DT researchers/NNS said/VBD ./.
+10/CD %/NN of/IN the/DT healthy/JJ cells/NNS were/VBD killed/VBN ./.
 The/DT two/CD said/VBD they/PRP must/MD still/RB do/VB more/JJR laboratory/NN tests/NNS ,/, then/RB experiment/NN on/IN animals/NNS ./.
 They/PRP said/VBD they/PRP hoped/VBD to/TO conduct/VB tests/NNS on/IN human/JJ patients/NNS in/IN the/DT U.S./NNP by/IN late/JJ next/JJ year/NN ./.
-Japan/NNP does/VBZ n't/RB have/VB enough/JJ AIDS/NNP patients/NNS to/TO do/VB significant/JJ experimentation/NN in/IN that/DT country/NN ,/, they/PRP ./.
-The/DT announcement/NN got/VBD wide/JJ exposure/NN in/IN the/DT Japanese/JJ media/NNS ,/, and/CC even/RB moved/VBD some/DT pharmaceutical/JJ stocks/NNS ./.
+Japan/NNP does/VBZ n't/RB have/VB enough/JJ AIDS/NNP patients/NNS to/TO do/VB significant/JJ experimentation/NN in/IN that/DT country/NN ,/, they/PRP said/VBD ./.
+The/DT announcement/NN got/VBD wide/JJ exposure/NN in/IN the/DT Japanese/JJ media/NNS ,/, and/CC even/RB moved/VBD some/DT pharmaceutical/JJ stocks/NNS yesterday/NN ./.
 Takashi/NNP Kitamura/NNP ,/, director/NN of/IN the/DT biology/NN department/NN at/IN Japan/NNP 's/POS National/NNP Institute/NNP of/IN Health/NNP and/CC secretary/NN of/IN the/DT government/NN 's/POS AIDS-research/JJ center/NN ,/, said/VBD ,/, ``/`` I/PRP 'm/VBP not/RB so/RB optimistic/JJ of/IN its/PRP$ future/JJ use/NN in/IN therapeutic/JJ methods/NNS ./.
 He/PRP said/VBD some/DT infected/JJ cells/NNS may/MD not/RB have/VB the/DT relevant/JJ antigen/NN and/CC so/RB would/MD n't/RB be/VB killed/VBN even/RB after/IN exposure/NN to/TO the/DT antibody/NN ./.
 The/DT results/NNS seem/VBP to/TO be/VB very/RB premature/JJ ,/, ''/'' said/VBD Mitsuru/NNP Miyata/NNP ,/, editor/NN of/IN Nikkei/NNP Biotechnology/NNP ,/, a/DT leading/VBG Japanese/JJ industry/NN newsletter/NN ./.

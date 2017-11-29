@@ -1,5 +1,5 @@
 Ratners/NNP Group/NNP PLC/NNP 's/POS U.S./NNP subsidiary/NN has/VBZ agreed/VBN to/TO acquire/VB jewelry/NN retailer/NN Weisfield/NNP 's/POS Inc./NNP for/IN $/$ 50/CD  a/DT share/NN ,/, or/CC about/IN $/$ 55/CD million/CD ./.
-Weisfield/NNP 's/POS shares/NNS soared/VBD on/IN the/DT announcement/NN yesterday/NN ,/, closing/VBG up/RB $/$ 11/CD to/TO close/VB at/IN $/$ 50/CD in/IN national/JJ over-the-counter/JJ ./.
+Weisfield/NNP 's/POS shares/NNS soared/VBD on/IN the/DT announcement/NN yesterday/NN ,/, closing/VBG up/RB $/$ 11/CD to/TO close/VB at/IN $/$ 50/CD in/IN national/JJ over-the-counter/JJ trading/NN ./.
 Ratners/NNP and/CC Weisfield/NNP 's/POS said/VBD they/PRP reached/VBD an/DT agreement/NN in/IN principle/NN for/IN the/DT acquisition/NN of/IN Weisfield/NNP 's/POS by/IN Sterling/NNP Inc/NNP ./.
 The/DT companies/NNS said/VBD the/DT acquisition/NN is/VBZ subject/JJ to/TO a/DT definitive/JJ agreement/NN ./.
 They/PRP said/VBD they/PRP expect/VBP the/DT transaction/NN to/TO be/VB completed/VBN by/IN Dec./NNP 15/CD ./.

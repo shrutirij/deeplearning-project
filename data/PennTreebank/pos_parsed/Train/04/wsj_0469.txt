@@ -6,10 +6,10 @@ The/DT New/NNP York/NNP suit/NN was/VBD filed/VBN on/IN behalf/NN of/IN Justice/
 The/DT suit/NN ,/, assigned/VBN to/TO federal/JJ Judge/NNP Kimba/NNP Wood/NNP ,/, seeks/VBZ a/DT permanent/JJ injunction/NN ,/, back/JJ pay/NN for/IN judges/NNS  who/WP have/VBP been/VBN forced/VBN to/TO retire/VB ,/, reinstatement/NN of/IN retired/VBN judges/NNS and/CC ``/`` other/JJ affirmative/JJ relief/NN necessary/JJ to/TO eradicate/VB the/DT effects/NNS of/IN (/( New/NNP York/NNP 's/POS )/) unlawful/JJ employment/NN practices/NNS ./.
 Justice/NNP Rubin/NNP ,/, a/DT state/NN judge/NN since/IN 1969/CD ,/, said/VBD the/DT mandatory-retirement/JJ age/NN hurts/VBZ the/DT court/NN system/NN because/IN it/PRP deprives/VBZ the/DT state/NN of/IN experienced/JJ judges/NNS still/RB capable/JJ of/IN serving/VBG on/IN the/DT bench/NN ./.
 The/DT issue/NN is/VBZ n't/RB age/NN --/: age/NN is/VBZ just/RB a/DT number/NN ./.
-The/DT issue/NN is/VBZ one/CD of/IN a/DT judge/NN 's/POS experience/NN ,/, his/PRP$ competence/NN and/CC his/PRP$ physical/JJ ability/NN to/TO serve/VB on/IN the/DT bench/NN ,/, ''/'' Justice/NNP Rubin/NNP ./.
+The/DT issue/NN is/VBZ one/CD of/IN a/DT judge/NN 's/POS experience/NN ,/, his/PRP$ competence/NN and/CC his/PRP$ physical/JJ ability/NN to/TO serve/VB on/IN the/DT bench/NN ,/, ''/'' Justice/NNP Rubin/NNP said/VBD ./.
 I/PRP 've/VBP had/VBD no/DT problems/NNS performing/VBG my/PRP$ duties/NNS and/CC responsibilities/NNS ./.
 Justice/NNP Rubin/NNP turned/VBD 76/CD on/IN May/NNP 9/CD ,/, he/PRP is/VBZ n't/RB eligible/JJ to/TO be/VB reappointed/VBN to/TO the/DT bench/NN at/IN the/DT end/NN of/IN the/DT year/NN ./.
-The/DT suit/NN 's/POS impact/NN on/IN New/NNP York/NNP ./.
+The/DT suit/NN 's/POS impact/NN on/IN New/NNP York/NNP may/MD be/VB narrow/JJ ,/, however/RB ./.
 Most/JJS New/NNP York/NNP judges/NNS are/VBP elected/VBN ,/, and/CC the/DT federal/JJ age-discrimination/JJ law/NN does/VBZ n't/RB apply/VB to/TO elected/VBN officials/NNS ,/, said/VBD James/NNP L./NNP Lee/NNP ,/, regional/JJ attorney/NN for/IN the/DT EEOC/NNP in/IN New/NNP York/NNP ./.
 New/NNP York/NNP law/NN ,/, elected/VBN judges/NNS must/MD retire/VB at/IN age/NN 70/CD ,/, but/CC then/RB can/MD be/VB appointed/VBN to/TO two-year/JJ terms/NNS until/IN they/PRP reach/VBP 76/CD ./.
 A/DT spokeswoman/NN for/IN the/DT state/NN 's/POS Office/NNP of/IN Court/NNP Administration/NNP declined/VBD to/TO comment/VB on/IN the/DT suit/NN ./.
@@ -29,20 +29,20 @@ The/DT bill/NN is/VBZ expected/VBN to/TO pass/VB in/IN Congress/NNP next/JJ mont
 Congress/NNP temporarily/RB halted/VBD Mr./NNP Thornburgh/NNP 's/POS effort/NN with/IN an/DT appropriation/NN resolution/NN  that/WDT prohibited/VBD him/PRP from/IN using/VBG budgeted/VBN funds/NNS to/TO implement/VB his/PRP$ plan/NN ./.
 Opponents/NNS say/VBP Mr./NNP Thornburgh/NNP 's/POS plan/NN will/MD needlessly/RB break/VB up/RP longtime/JJ ,/, tightly/RB knit/VBN crime-fighting/JJ units/NNS  that/WDT have/VBP successfully/RB prosecuted/VBN major/JJ organized-crime/NN figures/NNS ./.
 They/PRP predict/VBP that/DT organized-crime/NN activity/NN will/MD increase/VB once/RB the/DT units/NNS are/VBP dissolved/VBN and/CC their/PRP$ responsibilities/NNS transferred/VBN to/TO U.S./NNP attorneys/NNS '/POS offices/NNS ./.
-Some/DT former/JJ strike-force/NN personnel/NNS say/VBP the/DT units/NNS ./.
+Some/DT former/JJ strike-force/NN personnel/NNS say/VBP the/DT units/NNS have/VBP already/RB begun/VBN to/TO break/VB up/RP ./.
 The/DT Eastern/NNP District/NNP unit/NN in/IN Brooklyn/NNP ,/, N.Y./NNP ,/, lost/VBD seven/CD of/IN its/PRP$ 15/CD attorneys/NNS  this/DT year/NN partly/RB because/IN the/DT lawyers/NNS were/VBD troubled/VBN by/IN the/DT proposed/VBN reorganization/NN ,/, says/VBZ Laura/NNP A./NNP Brevetti/NNP ,/, who/WP left/VBD the/DT strike/NN force/NN to/TO join/VB Morrison/NNP Cohen/NNP Singer/NNP &/CC Weinstein/NNP ,/, a/DT New/NNP York/NNP law/NN firm/NN ./.
-Those/DT  who/WP have/VBP left/VBN have/VBP expressed/VBN an/DT opinion/NN that/IN the/DT strike/NN force/NN should/MD continue/VB ,/, ''/'' Ms./NNP Brevetti/NNP ./.
+Those/DT  who/WP have/VBP left/VBN have/VBP expressed/VBN an/DT opinion/NN that/IN the/DT strike/NN force/NN should/MD continue/VB ,/, ''/'' Ms./NNP Brevetti/NNP says/VBZ ./.
 Mr./NNP Runkel/NNP contends/VBZ there/EX has/VBZ been/VBN no/DT exodus/NN of/IN strike-force/NN lawyers/NNS ./.
 He/PRP says/VBZ 27/CD lawyers/NNS have/VBP left/VBN and/CC 21/CD have/VBP been/VBN hired/VBN since/IN Mr./NNP Thornburgh/NNP announced/VBD his/PRP$ plan/NN ./.
 the/DT time/NN  the/DT plan/NN was/VBD announced/VBN ,/, there/EX were/VBD 135/CD lawyers/NNS ./.
 Some/DT congressional/JJ leaders/NNS intend/VBP to/TO continue/VB to/TO fight/VB for/IN independent/JJ strike/NN forces/NNS ./.
 A/DT spokesman/NN for/IN Sen./NNP Edward/NNP M./NNP Kennedy/NNP (/( D./NNP ,/, Mass/NNP ./.
-Mr./NNP Thornburgh/NNP would/MD be/VB required/VBN to/TO reinstate/VB the/DT units/NNS next/IN year/NN if/IN an/DT proposed/VBN omnibus/NN crime/NN bill/NN ./.
+Mr./NNP Thornburgh/NNP would/MD be/VB required/VBN to/TO reinstate/VB the/DT units/NNS next/IN year/NN if/IN an/DT proposed/VBN omnibus/NN crime/NN bill/NN is/VBZ passed/VBN ./.
 other/JJ things/NNS ,/, the/DT bill/NN calls/VBZ for/IN a/DT reorganization/NN of/IN the/DT Justice/NNP Department/NNP ./.
 The/DT Senate/NNP is/VBZ expected/VBN to/TO consider/VB the/DT bill/NN shortly/RB ,/, says/VBZ the/DT senator/NN 's/POS spokesman/NN ./.
 Mr./NNP Runkel/NNP says/VBZ he/PRP doubts/VBZ Mr./NNP Kennedy/NNP can/MD muster/VB enough/JJ congressional/JJ support/NN to/TO reorganize/VB the/DT Justice/NNP Department/NNP ./.
-We/PRP will/MD vigorously/RB oppose/VB the/DT bill/NN ,/, ''/'' he/PRP ./.
-I/PRP do/VBP n't/RB think/VB (/( the/DT reorganization/NN ./.
+We/PRP will/MD vigorously/RB oppose/VB the/DT bill/NN ,/, ''/'' he/PRP says/VBZ ./.
+I/PRP do/VBP n't/RB think/VB (/( the/DT reorganization/NN is/VBZ )/) going/VBG to/TO happen/VB ./.
 WHITMAN/NNP &/CC RANSOM/NNP recruits/VBZ lawyers/NNS from/IN disbanding/VBG firm/NN :/: The/DT 204-lawyer/JJ New/NNP York/NNP firm/NN will/MD bring/VB in/RP at/IN least/JJS 12/CD partners/NNS and/CC a/DT not/RB yet/RB determined/VBN number/NN of/IN associates/NNS from/IN Golenbock/NNP &/CC Barell/NNP ,/, which/WDT will/MD dissolve/VB Dec./NNP 31/CD ./.
 Golenbock/NNP ,/, with/IN 35/CD lawyers/NNS ,/, has/VBZ lost/VBN several/JJ partners/NNS during/IN the/DT past/JJ year/NN ./.
 Some/DT Golenbock/NNP lawyers/NNS wo/MD n't/RB be/VB invited/VBN to/TO join/VB Whitman/NNP &/CC Ransom/NNP ,/, according/VBG to/TO partners/NNS at/IN both/DT  firms/NNS ./.

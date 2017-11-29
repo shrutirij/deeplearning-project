@@ -1,13 +1,13 @@
 GREAT/JJ NORTHERN/NNP NEKOOSA/NNP is/VBZ being/VBG sought/VBN by/IN another/DT big/JJ paper/NN company/NN ,/, Georgia-Pacific/NNP ,/, for/IN $/$ 58/CD  a/DT share/NN ,/, or/CC about/RB $/$ 3.18/CD billion/CD ./.
 The/DT tender/NN offer/NN ,/, which/WDT surprised/VBD analysts/NNS because/IN it/PRP appeared/VBD to/TO be/VB unsolicited/JJ ,/, could/MD spark/VB a/DT period/NN of/IN industry/NN consolidation/NN ./.
 Analysts/NNS questioned/VBD whether/IN Georgia-Pacific/NNP will/MD ultimately/RB prevail/VB ,/, saying/VBG other/JJ paper/NN concerns/NNS may/MD make/VB competing/VBG bids/NNS ./.
-Two/CD more/JJR securities/NNS firms/NNS bowed/VBD to/TO the/DT outcry/NN over/IN program/NN ./.
-GE/NNP 's/POS Kidder/NNP Peabody/NNP unit/NN said/VBD it/PRP would/MD stop/VB doing/VBG stock-index/JJ arbitrage/NN for/IN its/PRP$ own/JJ account/NN ,/, while/IN Merrill/NNP Lynch/NNP said/VBD it/PRP was/VBD halting/VBG such/JJ ./.
+Two/CD more/JJR securities/NNS firms/NNS bowed/VBD to/TO the/DT outcry/NN over/IN program/NN trading/NN ./.
+GE/NNP 's/POS Kidder/NNP Peabody/NNP unit/NN said/VBD it/PRP would/MD stop/VB doing/VBG stock-index/JJ arbitrage/NN for/IN its/PRP$ own/JJ account/NN ,/, while/IN Merrill/NNP Lynch/NNP said/VBD it/PRP was/VBD halting/VBG such/JJ trading/NN entirely/RB ./.
 the/DT Big/NNP Board/NNP met/VBD with/IN angry/JJ stock/NN specialists/NNS ./.
 A/DT big/JJ pension-insurance/JJ case/NN will/MD be/VB reviewed/VBN by/IN the/DT Supreme/NNP Court/NNP ./.
 The/DT justices/NNS agreed/VBD to/TO decide/VB whether/IN federal/JJ insurers/NNS can/MD require/VB LTV/NNP to/TO take/VB back/RP responsiblilty/NN for/IN funding/VBG its/PRP$ $/$ 2.3/CD billion/CD pension/NN shortfall/NN ./.
 Drug/NN companies/NNS lost/VBD a/DT major/JJ liability/NN case/NN ./.
-The/DT Supreme/NNP Court/NNP let/VBP stand/VB a/DT New/NNP York/NNP ruling/NN that/IN all/DT manufacturers/NNS of/IN an/DT anti-miscarriage/JJ drug/NN are/VBP liable/JJ for/IN injuries/NNS or/CC deaths/NNS if/IN the/DT actual/JJ maker/NN ./.
+The/DT Supreme/NNP Court/NNP let/VBP stand/VB a/DT New/NNP York/NNP ruling/NN that/IN all/DT manufacturers/NNS of/IN an/DT anti-miscarriage/JJ drug/NN are/VBP liable/JJ for/IN injuries/NNS or/CC deaths/NNS if/IN the/DT actual/JJ maker/NN is/VBZ n't/RB known/VBN ./.
 Revco/NNP received/VBD a/DT $/$ 925/CD million/CD takeover/NN offer/NN from/IN Texas/NNP financier/NN Robert/NNP Bass/NNP and/CC Acadia/NNP Partners/NNP ./.
 The/DT drugstore/NN chain/NN reacted/VBD cautiously/RB ,/, saying/VBG the/DT plan/NN would/MD further/RB swell/VB its/PRP$ huge/JJ debt/NN ,/, which/WDT forced/VBD the/DT company/NN into/IN Chapter/NNP 11/CD protection/NN last/JJ year/NN ./.
 Rockefeller/NNP Group/NNP agreed/VBD to/TO sell/VB a/DT 51/CD %/NN interest/NN to/TO Mitsubishi/NNP Estate/NNP ,/, a/DT major/JJ Japanese/JJ developer/NN and/CC property/NN owner/NN ,/, for/IN $/$ 846/CD million/CD ./.

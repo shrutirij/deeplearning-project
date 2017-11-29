@@ -1,5 +1,5 @@
-Merrill/NNP Lynch/NNP &/CC Co./NNP 's/POS net/JJ income/NN dropped/VBD 37/CD %/NN ,/, while/IN Bear/NNP Stearns/NNP Cos./NNP posted/VBD a/DT 7.5/CD %/NN gain/NN in/IN net/JJ ,/, and/CC PaineWebber/NNP Group/NNP Inc./NNP 's/POS profit/NN fell/VBD ,/, but/CC would/MD have/VB risen/VBN without/IN a/DT special/JJ gain/NN  a/DT year/NN ./.
-Merrill/NNP Lynch/NNP ,/, third-period/JJ net/JJ was/VBD $/$ 41/CD million/CD ,/, or/CC 34/CD cents/NNS  a/DT share/NN ,/, down/RB from/IN $/$ 65.6/CD million/CD ,/, or/CC 58/CD cents/NNS  a/DT share/NN ,/, a/DT year/NN ./.
+Merrill/NNP Lynch/NNP &/CC Co./NNP 's/POS net/JJ income/NN dropped/VBD 37/CD %/NN ,/, while/IN Bear/NNP Stearns/NNP Cos./NNP posted/VBD a/DT 7.5/CD %/NN gain/NN in/IN net/JJ ,/, and/CC PaineWebber/NNP Group/NNP Inc./NNP 's/POS profit/NN fell/VBD ,/, but/CC would/MD have/VB risen/VBN without/IN a/DT special/JJ gain/NN  a/DT year/NN ago/RB ./.
+Merrill/NNP Lynch/NNP ,/, third-period/JJ net/JJ was/VBD $/$ 41/CD million/CD ,/, or/CC 34/CD cents/NNS  a/DT share/NN ,/, down/RB from/IN $/$ 65.6/CD million/CD ,/, or/CC 58/CD cents/NNS  a/DT share/NN ,/, a/DT year/NN ago/RB ./.
 Total/JJ revenue/NN reached/VBN $/$ 2.83/CD billion/CD ,/, up/RB 10/CD %/NN from/IN $/$ 2.57/CD billion/CD ./.
 The/DT firm/NN 's/POS drop/NN in/IN net/JJ reflected/VBD weaker/JJR revenue/NN in/IN transactions/NNS for/IN its/PRP$ own/JJ account/NN --/: a/DT decline/NN of/IN 19/CD %/NN to/TO $/$ 314.6/CD million/CD on/IN reduced/VBN revenue/NN from/IN trading/VBG fixed-income/JJ securities/NNS ./.
 Investment/NN banking/VBG revenue/NN fell/VBD 22/CD %/NN to/TO $/$ 296.6/CD million/CD on/IN fewer/JJR equity/NN and/CC municipal/JJ underwritings/NNS ./.
@@ -9,7 +9,7 @@ Asset-management/JJ fee/NN revenue/NN grew/VBD 12/CD %/NN to/TO $/$ 151/CD milli
 The/DT brokerage/NN also/RB reported/VBD a/DT loss/NN of/IN $/$ 2.2/CD million/CD from/IN the/DT discontinued/VBN operations/NNS and/CC disposal/NN of/IN its/PRP$ Fine/NNP Homes/NNP International/NNP Limited/NNP Partnership/NNP real-estate/NN subsidiary/NN ./.
 Bear/NNP Stearns/NNP said/VBD net/NN in/IN the/DT first/JJ quarter/NN ended/VBN Sept./NNP 29/CD reached/VBD $/$ 22.1/CD million/CD ,/, or/CC 23/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 20.5/CD million/CD ,/, or/CC 20/CD cents/NNS  a/DT share/NN ,/, in/IN the/DT year-earlier/JJ quarter/NN ./.
 Gross/JJ revenue/NN rose/VBD 21/CD %/NN to/TO $/$ 580.4/CD million/CD from/IN $/$ 478.9/CD million/CD ./.
-Profit/NN from/IN trading/NN for/IN its/PRP$ own/JJ account/NN dropped/VBD ,/, the/DT securities/NNS firm/NN ./.
+Profit/NN from/IN trading/NN for/IN its/PRP$ own/JJ account/NN dropped/VBD ,/, the/DT securities/NNS firm/NN said/VBD ./.
 Investment/NN banking/NN revenue/NN climbed/VBD 25/CD %/NN ,/, while/IN commission/NN revenue/NN advanced/VBD 31/CD %/NN on/IN a/DT stronger/JJR retail/JJ market/NN ./.
 Bear/NNP Stearns/NNP is/VBZ the/DT holding/VBG company/NN for/IN Bear/NNP ,/, Stearns/NNP &/CC Co./NNP ,/, the/DT investment/NN banking/NN and/CC brokerage/NN firm/NN ./.
 New/NNP York/NNP Stock/NNP Exchange/NNP composite/NN trading/NN yesterday/NN ,/, Bear/NNP Stearns/NNP shares/NNS closed/VBD at/IN $/$ 13.625/CD ,/, down/RB 25/CD cents/NNS ./.

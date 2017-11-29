@@ -17,25 +17,25 @@ the/DT Wilmington/NNP ,/, Del./NNP ,/, company/NN is/VBZ helped/VBN when/WRB pri
 Analysts/NNS are/VBP divided/VBN over/IN whether/IN Du/NNP Pont/NNP will/MD report/VB much/JJ of/IN a/DT gain/NN in/IN the/DT latest/JJS quarter/NN from/IN its/PRP$ Conoco/NNP Inc./NNP oil/NN company/NN ./.
 The/DT estimates/NNS for/IN Du/NNP Pont/NNP range/NN from/IN $/$ 2.25/CD to/TO $/$ 2.45/CD  a/DT share/NN ./.
 the/DT 1988/CD third/JJ quarter/NN ,/, the/DT company/NN earned/VBD $/$ 461/CD million/CD ,/, or/CC $/$ 1.91/CD  a/DT share/NN ,/, on/IN sales/NNS of/IN $/$ 7.99/CD billion/CD ./.
-Du/NNP Pont/NNP ./.
+Du/NNP Pont/NNP declined/VBD to/TO comment/VB ./.
 Monsanto/NNP Co./NNP ,/, too/RB ,/, is/VBZ expected/VBN to/TO continue/VB reporting/VBG higher/JJR profit/NN ,/, even/RB though/IN its/PRP$ sales/NNS of/IN crop/NN chemicals/NNS were/VBD hurt/VBN in/IN the/DT latest/JJS quarter/NN by/IN drought/NN in/IN northern/JJ Europe/NNP and/CC the/DT western/JJ U.S/NNP ./.
-The/DT St./NNP Louis-based/JJ company/NN is/VBZ expected/VBN to/TO report/VB again/RB that/IN losses/NNS in/IN its/PRP$ G.D./NNP Searle/NNP &/CC Co./NNP pharmaceutical/JJ business/NN ./.
+The/DT St./NNP Louis-based/JJ company/NN is/VBZ expected/VBN to/TO report/VB again/RB that/IN losses/NNS in/IN its/PRP$ G.D./NNP Searle/NNP &/CC Co./NNP pharmaceutical/JJ business/NN are/VBP narrowing/VBG ./.
 Searle/NNP continued/VBD to/TO operate/VB in/IN the/DT red/NN through/IN the/DT first/JJ  half/NN of/IN the/DT year/NN ,/, but/CC Monsanto/NNP has/VBZ said/VBD it/PRP expects/VBZ Searle/NNP to/TO post/VB a/DT profit/NN for/IN all/DT of/IN 1989/CD ./.
 Most/JJS estimates/NNS for/IN Monsanto/NNP run/VBP between/IN $/$ 1.70/CD and/CC $/$ 2/CD  a/DT share/NN ./.
 A/DT year/NN ago/RB ,/, the/DT company/NN posted/VBD third-quarter/JJ profit/NN of/IN $/$ 116/CD million/CD ,/, or/CC $/$ 1.67/CD  a/DT share/NN ,/, on/IN sales/NNS of/IN $/$ 2.02/CD billion/CD ./.
-Monsanto/NNP ./.
+Monsanto/NNP declined/VBD to/TO comment/VB ./.
 the/DT commodity-chemical/JJ producers/NNS are/VBP caught/VBN on/IN the/DT downside/NN of/IN a/DT pricing/NN cycle/NN ./.
 some/DT accounts/NNS on/IN Wall/NNP Street/NNP and/CC in/IN the/DT industry/NN ,/, the/DT inventory/NN reductions/NNS are/VBP near/IN an/DT end/NN ,/, which/WDT may/MD presage/VB firmer/JJR demand/NN ./.
 doubters/NNS say/VBP growing/VBG production/NN capacity/NN could/MD keep/VB pressure/NN on/IN prices/NNS into/IN the/DT early/JJ 1990s/NNS ./.
-the/DT latest/JJS quarter/NN ,/, at/IN least/JJS ,/, profit/NN ./.
+the/DT latest/JJS quarter/NN ,/, at/IN least/JJS ,/, profit/NN is/VBZ expected/VBN to/TO fall/VB sharply/RB ./.
 Himont/NNP Inc./NNP ,/, ``/`` how/WRB far/RB down/RB it/PRP is/VBZ ,/, we/PRP do/VBP n't/RB know/VB ,/, ''/'' says/VBZ Leslie/NNP Ravitz/NNP at/IN Salomon/NNP Brothers/NNP ./.
 The/DT projections/NNS are/VBP in/IN the/DT neighborhood/NN of/IN 50/CD cents/NNS  a/DT share/NN to/TO 75/CD cents/NNS ,/, compared/VBN with/IN a/DT restated/JJ $/$ 1.65/CD  a/DT share/NN  a/DT year/NN earlier/RBR ,/, when/WRB profit/NN was/VBD $/$ 107.8/CD million/CD on/IN sales/NNS of/IN $/$ 435.5/CD million/CD ./.
 Himont/NNP faces/VBZ lower/JJR prices/NNS for/IN its/PRP$ mainstay/NN product/NN ,/, polypropylene/NN ,/, while/IN it/PRP goes/VBZ forward/RB with/IN a/DT heavy/JJ capital/NN investment/NN program/NN to/TO bolster/VB its/PRP$ raw/JJ material/NN supply/NN and/CC develop/VB new/JJ uses/NNS for/IN polypropylene/NN ,/, whose/WP$ markets/NNS include/VBP the/DT packaging/NN and/CC automobile/NN industries/NNS ./.
 The/DT company/NN ,/, based/VBN in/IN Wilmington/NNP ,/, Del./NNP ,/, is/VBZ 81%-owned/JJ by/IN Montedison/NNP S.p/NNP ./.
-A./NNP ,/, Milan/NNP ,/, which/WDT has/VBZ an/DT offer/NN outstanding/JJ for/IN the/DT Himont/NNP shares/NNS it/PRP ./.
+A./NNP ,/, Milan/NNP ,/, which/WDT has/VBZ an/DT offer/NN outstanding/JJ for/IN the/DT Himont/NNP shares/NNS it/PRP does/VBZ n't/RB already/RB own/VB ./.
 Quantum/NNP Chemical/NNP Corp./NNP ,/, New/NNP York/NNP ,/, the/DT trouble/NN is/VBZ lower/JJR prices/NNS for/IN polyethylene/NN ,/, higher/JJR debt/NN costs/NNS and/CC the/DT idling/NN of/IN an/DT important/JJ plant/NN due/RB to/TO an/DT explosion/NN ./.
 Some/DT analysts/NNS hedge/VBP their/PRP$ estimates/NNS for/IN Quantum/NNP ,/, because/IN it/PRP is/VBZ n't/RB known/VBN when/WRB the/DT company/NN will/MD book/VB certain/JJ one-time/JJ charges/NNS ./.
 the/DT estimates/NNS range/VBP from/IN break-even/JJ to/TO 35/CD cents/NNS  a/DT share/NN ./.
 the/DT 1988/CD third/JJ quarter/NN ,/, Quantum/NNP earned/VBD $/$ 99.8/CD million/CD ,/, or/CC $/$ 3.92/CD  a/DT share/NN ,/, on/IN sales/NNS of/IN $/$ 724.4/CD million/CD ./.
 Another/DT big/JJ polyethylene/NN producer/NN ,/, Union/NNP Carbide/NNP Corp./NNP ,/, is/VBZ expected/VBN to/TO post/VB profit/NN of/IN between/IN $/$ 1/CD  a/DT share/NN and/CC $/$ 1.25/CD ,/, compared/VBN with/IN $/$ 1.56/CD  a/DT share/NN  a/DT year/NN earlier/RBR ,/, when/WRB the/DT company/NN earned/VBD $/$ 213/CD million/CD on/IN sales/NNS of/IN $/$ 2.11/CD billion/CD ./.
-Himont/NNP ,/, Quantum/NNP and/CC Union/NNP Carbide/NNP all/DT ./.
+Himont/NNP ,/, Quantum/NNP and/CC Union/NNP Carbide/NNP all/DT declined/VBD to/TO comment/VB ./.

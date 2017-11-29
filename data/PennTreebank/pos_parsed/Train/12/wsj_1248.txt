@@ -23,5 +23,5 @@ London/NNP 's/POS Stock/NNP Exchange/NNP yesterday/NN ,/, the/DT shares/NNS were
 British/NNP Air/NNP is/VBZ issuing/VBG convertible/JJ bonds/NNS rather/RB than/IN ordinary/JJ shares/NNS ,/, the/DT share/NN price/NN wo/MD n't/RB be/VB directly/RB hurt/VBN by/IN any/DT surplus/NN left/VBN with/IN underwriters/NNS after/IN they/PRP try/VBP to/TO sell/VB the/DT issue/NN in/IN the/DT open/JJ market/NN ./.
 British/NNP Air/NNP 's/POS withdrawal/NN from/IN the/DT UAL/NNP buy-out/NN could/MD have/VB further/JJ repercussions/NNS ./.
 Some/DT analysts/NNS speculated/VBD yesterday/NN that/IN the/DT move/NN has/VBZ set/VBN off/IN a/DT board/NN room/NN split/NN ,/, which/WDT may/MD lead/VB to/TO the/DT resignation/NN of/IN Sir/NNP Colin/NNP Marshall/NNP ,/, the/DT carrier/NN 's/POS chief/NN executive/NN officer/NN ./.
-The/DT stories/NNS are/VBP rubbish/JJ ,/, ''/'' a/DT British/NNP Air/NNP spokesman/NN ./.
+The/DT stories/NNS are/VBP rubbish/JJ ,/, ''/'' a/DT British/NNP Air/NNP spokesman/NN said/VBD ./.
 There/EX is/VBZ no/DT difference/NN of/IN opinion/NN between/IN (/( Chairman/NN )/) Lord/NNP King/NNP and/CC Sir/NNP Colin/NNP on/IN any/DT aspect/NN of/IN company/NN policy/NN ./.

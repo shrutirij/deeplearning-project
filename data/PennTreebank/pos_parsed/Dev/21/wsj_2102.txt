@@ -1,8 +1,8 @@
 AN/DT EARTHQUAKE/NN STRUCK/VBD Northern/JJ California/NNP ,/, killing/VBG more/JJR than/IN 50/CD people/NNS ./.
 The/DT violent/JJ temblor/NN ,/, which/WDT lasted/VBD about/IN 15/CD seconds/NNS and/CC registered/VBD 6.9/CD on/IN the/DT Richter/NNP scale/NN ,/, also/RB caused/VBD the/DT collapse/NN of/IN a/DT 30-foot/JJ section/NN of/IN the/DT San/NNP Francisco-Oakland/NNP Bay/NNP Bridge/NNP and/CC shook/VBD Candlestick/NNP Park/NNP ./.
-The/DT tremor/NN was/VBD centered/VBN near/IN Hollister/NNP ,/, southeast/NN of/IN San/NNP Francisco/NNP ,/, and/CC was/VBD felt/VBN as/RB far/RB as/IN 200/CD miles/NNS ./.
-Numerous/JJ injuries/NNS ./.
-Some/DT buildings/NNS collapsed/VBD ,/, gas/NN and/CC water/NN lines/NNS ruptured/VBD and/CC fires/NNS ./.
+The/DT tremor/NN was/VBD centered/VBN near/IN Hollister/NNP ,/, southeast/NN of/IN San/NNP Francisco/NNP ,/, and/CC was/VBD felt/VBN as/RB far/RB as/IN 200/CD miles/NNS away/RB ./.
+Numerous/JJ injuries/NNS were/VBD reported/VBN ./.
+Some/DT buildings/NNS collapsed/VBD ,/, gas/NN and/CC water/NN lines/NNS ruptured/VBD and/CC fires/NNS raged/VBD ./.
 The/DT quake/NN ,/, which/WDT also/RB caused/VBD damage/NN in/IN San/NNP Jose/NNP and/CC Berkeley/NNP ,/, knocked/VBD out/RP electricity/NN and/CC telephones/NNS ,/, cracked/VBD roadways/NNS and/CC disrupted/VBD subway/NN service/NN in/IN the/DT Bay/NNP Area/NN ./.
 Major/JJ injuries/NNS were/VBD n't/RB reported/VBN at/IN Candlestick/NNP Park/NNP ,/, where/WRB the/DT third/JJ game/NN of/IN baseball/NN 's/POS World/NNP Series/NNP was/VBD canceled/VBN and/CC fans/NNS evacuated/VBN from/IN the/DT stadium/NN ./.
 Bush/NNP vowed/VBD to/TO veto/VB a/DT bill/NN allowing/VBG federal/JJ financing/NN for/IN abortions/NNS in/IN cases/NNS of/IN rape/NN and/CC incest/NN ,/, saying/VBG tax/NN dollars/NNS should/MD n't/RB be/VB used/VBN to/TO ``/`` compound/VB a/DT violent/JJ act/NN with/IN the/DT taking/NN of/IN an/DT unborn/JJ life/NN ./.
@@ -13,11 +13,11 @@ The/DT World/NNP Psychiatric/NNP Association/NNP voted/VBD at/IN an/DT Athens/NN
 Moscow/NNP ,/, which/WDT left/VBD the/DT group/NN in/IN 1983/CD to/TO avoid/VB explusion/NN over/IN allegations/NNS that/IN political/JJ dissidents/NNS were/VBD being/VBG certified/VBN as/IN insane/JJ ,/, could/MD be/VB suspended/VBN if/IN the/DT misuse/NN of/IN psychiatry/NN against/IN dissenters/NNS is/VBZ discovered/VBN during/IN a/DT review/NN within/IN a/DT year/NN ./.
 NASA/NNP postponed/VBD the/DT liftoff/NN of/IN the/DT space/NN shuttle/NN Atlantis/NNP because/RB of/IN rain/NN near/IN the/DT site/NN of/IN the/DT launch/NN pad/NN in/IN Cape/NNP Canaveral/NNP ,/, Fla/NNP ./.
 The/DT flight/NN was/VBD rescheduled/VBN for/IN today/NN ./.
-The/DT spacecraft/NN 's/POS five/CD astronauts/NNS are/VBP to/TO dispatch/VB the/DT nuclear-powered/JJ Galileo/NNP space/NN probe/NN on/IN an/DT exploratory/JJ mission/NN ./.
-Senate/NNP Democratic/JJ leaders/NNS said/VBD they/PRP had/VBD enough/RB votes/NNS to/TO defeat/VB a/DT proposed/VBN constitutional/JJ amendment/NN to/TO ban/VB flag/NN ./.
-The/DT amendment/NN is/VBZ aimed/VBN at/IN skirting/VBG a/DT Supreme/NNP Court/NNP ruling/NN  that/WDT threw/VBD out/RP the/DT conviction/NN of/IN a/DT Texas/NNP flag-burner/NN on/IN grounds/NNS that/IN his/PRP$ freedom/NN of/IN speech/NN ./.
+The/DT spacecraft/NN 's/POS five/CD astronauts/NNS are/VBP to/TO dispatch/VB the/DT nuclear-powered/JJ Galileo/NNP space/NN probe/NN on/IN an/DT exploratory/JJ mission/NN to/TO Jupiter/NNP ./.
+Senate/NNP Democratic/JJ leaders/NNS said/VBD they/PRP had/VBD enough/RB votes/NNS to/TO defeat/VB a/DT proposed/VBN constitutional/JJ amendment/NN to/TO ban/VB flag/NN burning/NN ./.
+The/DT amendment/NN is/VBZ aimed/VBN at/IN skirting/VBG a/DT Supreme/NNP Court/NNP ruling/NN  that/WDT threw/VBD out/RP the/DT conviction/NN of/IN a/DT Texas/NNP flag-burner/NN on/IN grounds/NNS that/IN his/PRP$ freedom/NN of/IN speech/NN was/VBD violated/VBN ./.
 Federal/JJ researchers/NNS said/VBD lung-cancer/NN mortality/NN rates/NNS for/IN people/NNS under/IN 45/CD years/NNS of/IN age/NN have/VBP begun/VBN to/TO decline/VB ,/, particularly/RB for/IN white/JJ males/NNS ./.
-The/DT National/NNP Cancer/NNP Institute/NNP also/RB projected/VBD that/DT overall/JJ U.S./NNP mortality/NN rates/NNS from/IN lung/NN cancer/NN should/MD begin/VB to/TO drop/VB in/IN several/JJ years/NNS if/IN cigarette/NN ./.
+The/DT National/NNP Cancer/NNP Institute/NNP also/RB projected/VBD that/DT overall/JJ U.S./NNP mortality/NN rates/NNS from/IN lung/NN cancer/NN should/MD begin/VB to/TO drop/VB in/IN several/JJ years/NNS if/IN cigarette/NN smoking/NN continues/VBZ to/TO abate/VB ./.
 Bush/NNP met/VBD with/IN South/JJ Korean/JJ President/NNP Roh/NNP ,/, who/WP indicated/VBD that/IN Seoul/NNP plans/VBZ to/TO further/RBR ease/VB trade/NN rules/NNS to/TO ensure/VB that/DT its/PRP$ economy/NN becomes/VBZ as/RB open/JJ as/IN the/DT other/JJ industrialized/JJ nations/NNS by/IN the/DT mid-1990s/NNS ./.
 Bush/NNP assured/VBD Roh/NNP that/IN the/DT U.S./NNP would/MD stand/VB by/IN its/PRP$ security/NN commitments/NNS ``/`` as/RB long/RB as/IN there/EX is/VBZ a/DT threat/NN ''/'' from/IN Communist/NNP North/NNP Korea/NNP ./.
 The/DT Bush/NNP administration/NN is/VBZ seeking/VBG an/DT understanding/NN with/IN Congress/NNP to/TO ease/VB restrictions/NNS on/IN U.S./NNP involvement/NN in/IN foreign/JJ coups/NNS  that/WDT might/MD result/VB in/IN the/DT death/NN of/IN a/DT country/NN 's/POS leader/NN ./.

@@ -5,4 +5,4 @@ FileNet/NNP said/VBD it/PRP does/VBZ n't/RB believe/VB the/DT state/NN has/VBZ a
 The/DT disagreement/NN centers/VBZ on/IN testing/VBG deadlines/NNS and/CC other/JJ issues/NNS involving/VBG a/DT FileNet/NNP system/NN installed/VBN earlier/RBR this/DT year/NN ./.
 State/NN officials/NNS could/MD n't/RB be/VB reached/VBN for/IN comment/NN late/JJ yesterday/NN ./.
 FileNet/NNP noted/VBD that/IN it/PRP had/VBD cash/NN and/CC marketable/JJ securities/NNS totaling/VBG $/$ 22.5/CD million/CD on/IN Sept./NNP 30/CD ,/, and/CC stockholders/NNS '/POS equity/NN is/VBZ $/$ 60.1/CD million/CD ./.
-The/DT company/NN made/VBD the/DT announcement/NN after/IN the/DT close/NN of/IN the/DT markets/NNS ,/, where/WRB its/PRP$ stock/NN finished/VB at/IN $/$ 10.75/CD ,/, up/IN 25/CD cents/NNS ,/, in/IN over-the-counter/JJ ./.
+The/DT company/NN made/VBD the/DT announcement/NN after/IN the/DT close/NN of/IN the/DT markets/NNS ,/, where/WRB its/PRP$ stock/NN finished/VB at/IN $/$ 10.75/CD ,/, up/IN 25/CD cents/NNS ,/, in/IN over-the-counter/JJ trading/NN ./.

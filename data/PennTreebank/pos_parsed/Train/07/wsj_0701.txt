@@ -3,8 +3,8 @@ Oji/NNP Paper/NNP ,/, the/DT nation/NN 's/POS largest/JJS in/IN terms/NNS of/IN 
 Sales/NNS jumped/VBD 12.2/CD %/NN to/TO 232.12/CD billion/CD yen/NNS from/IN 206.87/CD billion/CD yen/NNS ./.
 Net/JJ income/NN increased/VBN 6.7/CD %/NN to/TO 12.43/CD billion/CD yen/NNS from/IN 11.66/CD billion/CD yen/NNS ./.
 Per-share/JJ net/NN rose/VBD to/TO 20.48/CD yen/NNS from/IN 19.51/CD yen/NNS ./.
-Oji/NNP Paper/NNP 's/POS sales/NNS strength/NN was/VBD evident/JJ in/IN overall/JJ paper/NN products/NNS sales/NNS ,/, including/VBG newsprints/NNS ,/, printing/NN and/CC wrapping/NN papers/NNS ,/, which/WDT rose/VBD to/TO 221.61/CD billion/CD yen/NNS in/IN the/DT first/JJ  half/NN from/IN 200.70/CD billion/CD yen/NNS  a/DT year/NN ./.
-Pulp/NN ,/, processed/JJ and/CC miscellaneous/JJ paper/NN sales/NNS ./.
+Oji/NNP Paper/NNP 's/POS sales/NNS strength/NN was/VBD evident/JJ in/IN overall/JJ paper/NN products/NNS sales/NNS ,/, including/VBG newsprints/NNS ,/, printing/NN and/CC wrapping/NN papers/NNS ,/, which/WDT rose/VBD to/TO 221.61/CD billion/CD yen/NNS in/IN the/DT first/JJ  half/NN from/IN 200.70/CD billion/CD yen/NNS  a/DT year/NN earlier/RB ./.
+Pulp/NN ,/, processed/JJ and/CC miscellaneous/JJ paper/NN sales/NNS also/RB surged/VBD ./.
 the/DT full/JJ fiscal/JJ year/NN ending/VBG next/JJ March/NNP ,/, Oji/NNP predicted/VBD that/IN total/JJ sales/NNS of/IN 477.00/CD billion/CD yen/NNS ,/, up/RB from/IN 420.68/CD billion/CD yen/NNS in/IN the/DT previous/JJ fiscal/JJ year/NN ./.
 Pretax/JJ profit/NN is/VBZ seen/VBN at/IN 45.00/CD billion/CD yen/NNS ,/, down/RB from/IN 47.17/CD billion/CD yen/NNS ,/, while/IN net/JJ income/NN is/VBZ estimated/VBN at/IN 23.500/CD billion/CD yen/NNS ,/, up/RB from/IN 23.031/CD billion/CD yen/NNS ./.
 The/DT company/NN did/VBD n't/RB provide/VB an/DT explanation/NN for/IN the/DT softer/JJR pretax/JJ profit/NN performance/NN and/CC officials/NNS could/MD n't/RB be/VB reached/VBN for/IN comment/NN ./.

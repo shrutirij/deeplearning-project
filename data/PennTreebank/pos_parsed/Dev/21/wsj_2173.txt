@@ -14,24 +14,24 @@ What/WP  we/PRP 're/VBP trying/VBG to/TO explore/VB now/RB is/VBZ how/WRB to/TO 
 We/PRP 're/VBP not/RB going/VBG to/TO suddenly/RB abandon/VB them/PRP ./.
 Reps./NNPS Foley/NNP and/CC Michel/NNP had/VBD agreed/VBN to/TO streamline/VB the/DT deficit-reduction/NN bill/NN before/IN the/DT House/NNP even/RB took/VBD it/PRP up/RP ,/, but/CC Mr./NNP Darman/NNP and/CC White/NNP House/NNP Chief/NNP of/IN Staff/NNP John/NNP Sununu/NNP had/VBD torpedoed/VBN that/DT plan/NN in/IN order/NN to/TO press/VB their/PRP$ fight/NN for/IN a/DT cut/NN in/IN capital-gains/NNS taxes/NNS ./.
 Congressional/JJ leaders/NNS rejected/VBD suggestions/NNS that/IN their/PRP$ attempts/NNS to/TO speed/VB the/DT deficit-reduction/NN bill/NN had/VBD anything/NN to/TO do/VB with/IN Friday/NNP 's/POS stock/NN market/NN decline/NN ./.
-We/PRP are/VBP responding/VBG to/TO our/PRP$ responsibility/NN under/IN the/DT budget/NN act/NN ,/, ''/'' Rep./NNP Foley/NNP ./.
+We/PRP are/VBP responding/VBG to/TO our/PRP$ responsibility/NN under/IN the/DT budget/NN act/NN ,/, ''/'' Rep./NNP Foley/NNP said/VBD ./.
 the/DT size/NN of/IN yesterday/NN 's/POS rebound/NN in/IN stock/NN prices/NNS was/VBD known/VBN ,/, Mr./NNP Darman/NNP said/VBD that/IN Friday/NNP 's/POS plunge/NN ``/`` would/MD have/VB no/DT significant/JJ effect/NN on/IN the/DT budget/NN process/NN ./.
-the/DT fiscal/JJ year/NN began/VBD on/IN Oct./NNP 1/CD ,/, the/DT Office/NNP of/IN Management/NNP and/CC Budget/NNP began/VBD withholding/VBG 4.3/CD %/NN of/IN the/DT Pentagon/NNP 's/POS money/NN and/CC 5.3/CD %/NN of/IN other/JJ agencies/NNS '/POS money/NN ,/, as/IN the/DT Gramm-Rudman/NNP law/NN ./.
-Those/DT cuts/NNS ,/, known/VBN as/IN a/DT ``/`` sequester/NN ''/'' in/IN budget/NN jargon/NN ,/, became/VBD permanent/JJ yesterday/NN ,/, although/IN Congress/NNP could/MD cancel/VB or/CC rescind/VB them/PRP whenever/WRB it/PRP ./.
+the/DT fiscal/JJ year/NN began/VBD on/IN Oct./NNP 1/CD ,/, the/DT Office/NNP of/IN Management/NNP and/CC Budget/NNP began/VBD withholding/VBG 4.3/CD %/NN of/IN the/DT Pentagon/NNP 's/POS money/NN and/CC 5.3/CD %/NN of/IN other/JJ agencies/NNS '/POS money/NN ,/, as/IN the/DT Gramm-Rudman/NNP law/NN requires/VBZ ./.
+Those/DT cuts/NNS ,/, known/VBN as/IN a/DT ``/`` sequester/NN ''/'' in/IN budget/NN jargon/NN ,/, became/VBD permanent/JJ yesterday/NN ,/, although/IN Congress/NNP could/MD cancel/VB or/CC rescind/VB them/PRP whenever/WRB it/PRP wants/VBZ to/TO ./.
 a/DT special/JJ provision/NN of/IN the/DT law/NN ,/, the/DT government/NN yesterday/RB began/VBD slicing/VBG 2/CD %/NN from/IN Medicare/NNP payments/NNS made/VBN to/TO doctors/NNS and/CC hospitals/NNS ./.
 two-thirds/NNS of/IN all/DT federal/JJ spending/NN --/: including/VBG Social/NNP Security/NNP payments/NNS and/CC salaries/NNS of/IN current/JJ federal/JJ employees/NNS --/: is/VBZ exempt/JJ from/IN the/DT Gramm-Rudman/NNP cuts/NNS ./.
-The/DT rest/NN of/IN the/DT government/NN will/MD be/VB pinched/VBN ,/, perhaps/RB within/IN a/DT month/NN ,/, if/IN the/DT cut/JJ funds/NNS ./.
+The/DT rest/NN of/IN the/DT government/NN will/MD be/VB pinched/VBN ,/, perhaps/RB within/IN a/DT month/NN ,/, if/IN the/DT cut/JJ funds/NNS are/VBP n't/RB restored/VBN ./.
 a/DT tough/JJ bargaining/NN position/NN ,/, Mr./NNP Darman/NNP said/VBD he/PRP opposes/VBZ restoring/VBG the/DT funds/NNS when/WRB Congress/NNP finally/RB wraps/VBZ up/RP its/PRP$ work/NN on/IN 1990/CD spending/NN ./.
-The/DT Gramm-Rudman/NNP penalty/NN wo/MD n't/RB be/VB taken/VBN seriously/RB if/IN agencies/NNS merely/RB ``/`` figure/VBP out/RB how/WRB to/TO juggle/VB the/DT accounts/NNS ,/, trusting/VBG that/IN Congress/NNP is/VBZ going/VBG to/TO restore/VB all/PDT the/DT money/NN  a/DT little/JJ bit/NN later/RB ,/, ''/'' he/PRP ./.
-Congressional/JJ Democrats/NNPS ./.
+The/DT Gramm-Rudman/NNP penalty/NN wo/MD n't/RB be/VB taken/VBN seriously/RB if/IN agencies/NNS merely/RB ``/`` figure/VBP out/RB how/WRB to/TO juggle/VB the/DT accounts/NNS ,/, trusting/VBG that/IN Congress/NNP is/VBZ going/VBG to/TO restore/VB all/PDT the/DT money/NN  a/DT little/JJ bit/NN later/RB ,/, ''/'' he/PRP said/VBD ./.
+Congressional/JJ Democrats/NNPS were/VBD quick/JJ to/TO disagree/VB ./.
 Senate/NNP Budget/NNP Chairman/NNP James/NNP Sasser/NNP (/( D./NNP ,/, Tenn/NNP ./.
 We/PRP do/VBP n't/RB do/VB the/DT American/JJ people/NNS any/RB good/JJ whatsoever/RB by/IN standing/VBG by/RB and/CC letting/VBG these/DT automatic/JJ cuts/NNS go/VBP into/IN effect/NN ./.
 the/DT pain/NN that/IN the/DT spending/NN cuts/NNS are/VBP intended/VBN to/TO inflict/VB ,/, Mr./NNP Darman/NNP said/VBD the/DT OMB/NNP is/VBZ making/VBG the/DT cuts/NNS from/IN each/DT individual/JJ program/NN ,/, project/NN or/CC activity/NN in/IN the/DT budget/NN ./.
 OMB/NNP had/VBD indicated/VBN it/PRP would/MD cut/VB at/IN the/DT ``/`` account/NN ''/'' level/NN ;/: each/DT account/NN is/VBZ comprised/VBN of/IN many/JJ programs/NNS ,/, projects/NNS or/CC activities/NNS ./.
 Mr./NNP Darman/NNP said/VBD the/DT new/JJ approach/NN will/MD give/VB agencies/NNS ``/`` less/JJR ability/NN to/TO shift/VB from/IN one/CD area/NN to/TO another/NN .../: to/TO fudge/VB over/IN things/NNS ./.
 least/JJS for/IN some/DT major/JJ spending/NN programs/NNS ,/, government/NN budget/NN experts/NNS said/VBD ,/, OMB/NNP has/VBZ n't/RB any/DT significant/JJ control/NN of/IN individual/JJ programs/NNS ,/, projects/NNS or/CC activities/NNS ./.
-the/DT spending/NN cuts/NNS will/MD be/VB programs/NNS  that/WDT spend/VBP most/JJS of/IN their/PRP$ money/NN on/IN personnel/NNS ,/, Mr./NNP Darman/NNP ./.
-He/PRP would/MD n't/RB predict/VB how/WRB long/JJ  it/PRP would/MD be/VB before/IN the/DT first/JJ layoffs/NNS ,/, if/IN any/DT ./.
+the/DT spending/NN cuts/NNS will/MD be/VB programs/NNS  that/WDT spend/VBP most/JJS of/IN their/PRP$ money/NN on/IN personnel/NNS ,/, Mr./NNP Darman/NNP said/VBD ./.
+He/PRP would/MD n't/RB predict/VB how/WRB long/JJ  it/PRP would/MD be/VB before/IN the/DT first/JJ layoffs/NNS ,/, if/IN any/DT ,/, occur/VBP ./.
 the/DT law/NN ,/, President/NNP Bush/NNP may/MD exempt/VB military/JJ personnel/NNS accounts/NNS from/IN the/DT spending/NN cuts/NNS ./.
-He/PRP  has/VBZ n't/RB ./.
+He/PRP  has/VBZ n't/RB yet/RB done/VBN so/RB ./.
 Mr./NNP Darman/NNP also/RB said/VBD yesterday/NN that/IN although/IN the/DT administration/NN is/VBZ n't/RB any/RB longer/RB pushing/VBG to/TO include/VB a/DT cut/NN in/IN capital-gains/NNS taxes/NNS as/IN part/NN of/IN the/DT 1990/CD budget/NN legislation/NN ,/, the/DT odds/NNS are/VBP 8-to-5/JJ in/IN favor/NN of/IN winning/VBG approval/NN for/IN capital/NN gains/NNS taxes/NNS  this/DT year/NN ./.

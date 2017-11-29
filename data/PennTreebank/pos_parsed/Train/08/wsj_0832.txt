@@ -5,7 +5,7 @@ They/PRP lost/VBD $/$ 28/CD million/CD ,/, but/CC that/DT is/VBZ good/JJ news/NN
 the/DT second/JJ quarter/NN ,/, the/DT subsidiary/NN had/VBD a/DT $/$ 158/CD million/CD loss/NN ./.
 least/JJS ,/, Mr./NNP Modzelewski/NNP said/VBD ,/, ``/`` it/PRP 's/VBZ losing/VBG money/NN at/IN a/DT decelerating/VBG rate/NN ./.
 investors/NNS were/VBD n't/RB exactly/RB gleeful/JJ ,/, McDonnell/NNP Douglas/NNP held/VBD steady/RB on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ,/, closing/VBG yesterday/NN at/IN $/$ 67.125/CD  a/DT share/NN ,/, unchanged/JJ ./.
-McDonnell/NNP Douglas/NNP posted/VBD third-quarter/JJ net/NN of/IN $/$ 38/CD million/CD ,/, or/CC 98/CD cents/NNS  a/DT share/NN ,/, down/RB from/IN $/$ 83/CD million/CD ,/, or/CC $/$ 2.18/CD  a/DT share/NN ,/, a/DT year/NN ./.
+McDonnell/NNP Douglas/NNP posted/VBD third-quarter/JJ net/NN of/IN $/$ 38/CD million/CD ,/, or/CC 98/CD cents/NNS  a/DT share/NN ,/, down/RB from/IN $/$ 83/CD million/CD ,/, or/CC $/$ 2.18/CD  a/DT share/NN ,/, a/DT year/NN earlier/RBR ./.
 The/DT latest/JJS results/NNS include/VBP an/DT extraordinary/JJ gain/NN of/IN $/$ 6/CD million/CD ,/, or/CC 14/CD cents/NNS  a/DT share/NN ,/, from/IN the/DT divestiture/NN of/IN the/DT bulk/NN of/IN the/DT company/NN 's/POS information/NN systems/NNS group/NN ./.
 the/DT year-earlier/JJ period/NN ,/, the/DT company/NN had/VBD a/DT $/$ 4/CD million/CD loss/NN from/IN discontinued/JJ operations/NNS ./.
 Sales/NNS for/IN the/DT St./NNP Louis-based/JJ aircraft/NN and/CC defense/NN company/NN rose/VBD 1.1/CD %/NN to/TO $/$ 3.72/CD billion/CD from/IN $/$ 3.68/CD billion/CD ./.
@@ -16,9 +16,9 @@ Earnings/NNS were/VBD also/RB off/RB 33/CD %/NN in/IN the/DT missiles/NNS ,/, sp
 Mr./NNP Modzelewski/NNP ,/, while/IN noting/VBG that/IN times/NNS are/VBP tough/JJ for/IN arms/NNS makers/NNS ,/, said/VBD he/PRP expected/VBD McDonnell/NNP Douglas/NNP 's/POS Pentagon-related/JJ projects/NNS to/TO ``/`` bounce/VB back/RP next/JJ quarter/NN ''/'' to/TO some/DT degree/NN ./.
 A/DT number/NN of/IN defense-oriented/JJ aerospace/NN companies/NNS ,/, including/VBG Northrop/NNP Corp./NNP and/CC General/NNP Dynamics/NNP Corp./NNP ,/, have/VBP reported/VBN either/DT flat/JJ or/CC lower/JJR third-quarter/JJ earnings/NNS ./.
 the/DT biggest/JJS question/NN mark/NN remains/VBZ Douglas/NNP ./.
-Deliveries/NNS of/IN its/PRP$ MD-80/NNP jetliner/NN ,/, which/WDT competes/VBZ primarily/RB with/IN Boeing/NNP Co./NNP 's/POS 737/CD series/NN ,/, jumped/VBD to/TO 30/CD in/IN the/DT third/JJ quarter/NN ,/, from/IN 24/CD in/IN the/DT second/JJ period/NN and/CC 28/CD  a/DT year/NN ./.
+Deliveries/NNS of/IN its/PRP$ MD-80/NNP jetliner/NN ,/, which/WDT competes/VBZ primarily/RB with/IN Boeing/NNP Co./NNP 's/POS 737/CD series/NN ,/, jumped/VBD to/TO 30/CD in/IN the/DT third/JJ quarter/NN ,/, from/IN 24/CD in/IN the/DT second/JJ period/NN and/CC 28/CD  a/DT year/NN earlier/RB ./.
 Losses/NNS on/IN the/DT program/NN narrowed/VBD to/TO $/$ 1/CD million/CD in/IN the/DT latest/JJS quarter/NN from/IN $/$ 34/CD million/CD in/IN the/DT second/JJ period/NN ./.
-Company/NN officials/NNS boast/VBP that/IN Douglas/NNP could/MD account/VB for/IN half/NN of/IN McDonnell/NNP Douglas/NNP revenues/NNS by/IN 1992/CD ,/, compared/VBN with/IN about/RB a/DT third/NN ./.
+Company/NN officials/NNS boast/VBP that/IN Douglas/NNP could/MD account/VB for/IN half/NN of/IN McDonnell/NNP Douglas/NNP revenues/NNS by/IN 1992/CD ,/, compared/VBN with/IN about/RB a/DT third/NN now/RB ./.
 the/DT MD-80/NNP and/CC MD-11/NNP commercial/JJ jetliners/NNS ,/, Douglas/NNP is/VBZ building/VBG the/DT T-45/NNP Navy/NNP trainer/NN and/CC C-17/NNP military/JJ transport/NN ./.
-things/NNS at/IN the/DT Long/NNP Beach/NNP ,/, Calif./NNP ,/, subsidiary/NN ./.
-Douglas/NNP is/VBZ improving/VBG ,/, ''/'' said/VBD Judith/NNP Comeau/NNP ,/, analyst/NN at/IN Goldman/NNP Sachs/NNP &/CC Co./NNP ,/, ``/`` but/CC they/PRP 're/VBP no/RB where/WRB near/IN where/WRB they/PRP ./.
+things/NNS at/IN the/DT Long/NNP Beach/NNP ,/, Calif./NNP ,/, subsidiary/NN can/MD really/RB be/VB turned/VBN around/RB has/VBZ yet/RB to/TO be/VB seen/VBN ./.
+Douglas/NNP is/VBZ improving/VBG ,/, ''/'' said/VBD Judith/NNP Comeau/NNP ,/, analyst/NN at/IN Goldman/NNP Sachs/NNP &/CC Co./NNP ,/, ``/`` but/CC they/PRP 're/VBP no/RB where/WRB near/IN where/WRB they/PRP need/VBP to/TO be/VB ./.

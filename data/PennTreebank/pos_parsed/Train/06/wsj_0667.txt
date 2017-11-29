@@ -1,4 +1,4 @@
-Shoney/NNP 's/POS Inc./NNP said/VBD it/PRP will/MD report/VB a/DT write-off/NN of/IN $/$ 2.5/CD million/CD ,/, or/CC seven/CD cents/NNS  a/DT share/NN ,/, for/IN its/PRP$ fourth/JJ quarter/NN ./.
+Shoney/NNP 's/POS Inc./NNP said/VBD it/PRP will/MD report/VB a/DT write-off/NN of/IN $/$ 2.5/CD million/CD ,/, or/CC seven/CD cents/NNS  a/DT share/NN ,/, for/IN its/PRP$ fourth/JJ quarter/NN ended/VBN yesterday/NN ./.
 The/DT restaurant/NN operator/NN cited/VBD transaction/NN costs/NNS from/IN its/PRP$ 1988/CD recapitalization/NN as/IN a/DT result/NN of/IN a/DT $/$ 160/CD million/CD restructuring/NN of/IN its/PRP$ bank/NN debt/NN ./.
 The/DT write-off/NN will/MD be/VB reported/VBN as/IN an/DT extraordinary/JJ item/NN in/IN the/DT company/NN 's/POS 1989/CD operating/NN results/NNS ./.
 addition/NN ,/, the/DT effective/JJ interest/NN rate/NN on/IN the/DT $/$ 410/CD million/CD of/IN total/JJ remaining/VBG bank/NN debt/NN after/IN the/DT restructuring/NN is/VBZ 10.66/CD %/NN ./.

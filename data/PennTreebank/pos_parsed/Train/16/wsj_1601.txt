@@ -5,8 +5,8 @@ the/DT year-earlier/JJ month/NN ,/, the/DT Big/NNP Board/NNP reported/VBD 461,53
 Amex/NNP short/JJ interest/NN has/VBZ been/VBN heading/VBG upward/RB since/IN mid-December/NN ,/, with/IN increases/NNS in/IN each/DT month/NN since/IN then/RB except/IN at/IN mid-July/NN ./.
 Traders/NNS  who/WP sell/VBP short/JJ borrow/VBP stock/NN and/CC sell/VBP it/PRP ,/, betting/VBG that/IN the/DT stock/NN 's/POS price/NN will/MD decline/VB and/CC that/IN they/PRP can/MD buy/VB the/DT shares/NNS back/RB later/RBR at/IN a/DT lower/JJR price/NN for/IN return/NN to/TO the/DT lender/NN ./.
 Short/JJ interest/NN is/VBZ the/DT number/NN of/IN shares/NNS  that/WDT have/VBP n't/RB yet/RB been/VBN purchased/VBN for/IN return/NN to/TO lenders/NNS ./.
-a/DT substantial/JJ short/JJ position/NN reflects/VBZ heavy/JJ speculation/NN that/IN a/DT stock/NN 's/POS price/NN will/MD decline/VB ,/, some/DT investors/NNS consider/VBP an/DT increase/NN in/IN short/JJ interest/NN bullish/JJ because/IN the/DT borrowed/VBN shares/NNS ./.
-Fluctuation/NN in/IN short/JJ interest/NN of/IN certain/JJ stocks/NNS ./.
+a/DT substantial/JJ short/JJ position/NN reflects/VBZ heavy/JJ speculation/NN that/IN a/DT stock/NN 's/POS price/NN will/MD decline/VB ,/, some/DT investors/NNS consider/VBP an/DT increase/NN in/IN short/JJ interest/NN bullish/JJ because/IN the/DT borrowed/VBN shares/NNS eventually/RB must/MD be/VB bought/VBN back/RB ./.
+Fluctuation/NN in/IN short/JJ interest/NN of/IN certain/JJ stocks/NNS also/RB may/MD be/VB caused/VBN partly/RB by/IN arbitraging/VBG ./.
 The/DT figures/NNS occasionally/RB include/VBP incomplete/JJ transactions/NNS in/IN restricted/JJ stock/NN ./.
 The/DT level/NN of/IN negative/JJ sentiment/NN measured/VBN by/IN the/DT Big/NNP Board/NNP short/JJ interest/NN ratio/NN slipped/VBD to/TO 3.36/CD from/IN last/JJ month/NN 's/POS 3.38/CD ./.
 The/DT ratio/NN is/VBZ the/DT number/NN of/IN trading/NN days/NNS ,/, at/IN the/DT exchange/NN 's/POS average/JJ trading/NN volume/NN ,/, that/WDT would/MD be/VB required/VBN to/TO convert/VB the/DT total/JJ short/JJ interest/NN position/NN ./.
@@ -15,7 +15,7 @@ Varity/NNP Corp./NNP led/VBD the/DT Big/NNP Board/NNP list/NN of/IN largest/JJS 
 Varity/NNP has/VBZ proposed/VBN to/TO acquire/VB K-H/NNP Corp./NNP ,/, consisting/VBG of/IN the/DT auto/NN parts/NNS division/NN and/CC some/DT debt/NN of/IN Fruehauf/NNP Corp./NNP ,/, for/IN $/$ 577.3/CD million/CD of/IN cash/NN and/CC securities/NNS ./.
 Chemical/NNP Waste/NNP Management/NNP posted/VBD the/DT biggest/JJS increase/NN in/IN short/JJ volume/NN on/IN the/DT New/NNP York/NNP exchange/NN ,/, up/RB 3,383,477/CD shares/NNS to/TO 5,267,238/CD ./.
 Bristol-Myers/NNP Squibb/NNP Co./NNP ,/, the/DT entity/NN formed/VBN from/IN the/DT recent/JJ acquisition/NN of/IN Squibb/NNP Corp./NNP by/IN Bristol-Myers/NNP Co./NNP ,/, logged/VBD the/DT largest/JJS volume/NN decline/NN ,/, 7,592,988/CD shares/NNS ,/, to/TO 12,017,724/CD ./.
-Short/JJ interest/NN in/IN International/NNP Business/NNP Machines/NNP Corp./NNP plunged/VBD to/TO 1,425,035/CD shares/NNS from/IN 2,387,226/CD shares/NNS  a/DT month/NN ./.
+Short/JJ interest/NN in/IN International/NNP Business/NNP Machines/NNP Corp./NNP plunged/VBD to/TO 1,425,035/CD shares/NNS from/IN 2,387,226/CD shares/NNS  a/DT month/NN earlier/RBR ./.
 Exxon/NNP Corp./NNP ,/, where/WRB short/JJ interest/NN slid/VBD to/TO 4,469,167/CD shares/NNS from/IN 5,088,774/CD ./.
 a/DT percentage/NN basis/NN ,/, Germany/NNP Fund/NNP Inc./NNP led/VBD the/DT gainers/NNS ,/, leaping/VBG to/TO 67,972/CD shares/NNS from/IN three/CD shares/NNS ./.
 TransCanada/NNP PipeLines/NNP Ltd./NNP led/VBD the/DT percentage/NN decliners/NNS ,/, dropping/VBG to/TO 59/CD shares/NNS from/IN 183,467/CD ./.

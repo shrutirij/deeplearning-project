@@ -11,7 +11,7 @@ City/NNP and/CC County/NNP of/IN Honolulu/NNP --/: $/$ 75/CD million/CD of/IN ge
 The/DT bonds/NNS ,/, rated/VBN double-A/JJ by/IN Moody/NNP 's/POS and/CC S&P/NNP ,/, were/VBD priced/VBN to/TO yield/VB from/IN 6.20/CD %/NN in/IN 1993/CD to/TO 7.10/CD %/NN in/IN 2008/CD and/CC 2009/CD ./.
 Federal/NNP National/NNP Mortgage/NNP Association/NNP --/: $/$ 500/CD million/CD of/IN Remic/NNP mortgage/NN securities/NNS being/VBG offered/VBN in/IN 12/CD classes/NNS by/IN Shearson/NNP Lehman/NNP Hutton/NNP Inc/NNP ./.
 The/DT offering/NN ,/, Series/NNS 1989-89/CD ,/, backed/VBN by/IN Fannie/NNP Mae/NNP 9/CD %/NN securities/NNS ,/, brings/VBZ Fannie/NNP Mae/NNP 's/POS 1989/CD Remic/NNP issuance/NN to/TO $/$ 33.2/CD billion/CD and/CC its/PRP$ total/JJ Remic/NNP volume/NN to/TO $/$ 45.3/CD billion/CD since/IN the/DT program/NN began/VBD in/IN April/NNP 1987/CD ./.
-terms/NNS ./.
+terms/NNS were/VBD n't/RB available/JJ ./.
 Kyushu/NNP Electric/NNP Power/NNP Co/NNP ./.
 Japan/NNP )/) --/: $/$ 200/CD million/CD of/IN 8/CD 7\/8/CD %/NN bonds/NNS due/JJ Nov./NNP 28/CD ,/, 1996/CD ,/, priced/VBN at/IN 101/CD 7\/8/CD to/TO yield/VB 8/CD 7\/8/CD %/NN  less/CC full/JJ fees/NNS ,/, via/IN Yamaichi/NNP International/NNP Europe/NNP Ltd/NNP ./.
 Fees/NNS 1/CD 7\/8/CD ./.
@@ -32,11 +32,11 @@ Option/NN by/IN borrower/NN to/TO increase/VB issue/NN amount/NN to/TO 150/CD mi
 Mandom/NNP Corp/NNP ./.
 Japan/NNP )/) --/: 80/CD million/CD Swiss/JJ francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ March/NNP 31/CD ,/, 1994/CD ,/, with/IN fixed/JJ 0.25/CD %/NN coupon/NN at/IN par/JJ ,/, via/IN Nomura/NNP Bank/NNP Switzerland/NNP ./.
 March/NNP 31/CD ,/, 1992/CD ,/, at/IN a/DT fixed/JJ 107/CD 3\/4/CD to/TO yield/VB 3.43/CD %/NN ./.
-Each/DT 50,000/CD Swiss/JJ franc/NN note/NN convertible/NN Dec./NNP 4/CD ,/, 1989/CD ,/, through/IN March/NNP 17/CD ,/, 1994/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN closing/NN share/NN price/NN Nov./NNP 1/CD ,/, when/WRB terms/NNS ./.
+Each/DT 50,000/CD Swiss/JJ franc/NN note/NN convertible/NN Dec./NNP 4/CD ,/, 1989/CD ,/, through/IN March/NNP 17/CD ,/, 1994/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN closing/NN share/NN price/NN Nov./NNP 1/CD ,/, when/WRB terms/NNS are/VBP fixed/VBN ./.
 Nippon/NNP Air/NNP Brake/NNP Co/NNP ./.
-Japan/NNP )/) --/: 140/CD million/CD Swiss/JJ francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ March/NNP 31/CD ,/, 1994/CD ,/, with/IN fixed/VBN 0.25/CD %/NN coupon/NN at/IN par/JJ ,/, via/IN Yamaichi/NNP Bank/NNP (/( Switzerland/NNP ./.
+Japan/NNP )/) --/: 140/CD million/CD Swiss/JJ francs/NNS of/IN privately/RB placed/VBN convertible/JJ notes/NNS due/JJ March/NNP 31/CD ,/, 1994/CD ,/, with/IN fixed/VBN 0.25/CD %/NN coupon/NN at/IN par/JJ ,/, via/IN Yamaichi/NNP Bank/NNP (/( Switzerland/NNP )/) ./.
 March/NNP 31/CD ,/, 1992/CD ,/, at/IN fixed/JJ 107/CD 13\/16/CD to/TO yield/VB 3.43/CD %/NN ./.
-Each/DT 50,000/CD Swiss/JJ franc/NN note/NN convertible/JJ Nov./NNP 27/CD ,/, 1989/CD ,/, through/IN March/NNP 17/CD ,/, 1994/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN closing/NN share/NN price/NN Nov./NNP 1/CD ,/, when/WRB terms/NNS ./.
+Each/DT 50,000/CD Swiss/JJ franc/NN note/NN convertible/JJ Nov./NNP 27/CD ,/, 1989/CD ,/, through/IN March/NNP 17/CD ,/, 1994/CD ,/, at/IN a/DT 5/CD %/NN premium/NN over/IN closing/NN share/NN price/NN Nov./NNP 1/CD ,/, when/WRB terms/NNS are/VBP fixed/VBN ./.
 Credit/NNP Suisse/NNP Finance/NNP Gibraltar/NNP Ltd/NNP ./.
 Swiss/JJ parent/NN )/) --/: 100/CD billion/CD lire/NNS of/IN 12/CD 5\/8/CD %/NN bonds/NNS due/JJ June/NNP 30/CD ,/, 1993/CD ,/, priced/VBN at/IN 101.45/CD to/TO yield/VB 12.75/CD %/NN  less/CC full/JJ fees/NNS ,/, via/IN Banca/NNP Nazionale/NNP  del/FW Lavaro/NN ./.
 Guarantee/NN by/IN Credit/NNP Suisse/NNP ./.

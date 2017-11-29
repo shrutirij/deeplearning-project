@@ -28,15 +28,15 @@ he/PRP paid/VBD a/DT rough/JJ average/JJ price/NN of/IN $/$ 80/CD  a/DT share/NN
 Some/DT analysts/NNS said/VBD AMR/NNP Chairman/NN Robert/NNP Crandall/NNP might/MD seize/VB the/DT opportunity/NN presented/VBN by/IN the/DT stock/NN price/NN drop/NN to/TO protect/VB the/DT nation/NN 's/POS largest/JJS airline/NN with/IN a/DT defensive/JJ transaction/NN ,/, such/JJ as/IN the/DT sale/NN of/IN stock/NN to/TO a/DT friendly/JJ holder/NN or/CC company/NN employees/NNS ./.
 other/JJ knowledgeable/JJ observers/NNS said/VBD they/PRP believed/VBD Mr./NNP Crandall/NNP and/CC the/DT AMR/NNP board/NN might/MD well/RB decide/VB to/TO tough/VB it/PRP out/RB without/IN taking/VBG any/DT extra/JJ steps/NNS ./.
 Some/DT analysts/NNS said/VBD they/PRP believed/VBD Mr./NNP Trump/NNP ,/, whose/WP$ towering/JJ ego/NN had/VBD been/VBN viewed/VBN by/IN some/DT as/IN a/DT reason/NN to/TO believe/VB he/PRP would/MD n't/RB back/VB out/RB ,/, might/MD come/VB back/RB with/IN a/DT lower/JJR bid/NN ./.
-Ray/NNP Neidl/NNP of/IN Dillon/NNP Read/NNP &/CC Co./NNP said/VBD Mr./NNP Trump/NNP ``/`` is/VBZ stepping/VBG back/RB and/CC waiting/VBG for/IN the/DT dust/NN ./.
+Ray/NNP Neidl/NNP of/IN Dillon/NNP Read/NNP &/CC Co./NNP said/VBD Mr./NNP Trump/NNP ``/`` is/VBZ stepping/VBG back/RB and/CC waiting/VBG for/IN the/DT dust/NN to/TO settle/VB ./.
 I/PRP 'm/VBP sure/JJ he/PRP still/RB wants/VBZ AMR/NNP ./.
 others/NNS remained/VBD skeptical/JJ ./.
 I/PRP was/VBD never/RB sure/JJ Donald/NNP Trump/NNP really/RB wanted/VBD to/TO take/VB AMR/NNP ,/, ''/'' said/VBD John/NNP Mattis/NNP ,/, a/DT bond/NN analyst/NN with/IN Shearson/NNP Lehman/NNP Hutton/NNP Inc/NNP ./.
-What/WP happened/VBD with/IN United/NNP was/VBD a/DT gracious/JJ way/NN for/IN him/PRP ./.
+What/WP happened/VBD with/IN United/NNP was/VBD a/DT gracious/JJ way/NN for/IN him/PRP to/TO bow/VB out/RB ./.
 Mr./NNP Trump/NNP never/RB obtained/VBD financing/NN for/IN his/PRP$ bid/NN ./.
 That/DT skepticism/NN would/MD leave/VB him/PRP with/IN an/DT even/RB greater/JJR credibility/NN problem/NN should/MD he/PRP return/VB that/WDT would/MD handicap/VB him/PRP in/IN any/DT effort/NN to/TO oust/VB the/DT board/NN in/IN a/DT proxy/NN fight/NN ./.
 Citicorp/NNP and/CC Chase/NNP Manhattan/NNP Corp./NNP ,/, the/DT two/CD lead/JJ lenders/NNS on/IN the/DT UAL/NNP buy-out/NN ,/, met/VBD with/IN other/JJ banks/NNS yesterday/NN to/TO determine/VB if/IN they/PRP would/MD be/VB willing/JJ to/TO finance/VB the/DT buy-out/NN at/IN a/DT lower/JJR price/NN ./.
-Officials/NNS familiar/JJ with/IN the/DT talks/NNS said/VBD Citicorp/NNP had/VBD discussed/VBN lowering/VBG the/DT offer/NN to/TO $/$ 250/CD  a/DT share/NN ,/, but/CC said/VBD that/DT price/NN was/VBD a/DT talking/NN point/NN and/CC that/IN no/DT decision/NN ./.
+Officials/NNS familiar/JJ with/IN the/DT talks/NNS said/VBD Citicorp/NNP had/VBD discussed/VBN lowering/VBG the/DT offer/NN to/TO $/$ 250/CD  a/DT share/NN ,/, but/CC said/VBD that/DT price/NN was/VBD a/DT talking/NN point/NN and/CC that/IN no/DT decision/NN has/VBZ been/VBN made/VBN ./.
 $/$ 250/CD  a/DT share/NN ,/, the/DT group/NN would/MD have/VB to/TO borrow/VB about/IN $/$ 6.1/CD billion/CD from/IN banks/NNS ./.
 The/DT first/JJ UAL/NNP deal/NN unraveled/VBN after/IN Citibank/NNP and/CC Chase/NNP could/MD n't/RB raise/VB $/$ 7.2/CD billion/CD ./.
 Citibank/NNP and/CC Chase/NNP had/VBD agreed/VBN to/TO commit/VB $/$ 3/CD billion/CD ,/, and/CC said/VBD they/PRP were/VBD ``/`` highly/RB confident/JJ ''/'' of/IN raising/VBG another/DT $/$ 4.2/CD billion/CD ./.
@@ -44,17 +44,17 @@ Together/RB ,/, Citicorp/NNP and/CC Chase/NNP received/VBD $/$ 8/CD million/CD i
 other/JJ banks/NNS balked/VBD at/IN the/DT low/JJ interest/NN rate/NN and/CC banking/NN fees/NNS  the/DT UAL/NNP group/NN was/VBD willing/JJ to/TO pay/VB them/PRP ./.
 Officials/NNS familiar/JJ with/IN the/DT bank/NN talks/NNS said/VBD the/DT UAL/NNP buy-out/NN group/NN --/: UAL/NNP pilots/NNS ,/, management/NN ,/, and/CC British/NNP Airways/NNPS PLC/NNP --/: is/VBZ now/RB willing/JJ to/TO pay/VB higher/JJR bank/NN fees/NNS and/CC interest/NN ,/, but/CC is/VBZ n't/RB likely/JJ to/TO boost/VB its/PRP$ $/$ 965/CD million/CD equity/NN contribution/NN ./.
 the/DT group/NN likely/JJ to/TO come/VB forward/RB with/IN a/DT revised/VBN offer/NN within/IN the/DT next/JJ 48/CD hours/NNS despite/IN the/DT hopes/NNS of/IN many/JJ traders/NNS ./.
-The/DT group/NN 's/POS advisers/NNS want/VBP to/TO make/VB certain/JJ they/PRP have/VBP firm/JJ bank/NN commitments/NNS  the/DT second/JJ time/NN ./.
+The/DT group/NN 's/POS advisers/NNS want/VBP to/TO make/VB certain/JJ they/PRP have/VBP firm/JJ bank/NN commitments/NNS  the/DT second/JJ time/NN around/RB ./.
 the/DT buy-out/NN group/NN is/VBZ able/JJ to/TO obtain/VB financing/NN ,/, the/DT transaction/NN still/RB faces/VBZ obstacles/NNS ./.
 UAL/NNP 's/POS board/NN could/MD reject/VB the/DT new/JJ price/NN as/RB too/RB low/JJ ,/, especially/RB since/IN there/EX are/VBP n't/RB any/DT  competing/VBG bids/NNS ./.
 Los/NNP Angeles/NNP investor/NN Marvin/NNP Davis/NNP ,/, whose/WP$  $/$ 275-a-share/JJ offer/NN was/VBD rejected/VBN by/IN UAL/NNP 's/POS board/NN ,/, has/VBZ n't/RB shown/VBN signs/NNS of/IN pursuing/VBG a/DT $/$ 300-a-share/JJ back-up/NN bid/NN  he/PRP made/VBD last/JJ month/NN ./.
-addition/NN ,/, the/DT coalition/NN of/IN labor/NN and/CC management/NN ,/, longtime/JJ enemies/NNS  who/WP joined/VBD forces/NNS only/RB under/IN the/DT threat/NN of/IN Mr./NNP Davis/NNP 's/POS bid/NN ./.
+addition/NN ,/, the/DT coalition/NN of/IN labor/NN and/CC management/NN ,/, longtime/JJ enemies/NNS  who/WP joined/VBD forces/NNS only/RB under/IN the/DT threat/NN of/IN Mr./NNP Davis/NNP 's/POS bid/NN ,/, could/MD break/VB apart/RB now/RB ./.
 The/DT group/NN 's/POS resilience/NN gets/VBZ its/PRP$ first/JJ test/NN today/NN when/WRB 30/CD top/JJ pilot/NN union/NN leaders/NNS convene/VBP outside/IN Chicago/NNP in/IN a/DT previously/RB scheduled/JJ meeting/NN ./.
 Union/NNP Chairman/NNP F.C/NNP ./.
 Rick/NNP )/) Dubinsky/NNP faces/VBZ the/DT tough/JJ task/NN of/IN explaining/VBG why/WRB banks/NNS refused/VBD to/TO finance/VB a/DT buy-out/NN the/DT members/NNS approved/VBD overwhelmingly/RB last/JJ week/NN ./.
-The/DT pilot/NN union/NN is/VBZ vowing/VBG to/TO pursue/VB an/DT acquisition/NN  whatever/WDT  the/DT board/NN ./.
+The/DT pilot/NN union/NN is/VBZ vowing/VBG to/TO pursue/VB an/DT acquisition/NN  whatever/WDT  the/DT board/NN decides/VBZ ./.
 the/DT board/NN rejects/VBZ a/DT reduced/VBN bid/NN and/CC decides/VBZ to/TO explore/VB other/JJ alternatives/NNS ,/, it/PRP could/MD transform/VB what/WP has/VBZ been/VBN a/DT harmonious/JJ process/NN into/IN an/DT adversarial/JJ one/NN ./.
 The/DT pilots/NNS could/MD play/VB hardball/NN by/IN noting/VBG they/PRP are/VBP crucial/JJ to/TO any/DT sale/NN or/CC restructuring/NN because/IN they/PRP can/MD refuse/VB to/TO fly/VB the/DT airplanes/NNS ./.
-they/PRP were/VBD to/TO insist/VB on/IN a/DT low/JJ bid/NN of/IN ,/, say/VB $/$ 200/CD  a/DT share/NN ,/, the/DT board/NN might/MD n't/RB be/VB able/JJ to/TO obtain/VB a/DT higher/JJR offer/NN from/IN other/JJ bidders/NNS because/IN banks/NNS might/MD hesitate/VB to/TO finance/VB a/DT transaction/NN  the/DT pilots/NNS ./.
+they/PRP were/VBD to/TO insist/VB on/IN a/DT low/JJ bid/NN of/IN ,/, say/VB $/$ 200/CD  a/DT share/NN ,/, the/DT board/NN might/MD n't/RB be/VB able/JJ to/TO obtain/VB a/DT higher/JJR offer/NN from/IN other/JJ bidders/NNS because/IN banks/NNS might/MD hesitate/VB to/TO finance/VB a/DT transaction/NN  the/DT pilots/NNS oppose/VBP ./.
 UAL/NNP Chairman/NNP Stephen/NNP Wolf/NNP and/CC other/JJ UAL/NNP executives/NNS have/VBP joined/VBN the/DT pilots/NNS '/POS bid/NN ,/, the/DT board/NN might/MD be/VB forced/VBN to/TO exclude/VB him/PRP from/IN its/PRP$ deliberations/NNS in/IN order/NN to/TO be/VB fair/JJ to/TO other/JJ bidders/NNS ./.
 That/DT could/MD cost/VB him/PRP  the/DT chance/NN to/TO influence/VB the/DT outcome/NN and/CC perhaps/RB join/VB the/DT winning/VBG bidder/NN ./.

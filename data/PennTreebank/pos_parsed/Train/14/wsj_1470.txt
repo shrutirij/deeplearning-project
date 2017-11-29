@@ -6,10 +6,10 @@ Defendants/NNS include/VBP British/NNP Petroleum/NNP America/NNP ;/: Trinidad/NN
 The/DT fund/NN was/VBD created/VBN by/IN the/DT Trans-Alaska/NNP Pipeline/NNP Act/NNP ,/, which/WDT provides/VBZ that/IN the/DT owner/NN or/CC operator/NN of/IN a/DT vessel/NN involved/VBN in/IN an/DT oil/NN spill/NN must/MD pay/VB the/DT first/JJ $/$ 14/CD million/CD in/IN damages/NNS ./.
 The/DT fund/NN is/VBZ required/VBN to/TO pay/VB claims/NNS up/IN to/TO an/DT additional/JJ $/$ 86/CD million/CD ./.
 The/DT fund/NN 's/POS purpose/NN is/VBZ to/TO provide/VB quick/JJ and/CC adequate/JJ relief/NN ./.
-the/DT Glacier/NNP Bay/NNP case/NN ,/, the/DT fund/NN 's/POS first/JJ test/NN ,/, shows/VBZ how/WRB easily/RB the/DT fund/NN ./.
+the/DT Glacier/NNP Bay/NNP case/NN ,/, the/DT fund/NN 's/POS first/JJ test/NN ,/, shows/VBZ how/WRB easily/RB the/DT fund/NN can/MD be/VB undermined/VBN ./.
 Trinidad/NNP Corp./NNP is/VBZ contesting/VBG liability/NN ./.
 It/PRP claims/VBZ the/DT Coast/NNP Guard/NNP failed/VBD to/TO chart/VB the/DT rock/NN and/CC refuses/VBZ to/TO pay/VB damages/NNS ./.
-That/DT means/VBZ the/DT fund/NN is/VBZ n't/RB obligated/VBN to/TO pay/VB anything/NN ,/, at/IN least/JJS ./.
+That/DT means/VBZ the/DT fund/NN is/VBZ n't/RB obligated/VBN to/TO pay/VB anything/NN ,/, at/IN least/JJS so/RB far/RB ./.
 The/DT Oil/NNP Pollution/NNP Act/NNP ,/, scheduled/VBN to/TO come/VB up/RB for/IN a/DT vote/NN in/IN Congress/NNP  this/DT fall/NN ,/, would/MD provide/VB that/IN if/IN claimants/NNS are/VBP n't/RB paid/VBN within/IN 90/CD days/NNS of/IN a/DT spill/NN ,/, the/DT liability/NN fund/NN would/MD compensate/VB them/PRP and/CC seek/VB reimbursement/NN from/IN the/DT owner/NN or/CC operator/NN of/IN the/DT vessel/NN ,/, says/VBZ a/DT spokesman/NN for/IN Rep./NNP George/NNP Miller/NNP (/( D./NNP ,/, Calif./NNP )/) ,/, a/DT sponsor/NN of/IN the/DT bill/NN ./.
 The/DT spokesman/NN says/VBZ the/DT ``/`` glitch/NN ''/'' in/IN the/DT statute/NN is/VBZ ``/`` the/DT worst/JJS kind/NN of/IN Catch-22/NN ./.
 Many/JJ Law/NN School/NN Grads/NNS ====================================== Find/VBP Classes/NNS Never/RB End/VB ====================================== RECENT/JJ LAW/NN school/NN graduates/NNS are/VBP starting/VBG jobs/NNS with/IN law/NN firms/NNS  this/DT fall/NN --/: and/CC heading/VBG back/RB to/TO class/NN ./.
@@ -21,14 +21,14 @@ The/DT Hildebrandt/NNP course/NN enables/VBZ students/NNS to/TO brush/VB up/RB o
 Students/NNS also/RB are/VBP taught/VBN to/TO return/VB clients/NNS '/POS phone/NN calls/NNS immediately/RB and/CC to/TO treat/VB the/DT support/NN staff/NN with/IN respect/NN ./.
 Many/JJ law/NN firms/NNS sponsor/VBP their/PRP$ own/JJ programs/NNS ./.
 the/DT Baltimore/NNP firm/NN of/IN Weinberg/NNP &/CC Green/NNP ,/, new/JJ corporate/JJ and/CC banking/JJ associates/NNS are/VBP required/VBN to/TO enroll/VB in/IN a/DT 20-class/JJ course/NN ./.
-Partners/NNS lecture/VBP on/IN how/WRB to/TO form/VB corporations/NNS ,/, draft/NN agreements/NNS and/CC defend/VB clients/NNS against/IN unwanted/JJ tender/NN ./.
+Partners/NNS lecture/VBP on/IN how/WRB to/TO form/VB corporations/NNS ,/, draft/NN agreements/NNS and/CC defend/VB clients/NNS against/IN unwanted/JJ tender/NN offers/NNS ./.
 clients/NNS know/VBP that/IN new/JJ associates/NNS have/VBP had/VBN some/DT practical/JJ training/NN before/IN working/VBG on/IN their/PRP$ cases/NNS ,/, says/VBZ James/NNP J./NNP Hanks/NNP ,/, a/DT partner/NN at/IN the/DT firm/NN ./.
 Los/NNP Angeles/NNP Creates/VBZ ====================================== A/DT Courthouse/NN for/IN Kids/NNS ====================================== THE/DT CHILDREN/NNS of/IN Los/NNP Angeles/NNP will/MD soon/RB have/VB their/PRP$ own/JJ $/$ 52/CD million/CD courthouse/NN ./.
 The/DT building/NN ,/, which/WDT will/MD handle/VB child/NN abuse/NN ,/, custody/NN and/CC foster/JJ care/NN cases/NNS ,/, will/MD be/VB ``/`` less/RBR formal/JJ ,/, less/RBR threatening/JJ and/CC just/RB basically/RB less/RBR grim/JJ than/IN most/JJS courthouses/NNS ,/, ''/'' says/VBZ Edmund/NNP Edelman/NNP ,/, chairman/NN of/IN the/DT Los/NNP Angeles/NNP County/NNP Board/NNP of/IN Supervisors/NNPS ./.
 Designs/NNS call/VBP for/IN an/DT L-shaped/JJ structure/NN with/IN a/DT playground/NN in/IN the/DT center/NN ./.
 There/EX will/MD be/VB recreation/NN and/CC movie/NN rooms/NNS ./.
 Teens/NNS will/MD be/VB able/JJ to/TO listen/VB to/TO music/NN with/IN headsets/NNS ./.
-Study/NN halls/NNS ,/, complete/JJ with/IN reference/NN materials/NNS ./.
+Study/NN halls/NNS ,/, complete/JJ with/IN reference/NN materials/NNS ,/, will/MD be/VB available/JJ ./.
 there/EX will/MD be/VB a/DT nurse/NN 's/POS station/NN and/CC rooms/NNS for/IN children/NNS to/TO meet/VB with/IN social/JJ workers/NNS ./.
 The/DT building/NN 's/POS 25/CD courtrooms/NNS will/MD be/VB smaller/JJR ,/, says/VBZ Charlene/NNP Saunders/NNP ,/, a/DT court/NN administrator/NN ./.
 The/DT bench/NN will/MD be/VB lower/JJR so/IN the/DT judge/NN seems/VBZ less/RBR intimidating/JJ ,/, and/CC walls/NNS will/MD be/VB painted/VBN in/IN bright/JJ colors/NNS and/CC covered/VBN with/IN murals/NNS ./.
