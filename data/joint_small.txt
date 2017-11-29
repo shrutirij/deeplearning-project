@@ -1,0 +1,1 @@
+Texas/NNP/O1 Instruments/NNPS/O2 Japan/NNP/O1 Ltd./NNP/O3 ,/,/O3 a/DT/O3 unit/NN/O2 of/IN/O3 Texas/NNP/O1 Instruments/NNPS/O2 Inc./NNP/O3 ,/,/O3 said/VBD/O3 it/PRP/O3 opened/VBD/O2 a/DT/O3 plant/NN/O2 in/IN/O3 South/NNP/O3 Korea/NNP/O1 to/TO/O3 manufacture/VB/O4 control/NN/O3 devices/NNS/O4 ././O3

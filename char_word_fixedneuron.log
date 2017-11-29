@@ -1,0 +1,1000 @@
+Epoch: 0
+Validation loss: 139.665924
+Validation accuracy for POS: 0.080000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.080000
+Test accuracy for NER: 0.080000
+Training loss: 140.955292
+Training accuracy for POS: 0.040000
+Training accuracy for NER: 0.080000
+
+Epoch: 1
+Validation loss: 125.806198
+Validation accuracy for POS: 0.040000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.040000
+Test accuracy for NER: 0.080000
+Training loss: 123.690437
+Training accuracy for POS: 0.080000
+Training accuracy for NER: 0.080000
+
+Epoch: 2
+Validation loss: 113.640182
+Validation accuracy for POS: 0.080000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.080000
+Test accuracy for NER: 0.080000
+Training loss: 113.515800
+Training accuracy for POS: 0.080000
+Training accuracy for NER: 0.080000
+
+Epoch: 3
+Validation loss: 122.506592
+Validation accuracy for POS: 0.080000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.080000
+Test accuracy for NER: 0.080000
+Training loss: 115.142151
+Training accuracy for POS: 0.080000
+Training accuracy for NER: 0.080000
+
+Epoch: 4
+Validation loss: 109.893921
+Validation accuracy for POS: 0.080000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.080000
+Test accuracy for NER: 0.080000
+Training loss: 105.686897
+Training accuracy for POS: 0.080000
+Training accuracy for NER: 0.080000
+
+Epoch: 5
+Validation loss: 107.682816
+Validation accuracy for POS: 0.080000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.080000
+Test accuracy for NER: 0.000000
+Training loss: 116.175171
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.080000
+
+Epoch: 6
+Validation loss: 111.298027
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.080000
+Training loss: 113.816704
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.040000
+
+Epoch: 7
+Validation loss: 105.796967
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.080000
+Training loss: 108.986183
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.080000
+
+Epoch: 8
+Validation loss: 104.954208
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.080000
+Training loss: 110.192886
+Training accuracy for POS: 0.040000
+Training accuracy for NER: 0.080000
+
+Epoch: 9
+Validation loss: 108.232986
+Validation accuracy for POS: 0.120000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.120000
+Test accuracy for NER: 0.040000
+Training loss: 117.395653
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.080000
+
+Epoch: 10
+Validation loss: 104.067963
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.080000
+Training loss: 107.238831
+Training accuracy for POS: 0.120000
+Training accuracy for NER: 0.000000
+
+Epoch: 11
+Validation loss: 105.562119
+Validation accuracy for POS: 0.080000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.120000
+Test accuracy for NER: 0.000000
+Training loss: 112.240532
+Training accuracy for POS: 0.120000
+Training accuracy for NER: 0.000000
+
+Epoch: 12
+Validation loss: 108.537003
+Validation accuracy for POS: 0.120000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.080000
+Test accuracy for NER: 0.000000
+Training loss: 103.924057
+Training accuracy for POS: 0.160000
+Training accuracy for NER: 0.000000
+
+Epoch: 13
+Validation loss: 110.935593
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.160000
+Test accuracy for NER: 0.080000
+Training loss: 108.965820
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.080000
+
+Epoch: 14
+Validation loss: 102.926849
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.000000
+Training loss: 109.982224
+Training accuracy for POS: 0.040000
+Training accuracy for NER: 0.000000
+
+Epoch: 15
+Validation loss: 105.625366
+Validation accuracy for POS: 0.080000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.120000
+Test accuracy for NER: 0.000000
+Training loss: 106.516792
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.040000
+
+Epoch: 16
+Validation loss: 103.351593
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.040000
+Training loss: 103.347519
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.040000
+
+Epoch: 17
+Validation loss: 106.895706
+Validation accuracy for POS: 0.200000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.040000
+Training loss: 113.650444
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.040000
+
+Epoch: 18
+Validation loss: 109.221069
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.080000
+Training loss: 98.394257
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.120000
+
+Epoch: 19
+Validation loss: 105.750046
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.000000
+Training loss: 104.780174
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.040000
+
+Epoch: 20
+Validation loss: 97.515839
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.080000
+Training loss: 98.732590
+Training accuracy for POS: 0.120000
+Training accuracy for NER: 0.000000
+
+Epoch: 21
+Validation loss: 95.542679
+Validation accuracy for POS: 0.120000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.120000
+Test accuracy for NER: 0.120000
+Training loss: 107.221382
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.040000
+
+Epoch: 22
+Validation loss: 103.621506
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.000000
+Training loss: 101.701660
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 23
+Validation loss: 104.424744
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.120000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.120000
+Training loss: 102.413445
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 24
+Validation loss: 109.414787
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 101.117676
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 25
+Validation loss: 102.323219
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 101.448853
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 26
+Validation loss: 110.181442
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.120000
+Training loss: 107.190224
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 27
+Validation loss: 99.225868
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 104.377541
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 28
+Validation loss: 108.443619
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.000000
+Training loss: 103.269196
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 29
+Validation loss: 110.423584
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 102.343430
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.080000
+
+Epoch: 30
+Validation loss: 106.396523
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.040000
+Training loss: 104.860062
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 31
+Validation loss: 100.208679
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.000000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 106.430695
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.000000
+
+Epoch: 32
+Validation loss: 102.725494
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.000000
+Training loss: 106.952606
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 33
+Validation loss: 104.517319
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 89.797562
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 34
+Validation loss: 101.850540
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 109.622818
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.120000
+
+Epoch: 35
+Validation loss: 101.970535
+Validation accuracy for POS: 0.200000
+Validation accuracy for NER: 0.120000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.120000
+Training loss: 101.109543
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 36
+Validation loss: 100.236069
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.120000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 102.663513
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 37
+Validation loss: 99.383133
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.080000
+Training loss: 103.359497
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.040000
+
+Epoch: 38
+Validation loss: 92.663612
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 98.793839
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.040000
+
+Epoch: 39
+Validation loss: 110.160065
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.120000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.080000
+Training loss: 101.555893
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.040000
+
+Epoch: 40
+Validation loss: 100.873489
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 105.934174
+Training accuracy for POS: 0.160000
+Training accuracy for NER: 0.160000
+
+Epoch: 41
+Validation loss: 103.416489
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.160000
+Training loss: 106.482849
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.120000
+
+Epoch: 42
+Validation loss: 100.258072
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 100.876350
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.080000
+
+Epoch: 43
+Validation loss: 97.473732
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 104.734337
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 44
+Validation loss: 91.670586
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.080000
+Training loss: 105.373764
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.120000
+
+Epoch: 45
+Validation loss: 100.350121
+Validation accuracy for POS: 0.200000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.040000
+Training loss: 109.259186
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.040000
+
+Epoch: 46
+Validation loss: 106.231567
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.000000
+Training loss: 103.586449
+Training accuracy for POS: 0.120000
+Training accuracy for NER: 0.160000
+
+Epoch: 47
+Validation loss: 95.960739
+Validation accuracy for POS: 0.200000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.160000
+Training loss: 100.106888
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.120000
+
+Epoch: 48
+Validation loss: 106.927628
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 100.522858
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 49
+Validation loss: 97.554680
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 94.006638
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 50
+Validation loss: 92.511246
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.120000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 99.996834
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 51
+Validation loss: 102.359467
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 107.086533
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 52
+Validation loss: 98.976974
+Validation accuracy for POS: 0.200000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 102.466293
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.160000
+
+Epoch: 53
+Validation loss: 108.958206
+Validation accuracy for POS: 0.200000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.160000
+Training loss: 103.345734
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 54
+Validation loss: 95.978012
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.120000
+Training loss: 107.068115
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 55
+Validation loss: 110.837402
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 96.389297
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 56
+Validation loss: 90.114426
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.080000
+Training loss: 93.109299
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 57
+Validation loss: 98.808899
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 99.977341
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 58
+Validation loss: 100.210510
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 106.930077
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 59
+Validation loss: 96.119476
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.160000
+Test accuracy for NER: 0.160000
+Training loss: 106.731575
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 60
+Validation loss: 101.337173
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 100.990295
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.120000
+
+Epoch: 61
+Validation loss: 101.734825
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.120000
+Training loss: 107.929192
+Training accuracy for POS: 0.360000
+Training accuracy for NER: 0.120000
+
+Epoch: 62
+Validation loss: 97.620758
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.360000
+Test accuracy for NER: 0.080000
+Training loss: 106.891899
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 63
+Validation loss: 99.716827
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.160000
+Training loss: 94.233444
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.040000
+
+Epoch: 64
+Validation loss: 110.109840
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.040000
+Training loss: 112.758186
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.120000
+
+Epoch: 65
+Validation loss: 95.042770
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 102.857849
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.040000
+
+Epoch: 66
+Validation loss: 103.661942
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.360000
+Test accuracy for NER: 0.120000
+Training loss: 113.475479
+Training accuracy for POS: 0.160000
+Training accuracy for NER: 0.120000
+
+Epoch: 67
+Validation loss: 93.290283
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 101.815414
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 68
+Validation loss: 103.437790
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.120000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.120000
+Training loss: 97.992661
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 69
+Validation loss: 106.644958
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 94.885132
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 70
+Validation loss: 102.248291
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.360000
+Test accuracy for NER: 0.040000
+Training loss: 106.139656
+Training accuracy for POS: 0.160000
+Training accuracy for NER: 0.160000
+
+Epoch: 71
+Validation loss: 96.378319
+Validation accuracy for POS: 0.200000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.160000
+Training loss: 101.854553
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 72
+Validation loss: 109.569748
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 97.216064
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.160000
+
+Epoch: 73
+Validation loss: 99.919159
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 96.632919
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.080000
+
+Epoch: 74
+Validation loss: 95.530891
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.080000
+Training loss: 100.735023
+Training accuracy for POS: 0.160000
+Training accuracy for NER: 0.160000
+
+Epoch: 75
+Validation loss: 95.356392
+Validation accuracy for POS: 0.160000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.200000
+Test accuracy for NER: 0.160000
+Training loss: 97.858521
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 76
+Validation loss: 107.123199
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.120000
+Training loss: 96.460594
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.120000
+
+Epoch: 77
+Validation loss: 97.927872
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 97.951523
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 78
+Validation loss: 100.345947
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 103.221664
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
+Epoch: 79
+Validation loss: 97.127548
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 118.529510
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 80
+Validation loss: 95.758545
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.120000
+Training loss: 91.337929
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.080000
+
+Epoch: 81
+Validation loss: 91.345711
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.120000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 95.696220
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.120000
+
+Epoch: 82
+Validation loss: 94.936836
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 99.952896
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 83
+Validation loss: 93.777161
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 104.672852
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 84
+Validation loss: 105.689163
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.040000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.120000
+Training loss: 94.297791
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.080000
+
+Epoch: 85
+Validation loss: 99.957474
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.000000
+Training loss: 100.248871
+Training accuracy for POS: 0.360000
+Training accuracy for NER: 0.080000
+
+Epoch: 86
+Validation loss: 98.697250
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.360000
+Test accuracy for NER: 0.160000
+Training loss: 99.654312
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.160000
+
+Epoch: 87
+Validation loss: 97.356857
+Validation accuracy for POS: 0.160000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.160000
+Test accuracy for NER: 0.160000
+Training loss: 88.222778
+Training accuracy for POS: 0.360000
+Training accuracy for NER: 0.080000
+
+Epoch: 88
+Validation loss: 97.062271
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.360000
+Test accuracy for NER: 0.160000
+Training loss: 95.848938
+Training accuracy for POS: 0.200000
+Training accuracy for NER: 0.160000
+
+Epoch: 89
+Validation loss: 97.334732
+Validation accuracy for POS: 0.160000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.080000
+Training loss: 99.949707
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 90
+Validation loss: 103.711456
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.160000
+Training loss: 96.345520
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.120000
+
+Epoch: 91
+Validation loss: 102.491882
+Validation accuracy for POS: 0.320000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.120000
+Training loss: 96.888107
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 92
+Validation loss: 95.916641
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 92.416420
+Training accuracy for POS: 0.360000
+Training accuracy for NER: 0.160000
+
+Epoch: 93
+Validation loss: 100.589172
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.360000
+Test accuracy for NER: 0.160000
+Training loss: 93.365494
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 94
+Validation loss: 99.763077
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.040000
+Training loss: 94.578705
+Training accuracy for POS: 0.320000
+Training accuracy for NER: 0.160000
+
+Epoch: 95
+Validation loss: 108.184067
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.360000
+Test accuracy for NER: 0.120000
+Training loss: 100.791809
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.160000
+
+Epoch: 96
+Validation loss: 95.318405
+Validation accuracy for POS: 0.280000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.280000
+Test accuracy for NER: 0.160000
+Training loss: 97.647179
+Training accuracy for POS: 0.240000
+Training accuracy for NER: 0.160000
+
+Epoch: 97
+Validation loss: 99.356689
+Validation accuracy for POS: 0.240000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.240000
+Test accuracy for NER: 0.160000
+Training loss: 100.615471
+Training accuracy for POS: 0.360000
+Training accuracy for NER: 0.160000
+
+Epoch: 98
+Validation loss: 89.667213
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.080000
+Test accuracy for POS: 0.320000
+Test accuracy for NER: 0.080000
+Training loss: 100.400360
+Training accuracy for POS: 0.360000
+Training accuracy for NER: 0.160000
+
+Epoch: 99
+Validation loss: 95.086777
+Validation accuracy for POS: 0.360000
+Validation accuracy for NER: 0.160000
+Test accuracy for POS: 0.400000
+Test accuracy for NER: 0.160000
+Training loss: 98.607330
+Training accuracy for POS: 0.280000
+Training accuracy for NER: 0.120000
+
