@@ -1,0 +1,3 @@
+COASTAL/NNP Corp./NNP said/VBD it/PRP completed/VBD the/DT public/JJ offering/NN of/IN 9.2/CD million/CD common/JJ shares/NNS and/CC $/$ 200/CD million/CD of/IN 15-year/JJ senior/JJ debentures/NNS ./.
+The/DT diversified/JJ Houston/NNP energy/NN concern/NN said/VBD combined/VBN proceeds/NNS of/IN about/IN $/$ 580.6/CD million/CD will/MD be/VB used/VBN to/TO retire/VB and/CC refinance/VB outstanding/JJ debt/NN ./.
+Underwriters/NNS for/IN the/DT offerings/NNS included/VBD Drexel/NNP Burnham/NNP Lambert/NNP Inc./NNP and/CC Shearson/NNP Lehman/NNP Hutton/NNP Inc/NNP ./.

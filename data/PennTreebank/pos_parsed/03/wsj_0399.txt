@@ -1,0 +1,2 @@
+Dillard/NNP Department/NNP Stores/NNPS Inc./NNP said/VBD that/IN stockholders/NNS at/IN a/DT special/JJ meeting/NN approved/VBD an/DT amendment/NN to/TO increase/VB the/DT authorized/JJ shares/NNS of/IN its/PRP$ Class/NNP  A/NNP and/CC Class/NNP B/NNP common/JJ stock/NN ./.
+The/DT company/NN said/VBD that/IN authorized/JJ Class/NNP  A/NNP common/JJ shares/NNS will/MD increase/VB to/TO 144.5/CD million/CD from/IN 76.8/CD million/CD and/CC the/DT authorized/JJ Class/NNP B/NNP common/JJ will/MD increase/VB to/TO 5.5/CD million/CD from/IN 3.2/CD million/CD shares/NNS ./.
