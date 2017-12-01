@@ -19,7 +19,7 @@ class BiLSTMTagger(object):
         self.tag_lookup = dict((v,k) for k,v in self.tag_vocab.iteritems())
         self.dev_data = self.read_unk(dev_set, task_file_type)
         self.test_data = self.read_unk(test_set, task_file_type)
-
+        
         self.model = dy.Model()
 
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
@@ -48,8 +48,8 @@ class BiLSTMTagger(object):
                         sent = [tuple(x.rsplit("/",1)) for x in line]
                         #sent = [(word_vocab[word], tags[tag]) for word, tag in sent]
                         sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag in sent]
-                        train_sents.append(sent)                        
-        print(len(char_vocab))        
+                        train_sents.append(sent)                     
+        print(len(char_vocab)) 
         return train_sents, char_vocab, tags
     
     def read_unk(self, file_range, file_type):
