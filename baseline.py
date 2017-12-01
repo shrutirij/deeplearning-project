@@ -9,9 +9,6 @@ import glob
 
 BATCH_SIZE = 32
 DROPOUT = 0.5
-FIXED = 2
-UPPER = 0
-LOWER = -1
 UNK = '$unk'    # Do we still need UNK for char lstm?
 
 DATA = './data/PennTreeBank/pos_parsed/'
@@ -20,18 +17,20 @@ class BiLSTMTagger(object):
     def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_set, dev_set, test_set, task_file_type):
         self.training_data, self.char_vocab, self.tag_vocab = self.read(training_set, task_file_type)
         self.tag_lookup = dict((v,k) for k,v in self.tag_vocab.iteritems())
-        self.dev_data = self.read_unk(dev_file)
-        self.test_data = self.read_unk(test_file)
+        self.dev_data = self.read_unk(dev_set, task_file_type)
+        self.test_data = self.read_unk(test_set, task_file_type)
 
         self.model = dy.Model()
 
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
-        self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
+        self.char_lstm_fwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, self.model)
+        self.char_lstm_bwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, self.model)
         self.word_lstm = dy.BiRNNBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
         self.feedforward = mlp.MLP(self.model, 2, [(word_hidden_size,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
         
         if DROPOUT > 0.:
-            self.char_lstm.set_dropout(DROPOUT)
+            self.char_lstm_fwd.set_dropout(DROPOUT)
+            self.char_lstm_bwd.set_dropout(DROPOUT)
             self.word_lstm.set_dropout(DROPOUT)
 
     def read(self, file_range, file_type):
@@ -43,7 +42,6 @@ class BiLSTMTagger(object):
             file_names = glob.glob(DATA + str(i).zfill(2) + '/*' + file_type)
             
             for filename in file_names:
-                print(filename)
                 with open(filename, 'r') as fh:
                     for line in fh:
                         line = line.strip().split()
@@ -54,16 +52,20 @@ class BiLSTMTagger(object):
         print(len(char_vocab))        
         return train_sents, char_vocab, tags
     
-    def read_unk(self, filename):
+    def read_unk(self, file_range, file_type):
         sents = []
 
-        with codecs.open(filename, 'r', 'utf8') as f:
-            for line in f:
-                line = line.strip().split()
-                sent = [tuple(x.rsplit("/",1)) for x in line]
-                #sent = [(self.word_to_int(word), self.tag_vocab[tag]) for word, tag in sent]
-                sent = [([self.char_to_int(c) for c in word], self.tag_vocab[tag]) for word, tag in sent]
-                sents.append(sent)
+        for i in range(int(file_range[0]), int(file_range[-1])+1):
+            file_names = glob.glob(DATA + str(i).zfill(2) + '/*' + file_type)
+            
+            for filename in file_names:
+                with codecs.open(filename, 'r', 'utf8') as f:
+                    for line in f:
+                        line = line.strip().split()
+                        sent = [tuple(x.rsplit("/",1)) for x in line]
+                        #sent = [(self.word_to_int(word), self.tag_vocab[tag]) for word, tag in sent]
+                        sent = [([self.char_to_int(c) for c in word], self.tag_vocab[tag]) for word, tag in sent]
+                        sents.append(sent)
         return sents
 
     def char_to_int(self, char):
@@ -76,13 +78,13 @@ class BiLSTMTagger(object):
         return self.tag_lookup[tag_id]
 
     def get_output(self, sents):
+        dy.renew_cg()
         tagged_sents = []
 
         for sent in sents:
-            dy.renew_cg()
             cur_tags = []
-            #contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
-            word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
+            char_embeds = [[self.char_embeds[c] for c in word] for word, tag in sent]
+            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb), self.char_lstm_bwd.initial_state().transduce(reversed(emb))]) for emb in char_embeds]
             contexts = self.word_lstm.transduce(word_reps)
             for context in contexts:
                 probs = dy.softmax(self.feedforward.forward(context)).vec_value()
@@ -94,11 +96,10 @@ class BiLSTMTagger(object):
     def calculate_loss(self, sents):
         dy.renew_cg()
         losses = []
-        words = 0
 
         for sent in sents:
-            #contexts = self.word_lstm.transduce([self.word_embeds[word] for word, tag in sent])
-            word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word, tag in sent]
+            char_embeds = [[self.char_embeds[c] for c in word] for word, tag in sent]
+            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb), self.char_lstm_bwd.initial_state().transduce(reversed(emb))]) for emb in char_embeds]
             contexts = self.word_lstm.transduce(word_reps)
             probs = dy.concatenate_to_batch([self.feedforward.forward(context) for context in contexts])
 
@@ -135,14 +136,22 @@ class BiLSTMTagger(object):
 
     def get_loss(self, sents):
         val_loss = 0
-        val_words = 0
-        loss = self.calculate_loss(sents)          
-        return loss.scalar_value()
+        for i in range(0, len(sents), BATCH_SIZE):
+            cur_size = min(BATCH_SIZE, len(sents)-i)
+            loss = self.calculate_loss(sents[i:i+cur_size])
+            val_loss += loss.scalar_value()       
+        return val_loss
 
     def get_accuracy(self, sents):
-        outputs = self.get_output(sents)
+        outputs = []
+        for i in range(0, len(sents), BATCH_SIZE):
+            cur_size = min(BATCH_SIZE, len(sents)-i)
+            outputs += self.get_output(sents[i:i+cur_size])
         corr_tags = 0.0
         total_tags = 0
+
+        assert len(sents) == len(outputs)
+        
         for sent, output in zip(sents, outputs):
             for (chars, tag), pred_tag in zip(sent, output):
                 if tag == pred_tag:
