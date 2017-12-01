@@ -1,0 +1,3 @@
+Gordon/NNP A./NNP Paris/NNP ,/, 36/CD years/NNS old/JJ ,/, was/VBD named/VBN managing/VBG director/NN in/IN charge/NN of/IN a/DT new/JJ division/NN ,/, the/DT corporate/JJ restructuring/VBG group/NN ,/, at/IN this/DT investment/NN banking/NN and/CC brokerage/NN firm/NN ./.
+April/NNP ,/, Mr./NNP Paris/NNP joined/VBD Kidder/NNP from/IN General/NNP Electric/NNP Capital/NNP Corp./NNP ,/, where/WRB he/PRP was/VBD a/DT vice/NN president/NN ./.
+Kidder/NNP is/VBZ about/IN 80%-owned/JJ by/IN General/NNP Electric/NNP Co./NNP ,/, Fairfield/NNP ,/, Conn./NNP ,/, which/WDT also/RB owns/VBZ GE/NNP Capital/NNP ./.

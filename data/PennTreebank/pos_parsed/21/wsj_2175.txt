@@ -1,0 +1,15 @@
+A/DT surge/NN in/IN sales/NNS in/IN August/NNP helped/VBD trim/VB inventory/NN levels/NNS of/IN U.S./NNP businesses/NNS ,/, Commerce/NNP Department/NNP figures/NNS show/VBP ./.
+Sales/NNS at/IN factories/NNS ,/, retailers/NNS and/CC wholesalers/NNS jumped/VBD 3.1/CD %/NN in/IN August/NNP ,/, the/DT department/NN reported/VBD ,/, far/RB outstripping/VBG a/DT 0.3/CD %/NN climb/NN in/IN inventories/NNS ./.
+a/DT result/NN ,/, inventories/NNS fell/VBD back/RB to/TO the/DT equivalent/NN of/IN 1.5/CD months/NNS of/IN sales/NNS ./.
+Inventories/NNS had/VBD been/VBN running/VBG at/IN about/IN this/DT level/NN --/: one/CC that/IN economists/NNS regard/VBP as/RB manageable/JJ --/: for/IN much/RB of/IN the/DT year/NN before/IN they/PRP jumped/VBD to/TO 1.54/CD months/NNS in/IN July/NNP ./.
+The/DT numbers/NNS are/VBP reassuring/JJ news/NN for/IN the/DT economy/NN ./.
+goods/NNS on/IN shelves/NNS and/CC backlots/NNS pile/VBP up/RB too/RB high/JJ ,/, retailers/NNS often/RB cut/VBP back/RB on/IN orders/NNS and/CC factories/NNS on/IN production/NN ./.
+The/DT chain/NN reaction/NN can/MD lead/VB to/TO layoffs/NNS and/CC ultimately/RB a/DT recession/NN ./.
+July/NNP ,/, business/NN inventories/NNS had/VBD climbed/VBN 0.9/CD %/NN ,/, a/DT number/NN  the/DT department/NN revised/VBN from/IN its/PRP$ initial/JJ report/NN of/IN 0.6/CD %/NN ./.
+Sales/NNS ,/, meanwhile/RB ,/, dropped/VBD 0.9/CD %/NN ./.
+August/NNP ,/, business/NN inventories/NNS totaled/VBD $/$ 789.87/CD billion/CD ,/, while/IN sales/NNS grew/VBD to/TO $/$ 526.79/CD billion/CD ,/, the/DT department/NN said/VBD ./.
+Manufacturers/NNS showed/VBD the/DT biggest/JJS sales/NNS gains/NNS ;/: their/PRP$ sales/NNS rose/VBD 5.6/CD %/NN ,/, while/IN factory/NN inventories/NNS only/RB grew/VBD 0.3/CD %/NN ./.
+Retailers/NNS '/POS sales/NNS increased/VBD 0.7/CD %/NN ,/, as/IN did/VBD their/PRP$ inventories/NNS ./.
+Wholesalers/NNS '/POS sales/NNS climbed/VBD 1.5/CD %/NN ,/, while/IN their/PRP$ inventories/NNS dropped/VBD 0.1/CD %/NN ./.
+a/DT summary/NN of/IN the/DT Commerce/NNP Department/NNP 's/POS report/NN on/IN business/NN inventories/NNS and/CC sales/NNS in/IN in/IN August/NNP ./.
+The/DT figures/NNS are/VBP in/IN billions/NNS of/IN dollars/NNS ,/, seasonally/RB adjusted/JJ:/:======================================
