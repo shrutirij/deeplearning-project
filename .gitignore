@@ -101,3 +101,6 @@ ENV/
 
 .DS_Store
 slurm*
+
+data/PennTreebank/wsj/*
+data/tagged_data/*

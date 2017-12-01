@@ -1,4 +1,6 @@
+``/``/O People/NNS/O are/VBP/O waiting/VBG/O for/IN/O -LCB-/-LRB-/O new/JJ/O -RCB-/-RRB-/O factory/NN/O giveaways/NNS/O ,/,/O ''/''/O said/VBD/O Ben/NNP/B-PERSON Kaye/NNP/I-PERSON ,/,/O sales/NNS/O manager/NN/O of/IN/O Bob/NNP/B-ORG Brest/NNP/I-ORG Auto/NNP/I-ORG World/NNP/I-ORG in/IN/O Lynn/NNP/B-GPE ,/,/O Mass./NNP/B-GPE ,/,/O whose/WP$/O sales/NNS/O are/VBP/O slow/JJ/O ././O
 This/DT/O trend/NN/O appears/VBZ/O to/TO/O be/VB/O especially/RB/O true/JJ/O at/IN/O General/NNP/B-ORG Motors/NNP/I-ORG Corp./NNP/I-ORG ,/,/O which/WDT/O used/VBD/O both/DT/O dealer/NN/O and/CC/O consumer/NN/O incentives/NNS/O to/TO/O ignite/VB/O sales/NNS/O in/IN/O August/NNP/O and/CC/O September/NNP/O ././O
+Since/IN/O then/RB/O ,/,/O deliveries/NNS/O have/VBP/O slumped/VBN/O ././O
 GM/NNP/B-ORG 's/POS/O car/NN/O sales/NNS/O dropped/VBD/O 24.8/CD/O %/NN/O in/IN/O mid-October/NNP/O to/TO/O 69,980/CD/O ,/,/O while/IN/O truck/NN/O sales/NNS/O fell/VBD/O 26/CD/O %/NN/O to/TO/O 37,860/CD/O ././O
 GM/NNP/B-ORG also/RB/O had/VBD/O dismal/JJ/O results/NNS/O in/IN/O the/DT/O first/JJ/O 10/CD/O days/NNS/O of/IN/O the/DT/O month/NN/O ,/,/O while/IN/O other/JJ/O auto/NN/O makers/NNS/O reported/VBD/O mixed/JJ/O results/NNS/O ././O
 The/DT/O seasonal/JJ/O adjusted/JJ/O annual/JJ/O selling/NN/O rate/NN/O was/VBD/O six/CD/O million/CD/O vehicles/NNS/O ,/,/O a/DT/O small/JJ/O improvement/NN/O from/IN/O the/DT/O 5.8/CD/O million/CD/O rate/NN/O of/IN/O early/JJ/O October/NNP/O ,/,/O but/CC/O a/DT/O big/JJ/O drop/NN/O from/IN/O the/DT/O 7.1/CD/O million/CD/O rate/NN/O a/DT/O year/NN/O ago/RB/O ././O
@@ -7,8 +9,11 @@ The/DT/O sales/NNS/O are/VBP/O being/VBG/O dragged/VBD/O down/RP/O by/IN/O a/DT/
 Business/NN/O had/VBD/O been/VBN/O fairly/RB/O strong/JJ/O until/IN/O Hurricane/NNP/O Hugo/NNP/O hit/VBD/O the/DT/O area/NN/O ,/,/O but/CC/O has/VBZ/O been/VBN/O down/RB/O since/RB/O ././O
 Chrysler/NNP/B-ORG Corp./NNP/I-ORG also/RB/O hit/VBD/O the/DT/O rocks/NNS/O in/IN/O mid-October/NNP/O ././O
 The/DT/O No./NN/O 3/CD/O U.S./NNP/B-GPE auto/NN/O maker/NN/O had/VBD/O a/DT/O 23.7/CD/O %/NN/O plunge/NN/O in/IN/O car/NN/O sales/NNS/O to/TO/O 22,336/CD/O and/CC/O a/DT/O 17.5/CD/O %/NN/O drop/NN/O in/IN/O truck/NN/O sales/NNS/O to/TO/O 22,925/CD/O ,/,/O which/WDT/O include/VBP/O its/PRP$/O minivans/NNS/O and/CC/O Jeeps/NNS/O ././O
+But/CC/O sales/NNS/O of/IN/O domestic/JJ/O cars/NNS/O and/CC/O trucks/NNS/O at/IN/O Nissan/NNP/B-ORG Motor/NNP/I-ORG Corp./NNP/I-ORG rose/VBD/O 26.1/CD/O %/NN/O to/TO/O 5,651/CD/O ././O
 A/DT/O Nissan/NNP/B-ORG spokesman/NN/O attributed/VBD/O the/DT/O increase/NN/O to/TO/O the/DT/O use/NN/O of/IN/O incentives/NNS/O this/DT/O year/NN/O and/CC/O not/RB/O a/DT/O year/NN/O ago/RB/O and/CC/O to/TO/O higher/JJR/O fleet/NN/O sales/NNS/O ././O
 Toyota/NNP/B-ORG Motor/NNP/I-ORG Corp./NNP/I-ORG ,/,/O which/WDT/O opened/VBD/O a/DT/O plant/NN/O in/IN/O Georgetown/NNP/B-GPE ,/,/O Ky./NNP/B-GPE ,/,/O last/JJ/O year/NN/O ,/,/O saw/VBD/O sales/NNS/O triple/VB/O to/TO/O 6,256/CD/O vehicles/NNS/O ././O
 a/SYM/O -/:/O Totals/NNS/O include/VBP/O only/RB/O vehicle/NN/O sales/NNS/O reported/VBN/O in/IN/O the/DT/O period/NN/O ././O
+c/SYM/O -/:/O Domestic/JJ/O car/NN/O
+d/SYM/O -/:/O Percent/NN/O change/NN/O greater/JJR/O than/IN/O 999/CD/O %/NN/O ././O
 x/SYM/O -/:/O There/EX/O were/VBD/O 9/CD/O selling/NN/O days/NNS/O in/IN/O the/DT/O most/RBS/O recent/JJ/O period/NN/O and/CC/O 9/CD/O a/DT/O year/NN/O earlier/RBR/O ././O
 Percentage/NN/O differences/NNS/O based/VBN/O on/IN/O daily/JJ/O sales/NNS/O rate/NN/O rather/RB/O than/IN/O sales/NNS/O volume/NN/O ././O

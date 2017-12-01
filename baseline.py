@@ -38,8 +38,6 @@ class BiLSTMTagger(object):
         char_vocab = defaultdict(lambda: len(char_vocab))
         tags = defaultdict(lambda: len(tags))
 
-        tag_count = defaultdict(lambda: 0)
-
         for i in range(int(file_range[0]), int(file_range[-1])+1):
             file_names = glob.glob(DATA + str(i).zfill(2) + '/*' + file_type)
             
@@ -47,10 +45,8 @@ class BiLSTMTagger(object):
                 with open(filename, 'r') as fh:
                     for line in fh:
                         line = line.strip().split()
+                        line = [item for item in line if '/-NONE-' not in item]
                         sent = [tuple(x.rsplit("/",1)) for x in line]
-                        for word, tag in sent:
-                            tag_count[tag] += 1  
-                        #sent = [(word_vocab[word], tags[tag]) for word, tag in sent]
                         sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag in sent]
                         train_sents.append(sent)                  
         print(len(char_vocab))
@@ -68,6 +64,7 @@ class BiLSTMTagger(object):
                 with codecs.open(filename, 'r', 'utf8') as f:
                     for line in f:
                         line = line.strip().split()
+                        line = [item for item in line if '/-NONE-' not in item]
                         sent = [tuple(x.rsplit("/",1)) for x in line]
                         for word, tag in sent:
                             tag_count[tag] += 1

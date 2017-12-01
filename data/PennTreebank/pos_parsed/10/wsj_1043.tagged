@@ -13,6 +13,11 @@ Campeau/NNP/B-ORG reportedly/RB/O may/MD/O receive/VB/O a/DT/O $/$/O 1.3/CD/O bi
 Campeau/NNP/B-ORG declined/VBD/O to/TO/O comment/VB/O ././O
 UAL/NNP/B-ORG 's/POS/O pilots/NNS/O and/CC/O machinists/NNS/O unions/NNS/O appear/VBP/O to/TO/O hold/VB/O the/DT/O key/NN/O to/TO/O any/DT/O future/JJ/O takeover/NN/O bid/NN/O for/IN/O the/DT/O airline/NN/O ././O
 Provigo/NNP/B-ORG plans/VBZ/O to/TO/O sell/VB/O all/DT/O non-food/JJ/O operations/NNS/O to/TO/O refocus/VB/O on/IN/O its/PRP$/O retail/NN/O and/CC/O wholesale/JJ/O grocery/NN/O business/NN/O ././O
+Also/RB/O ,/,/O Chairman/NNP/O Pierre/NNP/B-PERSON Lortie/NNP/I-PERSON resigned/VBD/O ././O
 Westinghouse/NNP/B-ORG expects/VBZ/O operating/VBG/O margins/NNS/O of/IN/O over/IN/O 10/CD/O %/NN/O and/CC/O sharply/RB/O higher/JJR/O earnings/NNS/O per/IN/O share/NN/O next/JJ/O year/NN/O due/JJ/O to/TO/O a/DT/O major/JJ/O restructuring/NN/O ././O
+Markets/NNS/O --/:/O
+Stocks/NNS/O :/:/O Volume/NN/O 155,650,000/CD/O shares/NNS/O ././O
 Dow/NNP/B-ORG Jones/NNP/I-ORG industrials/NNS/O 2653.28/CD/O ,/,/O off/RB/O 5.94/CD/O ;/:/O transportation/NN/O 1199.32/CD/O ,/,/O off/RB/O 11.38/CD/O ;/:/O utilities/NNS/O 216.49/CD/O ,/,/O up/RB/O 1.45/CD/O ././O
+Bonds/NNS/O :/:/O Shearson/NNP/B-ORG Lehman/NNP/I-ORG Hutton/NNP/I-ORG Treasury/NNP/B-ORG index/NN/O 3427.39/CD/O ,/,/O up/RP/O
+Commodities/NNS/O :/:/O Dow/NNP/B-ORG Jones/NNP/I-ORG futures/NNS/O index/NN/O 129.48/CD/O ,/,/O up/RB/O 0.24/CD/O ;/:/O spot/NN/O index/NN/O 130.73/CD/O ,/,/O off/RB/O 0.03/CD/O ././O
 Dollar/NN/O :/:/O 141.52/CD/O yen/NNS/O ,/,/O up/RB/O 0.07/CD/O ;/:/O 1.8353/CD/O marks/NNS/O ,/,/O off/RB/O 0.0002/CD/O ././O

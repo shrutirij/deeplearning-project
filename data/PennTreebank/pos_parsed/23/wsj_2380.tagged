@@ -1,10 +1,40 @@
+Friday/NNP/O ,/,/O October/NNP/O 13/CD/O ,/,/O 1989/CD/O
+The/DT/O key/JJ/O U.S./NNP/B-GPE and/CC/O foreign/JJ/O annual/JJ/O interest/NN/O rates/NNS/O below/RB/O are/VBP/O a/DT/O guide/NN/O to/TO/O general/JJ/O levels/NNS/O but/CC/O do/VBP/O n't/RB/O always/RB/O represent/VB/O actual/JJ/O transactions/NNS/O ././O
+PRIME/JJ/O RATE/NN/O :/:/O
 The/DT/O base/JJ/O rate/NN/O on/IN/O corporate/JJ/O loans/NNS/O at/IN/O large/JJ/O U.S./NNP/B-GPE money/NN/O center/NN/O commercial/JJ/O banks/NNS/O ././O
+FEDERAL/JJ/O FUNDS/NNS/O :/:/O
 Reserves/NNS/O traded/VBD/O among/IN/O commercial/JJ/O banks/NNS/O for/IN/O overnight/JJ/O use/NN/O in/IN/O amounts/NNS/O of/IN/O $/$/O 1/CD/O million/CD/O or/CC/O more/JJR/O ././O
+Source/NN/O :/:/O Fulton/NNP/B-ORG Prebon/NNP/I-ORG -LRB-/-LRB-/I-ORG U.S.A/NNP/I-ORG ././I-ORG -RRB-/-RRB-/I-ORG Inc/NNP/I-ORG ././O
+DISCOUNT/NN/O RATE/NN/O :/:/O
+7/CD/O %/NN/O ././O
 The/DT/O charge/NN/O on/IN/O loans/NNS/O to/TO/O depository/JJ/O institutions/NNS/O by/IN/O the/DT/B-ORG New/NNP/I-ORG York/NNP/I-ORG Federal/NNP/I-ORG Reserve/NNP/I-ORG Bank/NNP/I-ORG ././O
+CALL/NN/O MONEY/NN/O :/:/O
 The/DT/O charge/NN/O on/IN/O loans/NNS/O to/TO/O brokers/NNS/O on/IN/O stock/NN/O exchange/NN/O collateral/NN/O ././O
+COMMERCIAL/JJ/O PAPER/NN/O placed/VBN/O directly/RB/O by/IN/O General/NNP/B-ORG Motors/NNP/I-ORG Acceptance/NNP/I-ORG Corp./NNP/I-ORG :/:/O
+8.60/CD/O %/NN/O 30/CD/O to/TO/O 44/CD/O days/NNS/O ;/:/O 8.55/CD/O %/NN/O 45/CD/O to/TO/O 59/CD/O days/NNS/O ;/:/O 8.375/CD/O %/NN/O 60/CD/O to/TO/O 79/CD/O days/NNS/O ;/:/O 8.50/CD/O %/NN/O 80/CD/O to/TO/O 89/CD/O days/NNS/O ;/:/O 8.25/CD/O %/NN/O 90/CD/O to/TO/O 119/CD/O days/NNS/O ;/:/O 8.125/CD/O %/NN/O 120/CD/O to/TO/O 149/CD/O days/NNS/O ;/:/O 8/CD/O %/NN/O 150/CD/O to/TO/O 179/CD/O days/NNS/O ;/:/O 7.625/CD/O %/NN/O 180/CD/O to/TO/O 270/CD/O days/NNS/O ././O
+COMMERCIAL/JJ/O PAPER/NN/O :/:/O
+8.65/CD/O %/NN/O 30/CD/O days/NNS/O ;/:/O 8.55/CD/O %/NN/O 60/CD/O days/NNS/O ;/:/O 8.55/CD/O %/NN/O 90/CD/O days/NNS/O ././O
+CERTIFICATES/NNS/O OF/IN/O DEPOSIT/NN/O :/:/O
+8.15/CD/O %/NN/O one/CD/O month/NN/O ;/:/O 8.15/CD/O %/NN/O two/CD/O months/NNS/O ;/:/O 8.13/CD/O %/NN/O three/CD/O months/NNS/O ;/:/O 8.11/CD/O %/NN/O six/CD/O months/NNS/O ;/:/O 8.08/CD/O %/NN/O one/CD/O year/NN/O ././O
 Average/NN/O of/IN/O top/JJ/O rates/NNS/O paid/VBN/O by/IN/O major/JJ/O New/NNP/B-GPE York/NNP/I-GPE banks/NNS/O on/IN/O primary/JJ/O new/JJ/O issues/NNS/O of/IN/O negotiable/JJ/O C.D.s/NNS/O ,/,/O usually/RB/O on/IN/O amounts/NNS/O of/IN/O $/$/O 1/CD/O million/CD/O and/CC/O more/JJR/O ././O
 The/DT/O minimum/JJ/O unit/NN/O is/VBZ/O $/$/O 100,000/CD/O ././O
+Typical/JJ/O rates/NNS/O in/IN/O the/DT/O secondary/JJ/O market/NN/O :/:/O
+8.65/CD/O %/NN/O one/CD/O month/NN/O ;/:/O 8.65/CD/O %/NN/O three/CD/O months/NNS/O ;/:/O 8.55/CD/O %/NN/O six/CD/O months/NNS/O ././O
+BANKERS/NNS/O ACCEPTANCES/NNS/O :/:/O
+8.52/CD/O %/NN/O 30/CD/O days/NNS/O ;/:/O 8.37/CD/O %/NN/O 60/CD/O days/NNS/O ;/:/O 8.15/CD/O %/NN/O 90/CD/O days/NNS/O ;/:/O 7.98/CD/O %/NN/O 120/CD/O days/NNS/O ;/:/O 7.92/CD/O %/NN/O 150/CD/O days/NNS/O ;/:/O 7.80/CD/O %/NN/O 180/CD/O days/NNS/O ././O
+LONDON/NNP/B-GPE LATE/JJ/O EURODOLLARS/NNS/O :/:/O
+LONDON/NNP/B-GPE INTERBANK/RB/O OFFERED/VBN/O RATES/NNS/O -LRB-/-LRB-/O LIBOR/NNP/O -RRB-/-RRB-/O :/:/O
 The/DT/O average/NN/O of/IN/O interbank/RB/O offered/VBN/O rates/NNS/O for/IN/O dollar/NN/O deposits/NNS/O in/IN/O the/DT/O London/NNP/B-GPE market/NN/O based/VBN/O on/IN/O quotations/NNS/O at/IN/O five/CD/O major/JJ/O banks/NNS/O ././O
+FOREIGN/JJ/O PRIME/JJ/O RATES/NNS/O :/:/O
+Canada/NNP/B-GPE 13.50/CD/O %/NN/O ;/:/O Germany/NNP/B-GPE 8.50/CD/O %/NN/O ;/:/O Japan/NNP/B-GPE 4.875/CD/O %/NN/O ;/:/O Switzerland/NNP/B-GPE 8.50/CD/O %/NN/O ;/:/O Britain/NNP/B-GPE 15/CD/O %/NN/O ././O
 These/DT/O rate/NN/O indications/NNS/O are/VBP/O n't/RB/O directly/RB/O comparable/JJ/O ;/:/O lending/NN/O practices/NNS/O vary/VBP/O widely/RB/O by/IN/O location/NN/O ././O
+TREASURY/NN/B-ORG BILLS/NNS/O :/:/O
+7.63/CD/O %/NN/O 13/CD/O weeks/NNS/O ;/:/O 7.60/CD/O %/NN/O 26/CD/O weeks/NNS/O ././O
+FEDERAL/NNP/B-ORG HOME/NNP/I-ORG LOAN/NNP/I-ORG MORTGAGE/NNP/I-ORG CORP/NNP/I-ORG ././I-ORG -LRB-/-LRB-/O Freddie/NNP/B-ORG Mac/NNP/I-ORG -RRB-/-RRB-/O :/:/O
 Source/NN/O :/:/O Telerate/NNP/B-ORG Systems/NNP/I-ORG Inc/NNP/I-ORG ././O
+FEDERAL/NNP/B-ORG NATIONAL/NNP/I-ORG MORTGAGE/NNP/I-ORG ASSOCIATION/NNP/I-ORG -LRB-/-LRB-/O Fannie/NNP/B-ORG Mae/NNP/I-ORG -RRB-/-RRB-/O :/:/O
+Posted/VBN/O yields/NNS/O on/IN/O 30/CD/O year/NN/O mortgage/NN/O commitments/NNS/O for/IN/O delivery/NN/O within/IN/O 30/CD/O days/NNS/O -LRB-/-LRB-/O priced/VBN/O at/IN/O par/NN/O -RRB-/-RRB-/O
 Source/NN/O :/:/O Telerate/NNP/B-ORG Systems/NNP/I-ORG Inc/NNP/I-ORG ././O
+MERRILL/NNP/B-ORG LYNCH/NNP/I-ORG READY/NNP/O ASSETS/NNP/O TRUST/NNP/O :/:/O
+8.33/CD/O %/NN/O ././O
+Annualized/JJ/O average/JJ/O rate/NN/O of/IN/O return/NN/O after/IN/O expenses/NNS/O for/IN/O the/DT/O past/JJ/O 30/CD/O days/NNS/O ;/:/O not/RB/O a/DT/O forecast/NN/O of/IN/O future/JJ/O returns/NNS/O ././O

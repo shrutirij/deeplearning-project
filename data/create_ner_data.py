@@ -4,7 +4,7 @@ from collections import defaultdict
 import os
 
 pos_folder = 'PennTreebank/pos_parsed/'
-pos_files = glob.glob(pos_folder + '*/*')
+pos_files = glob.glob(pos_folder + '*/*.MRG')
 ner_folder = 'PennTreebank/wsj/'
 
 regex = re.compile("<[^<]+>")
@@ -15,19 +15,20 @@ count_of_data = 0
 types = {'LOC': True, 'GPE': True, 'PERSON': True, 'FAC': True, 'ORG': True}
 
 for file_name in pos_files:
-    ner_file = ner_folder + file_name.replace(pos_folder, '').replace('.txt', '')
+    ner_file = ner_folder + file_name.replace(pos_folder, '').replace('.MRG', '')
     print ner_file
     print file_name
     try:
         if not os.path.exists('tagged_data/' + ner_file.split('/')[2]):
             os.makedirs('tagged_data/' + ner_file.split('/')[2])
 
-        with open(ner_file + '.name', 'r') as ner, open(file_name, 'r') as pos, open('tagged_data/' + ner_file.split('/')[2] + '/' + file_name.split('/')[-1].replace('.txt', '') + '.tagged', 'w') as out, open('tagged_data/' + ner_file.split('/')[2] + '/' + file_name.split('/')[-1].replace('.txt', '') + '.ner', 'w') as out_ner:
+        with open(ner_file + '.name', 'r') as ner, open(file_name, 'r') as pos, open('tagged_data/' + ner_file.split('/')[2] + '/' + file_name.split('/')[-1].replace('.MRG', '') + '.tagged', 'w') as out, open('tagged_data/' + ner_file.split('/')[2] + '/' + file_name.split('/')[-1].replace('.MRG', '') + '.ner', 'w') as out_ner:
             lines = defaultdict(lambda: len(lines))
             pos_lines = []
 
             for line in pos:
                 spl = line.strip().split()
+                spl = [item for item in spl if '/-NONE-' not in item]
                 cur_line = " ".join([word.rsplit('/',1)[0] for word in spl])
                 if cur_line not in lines:
                     lines[cur_line]              
@@ -41,6 +42,7 @@ for file_name in pos_files:
                     continue
                 clean_line = regex.sub("", line.strip())
                 if clean_line in lines:
+                    count_of_data += 1
                     out_line = ''
                     cur_pos = pos_lines[lines[clean_line]]
                     spl = split_regex.split(line.strip())
@@ -71,7 +73,7 @@ for file_name in pos_files:
                             out_line += token.replace('</ENAMEX>','') + '/' + cur_type + ' '
                     
                     out.write(out_line.strip() + '\n')
-                    
+
                 out_line = ''
                 spl = split_regex.split(line.strip())
 
@@ -98,8 +100,7 @@ for file_name in pos_files:
                     else:
                         out_line += ner_token.replace('</ENAMEX>','') + '/' + cur_type + ' '
                 
-                out_ner.write(out_line.strip() + '\n')
-                count_of_data += 1
+                out_ner.write(out_line.strip() + '\n')                
 
     except IOError:
         continue

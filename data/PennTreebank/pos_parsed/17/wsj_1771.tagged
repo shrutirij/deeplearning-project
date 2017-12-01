@@ -1,1 +1,5 @@
+@/SYM/O
+Money/NNP/O Market/NNP/O Deposits/NNS/O -/:/O a/SYM/O 6.23/CD/O %/NN/O
+a/SYM/O -/:/O Average/JJ/O rate/NN/O paid/VBN/O yesterday/NN/O by/IN/O 100/CD/O large/JJ/O banks/NNS/O and/CC/O thrifts/NNS/O in/IN/O the/DT/O 10/CD/O largest/JJS/O metropolitan/JJ/O areas/NNS/O as/IN/O compiled/VBN/O by/IN/O Bank/NNP/B-ORG Rate/NNP/I-ORG Monitor/NNP/I-ORG ././O
 b/SYM/O -/:/O Current/JJ/O annual/JJ/O yield/NN/O ././O
+Guaranteed/VBN/O minimum/NN/O 6/CD/O %/NN/O ././O
