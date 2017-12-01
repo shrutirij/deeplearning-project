@@ -1,1 +1,0 @@
-Roy/NNP S./NNP MacDowell/NNP Jr./NNP ,/, founder/NN of/IN MacDowell/NNP Co./NNP ,/, a/DT construction/NN and/CC site-development/NN concern/NN ,/, was/VBD named/VBN a/DT director/NN of/IN this/DT bank/NN holding/VBG company/NN ,/, expanding/VBG the/DT board/NN to/TO seven/CD members/NNS ./.

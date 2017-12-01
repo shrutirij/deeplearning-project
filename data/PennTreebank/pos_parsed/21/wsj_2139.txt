@@ -1,4 +1,0 @@
-THE/DT R.H./NNP MACY/NNP &/CC CO/NNP ./.
-department-store/NN chain/NN is/VBZ n't/RB for/IN sale/NN ./.
-yesterday/NN 's/POS edition/NN ,/, it/PRP was/VBD incorrectly/RB included/VBN with/IN a/DT list/NN of/IN New/NNP York/NNP chains/NNS up/IN for/IN sale/NN ./.
-Media/NN :/: Third-Quarter/NN Results/NNS Mixed/VBN At/IN Newspapers/NNS --/: Newsprint/NN Prices/NNS Favorable/JJ ,/, But/CC Advertising/NN Linage/NN Was/VBD Flat/JJ or/CC Declining/JJ ''/'' --/: WSJ/NNP Oct./NNP 16/CD ,/, 1989/CD )/)======================================

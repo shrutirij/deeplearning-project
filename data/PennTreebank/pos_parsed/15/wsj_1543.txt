@@ -1,7 +1,0 @@
-Lyondell/NNP Petrochemical/NNP Co./NNP said/VBD third-quarter/JJ net/NN income/NN fell/VBD 54/CD %/NN ,/, to/TO $/$ 73/CD million/CD ,/, or/CC 91/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 160/CD million/CD  a/DT year/NN earlier/RBR ./.
-Year-earlier/JJ per-share/JJ results/NNS are/VBP n't/RB applicable/JJ because/IN the/DT company/NN went/VBD public/NN in/IN January/NNP ./.
-Revenue/NN rose/VBD 7.7/CD %/NN to/TO $/$ 1.28/CD billion/CD from/IN $/$ 1.18/CD billion/CD ./.
-The/DT petrochemical/NN maker/NN said/VBD the/DT biggest/JJS reason/NN earnings/NNS declined/VBD was/VBD a/DT loss/NN of/IN production/NN time/NN and/CC the/DT increased/VBN costs/NNS associated/VBN with/IN a/DT temporary/JJ maintenance/NN closing/NN and/CC expansion/NN of/IN an/DT olefins/NNS plant/NN ./.
-other/JJ refiners/NNS ,/, Lyondell/NNP 's/POS margins/NNS for/IN chemicals/NNS and/CC gasoline/NN were/VBD narrower/JJR ./.
-the/DT company/NN said/VBD chemical/NN margins/NNS continued/VBD to/TO worsen/VB this/DT quarter/NN ,/, costs/NNS will/MD be/VB lower/JJR because/IN the/DT maintenance/NN and/CC expansions/NNS are/VBP complete/JJ ./.
-New/NNP York/NNP Stock/NNP Exchange/NNP composite/NN trading/NN Friday/NNP ,/, Lyondell/NNP was/VBD unchanged/JJ at/IN $/$ 18.50/CD  a/DT share/NN ./.
