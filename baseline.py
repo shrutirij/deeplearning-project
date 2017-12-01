@@ -11,7 +11,7 @@ BATCH_SIZE = 32
 DROPOUT = 0.5
 UNK = '$unk'    # Do we still need UNK for char lstm?
 
-DATA = './data/PennTreeBank/pos_parsed/'
+DATA = './data/PennTreebank/pos_parsed/'
 
 class BiLSTMTagger(object):
     def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_set, dev_set, test_set, task_file_type):
@@ -178,6 +178,7 @@ if __name__ == '__main__':
     args, unknown = parser.parse_known_args()
 
     f_out = open(args.output + '.log', 'w', 0)
+    f_out.write(str(args) + '\n')
 
     tagger_model = BiLSTMTagger(int(args.embed), int(args.char), int(args.word), int(args.mlp), args.train.split(','), args.dev.split(','),args.test.split(','), args.filetype)
     tagger_model.train(1000)
