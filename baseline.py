@@ -112,7 +112,10 @@ class BiLSTMTagger(object):
         return dy.esum(losses)
 
     def train(self, epochs):
-        trainer = dy.SimpleSGDTrainer(self.model)
+        if args.trainer == 'sgd':
+            trainer = dy.SimpleSGDTrainer(self.model)
+        else:
+            trainer = dy.AdamTrainer(self.model)
 
         for ep in range(epochs):
             f_out.write('Epoch: %d\n' % ep)
@@ -171,6 +174,7 @@ if __name__ == '__main__':
     parser.add_argument('--dev', default='19,21')
     parser.add_argument('--test', default='22,24')
     parser.add_argument('--filetype', default='.txt')
+    parser.add_argument('--trainer', default='sgd')
     args, unknown = parser.parse_known_args()
 
     f_out = open(args.output + '.log', 'w', 0)
