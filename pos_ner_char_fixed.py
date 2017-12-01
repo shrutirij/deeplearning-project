@@ -30,13 +30,17 @@ class BiLSTMTagger(object):
         self.model = dy.Model()
 
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
-        self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
+        #self.char_lstm = dy.BiRNNBuilder(1, embed_size, char_hidden_size, self.model, dy.LSTMBuilder)
+        self.char_lstm_fwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, self.model)
+        self.char_lstm_bwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, self.model)
         self.word_lstm = dy.BiRNNBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
         self.feedforward_pos = mlp.MLP(self.model, 2, [(self.FIXED,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
         self.feedforward_ner = mlp.MLP(self.model, 2, [(self.FIXED,mlp_layer_size), (mlp_layer_size,len(self.ner_vocab))], 'tanh', 0.0)
         
         if DROPOUT > 0.:
-            self.char_lstm.set_dropout(DROPOUT)
+            #self.char_lstm.set_dropout(DROPOUT)
+            self.char_lstm_fwd.set_dropout(DROPOUT)
+            self.char_lstm_bwd.set_dropout(DROPOUT)
             self.word_lstm.set_dropout(DROPOUT)
 
     def read(self, filename):
@@ -74,7 +78,8 @@ class BiLSTMTagger(object):
         for sent in sents:
             dy.renew_cg()
             cur_preds = []
-            word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word,tag,ner in sent]
+            char_embeds = [[self.char_embeds[c] for c in word] for word,tag,ner in sent]
+            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb)[-1], self.char_lstm_bwd.initial_state().transduce(reversed(emb))[-1]]) for emb in char_embeds]
             contexts = self.word_lstm.transduce(word_reps)
             for context in contexts:
                 # Predict POS tags
@@ -104,7 +109,8 @@ class BiLSTMTagger(object):
         words = 0
 
         for sent in sents:
-            word_reps = [self.char_lstm.transduce([self.char_embeds[c] for c in word])[-1] for word,tag,ner in sent]
+            char_embeds = [[self.char_embeds[c] for c in word] for word,tag,ner in sent]
+            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb)[-1], self.char_lstm_bwd.initial_state().transduce(reversed(emb))[-1]]) for emb in char_embeds]
             contexts = self.word_lstm.transduce(word_reps)
             pos_probs_list = []
             ner_probs_list = []
