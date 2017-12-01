@@ -1,2 +1,0 @@
-Scott/NNP C./NNP Smith/NNP ,/, formerly/RB vice/NN president/NN ,/, finance/NN ,/, and/CC chief/JJ financial/JJ officer/NN of/IN this/DT media/NNS concern/NN ,/, was/VBD named/VBN senior/JJ vice/NN president/NN ./.
-Mr./NNP Smith/NNP ,/, 39/CD ,/, retains/VBZ the/DT title/NN of/IN chief/JJ financial/JJ officer/NN ./.

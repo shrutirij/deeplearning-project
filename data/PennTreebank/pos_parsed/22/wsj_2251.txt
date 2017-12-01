@@ -1,9 +1,0 @@
-McClatchy/NNP Newspapers/NNP Inc./NNP said/VBD improvements/NNS in/IN advertising/NN and/CC subscription/NN revenue/NN led/VBD to/TO a/DT 21/CD %/NN gain/NN in/IN third-quarter/JJ profit/NN to/TO $/$ 8.8/CD million/CD ,/, or/CC 31/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 7.2/CD million/CD ,/, or/CC 25/CD cents/NNS  a/DT share/NN ./.
-Sales/NNS rose/VBD more/RBR than/IN 7/CD %/NN to/TO $/$ 94.9/CD million/CD from/IN $/$ 88.3/CD million/CD ./.
-The/DT Sacramento/NNP ,/, Calif./NNP ,/, company/NN also/RB attributed/VBD improved/VBN performance/NN to/TO a/DT lower/JJR effective/JJ tax/NN rate/NN and/CC higher/JJR interest/NN income/NN ./.
-the/DT nine/CD months/NNS ,/, the/DT newspaper/NN chain/NN had/VBD almost/RB a/DT 23/CD %/NN increase/NN in/IN profit/NN to/TO $/$ 23.6/CD million/CD ,/, or/CC 83/CD cents/NNS  a/DT share/NN ,/, from/IN $/$ 19.2/CD million/CD ,/, or/CC 68/CD cents/NNS  a/DT share/NN ./.
-Sales/NNS grew/VBD almost/RB 7/CD %/NN to/TO $/$ 279.1/CD million/CD from/IN $/$ 261.3/CD million/CD ./.
-McClatchy/NNP publishes/VBZ the/DT Sacramento/NNP (/( Calif/NNP ./.
-Bee/NNP and/CC Tacoma/NNP (/( Wash/NNP ./.
-News/NNP Tribune/NNP ,/, and/CC other/JJ papers/NNS in/IN Western/JJ states/NNS ./.
-composite/JJ trading/NN on/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ,/, the/DT company/NN closed/VBD at/IN $/$ 25.25/CD  a/DT share/NN ,/, down/RB 25/CD cents/NNS ./.

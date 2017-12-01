@@ -1,3 +1,0 @@
-SHORT/JJ INTEREST/NN in/IN International/NNP Mobile/NNP Machines/NNPS Corp./NNP  fell/VBD to/TO 3,102,935/CD shares/NNS in/IN the/DT month/NN ended/VBD Oct./NNP 13/CD from/IN 3,420,936/CD in/IN September/NNP ./.
-an/DT error/NN by/IN the/DT National/NNP Association/NNP of/IN Securities/NNPS Dealers/NNPS ,/, the/DT listing/NN appeared/VBD incorrectly/RB in/IN the/DT main/JJ table/NN and/CC several/JJ highlight/NN tables/NNS in/IN yesterday/NN 's/POS edition/NN ./.
-Short/JJ Interest/NN  in/IN OTC/NNP Stocks/NNS Posts/VBZ 6/CD %/NN Jump/NN --/: Rise/NN During/IN Latest/JJS Period/NN Is/VBZ Sharpest/JJS Since/IN April/NNP ;/: Oct./NNP 13/CD Drop/NN Is/VBZ n't/RB Factor/NN ''/'' --/: WSJ/NNP Oct./NNP 25/CD ,/, 1989/CD )/)======================================
