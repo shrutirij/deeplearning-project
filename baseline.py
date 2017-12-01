@@ -38,6 +38,8 @@ class BiLSTMTagger(object):
         char_vocab = defaultdict(lambda: len(char_vocab))
         tags = defaultdict(lambda: len(tags))
 
+        tag_count = defaultdict(lambda: 0)
+
         for i in range(int(file_range[0]), int(file_range[-1])+1):
             file_names = glob.glob(DATA + str(i).zfill(2) + '/*' + file_type)
             
@@ -46,14 +48,18 @@ class BiLSTMTagger(object):
                     for line in fh:
                         line = line.strip().split()
                         sent = [tuple(x.rsplit("/",1)) for x in line]
+                        for word, tag in sent:
+                            tag_count[tag] += 1  
                         #sent = [(word_vocab[word], tags[tag]) for word, tag in sent]
                         sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag in sent]
-                        train_sents.append(sent)                     
-        print(len(char_vocab)) 
+                        train_sents.append(sent)                  
+        print(len(char_vocab))
         return train_sents, char_vocab, tags
     
     def read_unk(self, file_range, file_type):
         sents = []
+        tag_count = defaultdict(lambda: 0)
+        total = 0
 
         for i in range(int(file_range[0]), int(file_range[-1])+1):
             file_names = glob.glob(DATA + str(i).zfill(2) + '/*' + file_type)
@@ -63,6 +69,9 @@ class BiLSTMTagger(object):
                     for line in f:
                         line = line.strip().split()
                         sent = [tuple(x.rsplit("/",1)) for x in line]
+                        for word, tag in sent:
+                            tag_count[tag] += 1
+                            total += 1
                         #sent = [(self.word_to_int(word), self.tag_vocab[tag]) for word, tag in sent]
                         sent = [([self.char_to_int(c) for c in word], self.tag_vocab[tag]) for word, tag in sent]
                         sents.append(sent)
@@ -84,7 +93,7 @@ class BiLSTMTagger(object):
         for sent in sents:
             cur_tags = []
             char_embeds = [[self.char_embeds[c] for c in word] for word, tag in sent]
-            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb), self.char_lstm_bwd.initial_state().transduce(reversed(emb))]) for emb in char_embeds]
+            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb)[-1], self.char_lstm_bwd.initial_state().transduce(reversed(emb))[-1]]) for emb in char_embeds]
             contexts = self.word_lstm.transduce(word_reps)
             for context in contexts:
                 probs = dy.softmax(self.feedforward.forward(context)).vec_value()
@@ -99,7 +108,7 @@ class BiLSTMTagger(object):
 
         for sent in sents:
             char_embeds = [[self.char_embeds[c] for c in word] for word, tag in sent]
-            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb), self.char_lstm_bwd.initial_state().transduce(reversed(emb))]) for emb in char_embeds]
+            word_reps = [dy.concatenate([self.char_lstm_fwd.initial_state().transduce(emb)[-1], self.char_lstm_bwd.initial_state().transduce(reversed(emb))[-1]]) for emb in char_embeds]
             contexts = self.word_lstm.transduce(word_reps)
             probs = dy.concatenate_to_batch([self.feedforward.forward(context) for context in contexts])
 
