@@ -32,8 +32,8 @@ class BiLSTMTagger(object):
         self.char_lstm_fwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, self.model)
         self.char_lstm_bwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, self.model)
         self.word_lstm = dy.BiRNNBuilder(1, embed_size, word_hidden_size, self.model, dy.LSTMBuilder)
-        self.feedforward_pos = mlp.MLP(self.model, 2, [(self.FIXED,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
-        self.feedforward_ner = mlp.MLP(self.model, 2, [(self.FIXED,mlp_layer_size), (mlp_layer_size,len(self.ner_vocab))], 'tanh', 0.0)
+        self.feedforward_pos = mlp.MLP(self.model, 2, [(self.FIXED*2,mlp_layer_size), (mlp_layer_size,len(self.tag_vocab))], 'tanh', 0.0)
+        self.feedforward_ner = mlp.MLP(self.model, 2, [(self.FIXED*2,mlp_layer_size), (mlp_layer_size,len(self.ner_vocab))], 'tanh', 0.0)
         
         if DROPOUT > 0.:
             self.char_lstm_fwd.set_dropout(DROPOUT)
