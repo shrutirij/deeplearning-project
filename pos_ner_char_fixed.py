@@ -9,6 +9,7 @@ from collections import defaultdict
 import mlp
 import random
 import glob
+import argparse
 
 BATCH_SIZE = 32
 DROPOUT = 0.5
@@ -54,7 +55,7 @@ class BiLSTMTagger(object):
                         line = [item for item in line if '/-NONE-' not in item]
                         sent = [tuple(x.split("/")) for x in line]
                         sent = [([char_vocab[c] for c in word], tags[tag], ners[ner]) for word, tag, ner in sent]
-                        train_sents.append(sent)        
+                        train_sents.append(sent)
         return train_sents, char_vocab, tags, ners
 
     def read_unk(self, file_range):
