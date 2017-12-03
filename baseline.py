@@ -131,7 +131,7 @@ class BiLSTMTagger(object):
             num_batches = 0
             random.shuffle(self.training_data)
             for i in range(0, len(self.training_data), BATCH_SIZE):
-                if num_batches % 50 == 0:
+                if num_batches % 160 == 0:
                     f_out.write('Validation loss: %f\n' % self.get_loss(self.dev_data))
                     f_out.write('Validation accuracy: %f\n' % self.get_accuracy(self.dev_data))
                     f_out.write('Test accuracy: %f\n' % self.get_accuracy(self.test_data))
