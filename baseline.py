@@ -14,11 +14,11 @@ UNK = '$unk'    # Do we still need UNK for char lstm?
 DATA = './data/PennTreebank/pos_parsed/'
 
 class BiLSTMTagger(object):
-    def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_set, dev_set, test_set, task_file_type):
-        self.training_data, self.char_vocab, self.tag_vocab = self.read(training_set, task_file_type)
+    def __init__(self, embed_size, char_hidden_size, word_hidden_size, mlp_layer_size, training_set, dev_set, test_set, task_type):
+        self.training_data, self.char_vocab, self.tag_vocab = self.read(training_set, task_type)
         self.tag_lookup = dict((v,k) for k,v in self.tag_vocab.iteritems())
-        self.dev_data = self.read_unk(dev_set, task_file_type)
-        self.test_data = self.read_unk(test_set, task_file_type)
+        self.dev_data = self.read_unk(dev_set, task_type)
+        self.test_data = self.read_unk(test_set, task_type)
         
         self.model = dy.Model()
 
@@ -33,44 +33,46 @@ class BiLSTMTagger(object):
             self.char_lstm_bwd.set_dropout(DROPOUT)
             self.word_lstm.set_dropout(DROPOUT)
 
-    def read(self, file_range, file_type):
+    def read(self, file_range, task_type):
         train_sents = []
         char_vocab = defaultdict(lambda: len(char_vocab))
-        tags = defaultdict(lambda: len(tags))
+        tags = defaultdict(lambda: len(tags))        
 
         for i in range(int(file_range[0]), int(file_range[-1])+1):
-            file_names = glob.glob(DATA + str(i).zfill(2) + '/*' + file_type)
+            file_names = glob.glob(DATA + str(i).zfill(2) + '/*.tagged')
             
             for filename in file_names:
                 with open(filename, 'r') as fh:
                     for line in fh:
                         line = line.strip().split()
                         line = [item for item in line if '/-NONE-' not in item]
-                        sent = [tuple(x.rsplit("/",1)) for x in line]
-                        sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag in sent]
-                        train_sents.append(sent)                  
+                        sent = [tuple(x.split("/")) for x in line]
+                        if task_type == 'pos':
+                            sent = [([char_vocab[c] for c in word], tags[tag]) for word, tag, ner in sent]
+                        else:
+                            sent = [([char_vocab[c] for c in word], tags[ner]) for word, tag, ner in sent]
+                        train_sents.append(sent)          
         print(len(char_vocab))
         return train_sents, char_vocab, tags
     
-    def read_unk(self, file_range, file_type):
+    def read_unk(self, file_range, task_type):
         sents = []
         tag_count = defaultdict(lambda: 0)
         total = 0
 
         for i in range(int(file_range[0]), int(file_range[-1])+1):
-            file_names = glob.glob(DATA + str(i).zfill(2) + '/*' + file_type)
+            file_names = glob.glob(DATA + str(i).zfill(2) + '/*.tagged')
             
             for filename in file_names:
                 with codecs.open(filename, 'r', 'utf8') as f:
                     for line in f:
                         line = line.strip().split()
                         line = [item for item in line if '/-NONE-' not in item]
-                        sent = [tuple(x.rsplit("/",1)) for x in line]
-                        for word, tag in sent:
-                            tag_count[tag] += 1
-                            total += 1
-                        #sent = [(self.word_to_int(word), self.tag_vocab[tag]) for word, tag in sent]
-                        sent = [([self.char_to_int(c) for c in word], self.tag_vocab[tag]) for word, tag in sent]
+                        sent = [tuple(x.split("/")) for x in line]
+                        if task_type == 'pos':
+                            sent = [([self.char_to_int(c) for c in word], self.tag_vocab[tag]) for word, tag, ner in sent]
+                        else:
+                            sent = [([self.char_to_int(c) for c in word], self.tag_vocab[ner]) for word, tag, ner in sent]
                         sents.append(sent)
         return sents
 
