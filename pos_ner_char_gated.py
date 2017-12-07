@@ -28,7 +28,7 @@ class BiLSTMTagger(object):
         self.dev_data = self.read_unk(dev_set)
         self.test_data = self.read_unk(test_set)
 
-        self.model = dy.Model()
+        self.model = dy.ParameterCollection()
 
         self.char_embeds = self.model.add_lookup_parameters((len(self.char_vocab), embed_size))
         self.char_lstm_fwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, self.model)
@@ -49,6 +49,9 @@ class BiLSTMTagger(object):
             self.char_lstm_fwd.set_dropout(DROPOUT)
             self.char_lstm_bwd.set_dropout(DROPOUT)
             self.word_lstm.set_dropout(DROPOUT)
+
+    def save_model(self):
+        self.model.save(args.out)
 
     def read(self, file_range):
         train_sents = []
@@ -196,13 +199,15 @@ class BiLSTMTagger(object):
         else:
             trainer = dy.AdamTrainer(self.model)
 
+        best_acc = 0
+
         for ep in range(epochs):
             f_out.write('Epoch: %d\n' % ep)
             ep_loss = 0
             num_batches = 0
             random.shuffle(self.training_data)
             for i in range(0, len(self.training_data), BATCH_SIZE):
-                if num_batches % 5 == 0:
+                if num_batches % 160 == 0:
                     f_out.write('Validation loss: %f\n' % self.get_loss(self.dev_data))
                     v_pos_acc, v_ner_acc = self.get_accuracy(self.dev_data)
                     f_out.write('Validation accuracy for POS: %f\n' % v_pos_acc)
@@ -211,6 +216,11 @@ class BiLSTMTagger(object):
                     t_pos_acc, t_ner_acc = self.get_accuracy(self.test_data)
                     f_out.write('Test accuracy for POS: %f\n' % t_pos_acc)
                     f_out.write('Test accuracy for NER: %f\n' % t_ner_acc)
+
+                    if v_pos_acc + v_ner_acc > best_acc:
+                        self.save_model()
+                        best_acc = v_pos_acc + v_ner_acc
+                        f_out.write('Saved!\n')
                 cur_size = min(BATCH_SIZE, len(self.training_data)-i)
                 loss = self.calculate_loss(self.training_data[i:i+cur_size])            
                 ep_loss += loss.scalar_value()
