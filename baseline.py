@@ -34,7 +34,7 @@ class BiLSTMTagger(object):
             self.word_lstm.set_dropout(DROPOUT)
 
     def save_model(self):
-        self.model.save(args.out)
+        self.model.save(args.output)
 
     def read(self, file_range, task_type):
         train_sents = []
@@ -128,7 +128,7 @@ class BiLSTMTagger(object):
         else:
             trainer = dy.AdamTrainer(self.model)
         best_acc = 0
-        
+
         for ep in range(epochs):
             f_out.write('Epoch: %d\n' % ep)
             ep_loss = 0

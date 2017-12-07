@@ -41,7 +41,7 @@ class BiLSTMTagger(object):
             self.word_lstm.set_dropout(DROPOUT)
 
     def save_model(self):
-        self.model.save(args.out)
+        self.model.save(args.output)
 
     def read(self, file_range):
         train_sents = []
