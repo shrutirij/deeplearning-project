@@ -52,6 +52,7 @@ def read(filename):
             train_sents.append(sent)
     return train_sents
 
+build_vocab((0,18))
 model = dy.ParameterCollection()
 char_embeds = model.add_lookup_parameters((len(char_vocab), embed_size))
 char_lstm_fwd = dy.LSTMBuilder(1, embed_size, char_hidden_size/2, model)
@@ -83,8 +84,8 @@ def get_output(sents):
 
     for sent in sents:
         cur_preds = []
-        char_embeds = [[char_embeds[c] for c in word] for word,tag,ner in sent]
-        word_reps = [dy.concatenate([char_lstm_fwd.initial_state().transduce(emb)[-1], char_lstm_bwd.initial_state().transduce(reversed(emb))[-1]]) for emb in char_embeds]
+        c_embeds = [[char_embeds[c] for c in word] for word,tag,ner in sent]
+        word_reps = [dy.concatenate([char_lstm_fwd.initial_state().transduce(emb)[-1], char_lstm_bwd.initial_state().transduce(reversed(emb))[-1]]) for emb in c_embeds]
         contexts = word_lstm.transduce(word_reps)
         h_init = dy.inputTensor(np.zeros((contexts[0].dim()[0])))
 
@@ -115,21 +116,21 @@ def get_output(sents):
         tagged_sents.append(cur_preds)
     return tagged_sents
 
-build_vocab((0,18))
 test_sents = read(test_file)
-pred_tags = get_output(sents)
-f = open(output_file, 'wb', '0')
+pred_tags = get_output(test_sents)
+f = open(output_file, 'wb')
 
 for sent, output in zip(test_sents, pred_tags):
     pos_out = []
     ner_out = []
     for (chars, tag, ner), (pred_tag, pred_ner) in zip(sent, output):
-        pos_out.append(pred_tag, tag)
-        ner_out.append(pred_ner, ner)
+        pos_out.append((pred_tag, tag))
+        ner_out.append((pred_ner, ner))
     f.write("POS (predicted, correct) = " + str(pos_out) + '\n')
     f.write("NER (predicted, correct) = " + str(ner_out) + '\n')
 
 f.close()
+
 
 
 
