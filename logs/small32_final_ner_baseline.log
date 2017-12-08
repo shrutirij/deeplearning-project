@@ -1,0 +1,1033 @@
+Namespace(char='32', dev='19,21', embed='32', filetype='ner', mlp='64', output='small32_final_ner_baseline', test='22,24', train='0,18', trainer='adam', word='32')
+Epoch: 0
+Validation loss: 178773.299316
+Validation accuracy: 0.001134
+Test accuracy: 0.000829
+Saved!
+Validation loss: 101475.702576
+Validation accuracy: 0.910285
+Test accuracy: 0.914571
+Saved!
+Validation loss: 96075.987854
+Validation accuracy: 0.913898
+Test accuracy: 0.918392
+Saved!
+Validation loss: 94287.703979
+Validation accuracy: 0.920901
+Test accuracy: 0.926924
+Saved!
+Validation loss: 93843.978271
+Validation accuracy: 0.922413
+Test accuracy: 0.929395
+Saved!
+Training loss: 668989.981018
+Training accuracy: 0.930741
+
+Epoch: 1
+Validation loss: 93829.128296
+Validation accuracy: 0.923436
+Test accuracy: 0.930377
+Saved!
+Validation loss: 92813.901917
+Validation accuracy: 0.927259
+Test accuracy: 0.934305
+Saved!
+Validation loss: 92959.612122
+Validation accuracy: 0.927609
+Test accuracy: 0.933891
+Saved!
+Validation loss: 92584.857483
+Validation accuracy: 0.930536
+Test accuracy: 0.937098
+Saved!
+Validation loss: 93125.353882
+Validation accuracy: 0.930746
+Test accuracy: 0.938495
+Saved!
+Training loss: 627539.572327
+Training accuracy: 0.938477
+
+Epoch: 2
+Validation loss: 93047.533936
+Validation accuracy: 0.929808
+Test accuracy: 0.937144
+Validation loss: 92810.088013
+Validation accuracy: 0.933617
+Test accuracy: 0.940060
+Saved!
+Validation loss: 92056.028992
+Validation accuracy: 0.936908
+Test accuracy: 0.941640
+Saved!
+Validation loss: 92509.060120
+Validation accuracy: 0.936880
+Test accuracy: 0.942699
+Validation loss: 91777.150024
+Validation accuracy: 0.939429
+Test accuracy: 0.944111
+Saved!
+Training loss: 623522.754242
+Training accuracy: 0.947076
+
+Epoch: 3
+Validation loss: 92328.328491
+Validation accuracy: 0.939583
+Test accuracy: 0.943221
+Saved!
+Validation loss: 91471.982239
+Validation accuracy: 0.942020
+Test accuracy: 0.944633
+Saved!
+Validation loss: 91513.526978
+Validation accuracy: 0.942328
+Test accuracy: 0.944771
+Saved!
+Validation loss: 91585.480957
+Validation accuracy: 0.944639
+Test accuracy: 0.949620
+Saved!
+Validation loss: 91684.373291
+Validation accuracy: 0.944611
+Test accuracy: 0.948408
+Training loss: 618719.809814
+Training accuracy: 0.952358
+
+Epoch: 4
+Validation loss: 90777.215088
+Validation accuracy: 0.945171
+Test accuracy: 0.949988
+Saved!
+Validation loss: 91373.849243
+Validation accuracy: 0.946460
+Test accuracy: 0.949912
+Saved!
+Validation loss: 91158.494812
+Validation accuracy: 0.947804
+Test accuracy: 0.950618
+Saved!
+Validation loss: 91099.731262
+Validation accuracy: 0.948042
+Test accuracy: 0.951078
+Saved!
+Validation loss: 91370.465027
+Validation accuracy: 0.948196
+Test accuracy: 0.951508
+Saved!
+Training loss: 616449.415771
+Training accuracy: 0.954494
+
+Epoch: 5
+Validation loss: 90954.889648
+Validation accuracy: 0.948126
+Test accuracy: 0.951983
+Validation loss: 90695.797913
+Validation accuracy: 0.949667
+Test accuracy: 0.950341
+Saved!
+Validation loss: 90282.703796
+Validation accuracy: 0.949457
+Test accuracy: 0.953457
+Validation loss: 90752.947327
+Validation accuracy: 0.949317
+Test accuracy: 0.953196
+Validation loss: 91418.156372
+Validation accuracy: 0.951207
+Test accuracy: 0.954163
+Saved!
+Training loss: 613116.660156
+Training accuracy: 0.957198
+
+Epoch: 6
+Validation loss: 91055.447754
+Validation accuracy: 0.950059
+Test accuracy: 0.954500
+Validation loss: 90594.840393
+Validation accuracy: 0.951235
+Test accuracy: 0.954209
+Saved!
+Validation loss: 91120.761841
+Validation accuracy: 0.951165
+Test accuracy: 0.954577
+Validation loss: 91117.690735
+Validation accuracy: 0.949639
+Test accuracy: 0.953733
+Validation loss: 90416.618774
+Validation accuracy: 0.952524
+Test accuracy: 0.954669
+Saved!
+Training loss: 612262.233398
+Training accuracy: 0.959091
+
+Epoch: 7
+Validation loss: 90729.165894
+Validation accuracy: 0.951907
+Test accuracy: 0.955421
+Validation loss: 90502.010620
+Validation accuracy: 0.952678
+Test accuracy: 0.955022
+Saved!
+Validation loss: 90874.376526
+Validation accuracy: 0.952426
+Test accuracy: 0.956741
+Validation loss: 90520.829041
+Validation accuracy: 0.953168
+Test accuracy: 0.956173
+Saved!
+Validation loss: 90365.853638
+Validation accuracy: 0.952706
+Test accuracy: 0.955636
+Training loss: 613028.227417
+Training accuracy: 0.959588
+
+Epoch: 8
+Validation loss: 90319.536072
+Validation accuracy: 0.953588
+Test accuracy: 0.956710
+Saved!
+Validation loss: 90104.237427
+Validation accuracy: 0.954554
+Test accuracy: 0.956802
+Saved!
+Validation loss: 90616.412109
+Validation accuracy: 0.954148
+Test accuracy: 0.957278
+Validation loss: 89840.995728
+Validation accuracy: 0.955745
+Test accuracy: 0.957753
+Saved!
+Validation loss: 90754.069214
+Validation accuracy: 0.955619
+Test accuracy: 0.957477
+Training loss: 611231.193390
+Training accuracy: 0.961491
+
+Epoch: 9
+Validation loss: 90345.392273
+Validation accuracy: 0.954442
+Test accuracy: 0.958183
+Validation loss: 90839.963013
+Validation accuracy: 0.955101
+Test accuracy: 0.957063
+Validation loss: 89829.131104
+Validation accuracy: 0.956403
+Test accuracy: 0.958106
+Saved!
+Validation loss: 90541.981262
+Validation accuracy: 0.953952
+Test accuracy: 0.957707
+Validation loss: 89738.995911
+Validation accuracy: 0.957425
+Test accuracy: 0.960761
+Saved!
+Training loss: 610784.003357
+Training accuracy: 0.962607
+
+Epoch: 10
+Validation loss: 90390.081726
+Validation accuracy: 0.956739
+Test accuracy: 0.959518
+Validation loss: 90309.338074
+Validation accuracy: 0.955829
+Test accuracy: 0.958536
+Validation loss: 90106.961670
+Validation accuracy: 0.956949
+Test accuracy: 0.958582
+Validation loss: 90534.028870
+Validation accuracy: 0.957607
+Test accuracy: 0.959365
+Saved!
+Validation loss: 90360.875610
+Validation accuracy: 0.958112
+Test accuracy: 0.961191
+Saved!
+Training loss: 610064.238220
+Training accuracy: 0.963297
+
+Epoch: 11
+Validation loss: 89938.884583
+Validation accuracy: 0.956851
+Test accuracy: 0.959518
+Validation loss: 89944.820862
+Validation accuracy: 0.958350
+Test accuracy: 0.960378
+Saved!
+Validation loss: 90278.495300
+Validation accuracy: 0.958840
+Test accuracy: 0.960930
+Saved!
+Validation loss: 90367.767029
+Validation accuracy: 0.956781
+Test accuracy: 0.960807
+Validation loss: 90521.939575
+Validation accuracy: 0.956515
+Test accuracy: 0.959257
+Training loss: 609090.883789
+Training accuracy: 0.964199
+
+Epoch: 12
+Validation loss: 90103.175415
+Validation accuracy: 0.957705
+Test accuracy: 0.960930
+Validation loss: 90188.717407
+Validation accuracy: 0.959078
+Test accuracy: 0.960623
+Saved!
+Validation loss: 89850.058044
+Validation accuracy: 0.957789
+Test accuracy: 0.960316
+Validation loss: 90035.441223
+Validation accuracy: 0.958308
+Test accuracy: 0.961713
+Validation loss: 90205.637207
+Validation accuracy: 0.958350
+Test accuracy: 0.962019
+Training loss: 607288.892487
+Training accuracy: 0.964918
+
+Epoch: 13
+Validation loss: 90000.350586
+Validation accuracy: 0.958434
+Test accuracy: 0.961237
+Validation loss: 89698.163086
+Validation accuracy: 0.958742
+Test accuracy: 0.960393
+Validation loss: 89961.654297
+Validation accuracy: 0.957551
+Test accuracy: 0.961851
+Validation loss: 90271.861267
+Validation accuracy: 0.958896
+Test accuracy: 0.961436
+Validation loss: 89621.479492
+Validation accuracy: 0.959330
+Test accuracy: 0.961989
+Saved!
+Training loss: 609144.265747
+Training accuracy: 0.965146
+
+Epoch: 14
+Validation loss: 89820.737549
+Validation accuracy: 0.960030
+Test accuracy: 0.961268
+Saved!
+Validation loss: 89856.537354
+Validation accuracy: 0.958924
+Test accuracy: 0.962618
+Validation loss: 90338.458801
+Validation accuracy: 0.959106
+Test accuracy: 0.961574
+Validation loss: 89747.190491
+Validation accuracy: 0.959848
+Test accuracy: 0.962234
+Validation loss: 89708.285583
+Validation accuracy: 0.959988
+Test accuracy: 0.963784
+Training loss: 607174.396667
+Training accuracy: 0.965954
+
+Epoch: 15
+Validation loss: 89620.346252
+Validation accuracy: 0.960184
+Test accuracy: 0.962511
+Saved!
+Validation loss: 89648.019165
+Validation accuracy: 0.960366
+Test accuracy: 0.961513
+Saved!
+Validation loss: 90075.714966
+Validation accuracy: 0.960198
+Test accuracy: 0.963124
+Validation loss: 90474.118408
+Validation accuracy: 0.959750
+Test accuracy: 0.963401
+Validation loss: 89869.701538
+Validation accuracy: 0.960254
+Test accuracy: 0.962326
+Training loss: 607092.055847
+Training accuracy: 0.966026
+
+Epoch: 16
+Validation loss: 90020.262268
+Validation accuracy: 0.959862
+Test accuracy: 0.963523
+Validation loss: 89372.814148
+Validation accuracy: 0.960394
+Test accuracy: 0.962725
+Saved!
+Validation loss: 89904.739563
+Validation accuracy: 0.960759
+Test accuracy: 0.963984
+Saved!
+Validation loss: 89534.185425
+Validation accuracy: 0.960506
+Test accuracy: 0.962372
+Validation loss: 89589.782837
+Validation accuracy: 0.960240
+Test accuracy: 0.964137
+Training loss: 607174.832458
+Training accuracy: 0.965571
+
+Epoch: 17
+Validation loss: 90220.563721
+Validation accuracy: 0.958910
+Test accuracy: 0.961943
+Validation loss: 89985.343994
+Validation accuracy: 0.961291
+Test accuracy: 0.963600
+Saved!
+Validation loss: 89464.614380
+Validation accuracy: 0.960632
+Test accuracy: 0.963953
+Validation loss: 89941.693665
+Validation accuracy: 0.960702
+Test accuracy: 0.964106
+Validation loss: 89788.262573
+Validation accuracy: 0.961039
+Test accuracy: 0.963201
+Training loss: 605969.009460
+Training accuracy: 0.967282
+
+Epoch: 18
+Validation loss: 89992.479370
+Validation accuracy: 0.960730
+Test accuracy: 0.963846
+Validation loss: 89640.903076
+Validation accuracy: 0.960450
+Test accuracy: 0.963861
+Validation loss: 89588.443848
+Validation accuracy: 0.960100
+Test accuracy: 0.963968
+Validation loss: 90130.658264
+Validation accuracy: 0.961039
+Test accuracy: 0.964260
+Validation loss: 89847.399719
+Validation accuracy: 0.960829
+Test accuracy: 0.963109
+Training loss: 606486.400726
+Training accuracy: 0.966582
+
+Epoch: 19
+Validation loss: 89389.105469
+Validation accuracy: 0.960787
+Test accuracy: 0.964413
+Validation loss: 90076.794006
+Validation accuracy: 0.962411
+Test accuracy: 0.965257
+Saved!
+Validation loss: 89496.680786
+Validation accuracy: 0.961389
+Test accuracy: 0.964920
+Validation loss: 90247.015747
+Validation accuracy: 0.962285
+Test accuracy: 0.963416
+Validation loss: 89690.173645
+Validation accuracy: 0.963013
+Test accuracy: 0.963846
+Saved!
+Training loss: 605212.787537
+Training accuracy: 0.967881
+
+Epoch: 20
+Validation loss: 89658.069397
+Validation accuracy: 0.962173
+Test accuracy: 0.964920
+Validation loss: 90037.301147
+Validation accuracy: 0.960702
+Test accuracy: 0.964229
+Validation loss: 89786.698730
+Validation accuracy: 0.961795
+Test accuracy: 0.965227
+Validation loss: 89990.841797
+Validation accuracy: 0.962943
+Test accuracy: 0.965825
+Validation loss: 89724.683289
+Validation accuracy: 0.962383
+Test accuracy: 0.965288
+Training loss: 605053.694885
+Training accuracy: 0.968351
+
+Epoch: 21
+Validation loss: 89324.415039
+Validation accuracy: 0.962565
+Test accuracy: 0.964628
+Validation loss: 90094.916931
+Validation accuracy: 0.962425
+Test accuracy: 0.965902
+Validation loss: 89921.471008
+Validation accuracy: 0.962313
+Test accuracy: 0.964521
+Validation loss: 89815.468750
+Validation accuracy: 0.963307
+Test accuracy: 0.965242
+Saved!
+Validation loss: 89391.153931
+Validation accuracy: 0.963405
+Test accuracy: 0.965595
+Saved!
+Training loss: 606923.323944
+Training accuracy: 0.968153
+
+Epoch: 22
+Validation loss: 89326.391418
+Validation accuracy: 0.962243
+Test accuracy: 0.965718
+Validation loss: 89443.546021
+Validation accuracy: 0.962579
+Test accuracy: 0.965457
+Validation loss: 90026.637573
+Validation accuracy: 0.962033
+Test accuracy: 0.965564
+Validation loss: 89140.262146
+Validation accuracy: 0.963335
+Test accuracy: 0.965825
+Validation loss: 89684.289795
+Validation accuracy: 0.963223
+Test accuracy: 0.966454
+Training loss: 604791.927734
+Training accuracy: 0.968909
+
+Epoch: 23
+Validation loss: 90030.567261
+Validation accuracy: 0.962999
+Test accuracy: 0.964060
+Validation loss: 89632.037903
+Validation accuracy: 0.963069
+Test accuracy: 0.966209
+Validation loss: 89265.375549
+Validation accuracy: 0.962271
+Test accuracy: 0.964874
+Validation loss: 89875.521667
+Validation accuracy: 0.962579
+Test accuracy: 0.965641
+Validation loss: 89603.493530
+Validation accuracy: 0.963643
+Test accuracy: 0.965841
+Saved!
+Training loss: 604755.112579
+Training accuracy: 0.969055
+
+Epoch: 24
+Validation loss: 89747.248413
+Validation accuracy: 0.963055
+Test accuracy: 0.965211
+Validation loss: 89782.274475
+Validation accuracy: 0.962873
+Test accuracy: 0.964782
+Validation loss: 90002.978882
+Validation accuracy: 0.963195
+Test accuracy: 0.965948
+Validation loss: 90131.628235
+Validation accuracy: 0.963209
+Test accuracy: 0.965472
+Validation loss: 89513.885681
+Validation accuracy: 0.962733
+Test accuracy: 0.965043
+Training loss: 604582.736115
+Training accuracy: 0.969158
+
+Epoch: 25
+Validation loss: 89481.673157
+Validation accuracy: 0.962327
+Test accuracy: 0.964705
+Validation loss: 89415.199646
+Validation accuracy: 0.963587
+Test accuracy: 0.965181
+Validation loss: 90506.543518
+Validation accuracy: 0.961865
+Test accuracy: 0.964383
+Validation loss: 89583.170044
+Validation accuracy: 0.962817
+Test accuracy: 0.966685
+Validation loss: 89564.252930
+Validation accuracy: 0.963615
+Test accuracy: 0.966393
+Training loss: 604982.587891
+Training accuracy: 0.969842
+
+Epoch: 26
+Validation loss: 89891.053894
+Validation accuracy: 0.963868
+Test accuracy: 0.966915
+Saved!
+Validation loss: 89681.550232
+Validation accuracy: 0.963363
+Test accuracy: 0.967222
+Validation loss: 89819.323730
+Validation accuracy: 0.963966
+Test accuracy: 0.966500
+Saved!
+Validation loss: 89433.212463
+Validation accuracy: 0.962691
+Test accuracy: 0.966240
+Validation loss: 89922.808044
+Validation accuracy: 0.962761
+Test accuracy: 0.965641
+Training loss: 605038.410126
+Training accuracy: 0.970353
+
+Epoch: 27
+Validation loss: 89609.884033
+Validation accuracy: 0.964876
+Test accuracy: 0.967038
+Saved!
+Validation loss: 89714.562134
+Validation accuracy: 0.963125
+Test accuracy: 0.965718
+Validation loss: 89940.974304
+Validation accuracy: 0.965002
+Test accuracy: 0.966470
+Saved!
+Validation loss: 89555.736694
+Validation accuracy: 0.964512
+Test accuracy: 0.967038
+Validation loss: 89622.041199
+Validation accuracy: 0.964904
+Test accuracy: 0.967191
+Training loss: 605050.314301
+Training accuracy: 0.969807
+
+Epoch: 28
+Validation loss: 89490.158325
+Validation accuracy: 0.963279
+Test accuracy: 0.966639
+Validation loss: 89520.960266
+Validation accuracy: 0.963643
+Test accuracy: 0.965518
+Validation loss: 89639.147583
+Validation accuracy: 0.964540
+Test accuracy: 0.966685
+Validation loss: 89080.396912
+Validation accuracy: 0.963559
+Test accuracy: 0.967590
+Validation loss: 89570.071045
+Validation accuracy: 0.964036
+Test accuracy: 0.967022
+Training loss: 605109.681519
+Training accuracy: 0.970085
+
+Epoch: 29
+Validation loss: 89639.050232
+Validation accuracy: 0.963111
+Test accuracy: 0.967912
+Validation loss: 89483.252258
+Validation accuracy: 0.963083
+Test accuracy: 0.966301
+Validation loss: 89494.697571
+Validation accuracy: 0.964274
+Test accuracy: 0.966731
+Validation loss: 89904.109619
+Validation accuracy: 0.964190
+Test accuracy: 0.967575
+Validation loss: 89964.178101
+Validation accuracy: 0.963055
+Test accuracy: 0.967099
+Training loss: 604672.388550
+Training accuracy: 0.970901
+
+Epoch: 30
+Validation loss: 89606.298218
+Validation accuracy: 0.965618
+Test accuracy: 0.967068
+Saved!
+Validation loss: 88999.770752
+Validation accuracy: 0.963489
+Test accuracy: 0.967099
+Validation loss: 89478.690369
+Validation accuracy: 0.963952
+Test accuracy: 0.967989
+Validation loss: 89753.264954
+Validation accuracy: 0.963728
+Test accuracy: 0.968081
+Validation loss: 89566.796692
+Validation accuracy: 0.965562
+Test accuracy: 0.967498
+Training loss: 604042.739380
+Training accuracy: 0.970425
+
+Epoch: 31
+Validation loss: 88706.816101
+Validation accuracy: 0.963531
+Test accuracy: 0.965733
+Validation loss: 89546.398071
+Validation accuracy: 0.963812
+Test accuracy: 0.967743
+Validation loss: 89550.764404
+Validation accuracy: 0.964372
+Test accuracy: 0.966853
+Validation loss: 89444.889343
+Validation accuracy: 0.964428
+Test accuracy: 0.967805
+Validation loss: 89260.730103
+Validation accuracy: 0.963475
+Test accuracy: 0.967958
+Training loss: 603219.850189
+Training accuracy: 0.971471
+
+Epoch: 32
+Validation loss: 89594.030273
+Validation accuracy: 0.963826
+Test accuracy: 0.968756
+Validation loss: 89554.726624
+Validation accuracy: 0.964708
+Test accuracy: 0.969032
+Validation loss: 89514.819519
+Validation accuracy: 0.964722
+Test accuracy: 0.968066
+Validation loss: 89027.501282
+Validation accuracy: 0.964792
+Test accuracy: 0.968434
+Validation loss: 89466.295898
+Validation accuracy: 0.964624
+Test accuracy: 0.968158
+Training loss: 603090.558777
+Training accuracy: 0.971121
+
+Epoch: 33
+Validation loss: 89459.617676
+Validation accuracy: 0.965786
+Test accuracy: 0.966945
+Saved!
+Validation loss: 89473.903137
+Validation accuracy: 0.964638
+Test accuracy: 0.968511
+Validation loss: 89259.602417
+Validation accuracy: 0.965464
+Test accuracy: 0.967068
+Validation loss: 89739.631836
+Validation accuracy: 0.965254
+Test accuracy: 0.968526
+Validation loss: 89582.992920
+Validation accuracy: 0.963812
+Test accuracy: 0.967866
+Training loss: 604328.244873
+Training accuracy: 0.971185
+
+Epoch: 34
+Validation loss: 89068.013672
+Validation accuracy: 0.965898
+Test accuracy: 0.966930
+Saved!
+Validation loss: 89524.371216
+Validation accuracy: 0.965884
+Test accuracy: 0.967252
+Validation loss: 89632.366028
+Validation accuracy: 0.965464
+Test accuracy: 0.969109
+Validation loss: 89760.761597
+Validation accuracy: 0.964960
+Test accuracy: 0.968526
+Validation loss: 88933.731934
+Validation accuracy: 0.964386
+Test accuracy: 0.969309
+Training loss: 603024.565186
+Training accuracy: 0.971531
+
+Epoch: 35
+Validation loss: 89213.616638
+Validation accuracy: 0.965828
+Test accuracy: 0.966761
+Validation loss: 89665.802673
+Validation accuracy: 0.963868
+Test accuracy: 0.966807
+Validation loss: 89945.029358
+Validation accuracy: 0.964568
+Test accuracy: 0.966792
+Validation loss: 89441.509277
+Validation accuracy: 0.964400
+Test accuracy: 0.968434
+Validation loss: 89662.770264
+Validation accuracy: 0.965114
+Test accuracy: 0.968388
+Training loss: 605687.045776
+Training accuracy: 0.971922
+
+Epoch: 36
+Validation loss: 89300.238892
+Validation accuracy: 0.966416
+Test accuracy: 0.968480
+Saved!
+Validation loss: 89501.165222
+Validation accuracy: 0.966304
+Test accuracy: 0.967559
+Validation loss: 89526.461182
+Validation accuracy: 0.964064
+Test accuracy: 0.969263
+Validation loss: 88723.489380
+Validation accuracy: 0.965660
+Test accuracy: 0.968971
+Validation loss: 89200.688721
+Validation accuracy: 0.965226
+Test accuracy: 0.969631
+Training loss: 602199.247894
+Training accuracy: 0.971689
+
+Epoch: 37
+Validation loss: 89216.511353
+Validation accuracy: 0.964792
+Test accuracy: 0.968557
+Validation loss: 89325.225891
+Validation accuracy: 0.966192
+Test accuracy: 0.969708
+Validation loss: 89227.641113
+Validation accuracy: 0.965688
+Test accuracy: 0.969032
+Validation loss: 89036.708313
+Validation accuracy: 0.964876
+Test accuracy: 0.969186
+Validation loss: 89330.401978
+Validation accuracy: 0.965436
+Test accuracy: 0.968112
+Training loss: 603679.032867
+Training accuracy: 0.971976
+
+Epoch: 38
+Validation loss: 89263.297729
+Validation accuracy: 0.964862
+Test accuracy: 0.968587
+Validation loss: 89555.573792
+Validation accuracy: 0.966500
+Test accuracy: 0.969431
+Saved!
+Validation loss: 89476.159180
+Validation accuracy: 0.965660
+Test accuracy: 0.968158
+Validation loss: 89377.586487
+Validation accuracy: 0.966206
+Test accuracy: 0.968986
+Validation loss: 89969.247620
+Validation accuracy: 0.966080
+Test accuracy: 0.968234
+Training loss: 603050.591919
+Training accuracy: 0.972305
+
+Epoch: 39
+Validation loss: 89309.791260
+Validation accuracy: 0.965660
+Test accuracy: 0.968219
+Validation loss: 89050.321533
+Validation accuracy: 0.965310
+Test accuracy: 0.967483
+Validation loss: 89357.653015
+Validation accuracy: 0.966402
+Test accuracy: 0.969646
+Validation loss: 89007.831116
+Validation accuracy: 0.965660
+Test accuracy: 0.968541
+Validation loss: 89323.859802
+Validation accuracy: 0.966416
+Test accuracy: 0.967835
+Training loss: 603133.003418
+Training accuracy: 0.972386
+
+Epoch: 40
+Validation loss: 89690.688049
+Validation accuracy: 0.965296
+Test accuracy: 0.968495
+Validation loss: 89131.885498
+Validation accuracy: 0.966108
+Test accuracy: 0.968035
+Validation loss: 89214.356567
+Validation accuracy: 0.966402
+Test accuracy: 0.968925
+Validation loss: 89177.926147
+Validation accuracy: 0.966010
+Test accuracy: 0.969293
+Validation loss: 89585.721130
+Validation accuracy: 0.966430
+Test accuracy: 0.970429
+Training loss: 600694.491760
+Training accuracy: 0.972353
+
+Epoch: 41
+Validation loss: 89092.574280
+Validation accuracy: 0.965758
+Test accuracy: 0.970291
+Validation loss: 89525.456848
+Validation accuracy: 0.965604
+Test accuracy: 0.969017
+Validation loss: 89251.175293
+Validation accuracy: 0.966528
+Test accuracy: 0.969800
+Saved!
+Validation loss: 88659.021240
+Validation accuracy: 0.964918
+Test accuracy: 0.969309
+Validation loss: 89382.552246
+Validation accuracy: 0.965828
+Test accuracy: 0.968649
+Training loss: 601504.759827
+Training accuracy: 0.972818
+
+Epoch: 42
+Validation loss: 89380.507080
+Validation accuracy: 0.966641
+Test accuracy: 0.969201
+Saved!
+Validation loss: 89746.377869
+Validation accuracy: 0.966066
+Test accuracy: 0.968664
+Validation loss: 89178.723633
+Validation accuracy: 0.965954
+Test accuracy: 0.969401
+Validation loss: 88884.632019
+Validation accuracy: 0.965688
+Test accuracy: 0.969462
+Validation loss: 89318.998474
+Validation accuracy: 0.965730
+Test accuracy: 0.970368
+Training loss: 601720.098755
+Training accuracy: 0.971642
+
+Epoch: 43
+Validation loss: 89449.653015
+Validation accuracy: 0.965380
+Test accuracy: 0.969846
+Validation loss: 89885.296326
+Validation accuracy: 0.965534
+Test accuracy: 0.969953
+Validation loss: 89597.675964
+Validation accuracy: 0.967075
+Test accuracy: 0.969784
+Saved!
+Validation loss: 89103.728882
+Validation accuracy: 0.967033
+Test accuracy: 0.969938
+Validation loss: 89346.814270
+Validation accuracy: 0.966374
+Test accuracy: 0.970720
+Training loss: 602796.798248
+Training accuracy: 0.972396
+
+Epoch: 44
+Validation loss: 89956.255798
+Validation accuracy: 0.966963
+Test accuracy: 0.970122
+Validation loss: 89628.907471
+Validation accuracy: 0.966697
+Test accuracy: 0.968327
+Validation loss: 89012.370972
+Validation accuracy: 0.966304
+Test accuracy: 0.969217
+Validation loss: 89909.058716
+Validation accuracy: 0.965940
+Test accuracy: 0.969784
+Validation loss: 89461.687378
+Validation accuracy: 0.966262
+Test accuracy: 0.969293
+Training loss: 602445.736389
+Training accuracy: 0.972727
+
+Epoch: 45
+Validation loss: 89656.551331
+Validation accuracy: 0.966276
+Test accuracy: 0.970383
+Validation loss: 88541.549438
+Validation accuracy: 0.966458
+Test accuracy: 0.969524
+Validation loss: 89227.993652
+Validation accuracy: 0.966977
+Test accuracy: 0.969616
+Validation loss: 89323.586548
+Validation accuracy: 0.967355
+Test accuracy: 0.970045
+Saved!
+Validation loss: 89466.203613
+Validation accuracy: 0.966795
+Test accuracy: 0.970214
+Training loss: 602753.000244
+Training accuracy: 0.973329
+
+Epoch: 46
+Validation loss: 89702.182739
+Validation accuracy: 0.966753
+Test accuracy: 0.968633
+Validation loss: 89092.994751
+Validation accuracy: 0.967089
+Test accuracy: 0.970291
+Validation loss: 89258.986145
+Validation accuracy: 0.967635
+Test accuracy: 0.969339
+Saved!
+Validation loss: 89715.550720
+Validation accuracy: 0.966865
+Test accuracy: 0.969355
+Validation loss: 89308.223511
+Validation accuracy: 0.967285
+Test accuracy: 0.969232
+Training loss: 603006.414032
+Training accuracy: 0.973829
+
+Epoch: 47
+Validation loss: 89834.650757
+Validation accuracy: 0.967999
+Test accuracy: 0.970813
+Saved!
+Validation loss: 89189.445129
+Validation accuracy: 0.967383
+Test accuracy: 0.969738
+Validation loss: 88841.042969
+Validation accuracy: 0.966486
+Test accuracy: 0.969677
+Validation loss: 89261.830322
+Validation accuracy: 0.967159
+Test accuracy: 0.969324
+Validation loss: 89550.446289
+Validation accuracy: 0.965870
+Test accuracy: 0.970168
+Training loss: 601812.454285
+Training accuracy: 0.973378
+
+Epoch: 48
+Validation loss: 88802.279724
+Validation accuracy: 0.967985
+Test accuracy: 0.969048
+Validation loss: 89454.966980
+Validation accuracy: 0.966024
+Test accuracy: 0.969217
+Validation loss: 89279.577881
+Validation accuracy: 0.966865
+Test accuracy: 0.969876
+Validation loss: 88722.170471
+Validation accuracy: 0.966851
+Test accuracy: 0.970199
+Validation loss: 89611.506470
+Validation accuracy: 0.967229
+Test accuracy: 0.970229
+Training loss: 601543.721313
+Training accuracy: 0.973533
+
+Epoch: 49
+Validation loss: 89269.084412
+Validation accuracy: 0.966627
+Test accuracy: 0.970598
+Validation loss: 89876.406494
+Validation accuracy: 0.967495
+Test accuracy: 0.971304
+Validation loss: 89324.290466
+Validation accuracy: 0.967257
+Test accuracy: 0.969861
+Validation loss: 89282.980774
+Validation accuracy: 0.966991
+Test accuracy: 0.970736
+Validation loss: 89315.496521
+Validation accuracy: 0.966725
+Test accuracy: 0.969999
+Training loss: 602880.875061
+Training accuracy: 0.973545
+
+Epoch: 50
+Validation loss: 88674.793213
+Validation accuracy: 0.967677
+Test accuracy: 0.970030
+Validation loss: 89290.609924
+Validation accuracy: 0.967747
+Test accuracy: 0.969754
+Validation loss: 89075.777466
+Validation accuracy: 0.967705
+Test accuracy: 0.970214
+Validation loss: 88909.363464
+Validation accuracy: 0.967691
+Test accuracy: 0.970552
+Validation loss: 89061.048584
+Validation accuracy: 0.967985
+Test accuracy: 0.970720
+Training loss: 601439.153625
